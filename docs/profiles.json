@@ -27,7 +27,8 @@
       "visuals": {
         "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
         "button_color": "#4CAF50"
-      },
+      }
+    },
     {
       "id": "test_2",
       "name": "TEST2",
@@ -35,7 +36,8 @@
       "visuals": {
         "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
         "button_color": "#4CAF50"
-      },
+      }
+    },
     {
       "id": "test_3",
       "name": "TEST3",
