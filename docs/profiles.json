@@ -5,7 +5,7 @@
     {
       "id": "vanilla",
       "name": "Vanilla",
-      "version": "1.21.11",
+      "version": "1.21.1",
       "visuals": {
         "background": "https://assets.badlion.net/blog/minecraft-backgrounds/minecraft-vanilla.webp",
         "button_color": "#4CAF50"
@@ -13,20 +13,42 @@
     },
     {
       "id": "Tecnico",
-      "name": "Tecnico",
+      "name": "Tecnico (Fabric)",
       "version": "1.21.11",
       "visuals": {
         "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
         "button_color": "#4CAF50"
-      }
+      },
+      "mods": [
+        {
+          "name": "fabric-api-0.140.0+1.21.11",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5oK85X7C/fabric-api-0.140.0%2B1.21.11.jar",
+          "sha1": "2D5E292F9673D588706E2C79CC4E3E75B21F35D1"
+        },
+        {
+          "name": "modmenu-17.0.0-alpha.1.jar",
+          "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/fP9olSIC/modmenu-17.0.0-alpha.1.jar",
+          "sha1": "B8582A34B433AED24478C9BB43156B66340D0F1F"
+        },
+        {
+          "name": "placeholder-api-2.8.1+1.21.10.jar",
+          "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/T5pDJV1K/placeholder-api-2.8.1%2B1.21.10.jar",
+          "sha1": "4950367323147265B272AD2156BF1A343DB3F64C"
+        },
+        {
+          "name": "sodium-fabric-0.8.1+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2IxKzI1o/sodium-fabric-0.8.1%2Bmc1.21.11.jar",
+          "sha1": "BC3718523F0A94D0043B0CB83B4D240EF82E2871"
+        }
+      ]
     },
     {
       "id": "PvP",
-      "name": "PvP",
+      "name": "PvP Legacy",
       "version": "1.8.9",
       "visuals": {
         "background": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/255873420/original/86deaea6d0459f21bb33f4707f110c9389e45e5a/build-an-iron-farm-in-minecraft.png",
-        "button_color": "#4CAF50"
+        "button_color": "#D32F2F"
       }
     },
     {
