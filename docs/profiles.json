@@ -12,6 +12,15 @@
       }
     },
     {
+      "id": "vanilla_opt",
+      "name": "Vanilla Optimizado",
+      "version": "1.21.11",
+      "visuals": {
+        "background": "https://media.forgecdn.net/attachments/697/95/mc-vanilla-2.png",
+        "button_color": "#000000"
+      }
+    },
+    {
       "id": "Tecnico",
       "name": "Tecnico (Fabric)",
       "version": "1.21.11",
@@ -51,15 +60,7 @@
         "button_color": "#D32F2F"
       }
     },
-    {
-      "id": "test_2",
-      "name": "TEST2",
-      "version": "1.21.1",
-      "visuals": {
-        "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
-        "button_color": "#000000"
-      }
-    },
+  
     {
       "id": "test_3",
       "name": "TEST3",
