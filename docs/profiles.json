@@ -62,6 +62,7 @@
       "version": "1.8.9",
       "loader": "forge", 
       "loader_version": "11.15.1.2318",
+      "java_bin": "C:\\Program Files\\Eclipse Adoptium\\jdk-8.0.432.6-hotspot\\bin\\javaw.exe",
       "visuals": {
         "background": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/255873420/original/86deaea6d0459f21bb33f4707f110c9389e45e5a/build-an-iron-farm-in-minecraft.png",
         "button_color": "#D32F2F"
