@@ -6,6 +6,7 @@
       "id": "vanilla",
       "name": "Vanilla",
       "version": "1.21.11",
+      "loader": "vanilla", 
       "visuals": {
         "background": "https://assets.badlion.net/blog/minecraft-backgrounds/minecraft-vanilla.webp",
         "button_color": "#4CAF50"
@@ -15,6 +16,7 @@
       "id": "vanilla_opt",
       "name": "Vanilla Optimizado",
       "version": "1.21.11",
+      "loader": "fabric", 
       "visuals": {
         "background": "https://media.forgecdn.net/attachments/697/95/mc-vanilla-2.png",
         "button_color": "#000000"
@@ -24,6 +26,7 @@
       "id": "Tecnico",
       "name": "Tecnico (Fabric)",
       "version": "1.21.11",
+      "loader": "fabric", 
       "visuals": {
         "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
         "button_color": "#4CAF50"
@@ -55,6 +58,7 @@
       "id": "PvP",
       "name": "PvP Legacy",
       "version": "1.8.9",
+      "loader": "forge", 
       "visuals": {
         "background": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/255873420/original/86deaea6d0459f21bb33f4707f110c9389e45e5a/build-an-iron-farm-in-minecraft.png",
         "button_color": "#D32F2F"
@@ -65,6 +69,7 @@
       "id": "test_3",
       "name": "TEST3",
       "version": "1.21.4",
+      "loader": "vanilla", 
       "visuals": {
         "background": "https://external-preview.redd.it/78RY0XJPZBdEIGhoEeNNt0wLdHJFP1MoYsUcpCBQlF0.jpg?width=1080&crop=smart&auto=webp&s=7927bb5afa8e4f9c02c389ed30427611e40ce848",
         "button_color": "#000000"
