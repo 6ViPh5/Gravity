@@ -55,18 +55,6 @@
           "sha1": "BC3718523F0A94D0043B0CB83B4D240EF82E2871"
         }
       ]
-    },
-    {
-      "id": "dragons",
-      "name": "Dragons xd",
-      "version": "1.12.2",
-      "loader": "forge", 
-      "loader_version": "14.23.5.2859",
-      "java_version": 8,
-      "visuals": {
-        "background": "https://images6.alphacoders.com/108/thumb-1920-1082090.jpg",
-        "button_color": "#D32F2F"
-      }
     }
   ]
 }
