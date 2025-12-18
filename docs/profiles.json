@@ -24,7 +24,7 @@
     },
     {
       "id": "Tecnico",
-      "name": "Tecnico (Fabric)",
+      "name": "Tecnico",
       "version": "1.21.11",
       "loader": "fabric", 
       "visuals": {
