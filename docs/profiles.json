@@ -1,6 +1,6 @@
 {
   "serverIp": "diosesmc.net",
-  "maintenance": false,
+  "maintenance_mode": false,
   "news_url": "https://minecraft.net",
   "profiles": [
     {
