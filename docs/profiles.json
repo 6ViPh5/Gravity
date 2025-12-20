@@ -56,6 +56,11 @@
                     "sha1": "B49F7DC35D8281277484A612837486D79275A510"
                 },
                 {
+                    "name": "carpet-tis-addition-v1.72.2-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/jE0SjGuf/versions/OmnbaWOK/carpet-tis-addition-v1.72.2-mc1.21.11.jar",
+                    "sha1": "AA17E2F6D2CD096AEC4A88204ED776E2C57E035D"
+                },
+                {
                     "name": "Chunky-Fabric-1.4.54.jar",
                     "url": "https://cdn.modrinth.com/data/fALzjamp/versions/bk9YUabA/Chunky-Fabric-1.4.54.jar",
                     "sha1": "425BB155280D43304180467B5D4F7CE454263CCC"
@@ -86,6 +91,16 @@
                     "sha1": "2D5E292F9673D588706E2C79CC4E3E75B21F35D1"
                 },
                 {
+                    "name": "fabric-carpet-1.21.11-1.4.193+v251211.jar",
+                    "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/JV4Dlp7j/fabric-carpet-1.21.11-1.4.193%2Bv251211.jar",
+                    "sha1": "21AFEB5208AF61D1556C48CC0F88C72AB77BC8AA"
+                },
+                {
+                    "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/N6D3uiZF/fabric-language-kotlin-1.13.8%2Bkotlin.2.3.0.jar",
+                    "sha1": "05FE02FE61232C4DDEA4059E8103281424D5A2BD"
+                },
+                {
                     "name": "fadeless-2.0.7-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/rDv0F5eE/fadeless-2.0.7-1.21.11.jar",
                     "sha1": "C915116CE5B347C9F6D6EA31BD0552367ED407CE"
@@ -106,9 +121,24 @@
                     "sha1": "83788E469485860D7A52149E3579E02599876437"
                 },
                 {
+                    "name": "litematica-fabric-1.21.11-0.25.2.jar",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/t3Y7y9LV/litematica-fabric-1.21.11-0.25.2.jar",
+                    "sha1": "60D498C24BB9EC4C57A95BA4BBA0AA0BF70B31DF"
+                },
+                {
                     "name": "lithium-fabric-0.21.1+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/4DdLmtyz/lithium-fabric-0.21.1%2Bmc1.21.11.jar",
                     "sha1": "21E19758C0BA258C2A384EC1B77CAA415FC482B0"
+                },
+                {
+                    "name": "malilib-fabric-1.21.11-0.27.2.jar",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/zghuOVRx/malilib-fabric-1.21.11-0.27.2.jar",
+                    "sha1": "84956EB8B90C9ED5065AEAAAA7DE5E95DAF0ACDB"
+                },
+                {
+                    "name": "minihud-fabric-1.21.11-0.38.1.jar",
+                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/9Cxw3tvh/minihud-fabric-1.21.11-0.38.1.jar",
+                    "sha1": "32097ED340012DDC421915D661948EF979A8BC92"
                 },
                 {
                     "name": "modernfix-fabric-latest.jar",
@@ -154,6 +184,16 @@
                     "name": "spark-1.10.156-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1CB3cS0m/spark-1.10.156-fabric.jar",
                     "sha1": "7CD8909634AB02CA352969A2EA337F1F7641CC1C"
+                },
+                {
+                    "name": "tweakeroo-fabric-1.21.11-0.27.1.jar",
+                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/Vb40qkJE/tweakeroo-fabric-1.21.11-0.27.1.jar",
+                    "sha1": "9BF739AF6DEF30CC3CEB2EBE3246BE5989BC590E"
+                },
+                {
+                    "name": "worldedit-mod-7.3.18-beta-01.jar",
+                    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZmRjhuVs/worldedit-mod-7.3.18-beta-01.jar",
+                    "sha1": "95B1BE92AE2BCF8328EC39E2D07542431861E5AF"
                 }
             ]
         }
