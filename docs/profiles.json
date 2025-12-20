@@ -167,7 +167,7 @@
             }
         },
         {
-            "id": "Tecnico",
+            "id": "tecnico",
             "name": "Tecnico",
             "version": "1.21.11",
             "loader": "fabric",
