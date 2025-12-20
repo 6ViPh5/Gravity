@@ -212,6 +212,11 @@
                     "sha1": "249EC375410E0BE9B708DA09AAA5CD60AD92AFF3"
                 },
                 {
+                    "name": "coolrain-1.3.1-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/iDZ18ExC/coolrain-1.3.1-1.21.11.jar",
+                    "sha1": "C109F49A7E8AE1AA8B40A0CF0477E3D736CFAE0E"
+                },
+                {
                     "name": "entity_model_features_1.21.11-fabric-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mKzyfrp8/entity_model_features_1.21.11-fabric-3.0.8.jar",
                     "sha1": "FB299A46BC639595C47C30812F317A8DB4B5B9A0"
@@ -245,6 +250,11 @@
                     "name": "ferritecore-8.0.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/eRLwt73x/ferritecore-8.0.3-fabric.jar",
                     "sha1": "0D2B112DF25059211AE84F102254DC552367D72E"
+                },
+                {
+                    "name": "fzzy_config-0.7.4-fix1+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/knhYQk5k/fzzy_config-0.7.4-fix1%2B1.21.11.jar",
+                    "sha1": "104B281801EC2EBC41A20FA811FBEC3CB0713F46"
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.1+1.21.11.jar",
@@ -325,6 +335,11 @@
                     "name": "spark-1.10.156-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/1CB3cS0m/spark-1.10.156-fabric.jar",
                     "sha1": "7CD8909634AB02CA352969A2EA337F1F7641CC1C"
+                },
+                {
+                    "name": "SubtleEffects-fabric-1.21.11-1.13.2.jar",
+                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/g71tZwIq/SubtleEffects-fabric-1.21.11-1.13.2.jar",
+                    "sha1": "0934A7431B2CDCCA527AEB1E1C1FE07F7AAAA62E"
                 },
                 {
                     "name": "visuality-0.7.12+1.21.11.jar",
