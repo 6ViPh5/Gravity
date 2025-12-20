@@ -5,7 +5,7 @@
     "profiles": [
         {
             "id": "vanilla",
-            "name": "Vanillaa",
+            "name": "Vanilla",
             "version": "1.21.11",
             "loader": "vanilla",
             "visuals": {
@@ -167,6 +167,7 @@
             "name": "Visuals",
             "version": "1.21.11",
             "loader": "fabric",
+            "loader_version": "0.18.3",
             "visuals": {
                 "background": "https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
                 "button_color": "#4CAF50"
