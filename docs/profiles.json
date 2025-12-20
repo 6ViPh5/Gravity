@@ -7,7 +7,7 @@
             "id": "vanilla",
             "name": "Vanilla",
             "version": "1.21.11",
-            "loader": "vanilla",
+            "loader": "fabric",
             "visuals": {
                 "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg",
                 "button_color": "#4CAF50"
