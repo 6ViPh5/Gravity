@@ -21,7 +21,7 @@
             "loader_version": "0.18.3",
             "visuals": {
                 "background": "https://wallpapers.com/images/hd/4k-minecraft-jungle-vwl15p6pyiljm6aa.jpg",
-                "button_color": "#000000"
+                "button_color": "#4CAF50"
             },
             "mods": [
                 {
