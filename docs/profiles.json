@@ -391,7 +391,7 @@
             "loader": "fabric",
             "loader_version": "0.18.3",
             "visuals": {
-                "background": "https://i.imgur.com/gX2TYbe.png",
+                "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/577/17492028_xl.webp",
                 "button_color": "#4CAF50"
             },
             "mods": []
