@@ -9,7 +9,7 @@
             "version": "1.21.11",
             "loader": "vanilla",
             "visuals": {
-                "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg",
+                "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png",
                 "button_color": "#4CAF50"
             }
         },
@@ -20,7 +20,7 @@
             "loader": "fabric",
             "loader_version": "0.18.3",
             "visuals": {
-                "background": "https://wallpapers.com/images/hd/4k-minecraft-jungle-vwl15p6pyiljm6aa.jpg",
+                "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg",
                 "button_color": "#4CAF50"
             },
             "mods": [
