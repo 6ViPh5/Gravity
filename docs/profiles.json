@@ -395,6 +395,18 @@
                 "button_color": "#4CAF50"
             },
             "mods": []
+        },
+        {
+            "id": "allin",
+            "name": "Todo en Uno",
+            "version": "1.21.11",
+            "loader": "fabric",
+            "loader_version": "0.18.3",
+            "visuals": {
+                "background": "https://i.imgur.com/gX2TYbe.png",
+                "button_color": "#4CAF50"
+            },
+            "mods": []
         }
     ]
 }
