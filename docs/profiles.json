@@ -67,7 +67,7 @@
         },
         {
             "id": "ese",
-            "name": "🔷 Essentials",
+            "name": "🔷 Essentials + Optimización",
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.18.3",
