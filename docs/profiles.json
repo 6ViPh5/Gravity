@@ -461,6 +461,11 @@
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
+                },
+                {
+                    "name": "skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
+                    "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
                 }
             ]
         },
@@ -982,6 +987,11 @@
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
+                },
+                {
+                    "name": "skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
+                    "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
                 }
             ]
         },
