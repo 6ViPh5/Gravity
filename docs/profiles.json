@@ -193,11 +193,6 @@
             },
             "mods": [
                 {
-                    "name": "AmbientSounds_FABRIC_v6.3.1_mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/itzLVbWH/AmbientSounds_FABRIC_v6.3.1_mc1.21.11.jar",
-                    "sha1": "CDC324AD2E80E8311C31212DD61C2CD64518359D"
-                },
-                {
                     "name": "BadOptimizations-2.4.1-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
                     "sha1": "70FA28D5A7A1FDD61DD804CA6AC411750DA1473F"
@@ -683,11 +678,6 @@
                 "button_color": "#4CAF50"
             },
             "mods": [
-                {
-                    "name": "AmbientSounds_FABRIC_v6.3.1_mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/itzLVbWH/AmbientSounds_FABRIC_v6.3.1_mc1.21.11.jar",
-                    "sha1": "CDC324AD2E80E8311C31212DD61C2CD64518359D"
-                },
                 {
                     "name": "BadOptimizations-2.4.1-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
