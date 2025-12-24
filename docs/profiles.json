@@ -982,7 +982,9 @@
                     "name": "skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
                     "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
-                },
+                }
+            ]
+        },
         {
             "id": "EJEMPLO",
             "name": "EJEMPLOJOSUE",
