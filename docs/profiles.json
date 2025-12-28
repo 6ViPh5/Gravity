@@ -5,6 +5,7 @@
             "name": "Vanilla",
             "version": "1.21.11",
             "loader": "vanilla",
+            "req_user_type": null,
             "visuals": {
                 "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png",
                 "button_color": "#4CAF50"
@@ -16,6 +17,7 @@
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.18.3",
+            "req_user_type": null,
             "visuals": {
                 "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg",
                 "button_color": "#4CAF50"
@@ -184,6 +186,7 @@
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.18.3",
+            "req_user_type": null,
             "visuals": {
                 "background": "https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
                 "button_color": "#4CAF50"
@@ -467,6 +470,7 @@
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.18.3",
+            "req_user_type": null,
             "visuals": {
                 "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/577/17492028_xl.webp",
                 "button_color": "#4CAF50"
@@ -670,6 +674,7 @@
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.18.3",
+            "req_user_type": null,
             "visuals": {
                 "background": "https://i.imgur.com/gX2TYbe.png",
                 "button_color": "#4CAF50"
@@ -982,5 +987,25 @@
                 }
             ]
         }
-    ]
+    ],
+  "optional_mods": [
+    {
+      "target_profile_id": "tec",
+      "name": "Essentials",
+      "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZmRjhuVs/worldedit-mod-7.3.18-beta-01.jar",
+      "sha1": "95B1BE92AE2BCF8328EC39E2D07542431861E5AF"
+    },
+    {
+      "target_profile_id": "vis",
+      "name": "3D Skin Layers",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
+      "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
+    },
+    {
+      "target_profile_id": "opt",
+      "name": "Wavey Capes",
+      "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dFHujZZb/waveycapes-fabric-1.8.1-mc1.21.11.jar",
+      "sha1": "54E3FEB01B35E8E77E7859E18305116747632E85"
+    }
+  ]
 }
