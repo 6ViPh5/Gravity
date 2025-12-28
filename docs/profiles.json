@@ -992,18 +992,21 @@
     {
       "target_profile_id": "tec",
       "name": "Essentials",
+      "display_name":"Essentials1",
       "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZmRjhuVs/worldedit-mod-7.3.18-beta-01.jar",
       "sha1": "95B1BE92AE2BCF8328EC39E2D07542431861E5AF"
     },
     {
       "target_profile_id": "vis",
       "name": "3D Skin Layers",
+      "display_name":"Essentials2",
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
       "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
     },
     {
       "target_profile_id": "opt",
       "name": "Wavey Capes",
+      "display_name":"Essentials3",
       "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dFHujZZb/waveycapes-fabric-1.8.1-mc1.21.11.jar",
       "sha1": "54E3FEB01B35E8E77E7859E18305116747632E85"
     }
