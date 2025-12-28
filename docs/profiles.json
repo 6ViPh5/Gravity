@@ -998,21 +998,21 @@
     },
     {
       "target_profile_id": "vis",
-      "name": "3D Skin Layers",
+      "name": "3D Skin Layers1",
       "display_name":"Essentials2",
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
       "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
     },
     {
       "target_profile_id": "vis",
-      "name": "3D Skin Layers",
+      "name": "3D Skin Layers2",
       "display_name":"Essentials5",
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
       "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
     },
     {
       "target_profile_id": "vis",
-      "name": "3D Skin Layers",
+      "name": "3D Skin",
       "display_name":"Essentials6",
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/xm69SB7D/skinlayers3d-fabric-1.10.1-mc1.21.11.jar",
       "sha1": "00420FD22AF05FC8DEC38937F6EFCFE25717A5F0"
