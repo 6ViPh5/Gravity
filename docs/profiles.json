@@ -1105,7 +1105,7 @@
             "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
             "display_name": "E4MC",
             "req_user_type": "offline",
-            "target_profile_id": "opt"
+            "target_profiles": ["ALL"]
         },
         {
             "name": "Essential_1-3-10-4_fabric_1-21-11.jar",
@@ -1113,7 +1113,7 @@
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/A3GJ9ZTj/Essential_1-3-10-4_fabric_1-21-11.jar",
             "display_name": "Essential",
             "req_user_type": "microsoft",
-            "target_profile_id": "opt"
+            "target_profiles": ["ALL"]
         },
         {
             "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
@@ -1121,79 +1121,7 @@
             "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
             "display_name": "JourneyMap",
             "req_user_type": null,
-            "target_profile_id": "opt"
-        },
-        {
-            "name": "e4mc_minecraft-fabric-5.5.4.jar",
-            "sha1": "2092C81A004A6F86C61EFA4075AF7CAE9B7BF648",
-            "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
-            "display_name": "E4MC",
-            "req_user_type": "offline",
-            "target_profile_id": "tec"
-        },
-        {
-            "name": "Essential_1-3-10-4_fabric_1-21-11.jar",
-            "sha1": "116A4203EC4BB4406AC6843AAB57EEE0286D1D3D",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/A3GJ9ZTj/Essential_1-3-10-4_fabric_1-21-11.jar",
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "target_profile_id": "tec"
-        },
-        {
-            "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "display_name": "JourneyMap",
-            "req_user_type": null,
-            "target_profile_id": "tec"
-        },
-        {
-            "name": "e4mc_minecraft-fabric-5.5.4.jar",
-            "sha1": "2092C81A004A6F86C61EFA4075AF7CAE9B7BF648",
-            "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
-            "display_name": "E4MC",
-            "req_user_type": "offline",
-            "target_profile_id": "ten"
-        },
-        {
-            "name": "Essential_1-3-10-4_fabric_1-21-11.jar",
-            "sha1": "116A4203EC4BB4406AC6843AAB57EEE0286D1D3D",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/A3GJ9ZTj/Essential_1-3-10-4_fabric_1-21-11.jar",
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "target_profile_id": "ten"
-        },
-        {
-            "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "display_name": "JourneyMap",
-            "req_user_type": null,
-            "target_profile_id": "ten"
-        },
-        {
-            "name": "e4mc_minecraft-fabric-5.5.4.jar",
-            "sha1": "2092C81A004A6F86C61EFA4075AF7CAE9B7BF648",
-            "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
-            "display_name": "E4MC",
-            "req_user_type": "offline",
-            "target_profile_id": "vis"
-        },
-        {
-            "name": "Essential_1-3-10-4_fabric_1-21-11.jar",
-            "sha1": "116A4203EC4BB4406AC6843AAB57EEE0286D1D3D",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/A3GJ9ZTj/Essential_1-3-10-4_fabric_1-21-11.jar",
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "target_profile_id": "vis"
-        },
-        {
-            "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-            "display_name": "JourneyMap",
-            "req_user_type": null,
-            "target_profile_id": "vis"
+            "target_profiles": ["ALL"]
         }
     ]
 }
