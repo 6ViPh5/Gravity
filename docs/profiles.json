@@ -513,6 +513,11 @@
                     "name": "modernfix-fabric-5.20.8.jar",
                     "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+                },
+                {
+                    "name": "particlerain-4.0.0-beta.5+1.21.11-fabric.jar",
+                    "sha1": "57D6CFF748F4BA33FE75A0EA234117B2B586C94E",
+                    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar"
                 }
             ]
         },
@@ -1089,6 +1094,11 @@
                     "name": "modernfix-fabric-5.20.8.jar",
                     "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+                },
+                {
+                    "name": "particlerain-4.0.0-beta.5+1.21.11-fabric.jar",
+                    "sha1": "57D6CFF748F4BA33FE75A0EA234117B2B586C94E",
+                    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar"
                 }
             ]
         }
