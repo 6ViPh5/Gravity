@@ -7,8 +7,7 @@
             "loader": "vanilla",
             "req_user_type": null,
             "visuals": {
-                "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png",
-                "button_color": "#4CAF50"
+                "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png"
             }
         },
         {
@@ -19,8 +18,7 @@
             "loader_version": "0.18.3",
             "req_user_type": null,
             "visuals": {
-                "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg",
-                "button_color": "#4CAF50"
+                "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg"
             },
             "mods": [
                 {
@@ -179,11 +177,6 @@
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
                 },
                 {
-                    "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-                    "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar"
-                },
-                {
                     "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
                     "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
@@ -198,8 +191,7 @@
             "loader_version": "0.18.3",
             "req_user_type": null,
             "visuals": {
-                "background": "https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
-                "button_color": "#4CAF50"
+                "background": "https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
             },
             "mods": [
                 {
@@ -493,11 +485,6 @@
                     "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
                 },
                 {
-                    "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-                    "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar"
-                },
-                {
                     "name": "notenoughanimations-fabric-1.11.1-mc1.21.11.jar",
                     "sha1": "73061A2F9019652D80CB25CE31071E42B7AC2F35",
                     "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/Dp0dn63B/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
@@ -516,6 +503,11 @@
                     "name": "smoothscroll-2.6.2.jar",
                     "sha1": "E9DED9E5A03938F2E0A0F94A2E1D25882EF03AB0",
                     "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
+                },
+                {
+                    "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+                    "sha1": "F04C90B17094AAA849B147A42D4DF9AA82D54ACE",
+                    "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
                 }
             ]
         },
@@ -527,8 +519,7 @@
             "loader_version": "0.18.3",
             "req_user_type": null,
             "visuals": {
-                "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/577/17492028_xl.webp",
-                "button_color": "#4CAF50"
+                "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/577/17492028_xl.webp"
             },
             "mods": [
                 {
@@ -720,11 +711,6 @@
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
-                },
-                {
-                    "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-                    "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar"
                 },
                 {
                     "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
@@ -741,8 +727,7 @@
             "loader_version": "0.18.3",
             "req_user_type": null,
             "visuals": {
-                "background": "https://i.imgur.com/gX2TYbe.png",
-                "button_color": "#4CAF50"
+                "background": "https://i.imgur.com/gX2TYbe.png"
             },
             "mods": [
                 {
@@ -1071,11 +1056,6 @@
                     "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
                 },
                 {
-                    "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
-                    "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
-                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar"
-                },
-                {
                     "name": "notenoughanimations-fabric-1.11.1-mc1.21.11.jar",
                     "sha1": "73061A2F9019652D80CB25CE31071E42B7AC2F35",
                     "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/Dp0dn63B/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
@@ -1094,6 +1074,11 @@
                     "name": "smoothscroll-2.6.2.jar",
                     "sha1": "E9DED9E5A03938F2E0A0F94A2E1D25882EF03AB0",
                     "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
+                },
+                {
+                    "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
+                    "sha1": "F04C90B17094AAA849B147A42D4DF9AA82D54ACE",
+                    "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
                 }
             ]
         }
@@ -1105,7 +1090,10 @@
             "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
             "display_name": "E4MC",
             "req_user_type": "offline",
-            "target_profiles": ["ALL"]
+            "target_profiles": [
+                "ALL"
+            ],
+            "dependencies": []
         },
         {
             "name": "Essential_1-3-10-4_fabric_1-21-11.jar",
@@ -1113,7 +1101,10 @@
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/A3GJ9ZTj/Essential_1-3-10-4_fabric_1-21-11.jar",
             "display_name": "Essential",
             "req_user_type": "microsoft",
-            "target_profiles": ["ALL"]
+            "target_profiles": [
+                "ALL"
+            ],
+            "dependencies": []
         },
         {
             "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
@@ -1121,7 +1112,32 @@
             "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
             "display_name": "JourneyMap",
             "req_user_type": null,
-            "target_profiles": ["ALL"]
+            "target_profiles": [
+                "ALL"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "plasmovoice-fabric-1.21.11-2.1.8.jar",
+            "sha1": "DBE65258E81955B3F45263F7A28ABA6CFB2D5E89",
+            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/4gN2P9j6/plasmovoice-fabric-1.21.11-2.1.8.jar",
+            "display_name": "Plasmovoice-Fabric",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "pv-addon-soundphysics-1.1.2.jar",
+                    "url": "https://cdn.modrinth.com/data/K1y8brkJ/versions/kmyhU2jp/pv-addon-soundphysics-1.1.2.jar",
+                    "sha1": "0AE889CC772B52446A4DB96254DB2E73F3688BB3",
+                    "target_profiles": [
+                        "vis",
+                        "ten"
+                    ],
+                    "req_user_type": null
+                }
+            ],
+            "target_profiles": [
+                "ALL"
+            ]
         }
     ]
 }
