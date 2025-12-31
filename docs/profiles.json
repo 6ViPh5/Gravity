@@ -1141,7 +1141,7 @@
             "name": "plasmovoice-fabric-1.21.11-2.1.8.jar",
             "sha1": "DBE65258E81955B3F45263F7A28ABA6CFB2D5E89",
             "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/4gN2P9j6/plasmovoice-fabric-1.21.11-2.1.8.jar",
-            "display_name": "Plasmovoice-Fabric",
+            "display_name": "PlasmoVoice",
             "req_user_type": null,
             "dependencies": [
                 {
