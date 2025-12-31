@@ -57,9 +57,9 @@
                     "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/4N7tPBpk/controlify-2.5.0%2B1.21.11-fabric.jar"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "sha1": "FB299A46BC639595C47C30812F317A8DB4B5B9A0",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mKzyfrp8/entity_model_features_1.21.11-fabric-3.0.8.jar"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -67,9 +67,9 @@
                     "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/q8oFU6IP/entity_texture_features_1.21.11-fabric-7.0.8.jar"
                 },
                 {
-                    "name": "entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "sha1": "B23EC118BAF57787C5A1F4937FD0B3A599A03680",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar"
+                    "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar"
                 },
                 {
                     "name": "fabric-api-0.140.2+1.21.11.jar",
@@ -112,19 +112,14 @@
                     "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/gl30uZvp/lithium-fabric-0.21.2%2Bmc1.21.11.jar"
                 },
                 {
-                    "name": "modernfix-fabric-latest.jar",
-                    "sha1": "35B5364564CD06BD430B89FFFCF78B70724F16E5",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/qkw8nBDe/modernfix-fabric-latest.jar"
-                },
-                {
                     "name": "modmenu-17.0.0-beta.1.jar",
                     "sha1": "A409614AF507EC8B31185D00D45CEE1682097FE1",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar"
                 },
                 {
-                    "name": "moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "sha1": "E968BD79BB85C2B658869A2738E033676207438F",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/Ju23l9rz/moreculling-fabric-1.21.11-1.6.0-beta.2.jar"
+                    "name": "moreculling-fabric-1.21.11-1.6.1.jar",
+                    "sha1": "CAAAF33E625903028B4F6F842DF50C6C01BA059B",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar"
                 },
                 {
                     "name": "netherportalfix-fabric-1.21.11-21.11.2.jar",
@@ -180,6 +175,11 @@
                     "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
                     "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                },
+                {
+                    "name": "modernfix-fabric-5.20.8.jar",
+                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
                 }
             ]
         },
@@ -260,9 +260,9 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mKzyfrp8/entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "sha1": "FB299A46BC639595C47C30812F317A8DB4B5B9A0"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -270,9 +270,9 @@
                     "sha1": "3E6A54539A79F4D80A6458FFC130342FA059D7BE"
                 },
                 {
-                    "name": "entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "sha1": "B23EC118BAF57787C5A1F4937FD0B3A599A03680"
+                    "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
                 },
                 {
                     "name": "fabric-api-0.140.2+1.21.11.jar",
@@ -335,19 +335,14 @@
                     "sha1": "FC3A1B1E336E56656556A8308007441EF9522380"
                 },
                 {
-                    "name": "modernfix-fabric-latest.jar",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/qkw8nBDe/modernfix-fabric-latest.jar",
-                    "sha1": "35B5364564CD06BD430B89FFFCF78B70724F16E5"
-                },
-                {
                     "name": "modmenu-17.0.0-beta.1.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar",
                     "sha1": "A409614AF507EC8B31185D00D45CEE1682097FE1"
                 },
                 {
-                    "name": "moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/Ju23l9rz/moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "sha1": "E968BD79BB85C2B658869A2738E033676207438F"
+                    "name": "moreculling-fabric-1.21.11-1.6.1.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar",
+                    "sha1": "CAAAF33E625903028B4F6F842DF50C6C01BA059B"
                 },
                 {
                     "name": "mru-1.0.25+edge+1.21.10-fabric.jar",
@@ -455,9 +450,9 @@
                     "sha1": "769FD72AD3E3F4B83F16B1C3F61417A5B0494FD8"
                 },
                 {
-                    "name": "waveycapes-fabric-1.8.1-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dFHujZZb/waveycapes-fabric-1.8.1-mc1.21.11.jar",
-                    "sha1": "54E3FEB01B35E8E77E7859E18305116747632E85"
+                    "name": "waveycapes-fabric-1.8.2-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/fpGe4KN7/waveycapes-fabric-1.8.2-mc1.21.11.jar",
+                    "sha1": "2AAD703E1DCEC4BF41A54CC28229C666AFC58001"
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
@@ -508,6 +503,16 @@
                     "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
                     "sha1": "F04C90B17094AAA849B147A42D4DF9AA82D54ACE",
                     "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
+                },
+                {
+                    "name": "explosive-enhancement-1.4.1-1.21.11.jar",
+                    "sha1": "B66AA126881B90E03553714CDDDBF13B02A0851D",
+                    "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/B9iEY7nb/explosive-enhancement-1.4.1-1.21.11.jar"
+                },
+                {
+                    "name": "modernfix-fabric-5.20.8.jar",
+                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
                 }
             ]
         },
@@ -563,9 +568,9 @@
                     "sha1": "B537022F927CFE5C412B28528D3BEE33B4369E89"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mKzyfrp8/entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "sha1": "FB299A46BC639595C47C30812F317A8DB4B5B9A0"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -573,9 +578,9 @@
                     "sha1": "3E6A54539A79F4D80A6458FFC130342FA059D7BE"
                 },
                 {
-                    "name": "entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "sha1": "B23EC118BAF57787C5A1F4937FD0B3A599A03680"
+                    "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
                 },
                 {
                     "name": "fabric-api-0.140.2+1.21.11.jar",
@@ -638,19 +643,14 @@
                     "sha1": "012D325ADC5B9261EFDDA728C3991527EC3DB0A0"
                 },
                 {
-                    "name": "modernfix-fabric-latest.jar",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/qkw8nBDe/modernfix-fabric-latest.jar",
-                    "sha1": "35B5364564CD06BD430B89FFFCF78B70724F16E5"
-                },
-                {
                     "name": "modmenu-17.0.0-beta.1.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar",
                     "sha1": "A409614AF507EC8B31185D00D45CEE1682097FE1"
                 },
                 {
-                    "name": "moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/Ju23l9rz/moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "sha1": "E968BD79BB85C2B658869A2738E033676207438F"
+                    "name": "moreculling-fabric-1.21.11-1.6.1.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar",
+                    "sha1": "CAAAF33E625903028B4F6F842DF50C6C01BA059B"
                 },
                 {
                     "name": "netherportalfix-fabric-1.21.11-21.11.2.jar",
@@ -698,9 +698,9 @@
                     "sha1": "7CD8909634AB02CA352969A2EA337F1F7641CC1C"
                 },
                 {
-                    "name": "tweakeroo-fabric-1.21.11-0.27.1.jar",
-                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/Vb40qkJE/tweakeroo-fabric-1.21.11-0.27.1.jar",
-                    "sha1": "9BF739AF6DEF30CC3CEB2EBE3246BE5989BC590E"
+                    "name": "tweakeroo-fabric-1.21.11-0.27.2.jar",
+                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/UF1XSSa4/tweakeroo-fabric-1.21.11-0.27.2.jar",
+                    "sha1": "6ED899A684F85E99ABD57C7FF9867DD06D05E9D2"
                 },
                 {
                     "name": "worldedit-mod-7.4.0-beta-02.jar",
@@ -716,6 +716,11 @@
                     "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
                     "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                },
+                {
+                    "name": "modernfix-fabric-5.20.8.jar",
+                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
                 }
             ]
         },
@@ -801,9 +806,9 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mKzyfrp8/entity_model_features_1.21.11-fabric-3.0.8.jar",
-                    "sha1": "FB299A46BC639595C47C30812F317A8DB4B5B9A0"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
+                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -811,9 +816,9 @@
                     "sha1": "3E6A54539A79F4D80A6458FFC130342FA059D7BE"
                 },
                 {
-                    "name": "entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar",
-                    "sha1": "B23EC118BAF57787C5A1F4937FD0B3A599A03680"
+                    "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
+                    "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
                 },
                 {
                     "name": "fabric-api-0.140.2+1.21.11.jar",
@@ -896,19 +901,14 @@
                     "sha1": "012D325ADC5B9261EFDDA728C3991527EC3DB0A0"
                 },
                 {
-                    "name": "modernfix-fabric-latest.jar",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/qkw8nBDe/modernfix-fabric-latest.jar",
-                    "sha1": "35B5364564CD06BD430B89FFFCF78B70724F16E5"
-                },
-                {
                     "name": "modmenu-17.0.0-beta.1.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/hGuj7hNc/modmenu-17.0.0-beta.1.jar",
                     "sha1": "A409614AF507EC8B31185D00D45CEE1682097FE1"
                 },
                 {
-                    "name": "moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/Ju23l9rz/moreculling-fabric-1.21.11-1.6.0-beta.2.jar",
-                    "sha1": "E968BD79BB85C2B658869A2738E033676207438F"
+                    "name": "moreculling-fabric-1.21.11-1.6.1.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/kWU8mVq5/moreculling-fabric-1.21.11-1.6.1.jar",
+                    "sha1": "CAAAF33E625903028B4F6F842DF50C6C01BA059B"
                 },
                 {
                     "name": "mru-1.0.25+edge+1.21.10-fabric.jar",
@@ -1021,9 +1021,9 @@
                     "sha1": "769FD72AD3E3F4B83F16B1C3F61417A5B0494FD8"
                 },
                 {
-                    "name": "waveycapes-fabric-1.8.1-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/dFHujZZb/waveycapes-fabric-1.8.1-mc1.21.11.jar",
-                    "sha1": "54E3FEB01B35E8E77E7859E18305116747632E85"
+                    "name": "waveycapes-fabric-1.8.2-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/fpGe4KN7/waveycapes-fabric-1.8.2-mc1.21.11.jar",
+                    "sha1": "2AAD703E1DCEC4BF41A54CC28229C666AFC58001"
                 },
                 {
                     "name": "worldedit-mod-7.4.0-beta-02.jar",
@@ -1079,6 +1079,16 @@
                     "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
                     "sha1": "F04C90B17094AAA849B147A42D4DF9AA82D54ACE",
                     "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
+                },
+                {
+                    "name": "explosive-enhancement-1.4.1-1.21.11.jar",
+                    "sha1": "B66AA126881B90E03553714CDDDBF13B02A0851D",
+                    "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/B9iEY7nb/explosive-enhancement-1.4.1-1.21.11.jar"
+                },
+                {
+                    "name": "modernfix-fabric-5.20.8.jar",
+                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
                 }
             ]
         }
