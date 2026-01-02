@@ -470,11 +470,6 @@
                     "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/3Xavpohp/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
                 },
                 {
-                    "name": "HMI 5.1.1 (1.21.11).jar",
-                    "sha1": "CB8C8301FCD51ED255A3D77BFCB85A0426D1A222",
-                    "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/KZm1qTcU/HMI%205.1.1%20%281.21.11%29.jar"
-                },
-                {
                     "name": "ismah-5.1.2+1.21.11-fabric.jar",
                     "sha1": "4C099F4ACE4611B3FC56712A13F7A0E94AAE9C0A",
                     "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
@@ -1051,11 +1046,6 @@
                     "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/3Xavpohp/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
                 },
                 {
-                    "name": "HMI 5.1.1 (1.21.11).jar",
-                    "sha1": "CB8C8301FCD51ED255A3D77BFCB85A0426D1A222",
-                    "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/KZm1qTcU/HMI%205.1.1%20%281.21.11%29.jar"
-                },
-                {
                     "name": "ismah-5.1.2+1.21.11-fabric.jar",
                     "sha1": "4C099F4ACE4611B3FC56712A13F7A0E94AAE9C0A",
                     "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
@@ -1127,6 +1117,18 @@
             "dependencies": []
         },
         {
+            "name": "HMI 5.1.1 (1.21.11).jar",
+            "sha1": "CB8C8301FCD51ED255A3D77BFCB85A0426D1A222",
+            "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/KZm1qTcU/HMI%205.1.1%20%281.21.11%29.jar",
+            "display_name": "Hold My Items",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ten",
+                "vis"
+            ]
+        },
+        {
             "name": "journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
             "sha1": "A180C6AC8258B449483924E0993C3D2B6ED8288E",
             "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar",
@@ -1141,7 +1143,7 @@
             "name": "plasmovoice-fabric-1.21.11-2.1.8.jar",
             "sha1": "DBE65258E81955B3F45263F7A28ABA6CFB2D5E89",
             "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/4gN2P9j6/plasmovoice-fabric-1.21.11-2.1.8.jar",
-            "display_name": "PlasmoVoice",
+            "display_name": "Plasmo Voice",
             "req_user_type": null,
             "dependencies": [
                 {
