@@ -1095,6 +1095,42 @@
     ],
     "optional_mods": [
         {
+            "name": "bedrock-hotbar-fabric-1.8+1.21.11.jar",
+            "sha1": "2EE1BE0483907B97DF204170E1BBB3CF70DED0F0",
+            "url": "https://cdn.modrinth.com/data/X1OsYLs1/versions/mj7SSHsP/bedrock-hotbar-fabric-1.8%2B1.21.11.jar",
+            "display_name": "Bedrock Hotbar",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ten",
+                "vis"
+            ]
+        },
+        {
+            "name": "CameraOverhaul-v2.0.6-fabric+mc[1.21.11-plus].jar",
+            "sha1": "1D4E8EACBC615EF9205DB396F2B4C33C737642E9",
+            "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/Pq5dOFBk/CameraOverhaul-v2.0.6-fabric%2Bmc%5B1.21.11-plus%5D.jar",
+            "display_name": "Camera Overhaul",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ten",
+                "vis"
+            ]
+        },
+        {
+            "name": "cursors_extended-fabric-4.1.4+1.21.11-patch.1.jar",
+            "sha1": "581ACA29E9F5619DD3E5480330275DCD877159C7",
+            "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/q3U4pZIm/cursors_extended-fabric-4.1.4%2B1.21.11-patch.1.jar",
+            "display_name": "Cursors Extended",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ten",
+                "vis"
+            ]
+        },
+        {
             "name": "e4mc_minecraft-fabric-5.5.4.jar",
             "sha1": "2092C81A004A6F86C61EFA4075AF7CAE9B7BF648",
             "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/jpS88LKC/e4mc_minecraft-fabric-5.5.4.jar",
@@ -1115,6 +1151,17 @@
                 "ALL"
             ],
             "dependencies": []
+        },
+        {
+            "name": "glowing_trims-1.0.jar",
+            "sha1": "106CC225828C0A967C9DE79B4C44768D83DCE974",
+            "url": "https://cdn.modrinth.com/data/V1c2WNSt/versions/4TSupoXM/glowing_trims-1.0.jar",
+            "display_name": "Glowing Trims",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ALL"
+            ]
         },
         {
             "name": "HMI 5.1.1 (1.21.11).jar",
@@ -1157,6 +1204,17 @@
                     "req_user_type": null
                 }
             ],
+            "target_profiles": [
+                "ALL"
+            ]
+        },
+        {
+            "name": "sss-0.0.5.jar",
+            "sha1": "D877C4B9918474515843EA55232CC439A2D30366",
+            "url": "https://cdn.modrinth.com/data/TjdLmzvL/versions/n7XuRRN2/sss-0.0.5.jar",
+            "display_name": "Shade & Saturation Slider",
+            "req_user_type": null,
+            "dependencies": [],
             "target_profiles": [
                 "ALL"
             ]
