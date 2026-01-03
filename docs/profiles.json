@@ -42,9 +42,9 @@
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar"
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.3.6+rc.1.0.jar",
-                    "sha1": "E9140AA4C8673ECA3515E03A460884640D501A54",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/lYSxkbzC/c2me-fabric-mc1.21.11-0.3.6%2Brc.1.0.jar"
+                    "name": "c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "sha1": "587F9A3D9E4591E8E1A1C3EDA61ED2F7BFA5DC46",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/olrVZpJd/c2me-fabric-mc1.21.11-0.3.6.0.0.jar"
                 },
                 {
                     "name": "cloth-config-21.11.153-fabric.jar",
@@ -57,9 +57,9 @@
                     "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/4N7tPBpk/controlify-2.5.0%2B1.21.11-fabric.jar"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "sha1": "F9E8ABE9D5768F18791E7FCD9AFA05B72C4561A5",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/fw5ejGT7/entity_model_features_1.21.11-fabric-3.0.10.jar"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -172,14 +172,19 @@
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
-                    "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                    "name": "packetfixer-fabric-3.3.3-1.21.11.jar",
+                    "sha1": "82D5685E3DF9B34F55EC9D1F1701F3579431FB89",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
                     "name": "modernfix-fabric-5.20.8.jar",
                     "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.3.jar",
+                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
                 }
             ]
         },
@@ -220,9 +225,9 @@
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2"
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.3.6+rc.1.0.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/lYSxkbzC/c2me-fabric-mc1.21.11-0.3.6%2Brc.1.0.jar",
-                    "sha1": "E9140AA4C8673ECA3515E03A460884640D501A54"
+                    "name": "c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/olrVZpJd/c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "sha1": "587F9A3D9E4591E8E1A1C3EDA61ED2F7BFA5DC46"
                 },
                 {
                     "name": "chatanimation-fabric-1.21.11-1.1.3.jar",
@@ -260,9 +265,9 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/fw5ejGT7/entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "sha1": "F9E8ABE9D5768F18791E7FCD9AFA05B72C4561A5"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -345,9 +350,9 @@
                     "sha1": "CAAAF33E625903028B4F6F842DF50C6C01BA059B"
                 },
                 {
-                    "name": "mru-1.0.25+edge+1.21.10-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/FGQdTmZR/mru-1.0.25%2Bedge%2B1.21.10-fabric.jar",
-                    "sha1": "896E1B355BF55C7DD9E1901E2D00BE079D3AFD2C"
+                    "name": "mru-1.0.26+edge+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/XXzIJdq5/mru-1.0.26%2Bedge%2B1.21.11-fabric.jar",
+                    "sha1": "8B4D0803932C2EDF6F521FEB306BCD01A013A692"
                 },
                 {
                     "name": "netherportalfix-fabric-1.21.11-21.11.2.jar",
@@ -485,9 +490,9 @@
                     "url": "https://cdn.modrinth.com/data/yM94ont6/versions/C1S3kMbN/notenoughcrashes-fabric-4.4.9%2B1.21.11.jar"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
-                    "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                    "name": "packetfixer-fabric-3.3.3-1.21.11.jar",
+                    "sha1": "82D5685E3DF9B34F55EC9D1F1701F3579431FB89",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
                     "name": "smoothscroll-2.6.2.jar",
@@ -513,6 +518,11 @@
                     "name": "particlerain-4.0.0-beta.5+1.21.11-fabric.jar",
                     "sha1": "57D6CFF748F4BA33FE75A0EA234117B2B586C94E",
                     "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.3.jar",
+                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
                 }
             ]
         },
@@ -548,9 +558,9 @@
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2"
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.3.6+rc.1.0.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/lYSxkbzC/c2me-fabric-mc1.21.11-0.3.6%2Brc.1.0.jar",
-                    "sha1": "E9140AA4C8673ECA3515E03A460884640D501A54"
+                    "name": "c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/olrVZpJd/c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "sha1": "587F9A3D9E4591E8E1A1C3EDA61ED2F7BFA5DC46"
                 },
                 {
                     "name": "carpet-tis-addition-v1.73.1-mc1.21.11.jar",
@@ -568,9 +578,9 @@
                     "sha1": "B537022F927CFE5C412B28528D3BEE33B4369E89"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/fw5ejGT7/entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "sha1": "F9E8ABE9D5768F18791E7FCD9AFA05B72C4561A5"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -623,9 +633,9 @@
                     "sha1": "5B9A93E688AF07555B6DED6ED95366A4197F74BB"
                 },
                 {
-                    "name": "litematica-fabric-1.21.11-0.25.2.jar",
-                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/t3Y7y9LV/litematica-fabric-1.21.11-0.25.2.jar",
-                    "sha1": "60D498C24BB9EC4C57A95BA4BBA0AA0BF70B31DF"
+                    "name": "litematica-fabric-1.21.11-0.25.3.jar",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/HkGaKquV/litematica-fabric-1.21.11-0.25.3.jar",
+                    "sha1": "4878BBF3848E9D2AEAB934EFDB82EC733E06EA95"
                 },
                 {
                     "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
@@ -713,14 +723,19 @@
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
-                    "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                    "name": "packetfixer-fabric-3.3.3-1.21.11.jar",
+                    "sha1": "82D5685E3DF9B34F55EC9D1F1701F3579431FB89",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
                     "name": "modernfix-fabric-5.20.8.jar",
                     "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.3.jar",
+                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
                 }
             ]
         },
@@ -761,9 +776,9 @@
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2"
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.3.6+rc.1.0.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/lYSxkbzC/c2me-fabric-mc1.21.11-0.3.6%2Brc.1.0.jar",
-                    "sha1": "E9140AA4C8673ECA3515E03A460884640D501A54"
+                    "name": "c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/olrVZpJd/c2me-fabric-mc1.21.11-0.3.6.0.0.jar",
+                    "sha1": "587F9A3D9E4591E8E1A1C3EDA61ED2F7BFA5DC46"
                 },
                 {
                     "name": "carpet-tis-addition-v1.73.1-mc1.21.11.jar",
@@ -806,9 +821,9 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
-                    "name": "entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mO9RYxKF/entity_model_features_1.21.11-fabric-3.0.9.jar",
-                    "sha1": "4E8C5819503059B1DDC0FF1BADD80763676E897B"
+                    "name": "entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/fw5ejGT7/entity_model_features_1.21.11-fabric-3.0.10.jar",
+                    "sha1": "F9E8ABE9D5768F18791E7FCD9AFA05B72C4561A5"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.0.8.jar",
@@ -876,9 +891,9 @@
                     "sha1": "F22487846158F62B3485A5A0723BA048326AC00F"
                 },
                 {
-                    "name": "litematica-fabric-1.21.11-0.25.2.jar",
-                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/t3Y7y9LV/litematica-fabric-1.21.11-0.25.2.jar",
-                    "sha1": "60D498C24BB9EC4C57A95BA4BBA0AA0BF70B31DF"
+                    "name": "litematica-fabric-1.21.11-0.25.3.jar",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/HkGaKquV/litematica-fabric-1.21.11-0.25.3.jar",
+                    "sha1": "4878BBF3848E9D2AEAB934EFDB82EC733E06EA95"
                 },
                 {
                     "name": "lithium-fabric-0.21.2+mc1.21.11.jar",
@@ -1011,9 +1026,9 @@
                     "sha1": "0934A7431B2CDCCA527AEB1E1C1FE07F7AAAA62E"
                 },
                 {
-                    "name": "tweakeroo-fabric-1.21.11-0.27.1.jar",
-                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/Vb40qkJE/tweakeroo-fabric-1.21.11-0.27.1.jar",
-                    "sha1": "9BF739AF6DEF30CC3CEB2EBE3246BE5989BC590E"
+                    "name": "tweakeroo-fabric-1.21.11-0.27.2.jar",
+                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/UF1XSSa4/tweakeroo-fabric-1.21.11-0.27.2.jar",
+                    "sha1": "6ED899A684F85E99ABD57C7FF9867DD06D05E9D2"
                 },
                 {
                     "name": "visuality-0.7.12+1.21.11.jar",
@@ -1061,9 +1076,9 @@
                     "url": "https://cdn.modrinth.com/data/yM94ont6/versions/C1S3kMbN/notenoughcrashes-fabric-4.4.9%2B1.21.11.jar"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.2-1.21.11.jar",
-                    "sha1": "63119AD6B0AD0ABD2DCFB4BA130347D38FBDD2BF",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/LFMYVIc7/packetfixer-fabric-3.3.2-1.21.11.jar"
+                    "name": "packetfixer-fabric-3.3.3-1.21.11.jar",
+                    "sha1": "82D5685E3DF9B34F55EC9D1F1701F3579431FB89",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
                     "name": "smoothscroll-2.6.2.jar",
@@ -1089,6 +1104,11 @@
                     "name": "particlerain-4.0.0-beta.5+1.21.11-fabric.jar",
                     "sha1": "57D6CFF748F4BA33FE75A0EA234117B2B586C94E",
                     "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.3.jar",
+                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
                 }
             ]
         }
