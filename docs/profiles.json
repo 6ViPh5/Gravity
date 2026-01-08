@@ -32,11 +32,6 @@
                     "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SZTlaMHp/badpackets-fabric-0.11.2.jar"
                 },
                 {
-                    "name": "balm-fabric-1.21.11-21.11.3.jar",
-                    "sha1": "1BDB9D28C2BF7B6831182AD321EF1DEBFB6DA078",
-                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/RNhvPwjz/balm-fabric-1.21.11-21.11.3.jar"
-                },
-                {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar"
@@ -70,11 +65,6 @@
                     "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753",
                     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar"
-                },
-                {
-                    "name": "fabric-api-0.140.2+1.21.11.jar",
-                    "sha1": "C115A7E4442BB6F54CB316EFA28FB7D41D2E103C",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar"
                 },
                 {
                     "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
@@ -177,14 +167,34 @@
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
-                    "name": "modernfix-fabric-5.20.8.jar",
-                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+                    "name": "balm-fabric-1.21.11-21.11.5.jar",
+                    "sha1": "288F016A4DF962168311949A6B701216BD49C12C",
+                    "clean": "Balm-Fabric-1.21.11-21.11.5",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ZJWr2IS3/balm-fabric-1.21.11-21.11.5.jar"
                 },
                 {
-                    "name": "modernfix-5.25.2-build.3.jar",
-                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
+                    "name": "fabric-api-0.141.1+1.21.11.jar",
+                    "sha1": "7F51D854B55C8B29FB4DC0D666E550015C742B69",
+                    "clean": "Fabric-Api-0.141.1+1.21.11",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar"
+                },
+                {
+                    "name": "libjf-3.19.8.jar",
+                    "sha1": "FE62A7DE2367B85E125399C8D16197A566453A4A",
+                    "clean": "Libjf-3.19.8",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/yJFNooXC/libjf-3.19.8.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.4.jar",
+                    "sha1": "2ED10989C8ECE2460413ED35538972157732A339",
+                    "clean": "Modernfix-5.25.2-Build.4",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/JwSO8JCN/modernfix-5.25.2-build.4.jar"
+                },
+                {
+                    "name": "respackopts-4.14.1.jar",
+                    "sha1": "40E5E8C7B0E8A7F09DD660503E281103F7F0BCFC",
+                    "clean": "Respackopts-4.14.1",
+                    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/pkdr7cMc/respackopts-4.14.1.jar"
                 }
             ]
         },
@@ -278,11 +288,6 @@
                     "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
-                },
-                {
-                    "name": "fabric-api-0.140.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar",
-                    "sha1": "C115A7E4442BB6F54CB316EFA28FB7D41D2E103C"
                 },
                 {
                     "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
@@ -415,11 +420,6 @@
                     "sha1": "F3B6C35EB2A9D9573DF2C700216D0D4241B681DE"
                 },
                 {
-                    "name": "SmoothScrollingRefurbished+1.21.10-1.5.1.jar",
-                    "url": "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar",
-                    "sha1": "6473F280BD02568939146974CA9358C116AE8C0B"
-                },
-                {
                     "name": "smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/Udmk6JVV/smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "sha1": "58FE0F6AD763003C97996A2243CC15750261BA1A"
@@ -455,11 +455,6 @@
                     "sha1": "769FD72AD3E3F4B83F16B1C3F61417A5B0494FD8"
                 },
                 {
-                    "name": "waveycapes-fabric-1.8.2-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/fpGe4KN7/waveycapes-fabric-1.8.2-mc1.21.11.jar",
-                    "sha1": "2AAD703E1DCEC4BF41A54CC28229C666AFC58001"
-                },
-                {
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
@@ -473,11 +468,6 @@
                     "name": "EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
                     "sha1": "E8AB013ED1DE68B6C6DFADFBB9D826C09D6EEE10",
                     "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/3Xavpohp/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
-                },
-                {
-                    "name": "ismah-5.1.2+1.21.11-fabric.jar",
-                    "sha1": "4C099F4ACE4611B3FC56712A13F7A0E94AAE9C0A",
-                    "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
                 },
                 {
                     "name": "notenoughanimations-fabric-1.11.1-mc1.21.11.jar",
@@ -495,11 +485,6 @@
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
-                    "name": "smoothscroll-2.6.2.jar",
-                    "sha1": "E9DED9E5A03938F2E0A0F94A2E1D25882EF03AB0",
-                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
-                },
-                {
                     "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
                     "sha1": "F04C90B17094AAA849B147A42D4DF9AA82D54ACE",
                     "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/pfqxi9qs/sound-physics-remastered-fabric-1.21.11-1.5.1.jar"
@@ -510,19 +495,220 @@
                     "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/B9iEY7nb/explosive-enhancement-1.4.1-1.21.11.jar"
                 },
                 {
-                    "name": "modernfix-fabric-5.20.8.jar",
-                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
-                },
-                {
                     "name": "particlerain-4.0.0-beta.5+1.21.11-fabric.jar",
                     "sha1": "57D6CFF748F4BA33FE75A0EA234117B2B586C94E",
                     "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/8kdLx5yJ/particlerain-4.0.0-beta.5%2B1.21.11-fabric.jar"
                 },
                 {
-                    "name": "modernfix-5.25.2-build.3.jar",
-                    "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
+                    "name": "advancements_reloaded-0.12.0-fabric-1.21.11.jar",
+                    "sha1": "D209B1CA37FD98CE99CC52FF7D80D23CDBD0727D",
+                    "clean": "Advancements Reloaded-0.12.0-Fabric-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/tLuRLqpa/versions/7Q8Egosy/advancements_reloaded-0.12.0-fabric-1.21.11.jar"
+                },
+                {
+                    "name": "architectury-19.0.1-fabric.jar",
+                    "sha1": "2D40563F7E36F7A03F094031AEAACB175117928E",
+                    "clean": "Architectury-19.0.1-Fabric",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"
+                },
+                {
+                    "name": "balm-fabric-1.21.11-21.11.5.jar",
+                    "sha1": "288F016A4DF962168311949A6B701216BD49C12C",
+                    "clean": "Balm-Fabric-1.21.11-21.11.5",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ZJWr2IS3/balm-fabric-1.21.11-21.11.5.jar"
+                },
+                {
+                    "name": "effectual-fabric-1.3.1-1.21.11.jar",
+                    "sha1": "DD2792C3D6D1C8183F519383CE6A32E2BB621F75",
+                    "clean": "Effectual-Fabric-1.3.1-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/OoF97Pto/versions/mlyCfCT0/effectual-fabric-1.3.1-1.21.11.jar"
+                },
+                {
+                    "name": "fabric-api-0.141.1+1.21.11.jar",
+                    "sha1": "7F51D854B55C8B29FB4DC0D666E550015C742B69",
+                    "clean": "Fabric-Api-0.141.1+1.21.11",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar"
+                },
+                {
+                    "name": "fancytoasts-fabric-1.21.11-1.4.5.2.jar",
+                    "sha1": "C8C9C53B91CC34FE15D1F808E46E1E2D8C47556F",
+                    "clean": "Fancytoasts-Fabric-1.21.11-1.4.5.2",
+                    "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/KSvCRbE3/fancytoasts-fabric-1.21.11-1.4.5.2.jar"
+                },
+                {
+                    "name": "libjf-3.19.8.jar",
+                    "sha1": "FE62A7DE2367B85E125399C8D16197A566453A4A",
+                    "clean": "Libjf-3.19.8",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/yJFNooXC/libjf-3.19.8.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.4.jar",
+                    "sha1": "2ED10989C8ECE2460413ED35538972157732A339",
+                    "clean": "Modernfix-5.25.2-Build.4",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/JwSO8JCN/modernfix-5.25.2-build.4.jar"
+                },
+                {
+                    "name": "ParticleEffects-1.2.0+1.21.11+fabric.jar",
+                    "sha1": "A7827F75B99BBD91FE23F515E09AB88AAB2C45F3",
+                    "clean": "Particleeffects-1.2.0+1.21.11+Fabric",
+                    "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/Te80MfqK/ParticleEffects-1.2.0%2B1.21.11%2Bfabric.jar"
+                },
+                {
+                    "name": "respackopts-4.14.1.jar",
+                    "sha1": "40E5E8C7B0E8A7F09DD660503E281103F7F0BCFC",
+                    "clean": "Respackopts-4.14.1",
+                    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/pkdr7cMc/respackopts-4.14.1.jar"
+                },
+                {
+                    "name": "smoothscroll-2.6.3.jar",
+                    "sha1": "FD0E1ED0BD4F373EDE0494AC68C41B9E9A2F18C5",
+                    "clean": "Smoothscroll-2.6.3",
+                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/xpV4NHwc/smoothscroll-2.6.3.jar"
+                },
+                {
+                    "name": "smoothskies-2.10.10+1.21.11-fabric.jar",
+                    "sha1": "AA88DC528CB17AE06037260360D2F5CF79343F5F",
+                    "clean": "Smoothskies-2.10.10+1.21.11-Fabric",
+                    "url": "https://cdn.modrinth.com/data/uvlgIwBD/versions/j2jU4EUG/smoothskies-2.10.10%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "tlib-fabric-1.4.1-1.21.11.jar",
+                    "sha1": "9D76285311773BD34AEF6E32FC5DF558EFEC01DE",
+                    "clean": "Tlib-Fabric-1.4.1-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/sBn7rVvc/versions/X81glAaz/tlib-fabric-1.4.1-1.21.11.jar"
+                },
+                {
+                    "name": "3D Brews 2.4.2.zip",
+                    "sha1": "61273AC866F472D1BCE4F9AFC2E61F45843335DA",
+                    "clean": "3D Brews 2.4.2",
+                    "url": "https://cdn.modrinth.com/data/V2uqACpc/versions/OOPxFD81/3D%20Brews%202.4.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "3D Harness x Fresh Animations.zip",
+                    "sha1": "F24BCFE6DC0AC840765365FDFF459D600AE6A13A",
+                    "clean": "3D Harness X Fresh Animations",
+                    "url": "https://cdn.modrinth.com/data/1OR06fW9/versions/a0QVMnbA/3D%20Harness%20x%20Fresh%20Animations.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Classic_Horses-v1.4.1.zip",
+                    "sha1": "BC97A216020A0CC8FD8DA66DB11DFF9C951514BD",
+                    "clean": "Fa+Classic Horses-V1.4.1",
+                    "url": "https://cdn.modrinth.com/data/rrRWRbvm/versions/swGJSVSG/FA%2BClassic_Horses-v1.4.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Objects-v2.1.zip",
+                    "sha1": "BBA98AD6B2E7A6F144CFE03B319F49999D361A51",
+                    "clean": "Fa+Objects-V2.1",
+                    "url": "https://cdn.modrinth.com/data/23O9JVMV/versions/uuAA3kpY/FA%2BObjects-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Player-v1.0.zip",
+                    "sha1": "FF722654D6BC9E1A2D2CB1B811B7EA9281198C1E",
+                    "clean": "Fa+Player-V1.0",
+                    "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Spiders-v2.1.zip",
+                    "sha1": "96631EA9F70C58318D00FE124E6867E7A560038F",
+                    "clean": "Fa+Spiders-V2.1",
+                    "url": "https://cdn.modrinth.com/data/aqKnWmBf/versions/5OKQMF8g/FA%2BSpiders-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Fresh Seeds HMI PATCH.zip",
+                    "sha1": "6EAAABEAD2A1610C380496C5BA1DFF46EF0E415E",
+                    "clean": "Fresh Seeds Hmi Patch",
+                    "url": "https://cdn.modrinth.com/data/koLlIzIB/versions/RU22H2Ui/Fresh%20Seeds%20HMI%20PATCH.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FreshAnimations_v1.10.3.zip",
+                    "sha1": "17D3630F0942E0D0D93F58FC998F780F06B81E63",
+                    "clean": "Freshanimations V1.10.3",
+                    "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/F9QwVhGH/FreshAnimations_v1.10.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Gentler Weather Sounds 2.1.0.zip",
+                    "sha1": "9BC80E92FB2D72BCF35875E2DABEC374F70CEECC",
+                    "clean": "Gentler Weather Sounds 2.1.0",
+                    "url": "https://cdn.modrinth.com/data/GB2EXKpD/versions/DBzbXaOH/Gentler%20Weather%20Sounds%202.1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Just 3d armors 1.21+.zip",
+                    "sha1": "5BCE323DC18A4D2D11B311766FD8288F539E8944",
+                    "clean": "Just 3D Armors 1.21+",
+                    "url": "https://cdn.modrinth.com/data/kuutk8OW/versions/Xnmk2dj1/Just%203d%20armors%201.21%2B.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Low Fire.zip",
+                    "sha1": "BC2157BEBA9BB8C668E5AC0537C84F5EC6FB8EF9",
+                    "clean": "Low Fire",
+                    "url": "https://cdn.modrinth.com/data/1jZGHJ05/versions/3k0zcJ1l/Low%20Fire.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "sha1": "F096B7D72D450E82D3F300A312D92B47284D8F6B",
+                    "clean": "Midnighttiggers-Fct-Default 1.20 V8",
+                    "url": "https://cdn.modrinth.com/data/TjOXlt9Y/versions/W1BtZHJ8/Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "qrafty's-capitalized-font-3.3.zip",
+                    "sha1": "873A2ED46C35497512FBBC665B3E502FB93FC267",
+                    "clean": "Qrafty'S-Capitalized-Font-3.3",
+                    "url": "https://cdn.modrinth.com/data/FA4ebMMU/versions/eJ0ho2WV/qrafty%27s-capitalized-font-3.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Recolourful Containers 3.0.1 (1.19.4+).zip",
+                    "sha1": "957EA70D893AD333F623A0C52578E0A5E9C4DA4D",
+                    "clean": "Recolourful Containers 3.0.1 (1.19.4+)",
+                    "url": "https://cdn.modrinth.com/data/lewweaHO/versions/IfnWx9K6/Recolourful%20Containers%203.0.1%20%281.19.4%2B%29.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Weskerson's 3D Food.zip",
+                    "sha1": "B131B348B947610C2B3A7F42EF558F4BAFE39E66",
+                    "clean": "Weskerson'S 3D Food",
+                    "url": "https://cdn.modrinth.com/data/TuLOnNOe/versions/nlWPRlOe/Weskerson%27s%203D%20Food.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "[HMI] Gous's Hand Poses.zip",
+                    "sha1": "310989E8624150F3F26503FF73EA6E2DFBD05261",
+                    "clean": "[Hmi] Gous'S Hand Poses",
+                    "url": "https://cdn.modrinth.com/data/hlBznIDN/versions/R5EOVRln/%5BHMI%5D%20Gous%27s%20Hand%20Poses.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
+                    "sha1": "768D19C0550BE6A13EE258A32562BDF16F97A39C",
+                    "clean": "\u00a7A\u00a7Lvocal Villagers \u00a7R\u00a771.2",
+                    "url": "https://cdn.modrinth.com/data/SEt2q8cl/versions/ekl7GAgD/%C2%A7a%C2%A7lVocal%20Villagers%20%C2%A7r%C2%A771.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "ComplementaryReimagined_r5.6.1.zip",
+                    "sha1": "7FA0A31AA9375AD63E4B13CB1DE8D4A9702DD74E",
+                    "clean": "Complementaryreimagined R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/OfRF7dTR/ComplementaryReimagined_r5.6.1.zip",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "ComplementaryUnbound_r5.6.1.zip",
+                    "sha1": "DB9D5D3FAB53BB896E1D727661540ECF570059A9",
+                    "clean": "Complementaryunbound R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
+                    "file_type": "shader"
                 }
             ]
         },
@@ -591,11 +777,6 @@
                     "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
-                },
-                {
-                    "name": "fabric-api-0.140.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar",
-                    "sha1": "C115A7E4442BB6F54CB316EFA28FB7D41D2E103C"
                 },
                 {
                     "name": "fabric-carpet-1.21.11-1.4.194+v251223.jar",
@@ -728,14 +909,105 @@
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
                 },
                 {
-                    "name": "modernfix-fabric-5.20.8.jar",
-                    "sha1": "EDCFF8DB59F320A6A297A52E32D45A6D2A8B0A55",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
-                },
-                {
                     "name": "modernfix-5.25.2-build.3.jar",
                     "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
+                },
+                {
+                    "name": "c2me-fabric-mc1.21.11-0.3.6+alpha.0.40.jar",
+                    "sha1": "B49F7DC35D8281277484A612837486D79275A510",
+                    "clean": "C2Me-Fabric-Mc1.21.11-0.3.6+Alpha.0.40",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OeusRRlS/c2me-fabric-mc1.21.11-0.3.6%2Balpha.0.40.jar"
+                },
+                {
+                    "name": "entityculling-fabric-1.9.4-mc1.21.11.jar",
+                    "sha1": "B23EC118BAF57787C5A1F4937FD0B3A599A03680",
+                    "clean": "Entityculling-Fabric-1.9.4-Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/P9ZiZM7Q/entityculling-fabric-1.9.4-mc1.21.11.jar"
+                },
+                {
+                    "name": "fabric-api-0.139.5+1.21.11.jar",
+                    "sha1": "F69874167E636008887A1C1C4DE3AFDF1E7F5DDF",
+                    "clean": "Fabric-Api-0.139.5+1.21.11",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KhCFoeip/fabric-api-0.139.5%2B1.21.11.jar"
+                },
+                {
+                    "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+                    "sha1": "AB71E8DAF9A2D529204B5C28B3801713D22F3D46",
+                    "clean": "Fabric-Language-Kotlin-1.13.7+Kotlin.2.2.21",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/LcgnDDmT/fabric-language-kotlin-1.13.7%2Bkotlin.2.2.21.jar"
+                },
+                {
+                    "name": "iris-fabric-1.10.2+mc1.21.11.jar",
+                    "sha1": "027D7E37E96D0FB1BFCB9BB0D7193225E7FA9476",
+                    "clean": "Iris-Fabric-1.10.2+Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ID2pg4dQ/iris-fabric-1.10.2%2Bmc1.21.11.jar"
+                },
+                {
+                    "name": "ismah-5.0.0+1.21.11-fabric.jar",
+                    "sha1": "949A618B426C98C0126AA620CBF3C43EC6DD5993",
+                    "clean": "Ismah-5.0.0+1.21.11-Fabric",
+                    "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/QWu81tI2/ismah-5.0.0%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "litematica-fabric-1.21.11-0.25.1.jar",
+                    "sha1": "7F52AEA46A2E5F4365C9DD0901B6810EDFCB3C7E",
+                    "clean": "Litematica-Fabric-1.21.11-0.25.1",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/yuHq2lUW/litematica-fabric-1.21.11-0.25.1.jar"
+                },
+                {
+                    "name": "lithium-fabric-0.21.1+mc1.21.11.jar",
+                    "sha1": "21E19758C0BA258C2A384EC1B77CAA415FC482B0",
+                    "clean": "Lithium-Fabric-0.21.1+Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/4DdLmtyz/lithium-fabric-0.21.1%2Bmc1.21.11.jar"
+                },
+                {
+                    "name": "malilib-fabric-1.21.11-0.27.1.jar",
+                    "sha1": "C594D65BCCB64865076C8D8A5DAFA959BF675ADF",
+                    "clean": "Malilib-Fabric-1.21.11-0.27.1",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/b68bfE0I/malilib-fabric-1.21.11-0.27.1.jar"
+                },
+                {
+                    "name": "minihud-fabric-1.21.11-0.38.0.jar",
+                    "sha1": "C86C77AAE5A451EAE040C1AD4BEEADA0F8B9731D",
+                    "clean": "Minihud-Fabric-1.21.11-0.38.0",
+                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/fgEK4RyE/minihud-fabric-1.21.11-0.38.0.jar"
+                },
+                {
+                    "name": "modmenu-17.0.0-alpha.1.jar",
+                    "sha1": "B8582A34B433AED24478C9BB43156B66340D0F1F",
+                    "clean": "Modmenu-17.0.0-Alpha.1",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/fP9olSIC/modmenu-17.0.0-alpha.1.jar"
+                },
+                {
+                    "name": "reeses-sodium-options-fabric-2.0.0+mc1.21.11.jar",
+                    "sha1": "E53A711362024E8364850D1730BBC9406A347041",
+                    "clean": "Reeses-Sodium-Options-Fabric-2.0.0+Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/CrZeGtHF/reeses-sodium-options-fabric-2.0.0%2Bmc1.21.11.jar"
+                },
+                {
+                    "name": "sodium-extra-fabric-0.8.0+mc1.21.11.jar",
+                    "sha1": "99182A41762CEB7F7160831877E2B068D00C6D62",
+                    "clean": "Sodium-Extra-Fabric-0.8.0+Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/qbQybzOo/sodium-extra-fabric-0.8.0%2Bmc1.21.11.jar"
+                },
+                {
+                    "name": "sodium-fabric-0.8.0+mc1.21.11.jar",
+                    "sha1": "331E5F5B6F6B9B471E39A2879DAC32801018B8C0",
+                    "clean": "Sodium-Fabric-0.8.0+Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/MLXdfyIk/sodium-fabric-0.8.0%2Bmc1.21.11.jar"
+                },
+                {
+                    "name": "tweakeroo-fabric-1.21.11-0.27.0.jar",
+                    "sha1": "25254E9C6AC131C9807AC65A183C13B7EA4A1EC0",
+                    "clean": "Tweakeroo-Fabric-1.21.11-0.27.0",
+                    "url": "https://cdn.modrinth.com/data/t5wuYk45/versions/BWzBsFnp/tweakeroo-fabric-1.21.11-0.27.0.jar"
+                },
+                {
+                    "name": "worldedit-mod-7.3.18-beta-01.jar",
+                    "sha1": "95B1BE92AE2BCF8328EC39E2D07542431861E5AF",
+                    "clean": "Worldedit-Mod-7.3.18-Beta-01",
+                    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZmRjhuVs/worldedit-mod-7.3.18-beta-01.jar"
                 }
             ]
         },
@@ -834,11 +1106,6 @@
                     "name": "entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Dx3xsUER/entityculling-fabric-1.9.5-mc1.21.11.jar",
                     "sha1": "E2E88C0B2286148E9547EB23D95D2E30E60AD753"
-                },
-                {
-                    "name": "fabric-api-0.140.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/gB6TkYEJ/fabric-api-0.140.2%2B1.21.11.jar",
-                    "sha1": "C115A7E4442BB6F54CB316EFA28FB7D41D2E103C"
                 },
                 {
                     "name": "fabric-carpet-1.21.11-1.4.194+v251223.jar",
@@ -991,11 +1258,6 @@
                     "sha1": "F3B6C35EB2A9D9573DF2C700216D0D4241B681DE"
                 },
                 {
-                    "name": "SmoothScrollingRefurbished+1.21.10-1.5.1.jar",
-                    "url": "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar",
-                    "sha1": "6473F280BD02568939146974CA9358C116AE8C0B"
-                },
-                {
                     "name": "smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/Udmk6JVV/smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "sha1": "58FE0F6AD763003C97996A2243CC15750261BA1A"
@@ -1036,11 +1298,6 @@
                     "sha1": "769FD72AD3E3F4B83F16B1C3F61417A5B0494FD8"
                 },
                 {
-                    "name": "waveycapes-fabric-1.8.2-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/kYuIpRLv/versions/fpGe4KN7/waveycapes-fabric-1.8.2-mc1.21.11.jar",
-                    "sha1": "2AAD703E1DCEC4BF41A54CC28229C666AFC58001"
-                },
-                {
                     "name": "worldedit-mod-7.4.0-beta-02.jar",
                     "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/D4snyuU8/worldedit-mod-7.4.0-beta-02.jar",
                     "sha1": "706E5E2EE5668DBCA8590C9FC4988316ECA3FCEA"
@@ -1061,11 +1318,6 @@
                     "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/3Xavpohp/EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar"
                 },
                 {
-                    "name": "ismah-5.1.2+1.21.11-fabric.jar",
-                    "sha1": "4C099F4ACE4611B3FC56712A13F7A0E94AAE9C0A",
-                    "url": "https://cdn.modrinth.com/data/o0hnW3gN/versions/DB2HPYHy/ismah-5.1.2%2B1.21.11-fabric.jar"
-                },
-                {
                     "name": "notenoughanimations-fabric-1.11.1-mc1.21.11.jar",
                     "sha1": "73061A2F9019652D80CB25CE31071E42B7AC2F35",
                     "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/Dp0dn63B/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
@@ -1079,11 +1331,6 @@
                     "name": "packetfixer-fabric-3.3.3-1.21.11.jar",
                     "sha1": "82D5685E3DF9B34F55EC9D1F1701F3579431FB89",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6s1GSqtg/packetfixer-fabric-3.3.3-1.21.11.jar"
-                },
-                {
-                    "name": "smoothscroll-2.6.2.jar",
-                    "sha1": "E9DED9E5A03938F2E0A0F94A2E1D25882EF03AB0",
-                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
                 },
                 {
                     "name": "sound-physics-remastered-fabric-1.21.11-1.5.1.jar",
@@ -1109,6 +1356,430 @@
                     "name": "modernfix-5.25.2-build.3.jar",
                     "sha1": "53E2779432795AE45F3A713F7490B8B00447D058",
                     "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/CANweikH/modernfix-5.25.2-build.3.jar"
+                },
+                {
+                    "name": "advancements_reloaded-0.12.0-fabric-1.21.11.jar",
+                    "sha1": "D209B1CA37FD98CE99CC52FF7D80D23CDBD0727D",
+                    "clean": "Advancements Reloaded-0.12.0-Fabric-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/tLuRLqpa/versions/7Q8Egosy/advancements_reloaded-0.12.0-fabric-1.21.11.jar"
+                },
+                {
+                    "name": "architectury-19.0.1-fabric.jar",
+                    "sha1": "2D40563F7E36F7A03F094031AEAACB175117928E",
+                    "clean": "Architectury-19.0.1-Fabric",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar"
+                },
+                {
+                    "name": "balm-fabric-1.21.11-21.11.5.jar",
+                    "sha1": "288F016A4DF962168311949A6B701216BD49C12C",
+                    "clean": "Balm-Fabric-1.21.11-21.11.5",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/ZJWr2IS3/balm-fabric-1.21.11-21.11.5.jar"
+                },
+                {
+                    "name": "carpet-tis-addition-v1.74.0-mc1.21.11.jar",
+                    "sha1": "95972CCA8A5C76A50A7E729CBBA30C0DF1922D83",
+                    "clean": "Carpet-Tis-Addition-V1.74.0-Mc1.21.11",
+                    "url": "https://cdn.modrinth.com/data/jE0SjGuf/versions/YdHpFtgw/carpet-tis-addition-v1.74.0-mc1.21.11.jar"
+                },
+                {
+                    "name": "effectual-fabric-1.3.1-1.21.11.jar",
+                    "sha1": "DD2792C3D6D1C8183F519383CE6A32E2BB621F75",
+                    "clean": "Effectual-Fabric-1.3.1-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/OoF97Pto/versions/mlyCfCT0/effectual-fabric-1.3.1-1.21.11.jar"
+                },
+                {
+                    "name": "fabric-api-0.141.1+1.21.11.jar",
+                    "sha1": "7F51D854B55C8B29FB4DC0D666E550015C742B69",
+                    "clean": "Fabric-Api-0.141.1+1.21.11",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/DdVHbeR1/fabric-api-0.141.1%2B1.21.11.jar"
+                },
+                {
+                    "name": "fancytoasts-fabric-1.21.11-1.4.5.2.jar",
+                    "sha1": "C8C9C53B91CC34FE15D1F808E46E1E2D8C47556F",
+                    "clean": "Fancytoasts-Fabric-1.21.11-1.4.5.2",
+                    "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/KSvCRbE3/fancytoasts-fabric-1.21.11-1.4.5.2.jar"
+                },
+                {
+                    "name": "libjf-3.19.8.jar",
+                    "sha1": "FE62A7DE2367B85E125399C8D16197A566453A4A",
+                    "clean": "Libjf-3.19.8",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/yJFNooXC/libjf-3.19.8.jar"
+                },
+                {
+                    "name": "modernfix-5.25.2-build.4.jar",
+                    "sha1": "2ED10989C8ECE2460413ED35538972157732A339",
+                    "clean": "Modernfix-5.25.2-Build.4",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/JwSO8JCN/modernfix-5.25.2-build.4.jar"
+                },
+                {
+                    "name": "mru-1.0.26+edge+1.21.11-fabric.jar",
+                    "sha1": "8B4D0803932C2EDF6F521FEB306BCD01A013A692",
+                    "clean": "Mru-1.0.26+Edge+1.21.11-Fabric",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/XXzIJdq5/mru-1.0.26%2Bedge%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "ParticleEffects-1.2.0+1.21.11+fabric.jar",
+                    "sha1": "A7827F75B99BBD91FE23F515E09AB88AAB2C45F3",
+                    "clean": "Particleeffects-1.2.0+1.21.11+Fabric",
+                    "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/Te80MfqK/ParticleEffects-1.2.0%2B1.21.11%2Bfabric.jar"
+                },
+                {
+                    "name": "respackopts-4.14.1.jar",
+                    "sha1": "40E5E8C7B0E8A7F09DD660503E281103F7F0BCFC",
+                    "clean": "Respackopts-4.14.1",
+                    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/pkdr7cMc/respackopts-4.14.1.jar"
+                },
+                {
+                    "name": "smoothscroll-2.6.3.jar",
+                    "sha1": "FD0E1ED0BD4F373EDE0494AC68C41B9E9A2F18C5",
+                    "clean": "Smoothscroll-2.6.3",
+                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/xpV4NHwc/smoothscroll-2.6.3.jar"
+                },
+                {
+                    "name": "smoothskies-2.10.10+1.21.11-fabric.jar",
+                    "sha1": "AA88DC528CB17AE06037260360D2F5CF79343F5F",
+                    "clean": "Smoothskies-2.10.10+1.21.11-Fabric",
+                    "url": "https://cdn.modrinth.com/data/uvlgIwBD/versions/j2jU4EUG/smoothskies-2.10.10%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "tlib-fabric-1.4.1-1.21.11.jar",
+                    "sha1": "9D76285311773BD34AEF6E32FC5DF558EFEC01DE",
+                    "clean": "Tlib-Fabric-1.4.1-1.21.11",
+                    "url": "https://cdn.modrinth.com/data/sBn7rVvc/versions/X81glAaz/tlib-fabric-1.4.1-1.21.11.jar"
+                },
+                {
+                    "name": "worldedit-mod-7.4.0-rc-01.jar",
+                    "sha1": "A688593AE9C0251114519DDEA83417C710F01D8F",
+                    "clean": "Worldedit-Mod-7.4.0-Rc-01",
+                    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/l3iW7wfj/worldedit-mod-7.4.0-rc-01.jar"
+                },
+                {
+                    "name": "3D Brews 2.4.2.zip",
+                    "sha1": "61273AC866F472D1BCE4F9AFC2E61F45843335DA",
+                    "clean": "3D Brews 2.4.2",
+                    "url": "https://cdn.modrinth.com/data/V2uqACpc/versions/OOPxFD81/3D%20Brews%202.4.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "3D Harness x Fresh Animations.zip",
+                    "sha1": "F24BCFE6DC0AC840765365FDFF459D600AE6A13A",
+                    "clean": "3D Harness X Fresh Animations",
+                    "url": "https://cdn.modrinth.com/data/1OR06fW9/versions/a0QVMnbA/3D%20Harness%20x%20Fresh%20Animations.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Classic_Horses-v1.4.1.zip",
+                    "sha1": "BC97A216020A0CC8FD8DA66DB11DFF9C951514BD",
+                    "clean": "Fa+Classic Horses-V1.4.1",
+                    "url": "https://cdn.modrinth.com/data/rrRWRbvm/versions/swGJSVSG/FA%2BClassic_Horses-v1.4.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Objects-v2.1.zip",
+                    "sha1": "BBA98AD6B2E7A6F144CFE03B319F49999D361A51",
+                    "clean": "Fa+Objects-V2.1",
+                    "url": "https://cdn.modrinth.com/data/23O9JVMV/versions/uuAA3kpY/FA%2BObjects-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Player-v1.0.zip",
+                    "sha1": "FF722654D6BC9E1A2D2CB1B811B7EA9281198C1E",
+                    "clean": "Fa+Player-V1.0",
+                    "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Spiders-v2.1.zip",
+                    "sha1": "96631EA9F70C58318D00FE124E6867E7A560038F",
+                    "clean": "Fa+Spiders-V2.1",
+                    "url": "https://cdn.modrinth.com/data/aqKnWmBf/versions/5OKQMF8g/FA%2BSpiders-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Fresh Seeds HMI PATCH.zip",
+                    "sha1": "6EAAABEAD2A1610C380496C5BA1DFF46EF0E415E",
+                    "clean": "Fresh Seeds Hmi Patch",
+                    "url": "https://cdn.modrinth.com/data/koLlIzIB/versions/RU22H2Ui/Fresh%20Seeds%20HMI%20PATCH.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FreshAnimations_v1.10.3.zip",
+                    "sha1": "17D3630F0942E0D0D93F58FC998F780F06B81E63",
+                    "clean": "Freshanimations V1.10.3",
+                    "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/F9QwVhGH/FreshAnimations_v1.10.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Gentler Weather Sounds 2.1.0.zip",
+                    "sha1": "9BC80E92FB2D72BCF35875E2DABEC374F70CEECC",
+                    "clean": "Gentler Weather Sounds 2.1.0",
+                    "url": "https://cdn.modrinth.com/data/GB2EXKpD/versions/DBzbXaOH/Gentler%20Weather%20Sounds%202.1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Just 3d armors 1.21+.zip",
+                    "sha1": "5BCE323DC18A4D2D11B311766FD8288F539E8944",
+                    "clean": "Just 3D Armors 1.21+",
+                    "url": "https://cdn.modrinth.com/data/kuutk8OW/versions/Xnmk2dj1/Just%203d%20armors%201.21%2B.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Low Fire.zip",
+                    "sha1": "BC2157BEBA9BB8C668E5AC0537C84F5EC6FB8EF9",
+                    "clean": "Low Fire",
+                    "url": "https://cdn.modrinth.com/data/1jZGHJ05/versions/3k0zcJ1l/Low%20Fire.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "sha1": "F096B7D72D450E82D3F300A312D92B47284D8F6B",
+                    "clean": "Midnighttiggers-Fct-Default 1.20 V8",
+                    "url": "https://cdn.modrinth.com/data/TjOXlt9Y/versions/W1BtZHJ8/Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "qrafty's-capitalized-font-3.3.zip",
+                    "sha1": "873A2ED46C35497512FBBC665B3E502FB93FC267",
+                    "clean": "Qrafty'S-Capitalized-Font-3.3",
+                    "url": "https://cdn.modrinth.com/data/FA4ebMMU/versions/eJ0ho2WV/qrafty%27s-capitalized-font-3.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Recolourful Containers 3.0.1 (1.19.4+).zip",
+                    "sha1": "957EA70D893AD333F623A0C52578E0A5E9C4DA4D",
+                    "clean": "Recolourful Containers 3.0.1 (1.19.4+)",
+                    "url": "https://cdn.modrinth.com/data/lewweaHO/versions/IfnWx9K6/Recolourful%20Containers%203.0.1%20%281.19.4%2B%29.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Weskerson's 3D Food.zip",
+                    "sha1": "B131B348B947610C2B3A7F42EF558F4BAFE39E66",
+                    "clean": "Weskerson'S 3D Food",
+                    "url": "https://cdn.modrinth.com/data/TuLOnNOe/versions/nlWPRlOe/Weskerson%27s%203D%20Food.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "[HMI] Gous's Hand Poses.zip",
+                    "sha1": "310989E8624150F3F26503FF73EA6E2DFBD05261",
+                    "clean": "[Hmi] Gous'S Hand Poses",
+                    "url": "https://cdn.modrinth.com/data/hlBznIDN/versions/R5EOVRln/%5BHMI%5D%20Gous%27s%20Hand%20Poses.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
+                    "sha1": "768D19C0550BE6A13EE258A32562BDF16F97A39C",
+                    "clean": "\u00a7A\u00a7Lvocal Villagers \u00a7R\u00a771.2",
+                    "url": "https://cdn.modrinth.com/data/SEt2q8cl/versions/ekl7GAgD/%C2%A7a%C2%A7lVocal%20Villagers%20%C2%A7r%C2%A771.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "ComplementaryReimagined_r5.6.1.zip",
+                    "sha1": "7FA0A31AA9375AD63E4B13CB1DE8D4A9702DD74E",
+                    "clean": "Complementaryreimagined R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/OfRF7dTR/ComplementaryReimagined_r5.6.1.zip",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "ComplementaryUnbound_r5.6.1.zip",
+                    "sha1": "DB9D5D3FAB53BB896E1D727661540ECF570059A9",
+                    "clean": "Complementaryunbound R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "options.txt",
+                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
+                    "file_type": "config"
+                },
+                {
+                    "name": "sodium-extra.properties",
+                    "sha1": "E90B2514226A0624CF42112B42477F9872598B89",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-extra.properties",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-extra-options.json",
+                    "sha1": "7CCAB75E8951708CCEFF75A72193E2EA7AFC4BCF",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-extra-options.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-fingerprint.json",
+                    "sha1": "746F91C0E90315A304AE451DEBED99D029B715DA",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-fingerprint.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-mixins.properties",
+                    "sha1": "5455463EE999B945C1CFF8AE90F2B705E19FB86C",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-mixins.properties",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "entity_model_features.json",
+                    "sha1": "771F6ECE6C42524426E76B1A119FD768C982EDBD",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/entity_model_features.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "entity_texture_features.json",
+                    "sha1": "907D2D2C52D47B4F41EE991BA9692AD1BB667DA0",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/entity_texture_features.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "particle_effects.json5",
+                    "sha1": "D1F35575E3D5CC31B51E8E7989D8DD255E257ABE",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particle_effects.json5",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "particlerain.json",
+                    "sha1": "99DC6792F752681D545F0C1DDD259A679B2B8E08",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particlerain.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "smoothswapping.json",
+                    "sha1": "0F851E8552F99A56CC613C8E9E0E3329BFD9F788",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/smoothswapping.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "ui.json",
+                    "sha1": "20984F7A79F065E0D9A41C829576BD909894914C",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/ui.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "world.json",
+                    "sha1": "0B76577C84C39D60073D3C18533EFBA6B14979E0",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/world.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "chat.json",
+                    "sha1": "4611C473A4615AC482D71855CBB52CBB5DD9BDF6",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/chat.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "event.json",
+                    "sha1": "3AEAA8CF5115DBC46F298C238CAF9E5239BF39B9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/event.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "mod_utils.json",
+                    "sha1": "0D227098E7DAA4977322BF4EDBB7E36B0C83D175",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/mod_utils.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "environment.toml",
+                    "sha1": "F2CDDE0DCA666CCC49C940121C02139A3986CD83",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/environment.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "general.toml",
+                    "sha1": "352B2A2E3D98540AC701F973B2FEE590609678A3",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/general.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "items.toml",
+                    "sha1": "934A9672D1F0EB7888BB3DA26C1913CD21D903A9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/items.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "blocks.toml",
+                    "sha1": "8323A5173DA7455B456EFDEED300FDEB0C16C6EC",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/blocks.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "entities.toml",
+                    "sha1": "F322BF900674AB72D8F6EFF374BBEDB0B08B388F",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/entities.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "journeymap.core.config",
+                    "sha1": "D69B635F435A34252344BF645501813064080A2A",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.core.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.fullmap.config",
+                    "sha1": "F07862D62865B5BF814D75BB86E5E18E389EBD45",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.fullmap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.minimap.config",
+                    "sha1": "A9F6648DE9A48FCF827B2F4653834006859ABFA6",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.minimap2.config",
+                    "sha1": "9D520178F94C13BC4F10B541333EF319B8B68D07",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap2.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.rendering.config",
+                    "sha1": "716FDCE89945FDE44B5268DE1141F63E88DB3A0D",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.rendering.config",
+                    "file_type": "config",
+                    "install_path": "configjourneymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.topo.config",
+                    "sha1": "B899CA60F4E7853DAB106D475B127241BB217EB9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.topo.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.waypoint.config",
+                    "sha1": "7E5D6E11874059358F9601A3FD88FA5036F94D01",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.waypoint.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.webmap.config",
+                    "sha1": "E2F568A76C6696623F54E6286EF96E57A40FD6DE",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.webmap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
                 }
             ]
         }
