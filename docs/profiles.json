@@ -709,6 +709,278 @@
                     "clean": "Complementaryunbound R5.6.1",
                     "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
                     "file_type": "shader"
+                },
+                {
+                    "name": "3D Brews 2.4.2.zip",
+                    "sha1": "61273AC866F472D1BCE4F9AFC2E61F45843335DA",
+                    "clean": "3D Brews 2.4.2",
+                    "url": "https://cdn.modrinth.com/data/V2uqACpc/versions/OOPxFD81/3D%20Brews%202.4.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "3D Harness x Fresh Animations.zip",
+                    "sha1": "F24BCFE6DC0AC840765365FDFF459D600AE6A13A",
+                    "clean": "3D Harness X Fresh Animations",
+                    "url": "https://cdn.modrinth.com/data/1OR06fW9/versions/a0QVMnbA/3D%20Harness%20x%20Fresh%20Animations.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Classic_Horses-v1.4.1.zip",
+                    "sha1": "BC97A216020A0CC8FD8DA66DB11DFF9C951514BD",
+                    "clean": "Fa+Classic Horses-V1.4.1",
+                    "url": "https://cdn.modrinth.com/data/rrRWRbvm/versions/swGJSVSG/FA%2BClassic_Horses-v1.4.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Objects-v2.1.zip",
+                    "sha1": "BBA98AD6B2E7A6F144CFE03B319F49999D361A51",
+                    "clean": "Fa+Objects-V2.1",
+                    "url": "https://cdn.modrinth.com/data/23O9JVMV/versions/uuAA3kpY/FA%2BObjects-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Player-v1.0.zip",
+                    "sha1": "FF722654D6BC9E1A2D2CB1B811B7EA9281198C1E",
+                    "clean": "Fa+Player-V1.0",
+                    "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FA+Spiders-v2.1.zip",
+                    "sha1": "96631EA9F70C58318D00FE124E6867E7A560038F",
+                    "clean": "Fa+Spiders-V2.1",
+                    "url": "https://cdn.modrinth.com/data/aqKnWmBf/versions/5OKQMF8g/FA%2BSpiders-v2.1.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Fresh Seeds HMI PATCH.zip",
+                    "sha1": "6EAAABEAD2A1610C380496C5BA1DFF46EF0E415E",
+                    "clean": "Fresh Seeds Hmi Patch",
+                    "url": "https://cdn.modrinth.com/data/koLlIzIB/versions/RU22H2Ui/Fresh%20Seeds%20HMI%20PATCH.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "FreshAnimations_v1.10.3.zip",
+                    "sha1": "17D3630F0942E0D0D93F58FC998F780F06B81E63",
+                    "clean": "Freshanimations V1.10.3",
+                    "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/F9QwVhGH/FreshAnimations_v1.10.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Gentler Weather Sounds 2.1.0.zip",
+                    "sha1": "9BC80E92FB2D72BCF35875E2DABEC374F70CEECC",
+                    "clean": "Gentler Weather Sounds 2.1.0",
+                    "url": "https://cdn.modrinth.com/data/GB2EXKpD/versions/DBzbXaOH/Gentler%20Weather%20Sounds%202.1.0.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Just 3d armors 1.21+.zip",
+                    "sha1": "5BCE323DC18A4D2D11B311766FD8288F539E8944",
+                    "clean": "Just 3D Armors 1.21+",
+                    "url": "https://cdn.modrinth.com/data/kuutk8OW/versions/Xnmk2dj1/Just%203d%20armors%201.21%2B.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Low Fire.zip",
+                    "sha1": "BC2157BEBA9BB8C668E5AC0537C84F5EC6FB8EF9",
+                    "clean": "Low Fire",
+                    "url": "https://cdn.modrinth.com/data/1jZGHJ05/versions/3k0zcJ1l/Low%20Fire.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "sha1": "F096B7D72D450E82D3F300A312D92B47284D8F6B",
+                    "clean": "Midnighttiggers-Fct-Default 1.20 V8",
+                    "url": "https://cdn.modrinth.com/data/TjOXlt9Y/versions/W1BtZHJ8/Midnighttiggers-FCT-Default_1.20_V8.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "qrafty's-capitalized-font-3.3.zip",
+                    "sha1": "873A2ED46C35497512FBBC665B3E502FB93FC267",
+                    "clean": "Qrafty'S-Capitalized-Font-3.3",
+                    "url": "https://cdn.modrinth.com/data/FA4ebMMU/versions/eJ0ho2WV/qrafty%27s-capitalized-font-3.3.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Recolourful Containers 3.0.1 (1.19.4+).zip",
+                    "sha1": "957EA70D893AD333F623A0C52578E0A5E9C4DA4D",
+                    "clean": "Recolourful Containers 3.0.1 (1.19.4+)",
+                    "url": "https://cdn.modrinth.com/data/lewweaHO/versions/IfnWx9K6/Recolourful%20Containers%203.0.1%20%281.19.4%2B%29.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Weskerson's 3D Food.zip",
+                    "sha1": "B131B348B947610C2B3A7F42EF558F4BAFE39E66",
+                    "clean": "Weskerson'S 3D Food",
+                    "url": "https://cdn.modrinth.com/data/TuLOnNOe/versions/nlWPRlOe/Weskerson%27s%203D%20Food.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "[HMI] Gous's Hand Poses.zip",
+                    "sha1": "310989E8624150F3F26503FF73EA6E2DFBD05261",
+                    "clean": "[Hmi] Gous'S Hand Poses",
+                    "url": "https://cdn.modrinth.com/data/hlBznIDN/versions/R5EOVRln/%5BHMI%5D%20Gous%27s%20Hand%20Poses.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "\u00a7a\u00a7lVocal Villagers \u00a7r\u00a771.2.zip",
+                    "sha1": "768D19C0550BE6A13EE258A32562BDF16F97A39C",
+                    "clean": "\u00a7A\u00a7Lvocal Villagers \u00a7R\u00a771.2",
+                    "url": "https://cdn.modrinth.com/data/SEt2q8cl/versions/ekl7GAgD/%C2%A7a%C2%A7lVocal%20Villagers%20%C2%A7r%C2%A771.2.zip",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "ComplementaryReimagined_r5.6.1.zip",
+                    "sha1": "7FA0A31AA9375AD63E4B13CB1DE8D4A9702DD74E",
+                    "clean": "Complementaryreimagined R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/OfRF7dTR/ComplementaryReimagined_r5.6.1.zip",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "ComplementaryUnbound_r5.6.1.zip",
+                    "sha1": "DB9D5D3FAB53BB896E1D727661540ECF570059A9",
+                    "clean": "Complementaryunbound R5.6.1",
+                    "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "options.txt",
+                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
+                    "file_type": "config"
+                },
+                {
+                    "name": "sodium-extra.properties",
+                    "sha1": "E90B2514226A0624CF42112B42477F9872598B89",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-extra.properties",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-extra-options.json",
+                    "sha1": "7CCAB75E8951708CCEFF75A72193E2EA7AFC4BCF",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-extra-options.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-fingerprint.json",
+                    "sha1": "746F91C0E90315A304AE451DEBED99D029B715DA",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-fingerprint.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "sodium-mixins.properties",
+                    "sha1": "5455463EE999B945C1CFF8AE90F2B705E19FB86C",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-mixins.properties",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "entity_model_features.json",
+                    "sha1": "771F6ECE6C42524426E76B1A119FD768C982EDBD",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/entity_model_features.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "entity_texture_features.json",
+                    "sha1": "907D2D2C52D47B4F41EE991BA9692AD1BB667DA0",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/entity_texture_features.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "particle_effects.json5",
+                    "sha1": "D1F35575E3D5CC31B51E8E7989D8DD255E257ABE",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particle_effects.json5",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "particlerain.json",
+                    "sha1": "99DC6792F752681D545F0C1DDD259A679B2B8E08",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particlerain.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "smoothswapping.json",
+                    "sha1": "0F851E8552F99A56CC613C8E9E0E3329BFD9F788",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/smoothswapping.json",
+                    "file_type": "config",
+                    "install_path": "config/"
+                },
+                {
+                    "name": "ui.json",
+                    "sha1": "20984F7A79F065E0D9A41C829576BD909894914C",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/ui.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "world.json",
+                    "sha1": "0B76577C84C39D60073D3C18533EFBA6B14979E0",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/world.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "chat.json",
+                    "sha1": "4611C473A4615AC482D71855CBB52CBB5DD9BDF6",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/chat.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "event.json",
+                    "sha1": "3AEAA8CF5115DBC46F298C238CAF9E5239BF39B9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/event.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "mod_utils.json",
+                    "sha1": "0D227098E7DAA4977322BF4EDBB7E36B0C83D175",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sounds/mod_utils.json",
+                    "file_type": "config",
+                    "install_path": "config/sounds/"
+                },
+                {
+                    "name": "environment.toml",
+                    "sha1": "F2CDDE0DCA666CCC49C940121C02139A3986CD83",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/environment.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "general.toml",
+                    "sha1": "352B2A2E3D98540AC701F973B2FEE590609678A3",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/general.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "items.toml",
+                    "sha1": "934A9672D1F0EB7888BB3DA26C1913CD21D903A9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/items.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "blocks.toml",
+                    "sha1": "8323A5173DA7455B456EFDEED300FDEB0C16C6EC",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/blocks.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
+                },
+                {
+                    "name": "entities.toml",
+                    "sha1": "F322BF900674AB72D8F6EFF374BBEDB0B08B388F",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/entities.toml",
+                    "file_type": "config",
+                    "install_path": "config/subtle_effects/"
                 }
             ]
         },
