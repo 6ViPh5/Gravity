@@ -1724,62 +1724,6 @@
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/subtle_effects/entities.toml",
                     "file_type": "config",
                     "install_path": "config/subtle_effects/"
-                },
-                {
-                    "name": "journeymap.core.config",
-                    "sha1": "D69B635F435A34252344BF645501813064080A2A",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.core.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.fullmap.config",
-                    "sha1": "F07862D62865B5BF814D75BB86E5E18E389EBD45",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.fullmap.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.minimap.config",
-                    "sha1": "A9F6648DE9A48FCF827B2F4653834006859ABFA6",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.minimap2.config",
-                    "sha1": "9D520178F94C13BC4F10B541333EF319B8B68D07",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap2.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.rendering.config",
-                    "sha1": "716FDCE89945FDE44B5268DE1141F63E88DB3A0D",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.rendering.config",
-                    "file_type": "config",
-                    "install_path": "configjourneymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.topo.config",
-                    "sha1": "B899CA60F4E7853DAB106D475B127241BB217EB9",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.topo.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.waypoint.config",
-                    "sha1": "7E5D6E11874059358F9601A3FD88FA5036F94D01",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.waypoint.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
-                },
-                {
-                    "name": "journeymap.webmap.config",
-                    "sha1": "E2F568A76C6696623F54E6286EF96E57A40FD6DE",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.webmap.config",
-                    "file_type": "config",
-                    "install_path": "journeymap/config/6.0/"
                 }
             ]
         }
@@ -1875,7 +1819,64 @@
             "target_profiles": [
                 "ALL"
             ],
-            "dependencies": []
+            "dependencies": [
+                {
+                    "name": "journeymap.core.config",
+                    "sha1": "D69B635F435A34252344BF645501813064080A2A",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.core.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.fullmap.config",
+                    "sha1": "F07862D62865B5BF814D75BB86E5E18E389EBD45",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.fullmap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.minimap.config",
+                    "sha1": "A9F6648DE9A48FCF827B2F4653834006859ABFA6",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.minimap2.config",
+                    "sha1": "9D520178F94C13BC4F10B541333EF319B8B68D07",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.minimap2.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.rendering.config",
+                    "sha1": "716FDCE89945FDE44B5268DE1141F63E88DB3A0D",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.rendering.config",
+                    "file_type": "config",
+                    "install_path": "configjourneymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.topo.config",
+                    "sha1": "B899CA60F4E7853DAB106D475B127241BB217EB9",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.topo.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.waypoint.config",
+                    "sha1": "7E5D6E11874059358F9601A3FD88FA5036F94D01",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.waypoint.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                },
+                {
+                    "name": "journeymap.webmap.config",
+                    "sha1": "E2F568A76C6696623F54E6286EF96E57A40FD6DE",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.webmap.config",
+                    "file_type": "config",
+                    "install_path": "journeymap/config/6.0/"
+                }
+            ]
         },
         {
             "name": "plasmovoice-fabric-1.21.11-2.1.8.jar",
