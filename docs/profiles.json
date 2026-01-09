@@ -190,6 +190,12 @@
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar"
+                },
+                {
+                    "name": "options.txt",
+                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
+                    "file_type": "config"
                 }
             ]
         },
@@ -1014,6 +1020,12 @@
                     "name": "yet_another_config_lib_v3-3.8.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/NWFsMIGn/yet_another_config_lib_v3-3.8.1%2B1.21.11-fabric.jar",
                     "sha1": "DAB747453AD62404398B3DFE08737B93E6065B7F"
+                },
+                {
+                    "name": "options.txt",
+                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
+                    "file_type": "config"
                 }
             ]
         },
@@ -1242,6 +1254,11 @@
                     "name": "mru-1.0.25+edge+1.21.10-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/FGQdTmZR/mru-1.0.25%2Bedge%2B1.21.10-fabric.jar",
                     "sha1": "896E1B355BF55C7DD9E1901E2D00BE079D3AFD2C"
+                },
+                {
+                    "name": "mru-1.0.26+edge+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/XXzIJdq5/mru-1.0.26%2Bedge%2B1.21.11-fabric.jar",
+                    "sha1": "8B4D0803932C2EDF6F521FEB306BCD01A013A692"
                 },
                 {
                     "name": "netherportalfix-fabric-1.21.11-21.11.2.jar",
