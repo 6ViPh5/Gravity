@@ -1796,7 +1796,7 @@
                     "sha1": "716FDCE89945FDE44B5268DE1141F63E88DB3A0D",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/journeymap/config/6.0/journeymap.rendering.config",
                     "file_type": "config",
-                    "install_path": "configjourneymap/config/6.0/"
+                    "install_path": "journeymap/config/6.0/"
                 },
                 {
                     "name": "journeymap.topo.config",
