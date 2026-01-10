@@ -1993,7 +1993,9 @@
                 {
                     "name": "client.toml",
                     "sha1": "24D5A094EEEA1E61DD55E44D7998E7951A3CA338",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/plasmovoice/client.toml"
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/plasmovoice/client.toml",
+                    "file_type": "config",
+                    "install_path": "config/plasmovoice/"
                 }
             ],
             "target_profiles": [
