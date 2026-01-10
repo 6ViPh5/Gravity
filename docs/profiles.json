@@ -193,9 +193,10 @@
                 },
                 {
                     "name": "options.txt",
-                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
-                    "file_type": "config"
+                    "sha1": "5D24A53B63111D938FCC09EC6CB6C6D6D49C012D",
+                    "file_type": "config",
+                    "install_path": "config/options.txt"
                 }
             ]
         },
@@ -725,10 +726,18 @@
                     "install_path": "config/sounds/"
                 },
                 {
+                    "name": "occlusion.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/occlusion.properties",
+                    "sha1": "63E8843F243C38BC7AA44D99CE4F562991890350",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
+                },
+                {
                     "name": "options.txt",
-                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
-                    "file_type": "config"
+                    "sha1": "5D24A53B63111D938FCC09EC6CB6C6D6D49C012D",
+                    "file_type": "config",
+                    "install_path": "config/options.txt"
                 },
                 {
                     "name": "particle_effects.json5",
@@ -743,6 +752,13 @@
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particlerain.json",
                     "file_type": "config",
                     "install_path": "config/"
+                },
+                {
+                    "name": "reflectivity.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/reflectivity.properties",
+                    "sha1": "95FEB43EB67757038518212B08739CB39BB9763E",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
                 },
                 {
                     "name": "smoothswapping.json",
@@ -778,6 +794,20 @@
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-mixins.properties",
                     "file_type": "config",
                     "install_path": "config/"
+                },
+                {
+                    "name": "sound_rates.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/sound_rates.properties",
+                    "sha1": "B2424DCEC9B9BD749F6C61C30E723C0FEB9F7AD0",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
+                },
+                {
+                    "name": "soundphysics.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/refs/heads/main/docs/extras/config/config/sound_physics_remastered/soundphysics.properties",
+                    "sha1": "A2511CDEDF3F3AAB34855667AC0C9315573ADAA3",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
                 },
                 {
                     "name": "ui.json",
@@ -1018,9 +1048,10 @@
                 },
                 {
                     "name": "options.txt",
-                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
-                    "file_type": "config"
+                    "sha1": "5D24A53B63111D938FCC09EC6CB6C6D6D49C012D",
+                    "file_type": "config",
+                    "install_path": "config/options.txt"
                 }
             ]
         },
@@ -1590,10 +1621,18 @@
                     "install_path": "config/sounds/"
                 },
                 {
+                    "name": "occlusion.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/occlusion.properties",
+                    "sha1": "63E8843F243C38BC7AA44D99CE4F562991890350",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
+                },
+                {
                     "name": "options.txt",
-                    "sha1": "CAA1B452A1908D4CFBF68A693EF7E66CBADF4B4E",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/options.txt",
-                    "file_type": "config"
+                    "sha1": "5D24A53B63111D938FCC09EC6CB6C6D6D49C012D",
+                    "file_type": "config",
+                    "install_path": "config/options.txt"
                 },
                 {
                     "name": "particle_effects.json5",
@@ -1608,6 +1647,13 @@
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/particlerain.json",
                     "file_type": "config",
                     "install_path": "config/"
+                },
+                {
+                    "name": "reflectivity.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/reflectivity.properties",
+                    "sha1": "95FEB43EB67757038518212B08739CB39BB9763E",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
                 },
                 {
                     "name": "smoothswapping.json",
@@ -1643,6 +1689,20 @@
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sodium-mixins.properties",
                     "file_type": "config",
                     "install_path": "config/"
+                },
+                {
+                    "name": "sound_rates.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/sound_physics_remastered/sound_rates.properties",
+                    "sha1": "B2424DCEC9B9BD749F6C61C30E723C0FEB9F7AD0",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
+                },
+                {
+                    "name": "soundphysics.properties",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/refs/heads/main/docs/extras/config/config/sound_physics_remastered/soundphysics.properties",
+                    "sha1": "A2511CDEDF3F3AAB34855667AC0C9315573ADAA3",
+                    "file_type": "config",
+                    "install_path": "config/sound_physics_remastered/"
                 },
                 {
                     "name": "ui.json",
@@ -1816,6 +1876,11 @@
                         "ten"
                     ],
                     "req_user_type": null
+                },
+                {
+                    "name": "client.toml",
+                    "sha1": "24D5A094EEEA1E61DD55E44D7998E7951A3CA338",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/plasmovoice/client.toml"
                 }
             ],
             "target_profiles": [
