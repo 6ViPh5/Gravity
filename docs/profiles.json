@@ -491,11 +491,6 @@
                     "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
                 },
                 {
-                    "name": "SmoothScrollingRefurbished+1.21.10-1.5.1.jar",
-                    "url": "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar",
-                    "sha1": "6473F280BD02568939146974CA9358C116AE8C0B"
-                },
-                {
                     "name": "smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/Udmk6JVV/smoothswapping-0.9.8-1.21.11-fabric.jar",
                     "sha1": "58FE0F6AD763003C97996A2243CC15750261BA1A"
@@ -1349,11 +1344,6 @@
                     "name": "smoothscroll-2.6.2.jar",
                     "sha1": "E9DED9E5A03938F2E0A0F94A2E1D25882EF03AB0",
                     "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fzeUVg7z/smoothscroll-2.6.2.jar"
-                },
-                {
-                    "name": "SmoothScrollingRefurbished+1.21.10-1.5.1.jar",
-                    "url": "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar",
-                    "sha1": "6473F280BD02568939146974CA9358C116AE8C0B"
                 },
                 {
                     "name": "smoothswapping-0.9.8-1.21.11-fabric.jar",
