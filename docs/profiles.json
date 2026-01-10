@@ -1731,17 +1731,6 @@
             "dependencies": []
         },
         {
-            "name": "glowing_trims-1.0.jar",
-            "sha1": "106CC225828C0A967C9DE79B4C44768D83DCE974",
-            "url": "https://cdn.modrinth.com/data/V1c2WNSt/versions/4TSupoXM/glowing_trims-1.0.jar",
-            "display_name": "Glowing Trims",
-            "req_user_type": null,
-            "dependencies": [],
-            "target_profiles": [
-                "ALL"
-            ]
-        },
-        {
             "name": "HMI 5.1.1 (1.21.11).jar",
             "sha1": "CB8C8301FCD51ED255A3D77BFCB85A0426D1A222",
             "url": "https://cdn.modrinth.com/data/AP8rDDLS/versions/KZm1qTcU/HMI%205.1.1%20%281.21.11%29.jar",
