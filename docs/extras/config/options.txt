@@ -15,7 +15,7 @@ glintSpeed:0.5
 glintStrength:0.75
 graphicsPreset:"fancy"
 prioritizeChunkUpdates:1
-fullscreen:false
+fullscreen:true
 gamma:0.5
 guiScale:0
 maxAnisotropyBit:1
@@ -209,13 +209,13 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.h
-key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
-key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
+key_keybind.name.COSMETIC_STUDIO:key.keyboard.b
+key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.i
 key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
-key_keybind.name.CHAT_PEEK:key.keyboard.unknown
+key_keybind.name.CHAT_PEEK:key.keyboard.z
 key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
-key_keybind.name.MENU_ACCESS:key.keyboard.unknown
-key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+key_keybind.name.MENU_ACCESS:key.keyboard.g
+key_keybind.name.EMOTE_WHEEL:key.keyboard.r
 key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
 key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
