@@ -1811,6 +1811,17 @@
     ],
     "optional_mods": [
         {
+            "name": "animatium-3.0+1.21.11-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zy0karK1/versions/uacNh5fI/animatium-3.0%2B1.21.11-fabric.jar",
+            "sha1": "74DE79B1573D4D2FACB2A3023DD804D0FE7A0325",
+            "display_name": "Animatium",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ALL"
+            ]
+        },
+        {
             "name": "bedrock-hotbar-fabric-1.8+1.21.11.jar",
             "sha1": "2EE1BE0483907B97DF204170E1BBB3CF70DED0F0",
             "url": "https://cdn.modrinth.com/data/X1OsYLs1/versions/mj7SSHsP/bedrock-hotbar-fabric-1.8%2B1.21.11.jar",
@@ -1832,6 +1843,17 @@
             "target_profiles": [
                 "ten",
                 "vis"
+            ]
+        },
+        {
+            "name": "crosshairindicator-1.0.3.jar",
+            "url": "https://cdn.modrinth.com/data/zLAdIOH7/versions/acAUyXRW/crosshairindicator-1.0.3.jar",
+            "sha1": "EA4EB8455E7D732DFAB087E8EFBCA3F77B2CBFBB",
+            "display_name": "Crosshair Indicator",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "ALL"
             ]
         },
         {
