@@ -3,7 +3,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "AQUI_IRA_LA_FIRMA_GENERADA_AL_COMPILAR",
-      "url": "https://github.com/6ViPh5/gravity/releases/download/v3.6.0/Gravity_3.6.0_x64.zip"
+      "url": "https://github.com/6ViPh5/Gravity/blob/main/docs/update.json"
     }
   }
 }
