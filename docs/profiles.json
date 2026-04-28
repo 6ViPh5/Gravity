@@ -427,8 +427,8 @@
             ]
         },
         {
-            "id": "hbr",
-            "name": "Hibrido",
+            "id": "crhbr",
+            "name": "Create Hibrido",
             "version": "1.21.1",
             "loader": "neoforge",
             "loader_version": "21.1.219",
