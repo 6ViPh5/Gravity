@@ -427,17 +427,6 @@
             ]
         },
         {
-            "id": "test",
-            "name": "TEST",
-            "version": "1.21.1",
-            "loader": "neoforge",
-            "loader_version": "21.1.228",
-            "req_user_type": null,
-            "visuals": {
-                "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/262/17691330_xl.webp"
-            },
-            "mods": []
-        },{
             "id": "crhbr",
             "name": "Create Hibrido",
             "version": "1.21.1",
@@ -1186,8 +1175,7 @@
                 {
                     "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-                    "sha1": "A3E6355915C7D3B2BC392724795113E51D289378",
-                    "file_type": "shader"
+                    "sha1": "A3E6355915C7D3B2BC392724795113E51D289378"
                 }
             ]
         }
