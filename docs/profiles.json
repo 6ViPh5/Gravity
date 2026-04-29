@@ -427,6 +427,17 @@
             ]
         },
         {
+            "id": "test",
+            "name": "TEST",
+            "version": "1.21.1",
+            "loader": "fabric",
+            "loader_version": "0.19.2",
+            "req_user_type": null,
+            "visuals": {
+                "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/262/17691330_xl.webp"
+            },
+            "mods": []
+        },{
             "id": "crhbr",
             "name": "Create Hibrido",
             "version": "1.21.1",
