@@ -429,7 +429,7 @@
         {
             "id": "test",
             "name": "TEST",
-            "version": "1.21.11",
+            "version": "26.1.2",
             "loader": "fabric",
             "loader_version": "0.19.2",
             "req_user_type": null,
