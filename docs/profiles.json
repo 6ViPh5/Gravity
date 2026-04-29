@@ -493,6 +493,11 @@
                     "sha1": "6A29963A30AFD7FA8993B97E4F870460B3F51323"
                 },
                 {
+                    "name": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+                    "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+                    "sha1": "E01709C880B0602B7A306201A25866E76C44F5C0"
+                },
+                {
                     "name": "balm-neoforge-1.21.1-21.0.57.jar",
                     "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/XC1JUHmA/balm-neoforge-1.21.1-21.0.57.jar",
                     "sha1": "471E60CBD2CE9753315E763772A8C55FCCF843B8"
@@ -768,9 +773,24 @@
                     "sha1": "5E9DDA03C6142400B95DC3114675E07C943D554D"
                 },
                 {
+                    "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+                    "sha1": "A3E6355915C7D3B2BC392724795113E51D289378"
+                },
+                {
                     "name": "jei-1.21.1-neoforge-19.27.0.340.jar",
                     "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
                     "sha1": "27D0D85E7E32E926FC3664AB6815DF5CDABB7941"
+                },
+                {
+                    "name": "kotlinforforge-5.11.0-all.jar",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar",
+                    "sha1": "4D83E8A8E8CB06B306D2CEA1E903680FE513F1F3"
+                },
+                {
+                    "name": "lithostitched-1.7.2-neoforge-21.1.jar",
+                    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/IONexlgI/lithostitched-1.7.2-neoforge-21.1.jar",
+                    "sha1": "CE35206214647131EBDF14212D1986349AEBA79A"
                 },
                 {
                     "name": "lootr-neoforge-1.21.1-1.11.37.118.jar",
@@ -1171,11 +1191,6 @@
                     "name": "zombieawareness-neoforge-1.21.0-1.13.2.jar",
                     "url": "https://cdn.modrinth.com/data/mMTOWOaA/versions/KNtnADP6/zombieawareness-neoforge-1.21.0-1.13.2.jar",
                     "sha1": "266A95F6FCDB7A629ED6E95D7B3D2B35724DC6A7"
-                },
-                {
-                    "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
-                    "sha1": "A3E6355915C7D3B2BC392724795113E51D289378"
                 }
             ]
         }
@@ -1191,17 +1206,6 @@
             "target_profiles": [
                 "opt",
                 "vanplus"
-            ]
-        },
-        {
-            "name": "Essential_1-3-10-8_neoforge_1-21-1.jar",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/L1fxDroJ/Essential_1-3-10-8_neoforge_1-21-1.jar",
-            "sha1": "06ACABC95A6B2A5FD6AB57D68AEA36DC88CE3109",
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "dependencies": [],
-            "target_profiles": [
-                "hbr"
             ]
         },
         {
