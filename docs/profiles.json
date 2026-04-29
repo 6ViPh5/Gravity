@@ -3,7 +3,7 @@
         {
             "id": "vanilla",
             "name": "Vanilla",
-            "version": "26.1",
+            "version": "26.1.2",
             "loader": "vanilla",
             "req_user_type": null,
             "visuals": {
