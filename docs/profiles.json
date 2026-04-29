@@ -431,7 +431,7 @@
             "name": "Create Hibrido",
             "version": "1.21.1",
             "loader": "neoforge",
-            "loader_version": "21.1.219",
+            "loader_version": "21.11.42",
             "req_user_type": null,
             "visuals": {
                 "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/262/17691330_xl.webp"
