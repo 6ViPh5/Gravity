@@ -429,9 +429,9 @@
         {
             "id": "test",
             "name": "TEST",
-            "version": "26.1.2",
-            "loader": "fabric",
-            "loader_version": "0.19.2",
+            "version": "1.21.1",
+            "loader": "neoforge",
+            "loader_version": "21.11.42",
             "req_user_type": null,
             "visuals": {
                 "background": "https://static.planetminecraft.com/files/image/minecraft/project/2024/262/17691330_xl.webp"
