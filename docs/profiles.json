@@ -1208,6 +1208,19 @@
                     "sha1": "266A95F6FCDB7A629ED6E95D7B3D2B35724DC6A7"
                 }
             ]
+        },
+        {
+            "id": "keovanilla",
+            "name": "Keo Vanilla",
+            "version": "1.21.11",
+            "loader": "fabric",
+            "loader_version": "0.19.2",
+            "req_user_type": null,
+            "visuals": {
+                "background": "https://4kwallpapers.com/images/wallpapers/minecraft-the-3840x2160-24242.jpg"
+            },
+            "mods": [
+            ]
         }
     ],
     "optional_mods": [
