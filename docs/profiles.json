@@ -983,38 +983,26 @@
             ]
         },
         {
-            "name": "xaerominimap-fabric-1.21.11-25.3.10.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/avSqR3vF/xaerominimap-fabric-1.21.11-25.3.10.jar",
-            "sha1": "4CB5A1D9121F7B1CD03FD17E901C002BA9CAC62B",
-            "display_name": "Xaero Minimap",
+            "name": "journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
+            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/VX8GZXvv/journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
+            "sha1": "41F009AFE1F6F75B8C9E298A94AC79274DB1D77B",
+            "display_name": "JourneyMap",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "xaeroworldmap-fabric-1.21.11-1.40.11.jar",
-                    "sha1": "FF88B8F04532202D2DCC7D4919BAE648B1D7FBE8",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/CkZVhVE0/xaeroworldmap-fabric-1.21.11-1.40.11.jar"
-                }
-            ],
+            "dependencies": [],
             "target_profiles": [
                 "opt21"
             ]
         },
         {
-            "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
-            "sha1": "9DCFBC36EF61ACAB279AE52283C6CEB5C22942A9",
-            "display_name": "Xaero Minimap",
+            "name": "journeymap-fabric-26.1.2-6.0.0-beta.70.jar",
+            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/m5NUJY9O/journeymap-fabric-26.1.2-6.0.0-beta.70.jar",
+            "sha1": "0A779E333903B3C0E3A5E8865A71BACA2E7DD4D8",
+            "display_name": "JourneyMap",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "xaeroworldmap-fabric-26.1.2-1.40.14.jar",
-                    "sha1": "EF0CF81FA118DF8DAE3074EDFBFE28682919BFA1",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xyGbYBF5/xaeroworldmap-fabric-26.1.2-1.40.14.jar"
-                }
-            ],
+            "dependencies": [],
             "target_profiles": [
-                "vanplus",
-                "opt"
+                "opt",
+                "vanplus"
             ]
         }
     ]
