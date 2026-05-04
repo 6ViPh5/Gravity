@@ -628,6 +628,16 @@
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314"
                 },
                 {
+                    "name": "architectury-19.0.1-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+                    "sha1": "2D40563F7E36F7A03F094031AEAACB175117928E"
+                },
+                {
+                    "name": "blur-fabric-6.2.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NK39zBp2/versions/vQ1uFkzB/blur-fabric-6.2.0%2B1.21.11.jar",
+                    "sha1": "1DEFE4BF0F06798C51D37C9CE284FAC063774629"
+                },
+                {
                     "name": "boatiview-fabric-0.0.8-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/zgsaYcVL/boatiview-fabric-0.0.8-1.21.11.jar",
                     "sha1": "127307FEF38F9E99B014F4AD7EB39031E00EB4C7"
@@ -673,9 +683,24 @@
                     "sha1": "368835EC0CCC0D10D17F009FBAFDDCC354B923D3"
                 },
                 {
+                    "name": "cursors_extended-fabric-4.1.5+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/qAGkL02T/cursors_extended-fabric-4.1.5%2B1.21.11.jar",
+                    "sha1": "CD788AAEB7810201E5F5E0B94C09B20342844071"
+                },
+                {
                     "name": "Drip Sounds-0.5.2+1.21.10-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/T8MMXTpr/versions/Qd4Gecqi/Drip%20Sounds-0.5.2%2B1.21.10-Fabric.jar",
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
+                },
+                {
+                    "name": "elytratrails-1.4.5-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/XpVCwVAZ/elytratrails-1.4.5-1.21.11.jar",
+                    "sha1": "A806BF71F2FC3416AF564102DEDA9F378209647E"
+                },
+                {
+                    "name": "enchanteds_sodium_options-1.1.4+0.8.7-mc1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/bd7qKEEC/versions/ONK2677Q/enchanteds_sodium_options-1.1.4%2B0.8.7-mc1.21.11-fabric.jar",
+                    "sha1": "31A5B6131EA2386B8342AFE5A816A080D4A5DC1C"
                 },
                 {
                     "name": "enchdesc-fabric-1.21.11-21.11.1.jar",
@@ -723,19 +748,9 @@
                     "sha1": "61AA1B5FAFD75AFC44552D0213CAC39BC938BC2D"
                 },
                 {
-                    "name": "FullbrightFabric-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/L5dyCzCT/versions/wCgh2WfS/FullbrightFabric-1.21.11.jar",
-                    "sha1": "F7ECE2156CE3A1AA36D1F7FF5B07D42AF92CC1F4"
-                },
-                {
                     "name": "fzzy_config-0.7.6+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar",
                     "sha1": "9B064C8BD1D6414549F6A1ADCADF678FFA0C96C8"
-                },
-                {
-                    "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar",
-                    "sha1": "3F06271EA2C87634C23A37C97608B38FB78E015D"
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
@@ -743,9 +758,19 @@
                     "sha1": "4F17C6B7388F0AFC5D24075DC2A294963F78C712"
                 },
                 {
+                    "name": "ImmersiveUI-FABRIC-0.3.6+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/9wv7LuMc/versions/GkBmQQjo/ImmersiveUI-FABRIC-0.3.6%2B1.21.11.jar",
+                    "sha1": "147EBF8A706B99241D476C8C5330F2633CC0A288"
+                },
+                {
                     "name": "InventoryParticles-2.1.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/dotKvqnL/InventoryParticles-2.1.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "C855BDAC61B825870DB6D54A49362FBF6DFB8DEF"
+                },
+                {
+                    "name": "journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
+                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/VX8GZXvv/journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
+                    "sha1": "41F009AFE1F6F75B8C9E298A94AC79274DB1D77B"
                 },
                 {
                     "name": "lambdynamiclights-4.9.1+1.21.11.jar",
@@ -766,6 +791,11 @@
                     "name": "Loot Beams Refork-fabric-1.21.11-3.4.3.jar",
                     "url": "https://cdn.modrinth.com/data/rp7ooqvq/versions/UDOBshQg/Loot%20Beams%20Refork-fabric-1.21.11-3.4.3.jar",
                     "sha1": "8404048FA068DFF134DB71B6198C5D379CCD036F"
+                },
+                {
+                    "name": "midnightlib-fabric-1.9.3+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%2B1.21.11.jar",
+                    "sha1": "5FF624CC3763A0CB9A25296ED3A442D1ACE44D68"
                 },
                 {
                     "name": "MossyLib-1.1.0+1.21.11+fabric.jar",
@@ -808,9 +838,24 @@
                     "sha1": "BA448B0B274ABD54AD24332055FBB1CDC66E43C0"
                 },
                 {
+                    "name": "punchy-2.5.3-fabric-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar",
+                    "sha1": "219118D937F1A81C21DBDB472D5AEE03541F397A"
+                },
+                {
                     "name": "PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/owXZpJai/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "sha1": "F502FAFF2063B34CFCA40CFADA13E4FECF69E7FC"
+                },
+                {
+                    "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
+                    "sha1": "FB452B122FD72E8540D32FBE3DF01CC34A45CE41"
+                },
+                {
+                    "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
+                    "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
                 },
                 {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
@@ -818,9 +863,19 @@
                     "sha1": "3F889DE77A0AEC69FFCFD28BF6FB2C077443788A"
                 },
                 {
+                    "name": "skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/ntxaPFv3/skinlayers3d-fabric-1.11.1-mc1.21.11.jar",
+                    "sha1": "A95C49C23DB05D98D88E6A225894CA93E4E86B3C"
+                },
+                {
                     "name": "smoothgui-fabric-1.21.10-1.1.0.jar",
                     "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/abxI8Nou/smoothgui-fabric-1.21.10-1.1.0.jar",
                     "sha1": "F3B6C35EB2A9D9573DF2C700216D0D4241B681DE"
+                },
+                {
+                    "name": "SmoothScrollingRefurbished+1.21.10-1.5.1.jar",
+                    "url": "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar",
+                    "sha1": "6473F280BD02568939146974CA9358C116AE8C0B"
                 },
                 {
                     "name": "smoothswapping-0.9.8-1.21.11-fabric.jar",
