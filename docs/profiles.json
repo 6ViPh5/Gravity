@@ -72,11 +72,6 @@
                     "sha1": "6ABB68036A327D19C87F89676FBBC9CC9B995402"
                 },
                 {
-                    "name": "iris-fabric-1.10.8+mc26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Yi5E3d2l/iris-fabric-1.10.8%2Bmc26.1.jar",
-                    "sha1": "8ABC14F32D78721682C37A28F634F12E879B7F91"
-                },
-                {
                     "name": "iris-fabric-1.10.9+mc26.1.1.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar",
                     "sha1": "C30E04509A1B284372CB9037B07714D4223AE91A"
@@ -607,8 +602,7 @@
                 {
                     "name": "iris-fabric-1.10.9+mc26.1.1.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar",
-                    "sha1": "C30E04509A1B284372CB9037B07714D4223AE91A",
-                    "file_type": "shader"
+                    "sha1": "C30E04509A1B284372CB9037B07714D4223AE91A"
                 }
             ]
         },
@@ -971,8 +965,7 @@
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C",
-                    "file_type": "shader"
+                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
                 }
             ]
         }
