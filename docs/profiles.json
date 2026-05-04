@@ -808,6 +808,11 @@
                     "sha1": "F502FAFF2063B34CFCA40CFADA13E4FECF69E7FC"
                 },
                 {
+                    "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
+                    "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
+                },
+                {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar",
                     "sha1": "3F889DE77A0AEC69FFCFD28BF6FB2C077443788A"
