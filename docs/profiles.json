@@ -718,11 +718,6 @@
                     "sha1": "7FF1ECE98EF40AD0221AED9EA38C4ED215B4E4F5"
                 },
                 {
-                    "name": "entity_sound_features_1.21.9-fabric-0.7.2.jar",
-                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/bs086WyB/entity_sound_features_1.21.9-fabric-0.7.2.jar",
-                    "sha1": "DDFD773B90047863821AD9077061B28F302EFFB5"
-                },
-                {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
                     "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/rAQimlSn/entity_texture_features_1.21.11-fabric-7.1.jar",
                     "sha1": "1D26DBB21DD4F17ADBDB54F077334634F708A3D4"
