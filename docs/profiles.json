@@ -668,6 +668,11 @@
                     "sha1": "8F80AA56849A414F77A4D952221851C5301B41C6"
                 },
                 {
+                    "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.8.jar",
+                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/5SOwNuns/CrashAssistant-fabric-1.21.5-1.21.11-1.11.8.jar",
+                    "sha1": "368835EC0CCC0D10D17F009FBAFDDCC354B923D3"
+                },
+                {
                     "name": "Drip Sounds-0.5.2+1.21.10-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/T8MMXTpr/versions/Qd4Gecqi/Drip%20Sounds-0.5.2%2B1.21.10-Fabric.jar",
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
@@ -806,11 +811,6 @@
                     "name": "PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/owXZpJai/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "sha1": "F502FAFF2063B34CFCA40CFADA13E4FECF69E7FC"
-                },
-                {
-                    "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
-                    "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
                 },
                 {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
