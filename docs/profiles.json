@@ -350,6 +350,11 @@
                     "sha1": "CFBBDE8217A219F52814F5D1C438EA89A1B517BB"
                 },
                 {
+                    "name": "iris-fabric-1.10.9+mc26.1.1.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+                    "sha1": "C30E04509A1B284372CB9037B07714D4223AE91A"
+                },
+                {
                     "name": "konkrete_fabric_1.10.1_MC_26.1.1.jar",
                     "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/SBC2WlEa/konkrete_fabric_1.10.1_MC_26.1.1.jar",
                     "sha1": "210D9A4C8C70DC8695D719CC2BD8C89315360DEC"
@@ -598,11 +603,6 @@
                     "name": "yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/hzww5Tor/yet_another_config_lib_v3-3.9.3%2B26.1-fabric.jar",
                     "sha1": "666BBFCCE4508B53D51DCA1E4253F528C517B315"
-                },
-                {
-                    "name": "iris-fabric-1.10.9+mc26.1.1.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar",
-                    "sha1": "C30E04509A1B284372CB9037B07714D4223AE91A"
                 }
             ]
         },
@@ -718,9 +718,9 @@
                     "sha1": "7FF1ECE98EF40AD0221AED9EA38C4ED215B4E4F5"
                 },
                 {
-                    "name": "entity_sound_features_1.21.9-fabric-0.8.jar",
-                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/QvRBIx2m/entity_sound_features_1.21.9-fabric-0.8.jar",
-                    "sha1": "6C7367A21E5DF71C3B373561A952C577C2151B7D"
+                    "name": "entity_sound_features_1.21.9-fabric-0.7.2.jar",
+                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/bs086WyB/entity_sound_features_1.21.9-fabric-0.7.2.jar",
+                    "sha1": "DDFD773B90047863821AD9077061B28F302EFFB5"
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
@@ -771,6 +771,11 @@
                     "name": "InventoryParticles-2.1.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/dotKvqnL/InventoryParticles-2.1.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "C855BDAC61B825870DB6D54A49362FBF6DFB8DEF"
+                },
+                {
+                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
                 },
                 {
                     "name": "itemscroller-fabric-1.21.11-0.30.3.jar",
@@ -961,11 +966,6 @@
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
                     "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66"
-                },
-                {
-                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
                 }
             ]
         }
