@@ -614,36 +614,6 @@
             },
             "mods": [
             ]
-        },
-    ],
-    "optional_mods": [
-        {
-            "name": "Essential_1-3-10-8_fabric_26-1.jar",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/nRWs2FKy/Essential_1-3-10-8_fabric_26-1.jar",
-            "sha1": "348DA6BDC12FADE085061C4E27A4805B0A032C12",
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "dependencies": [],
-            "target_profiles": [
-                "ALL"
-            ]
-        },
-        {
-            "name": "xaerominimap-fabric-26.1.2-25.3.11.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nhb2seHH/xaerominimap-fabric-26.1.2-25.3.11.jar",
-            "sha1": "9DCFBC36EF61ACAB279AE52283C6CEB5C22942A9",
-            "display_name": "Xaero Minimap",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "xaeroworldmap-fabric-26.1.2-1.40.14.jar",
-                    "sha1": "EF0CF81FA118DF8DAE3074EDFBFE28682919BFA1",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/xyGbYBF5/xaeroworldmap-fabric-26.1.2-1.40.14.jar"
-                }
-            ],
-            "target_profiles": [
-                "ALL"
-            ]
         }
     ]
 }
