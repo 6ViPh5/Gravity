@@ -1013,7 +1013,8 @@
                 }
             ],
             "target_profiles": [
-                "ALL"
+                "vanplus",
+                "opt"
             ]
         }
     ]
