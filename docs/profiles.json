@@ -601,7 +601,20 @@
                     "file_type": "shader"
                 }
             ]
-        }
+        },
+        {
+            "id": "opt",
+            "name": "Optimizado 1.21",
+            "version": "1.21.11",
+            "loader": "fabric",
+            "loader_version": "0.19.2",
+            "req_user_type": null,
+            "visuals": {
+                "background": "https://images4.alphacoders.com/556/thumb-1920-556712.jpg"
+            },
+            "mods": [
+            ]
+        },
     ],
     "optional_mods": [
         {
