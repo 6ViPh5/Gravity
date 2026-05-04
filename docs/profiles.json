@@ -628,6 +628,11 @@
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314"
                 },
                 {
+                    "name": "architectury-19.0.1-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+                    "sha1": "2D40563F7E36F7A03F094031AEAACB175117928E"
+                },
+                {
                     "name": "boatiview-fabric-0.0.8-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/zgsaYcVL/boatiview-fabric-0.0.8-1.21.11.jar",
                     "sha1": "127307FEF38F9E99B014F4AD7EB39031E00EB4C7"
@@ -816,6 +821,11 @@
                     "name": "PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/owXZpJai/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar",
                     "sha1": "F502FAFF2063B34CFCA40CFADA13E4FECF69E7FC"
+                },
+                {
+                    "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
+                    "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
                 },
                 {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
