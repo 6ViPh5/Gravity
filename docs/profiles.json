@@ -955,9 +955,9 @@
             ]
         },
         {
-            "name": "punchy-2.5.3-fabric-26.1-26.1.1-26.1.2.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/1xSteJ8T/punchy-2.5.3-fabric-26.1-26.1.1-26.1.2.jar",
-            "sha1": "72558672CC2454546FEF4A9450AFEA15944347F1",
+            "name": "punchy-2.5.3-fabric-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar"",
+            "sha1": "219118D937F1A81C21DBDB472D5AEE03541F397A",
             "display_name": "Punchy!",
             "req_user_type": null,
             "dependencies": [],
