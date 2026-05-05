@@ -250,11 +250,6 @@
                     "sha1": "D605AB9D41DF8251FD8C734883C0A677DAB03083"
                 },
                 {
-                    "name": "cursors_extended-fabric-4.1.6+26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/uIMwOyDw/cursors_extended-fabric-4.1.6%2B26.1.jar",
-                    "sha1": "7E837FAC5F002C90B0C86BDFFCE3FB568FBD0160"
-                },
-                {
                     "name": "DeleteWorldsToTrash-v26.1.2-mc26.1.x-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/7diJQfvM/versions/UXjZDPHq/DeleteWorldsToTrash-v26.1.2-mc26.1.x-Fabric.jar",
                     "sha1": "9D86A5C2FDD29864B2E0C655D973208AEF34A986"
@@ -956,8 +951,19 @@
         },
         {
             "name": "punchy-2.5.3-fabric-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar"",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar",
             "sha1": "219118D937F1A81C21DBDB472D5AEE03541F397A",
+            "display_name": "Punchy!",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "opt21"
+            ]
+        },
+        {
+            "name": "cursors_extended-fabric-4.1.6+26.1.jar",
+            "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/uIMwOyDw/cursors_extended-fabric-4.1.6%2B26.1.jar",
+            "sha1": "7E837FAC5F002C90B0C86BDFFCE3FB568FBD0160",
             "display_name": "Punchy!",
             "req_user_type": null,
             "dependencies": [],
