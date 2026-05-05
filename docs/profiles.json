@@ -628,6 +628,11 @@
                     "sha1": "2D40563F7E36F7A03F094031AEAACB175117928E"
                 },
                 {
+                    "name": "punchy-2.5.3-fabric-26.1-26.1.1-26.1.2.jar",
+                    "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/1xSteJ8T/punchy-2.5.3-fabric-26.1-26.1.1-26.1.2.jar",
+                    "sha1": "72558672CC2454546FEF4A9450AFEA15944347F1"
+                },
+                {
                     "name": "ArmorTrimItemFix-fabric-1.21.11-2.1.5.jar",
                     "url": "https://cdn.modrinth.com/data/kIhxG5zE/versions/amzwgtkI/ArmorTrimItemFix-fabric-1.21.11-2.1.5.jar",
                     "sha1": "132E1ADFF2315489A5CE004E6DBD67C547D14F9B"
