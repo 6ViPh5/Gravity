@@ -723,6 +723,11 @@
                     "sha1": "50DE67EB221F0B38216DA8668B09CA311327040E"
                 },
                 {
+                    "name": "fabric-bind-cmd-2.0.0-rc.2-1.21.jar",
+                    "url": "https://cdn.modrinth.com/data/WeytAdLH/versions/RnSQhNmf/fabric-bind-cmd-2.0.0-rc.2-1.21.jar",
+                    "sha1": "33CA2B2BF2B0B9A778349D793466E87E3BBDAA07"
+                },
+                {
                     "name": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
                     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar",
                     "sha1": "B6190B247C557C493DC4204121744F289A1D1837"
@@ -928,6 +933,17 @@
     ],
     "optional_mods": [
         {
+            "name": "cursors_extended-fabric-4.1.6+26.1.jar",
+            "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/uIMwOyDw/cursors_extended-fabric-4.1.6%2B26.1.jar",
+            "sha1": "7E837FAC5F002C90B0C86BDFFCE3FB568FBD0160",
+            "display_name": "Cursors Extended",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "opt21"
+            ]
+        },
+        {
             "name": "Essential_1-3-10-8_fabric_26-1.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/nRWs2FKy/Essential_1-3-10-8_fabric_26-1.jar",
             "sha1": "348DA6BDC12FADE085061C4E27A4805B0A032C12",
@@ -950,28 +966,6 @@
             ]
         },
         {
-            "name": "punchy-2.5.3-fabric-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar",
-            "sha1": "219118D937F1A81C21DBDB472D5AEE03541F397A",
-            "display_name": "Punchy!",
-            "req_user_type": null,
-            "dependencies": [],
-            "target_profiles": [
-                "opt21"
-            ]
-        },
-        {
-            "name": "cursors_extended-fabric-4.1.6+26.1.jar",
-            "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/uIMwOyDw/cursors_extended-fabric-4.1.6%2B26.1.jar",
-            "sha1": "7E837FAC5F002C90B0C86BDFFCE3FB568FBD0160",
-            "display_name": "Cursors Extended",
-            "req_user_type": null,
-            "dependencies": [],
-            "target_profiles": [
-                "opt21"
-            ]
-        },
-        {
             "name": "journeymap-fabric-26.1.2-6.0.0-beta.70.jar",
             "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/m5NUJY9O/journeymap-fabric-26.1.2-6.0.0-beta.70.jar",
             "sha1": "0A779E333903B3C0E3A5E8865A71BACA2E7DD4D8",
@@ -981,6 +975,17 @@
             "target_profiles": [
                 "opt",
                 "vanplus"
+            ]
+        },
+        {
+            "name": "punchy-2.5.3-fabric-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/WxSRcb9b/punchy-2.5.3-fabric-1.21.11.jar",
+            "sha1": "219118D937F1A81C21DBDB472D5AEE03541F397A",
+            "display_name": "Punchy!",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "opt21"
             ]
         }
     ]
