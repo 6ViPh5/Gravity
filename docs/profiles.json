@@ -688,11 +688,6 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
-                    "name": "EasyVillagerTrade-1.2.4-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/r80PR38K/versions/EHTwOXCJ/EasyVillagerTrade-1.2.4-1.21.11.jar",
-                    "sha1": "2C2AB593E3097ADB4A9676FFB20F3374B8DBEC1A"
-                },
-                {
                     "name": "elytratrails-1.4.5-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/XpVCwVAZ/elytratrails-1.4.5-1.21.11.jar",
                     "sha1": "A806BF71F2FC3416AF564102DEDA9F378209647E"
@@ -726,11 +721,6 @@
                     "name": "fabric-api-0.141.3+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/i5tSkVBH/fabric-api-0.141.3%2B1.21.11.jar",
                     "sha1": "50DE67EB221F0B38216DA8668B09CA311327040E"
-                },
-                {
-                    "name": "fabric-bind-cmd-2.0.0-rc.2-1.21.jar",
-                    "url": "https://cdn.modrinth.com/data/WeytAdLH/versions/RnSQhNmf/fabric-bind-cmd-2.0.0-rc.2-1.21.jar",
-                    "sha1": "33CA2B2BF2B0B9A778349D793466E87E3BBDAA07"
                 },
                 {
                     "name": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
