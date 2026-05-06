@@ -763,6 +763,11 @@
                     "sha1": "C855BDAC61B825870DB6D54A49362FBF6DFB8DEF"
                 },
                 {
+                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
+                },
+                {
                     "name": "journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
                     "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/VX8GZXvv/journeymap-fabric-1.21.11-6.0.0-beta.68.jar",
                     "sha1": "41F009AFE1F6F75B8C9E298A94AC79274DB1D77B"
@@ -918,15 +923,14 @@
                     "sha1": "76E426CA0C5638B78146E313F700B6848FF0AEAE"
                 },
                 {
+                    "name": "villagertimetable-1.0.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/rmQAsW9m/versions/pXknrcWS/villagertimetable-1.0.2%2B1.21.11.jar",
+                    "sha1": "D3E7BE69926B021024DE1330CC205CB41B0D6ABB"
+                },
+                {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
                     "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66"
-                },
-                {
-                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C",
-                    "file_type": "shader"
                 }
             ]
         }
