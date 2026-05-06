@@ -803,6 +803,11 @@
                     "sha1": "820FA61EBEBC83D78FF954DBC5C29E1C3AA3B01F"
                 },
                 {
+                    "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+                    "sha1": "86515DE45FE960BD717DEEA0954055106E857B81"
+                },
+                {
                     "name": "mru-1.0.26+edge+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/XXzIJdq5/mru-1.0.26%2Bedge%2B1.21.11-fabric.jar",
                     "sha1": "8B4D0803932C2EDF6F521FEB306BCD01A013A692"
