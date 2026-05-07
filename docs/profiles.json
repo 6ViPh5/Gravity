@@ -608,6 +608,11 @@
             },
             "mods": [
                 {
+                    "name": "AnimatedTyping-1.21.11+1.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/r8GP0gUl/versions/WTVTTbMr/AnimatedTyping-1.21.11%2B1.0.0.jar",
+                    "sha1": "8BE11281286F870849A956466FC86BD05557C83D"
+                },
+                {
                     "name": "anvianslib-fabric-1.21.10-1.4.jar",
                     "url": "https://cdn.modrinth.com/data/PuTjrq4T/versions/sxNNgRCw/anvianslib-fabric-1.21.10-1.4.jar",
                     "sha1": "1AE6AD4D2C09F466FCE1722B3E88CDCC54A9D3D5"
