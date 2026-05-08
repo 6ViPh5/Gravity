@@ -673,6 +673,11 @@
                     "sha1": "91F7628BC4251EBB693E10C321B4EE9B7E2AE99C"
                 },
                 {
+                    "name": "Controlling-fabric-1.21.11-29.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/A6W4m3vi/Controlling-fabric-1.21.11-29.0.1.jar",
+                    "sha1": "AFBBBB9248D9AFE6224886C62EE1B35732F056F3"
+                },
+                {
                     "name": "coolrain-1.4.0-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/c3u5hXlJ/coolrain-1.4.0-1.21.11.jar",
                     "sha1": "8F80AA56849A414F77A4D952221851C5301B41C6"
@@ -763,9 +768,19 @@
                     "sha1": "147EBF8A706B99241D476C8C5330F2633CC0A288"
                 },
                 {
+                    "name": "InstaRestock-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/5kZMR4tZ/versions/gCzFzWJT/InstaRestock-1.21.11.jar",
+                    "sha1": "7E4159367DE4D185C92075F09EF1788D39322D7E"
+                },
+                {
                     "name": "InventoryParticles-2.1.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/dotKvqnL/InventoryParticles-2.1.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "C855BDAC61B825870DB6D54A49362FBF6DFB8DEF"
+                },
+                {
+                    "name": "inventorysorter-fabric-2.1.4+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/Dq4h9aTH/inventorysorter-fabric-2.1.4%2Bmc1.21.11.jar",
+                    "sha1": "AC8D3592E92D590A2F63A227671DF2BACBD03D30"
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
@@ -848,6 +863,11 @@
                     "sha1": "036AB462EE1EBC52A48C7D0E20CE804D705BE58C"
                 },
                 {
+                    "name": "PlayerAnimationLibFabric-1.1.7+mc.1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/G6g51qwL/PlayerAnimationLibFabric-1.1.7%2Bmc.1.21.11.jar",
+                    "sha1": "216EF6D17145184E7127627989B8941EC3833D95"
+                },
+                {
                     "name": "prickle-fabric-1.21.11-21.11.1.jar",
                     "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/fgUon9A6/prickle-fabric-1.21.11-21.11.1.jar",
                     "sha1": "BA448B0B274ABD54AD24332055FBB1CDC66E43C0"
@@ -926,11 +946,6 @@
                     "name": "SubtleEffects-fabric-1.21.11-1.14.0.jar",
                     "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/5Uku820x/SubtleEffects-fabric-1.21.11-1.14.0.jar",
                     "sha1": "76E426CA0C5638B78146E313F700B6848FF0AEAE"
-                },
-                {
-                    "name": "villagertimetable-1.0.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/rmQAsW9m/versions/pXknrcWS/villagertimetable-1.0.2%2B1.21.11.jar",
-                    "sha1": "D3E7BE69926B021024DE1330CC205CB41B0D6ABB"
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
