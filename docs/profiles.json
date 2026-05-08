@@ -663,6 +663,11 @@
                     "sha1": "B6EF489A24C2A8CB3DB90E8B8D924D17C8B45C9F"
                 },
                 {
+                    "name": "clientsort-fabric-2.2.1+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/YNOFvUDb/clientsort-fabric-2.2.1%2B1.21.11.jar",
+                    "sha1": "3BF578D7CC4E4D642B51D7D268662AB65E44F5D4"
+                },
+                {
                     "name": "cloth-config-21.11.153-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
                     "sha1": "4C224606A963BCE223DB5B27EDB4959ECF40D4EE"
@@ -776,11 +781,6 @@
                     "name": "InventoryParticles-2.1.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/dotKvqnL/InventoryParticles-2.1.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "C855BDAC61B825870DB6D54A49362FBF6DFB8DEF"
-                },
-                {
-                    "name": "inventorysorter-fabric-2.1.4+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/Dq4h9aTH/inventorysorter-fabric-2.1.4%2Bmc1.21.11.jar",
-                    "sha1": "AC8D3592E92D590A2F63A227671DF2BACBD03D30"
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
