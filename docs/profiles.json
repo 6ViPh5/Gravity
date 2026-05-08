@@ -883,6 +883,11 @@
                     "sha1": "FB452B122FD72E8540D32FBE3DF01CC34A45CE41"
                 },
                 {
+                    "name": "Searchables-fabric-1.21.11-1.0.4.jar",
+                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8t7XWQgt/Searchables-fabric-1.21.11-1.0.4.jar",
+                    "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850"
+                },
+                {
                     "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
                     "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
