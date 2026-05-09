@@ -818,6 +818,11 @@
                     "sha1": "8404048FA068DFF134DB71B6198C5D379CCD036F"
                 },
                 {
+                    "name": "MasEffects 1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YsP4hqhn/versions/QXvEu8Y3/MasEffects%201.21.11.jar",
+                    "sha1": "20538153C7E633FB2D9474BAFD3EA6447A3E2F5B"
+                },
+                {
                     "name": "midnightlib-fabric-1.9.3+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%2B1.21.11.jar",
                     "sha1": "5FF624CC3763A0CB9A25296ED3A442D1ACE44D68"
