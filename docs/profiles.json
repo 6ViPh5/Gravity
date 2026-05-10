@@ -753,11 +753,6 @@
                     "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65"
                 },
                 {
-                    "name": "fixmyping-1.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/9GikcByI/versions/IQsMPAfF/fixmyping-1.0.0.jar",
-                    "sha1": "10DC83A68DA4CCA64EDF73C2A09DF7950237DFE2"
-                },
-                {
                     "name": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
                     "sha1": "61AA1B5FAFD75AFC44552D0213CAC39BC938BC2D"
@@ -863,11 +858,6 @@
                     "sha1": "CBC66BB65E6B3A5523FB2DA697FE64016E87DDEA"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999"
-                },
-                {
                     "name": "ParticleEffects-1.4.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/lIkXDgWp/ParticleEffects-1.4.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "F571FCA0BD3D09E6B75AD865B17053967AF12634"
@@ -911,11 +901,6 @@
                     "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
                     "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
-                },
-                {
-                    "name": "ShieldFixes-2.0.2-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/HfLFMeJe/versions/vYE8dSob/ShieldFixes-2.0.2-1.21.11.jar",
-                    "sha1": "BAC642BE62478438F2090FE47342F31F76D81052"
                 },
                 {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
@@ -976,6 +961,11 @@
                     "name": "SubtleEffects-fabric-1.21.11-1.14.0.jar",
                     "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/5Uku820x/SubtleEffects-fabric-1.21.11-1.14.0.jar",
                     "sha1": "76E426CA0C5638B78146E313F700B6848FF0AEAE"
+                },
+                {
+                    "name": "WalksyLib-0.9.992+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
+                    "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD"
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
