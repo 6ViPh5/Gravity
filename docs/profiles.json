@@ -663,6 +663,11 @@
                     "sha1": "B6EF489A24C2A8CB3DB90E8B8D924D17C8B45C9F"
                 },
                 {
+                    "name": "cicada-lib-0.14.3+1.21.9-1.21.10.jar",
+                    "url": "https://cdn.modrinth.com/data/IwCkru1D/versions/CqAskfnS/cicada-lib-0.14.3%2B1.21.9-1.21.10.jar",
+                    "sha1": "5DF55AB2733C3BB729A9EA87FEF8A4D26C2A57D1"
+                },
+                {
                     "name": "clientsort-fabric-2.2.1+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/YNOFvUDb/clientsort-fabric-2.2.1%2B1.21.11.jar",
                     "sha1": "3BF578D7CC4E4D642B51D7D268662AB65E44F5D4"
@@ -858,6 +863,11 @@
                     "sha1": "CBC66BB65E6B3A5523FB2DA697FE64016E87DDEA"
                 },
                 {
+                    "name": "owo-lib-0.13.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/33Ei8Thm/owo-lib-0.13.0%2B1.21.11.jar",
+                    "sha1": "5BAF520EC1E69210EE430A8413A6493CC402764D"
+                },
+                {
                     "name": "ParticleEffects-1.4.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/lIkXDgWp/ParticleEffects-1.4.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "F571FCA0BD3D09E6B75AD865B17053967AF12634"
@@ -901,6 +911,11 @@
                     "name": "ShatterLib-FABRIC-0.6.0.8+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DtNaQNS2/ShatterLib-FABRIC-0.6.0.8%2B1.21.11.jar",
                     "sha1": "2C591BE8990702ACA214AC19C922422FD6725B81"
+                },
+                {
+                    "name": "show-me-your-skin-2.0.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/bD7YqcA3/versions/H7L6QJDl/show-me-your-skin-2.0.2%2B1.21.11.jar",
+                    "sha1": "05E3EBFD8F7BBB15D39DF4D16984BE59CE2D8AEB"
                 },
                 {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
