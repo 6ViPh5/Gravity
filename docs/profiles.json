@@ -1046,6 +1046,33 @@
             "target_profiles": [
                 "opt21"
             ]
+        },
+        {
+            "name": "worldedit-mod-7.4.2.jar",
+            "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/oY3E2pzA/worldedit-mod-7.4.2.jar",
+            "sha1": "2F5C35AB2D0DFFA1BE99ED6016132596949E59B3",
+            "display_name": "Building Mods",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "litematica-printer-1.21.11-3.2.1B.jar",
+                    "sha1": "EA2FC7DAA522DF2C56C5930FE5E7CF87752236CA",
+                    "url": "https://cdn.modrinth.com/data/3llatzyE/versions/P4FcgXko/litematica-printer-1.21.11-3.2.1B.jar"
+                },
+                {
+                    "name": "litematica-fabric-1.21.11-0.26.5.jar",
+                    "sha1": "F8699ED92BD04295BB9A099B90C8806A810EDD05",
+                    "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/b1ETiWxS/litematica-fabric-1.21.11-0.26.5.jar"
+                },
+                {
+                    "name": "malilib-fabric-1.21.11-0.27.9.jar",
+                    "sha1": "932AD57F43937DDA82BE5996F08CE8E21C875B51",
+                    "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/UW6wRWbH/malilib-fabric-1.21.11-0.27.9.jar"
+                }
+            ],
+            "target_profiles": [
+                "opt21"
+            ]
         }
     ]
 }
