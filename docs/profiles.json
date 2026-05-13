@@ -708,6 +708,11 @@
                     "sha1": "2E3D5B4DEDFBE98CCA53CD9E23F61AEC1679EF6B"
                 },
                 {
+                    "name": "drippyloadingscreen_fabric_3.1.2_MC_1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/v3CYg2V9/versions/UMvWdGM5/drippyloadingscreen_fabric_3.1.2_MC_1.21.11.jar",
+                    "sha1": "B24625AECE2227A761BA90FD5B42AD0445070DA3"
+                },
+                {
                     "name": "elytratrails-1.4.5-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/XpVCwVAZ/elytratrails-1.4.5-1.21.11.jar",
                     "sha1": "A806BF71F2FC3416AF564102DEDA9F378209647E"
@@ -751,6 +756,11 @@
                     "name": "fadeless-2.0.7-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/rDv0F5eE/fadeless-2.0.7-1.21.11.jar",
                     "sha1": "C915116CE5B347C9F6D6EA31BD0552367ED407CE"
+                },
+                {
+                    "name": "fancymenu_fabric_3.9.0_MC_1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/1U76Jlm5/fancymenu_fabric_3.9.0_MC_1.21.11.jar",
+                    "sha1": "3C579323E9C4A3DE8F6F2F99D069A266A1FF199C"
                 },
                 {
                     "name": "ferritecore-8.2.0-fabric.jar",
@@ -803,6 +813,11 @@
                     "sha1": "41F009AFE1F6F75B8C9E298A94AC79274DB1D77B"
                 },
                 {
+                    "name": "konkrete_fabric_1.9.18_MC_1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/6ypTGwlP/konkrete_fabric_1.9.18_MC_1.21.11.jar",
+                    "sha1": "734866BDEED1AF0B1FA23B131BD841648AF96F69"
+                },
+                {
                     "name": "lambdynamiclights-4.9.1+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/5Tp7kdU0/lambdynamiclights-4.9.1%2B1.21.11.jar",
                     "sha1": "F22487846158F62B3485A5A0723BA048326AC00F"
@@ -826,6 +841,16 @@
                     "name": "MasEffects 1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/YsP4hqhn/versions/QXvEu8Y3/MasEffects%201.21.11.jar",
                     "sha1": "20538153C7E633FB2D9474BAFD3EA6447A3E2F5B"
+                },
+                {
+                    "name": "mcef_neoforge_2.2.0_MC_1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/bQhBuv7x/versions/E0dvGikq/mcef_neoforge_2.2.0_MC_1.21.11.jar",
+                    "sha1": "1D90C3198027D40EB1CE8D25B7ACEC13C1033D26"
+                },
+                {
+                    "name": "melody_fabric_1.0.15_MC_1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/Xo1GAiPu/melody_fabric_1.0.15_MC_1.21.11.jar",
+                    "sha1": "F964ABB4947C35B0D85051772C3ED72D6891CF51"
                 },
                 {
                     "name": "midnightlib-fabric-1.9.3+1.21.11.jar",
@@ -868,6 +893,11 @@
                     "sha1": "5BAF520EC1E69210EE430A8413A6493CC402764D"
                 },
                 {
+                    "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
+                    "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999"
+                },
+                {
                     "name": "ParticleEffects-1.4.0+1.21.11+fabric.jar",
                     "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/lIkXDgWp/ParticleEffects-1.4.0%2B1.21.11%2Bfabric.jar",
                     "sha1": "F571FCA0BD3D09E6B75AD865B17053967AF12634"
@@ -901,6 +931,11 @@
                     "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
                     "sha1": "FB452B122FD72E8540D32FBE3DF01CC34A45CE41"
+                },
+                {
+                    "name": "reimagined-intro-2.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/BsnF5g7E/versions/qP6C93CZ/reimagined-intro-2.0.0.jar",
+                    "sha1": "14000EE160F723FF2A62184B2285C44014F0F365"
                 },
                 {
                     "name": "Searchables-fabric-1.21.11-1.0.4.jar",
