@@ -1163,7 +1163,8 @@
             "req_user_type": "microsoft",
             "dependencies": [],
             "target_profiles": [
-                "ALL"
+                "opt",
+                "vanplus"
             ]
         },
         {
