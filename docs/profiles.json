@@ -996,7 +996,7 @@
         },
         {
             "id": "pvp",
-            "name": "PvP",
+            "name": "PvP (No Disponible)",
             "version": "1.8.9",
             "loader": "forge",
             "loader_version": "11.15.1.2318",
