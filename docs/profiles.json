@@ -993,6 +993,19 @@
                     "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66"
                 }
             ]
+        },
+        {
+            "id": "pvp",
+            "name": "PvP",
+            "version": "1.8.9",
+            "loader": "forge",
+            "loader_version": "11.15.1.2318",
+            "req_user_type": null,
+            "visuals": {
+                "background": "https://hypixel.net/attachments/2021-04-22_22-19-05-png.2520643/"
+            },
+            "mods": [
+            ]
         }
     ],
     "optional_mods": [
