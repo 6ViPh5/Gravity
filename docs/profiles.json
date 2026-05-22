@@ -1111,6 +1111,11 @@
                     "sha1": "86515DE45FE960BD717DEEA0954055106E857B81"
                 },
                 {
+                    "name": "no_hurtcam-1.0.2.jar",
+                    "url": "https://cdn.modrinth.com/data/vfl9hZVo/versions/MBLbJHRO/no_hurtcam-1.0.2.jar",
+                    "sha1": "66FA2AA8D7D6835EB2F60F5BEB37B6899BC78B26"
+                },
+                {
                     "name": "notenoughcrashes-fabric-4.4.9+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/yM94ont6/versions/C1S3kMbN/notenoughcrashes-fabric-4.4.9%2B1.21.11.jar",
                     "sha1": "BD074FCA3AFB865FD21FCCFC491056D1FE2C2E82"
@@ -1144,6 +1149,11 @@
                     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
                     "sha1": "4D80592BEF36674E7469AE2737A7704B826289AE"
+                },
+                {
+                    "name": "sodium-fullbright-1.1.0.jar",
+                    "url": "https://cdn.modrinth.com/data/iVSjpXol/versions/ghCK230t/sodium-fullbright-1.1.0.jar",
+                    "sha1": "324E3D5D283FEB9B2BDEBBA1B6020AC5CFC9A9B1"
                 },
                 {
                     "name": "spark-1.10.170-fabric.jar",
