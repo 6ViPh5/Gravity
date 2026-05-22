@@ -1005,6 +1005,171 @@
                 "background": "https://hypixel.net/attachments/2021-04-22_22-19-05-png.2520643/"
             },
             "mods": [
+                {
+                    "name": "animatium-3.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/zy0karK1/versions/7fcCE8wG/animatium-3.2%2B1.21.11-fabric.jar",
+                    "sha1": "CEE336DC9908202AD081181961D00DEC345E5574"
+                },
+                {
+                    "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+                    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
+                    "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314"
+                },
+                {
+                    "name": "armorhud-percentages-fabric-1.21.11-1.1.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/TFF1gVlD/versions/Bm9aeN1l/armorhud-percentages-fabric-1.21.11-1.1.0%2B1.21.11.jar",
+                    "sha1": "5596FD928D6A702CD866919C0A5EF7DCF693D4C2"
+                },
+                {
+                    "name": "BadOptimizations-2.4.1-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
+                    "sha1": "70FA28D5A7A1FDD61DD804CA6AC411750DA1473F"
+                },
+                {
+                    "name": "blur-fabric-6.2.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NK39zBp2/versions/vQ1uFkzB/blur-fabric-6.2.0%2B1.21.11.jar",
+                    "sha1": "1DEFE4BF0F06798C51D37C9CE284FAC063774629"
+                },
+                {
+                    "name": "bobby-5.2.11+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
+                    "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2"
+                },
+                {
+                    "name": "cloth-config-21.11.153-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+                    "sha1": "4C224606A963BCE223DB5B27EDB4959ECF40D4EE"
+                },
+                {
+                    "name": "Clumps-fabric-1.21.11-29.0.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/OgBE8Rz4/Clumps-fabric-1.21.11-29.0.0.1.jar",
+                    "sha1": "626FDE9E970030CFC8CB64CD0A1ABFC03D37ECC2"
+                },
+                {
+                    "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.9.jar",
+                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/JDUbABmP/CrashAssistant-fabric-1.21.5-1.21.11-1.11.9.jar",
+                    "sha1": "FD8E3056DBB0ED3E8ED531CAEBC5FBFF2C435E09"
+                },
+                {
+                    "name": "crosshairindicator-1.0.3.jar",
+                    "url": "https://cdn.modrinth.com/data/zLAdIOH7/versions/acAUyXRW/crosshairindicator-1.0.3.jar",
+                    "sha1": "EA4EB8455E7D732DFAB087E8EFBCA3F77B2CBFBB"
+                },
+                {
+                    "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/CWZPvNbk/entity_model_features-3.2.4-1.21.11-fabric.jar",
+                    "sha1": "FB87711A8252C4B54908C589E3C13B00A767808E"
+                },
+                {
+                    "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/rAQimlSn/entity_texture_features_1.21.11-fabric-7.1.jar",
+                    "sha1": "1D26DBB21DD4F17ADBDB54F077334634F708A3D4"
+                },
+                {
+                    "name": "entityculling-fabric-1.10.2-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/j9D8p9DR/entityculling-fabric-1.10.2-mc1.21.11.jar",
+                    "sha1": "07425F2321600143113F02A3CC19900D6560244F"
+                },
+                {
+                    "name": "fabric-api-0.141.4+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5zJNhXV2/fabric-api-0.141.4%2B1.21.11.jar",
+                    "sha1": "13D3885DFEC40313E2B3BF9EE639353272B9B48A"
+                },
+                {
+                    "name": "ferritecore-8.2.0-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+                    "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65"
+                },
+                {
+                    "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar",
+                    "sha1": "4F17C6B7388F0AFC5D24075DC2A294963F78C712"
+                },
+                {
+                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
+                },
+                {
+                    "name": "MasEffects 1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YsP4hqhn/versions/QXvEu8Y3/MasEffects%201.21.11.jar",
+                    "sha1": "20538153C7E633FB2D9474BAFD3EA6447A3E2F5B"
+                },
+                {
+                    "name": "midnightlib-fabric-1.9.3+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%2B1.21.11.jar",
+                    "sha1": "5FF624CC3763A0CB9A25296ED3A442D1ACE44D68"
+                },
+                {
+                    "name": "modmenu-17.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
+                    "sha1": "544A8B340AC3918D85BCC7D02EAFF5372814354B"
+                },
+                {
+                    "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+                    "sha1": "86515DE45FE960BD717DEEA0954055106E857B81"
+                },
+                {
+                    "name": "notenoughcrashes-fabric-4.4.9+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/yM94ont6/versions/C1S3kMbN/notenoughcrashes-fabric-4.4.9%2B1.21.11.jar",
+                    "sha1": "BD074FCA3AFB865FD21FCCFC491056D1FE2C2E82"
+                },
+                {
+                    "name": "placeholder-api-2.8.2+1.21.10.jar",
+                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+                    "sha1": "BBDC920ECFF993148CD6E81A208536132245CE40"
+                },
+                {
+                    "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
+                    "sha1": "FB452B122FD72E8540D32FBE3DF01CC34A45CE41"
+                },
+                {
+                    "name": "Searchables-fabric-1.21.11-1.0.4.jar",
+                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8t7XWQgt/Searchables-fabric-1.21.11-1.0.4.jar",
+                    "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850"
+                },
+                {
+                    "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar",
+                    "sha1": "3F889DE77A0AEC69FFCFD28BF6FB2C077443788A"
+                },
+                {
+                    "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/yqY1efrC/sodium-extra-fabric-0.8.3%2Bmc1.21.11.jar",
+                    "sha1": "E8FD1EAE0D589393189F64062CA1E46FC03F4CED"
+                },
+                {
+                    "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+                    "sha1": "4D80592BEF36674E7469AE2737A7704B826289AE"
+                },
+                {
+                    "name": "spark-1.10.170-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
+                    "sha1": "2A3745BAA44E11672C4BEFE3BEECCEF758581F80"
+                },
+                {
+                    "name": "ukulib-1.10.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
+                    "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F"
+                },
+                {
+                    "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
+                    "sha1": "E11951AAB0FF32626FEB48045DA0574260784543"
+                },
+                {
+                    "name": "WI-Zoom-1.7-MC1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/o7DitHWP/versions/8TffgKNp/WI-Zoom-1.7-MC1.21.11.jar",
+                    "sha1": "A4889DBC1C18CE14A5B237720C467B82FDF23825"
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66"
+                }
             ]
         }
     ],
