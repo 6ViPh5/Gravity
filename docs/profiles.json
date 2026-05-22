@@ -995,11 +995,11 @@
             ]
         },
         {
-            "id": "pvp",
-            "name": "PvP (No Disponible)",
-            "version": "1.8.9",
-            "loader": "forge",
-            "loader_version": "11.15.1.2318",
+            "id": "pvp1.9",
+            "name": "PvP 1.9",
+            "version": "1.21.11",
+            "loader": "fabric",
+            "loader_version": "0.19.2",
             "req_user_type": null,
             "visuals": {
                 "background": "https://hypixel.net/attachments/2021-04-22_22-19-05-png.2520643/"
