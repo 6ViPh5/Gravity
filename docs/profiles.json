@@ -1076,6 +1076,11 @@
                     "sha1": "EA4EB8455E7D732DFAB087E8EFBCA3F77B2CBFBB"
                 },
                 {
+                    "name": "custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/o1tyE5vJ/versions/iLIQEttK/custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
+                    "sha1": "1E0DF3DDC5099A404E6A7BF9D40C8A2041F0DBB3"
+                },
+                {
                     "name": "elytrapitch-1.4.5.jar",
                     "url": "https://cdn.modrinth.com/data/NSHJxibg/versions/R6jWgYEl/elytrapitch-1.4.5.jar",
                     "sha1": "76E4E61274E9B43E6754BEE5064E47AC839BD155"
@@ -1204,11 +1209,6 @@
                     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
                     "sha1": "4D80592BEF36674E7469AE2737A7704B826289AE"
-                },
-                {
-                    "name": "sodium-fullbright-1.1.0.jar",
-                    "url": "https://cdn.modrinth.com/data/iVSjpXol/versions/ghCK230t/sodium-fullbright-1.1.0.jar",
-                    "sha1": "324E3D5D283FEB9B2BDEBBA1B6020AC5CFC9A9B1"
                 },
                 {
                     "name": "spark-1.10.170-fabric.jar",
