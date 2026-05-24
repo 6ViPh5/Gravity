@@ -1021,9 +1021,19 @@
                     "sha1": "5596FD928D6A702CD866919C0A5EF7DCF693D4C2"
                 },
                 {
+                    "name": "bactromod-3.5.jar",
+                    "url": "https://cdn.modrinth.com/data/2Ok6dkOD/versions/kJoTy4V3/bactromod-3.5.jar",
+                    "sha1": "B9FB2AA3D1D00A5DE570E1D372A3F971905E5858"
+                },
+                {
                     "name": "BadOptimizations-2.4.1-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
                     "sha1": "70FA28D5A7A1FDD61DD804CA6AC411750DA1473F"
+                },
+                {
+                    "name": "BetterHitreg-1.0.6+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/MIKwzoiY/versions/3Docv80V/BetterHitreg-1.0.6%2B1.21.11.jar",
+                    "sha1": "79DCE0BC031ED04CED714D4E6EA160EFBE302438"
                 },
                 {
                     "name": "blur-fabric-6.2.0+1.21.11.jar",
@@ -1036,6 +1046,11 @@
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2"
                 },
                 {
+                    "name": "c2me-fabric-mc1.21.11-0.3.7+alpha.0.10.jar",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/UeCYljaE/c2me-fabric-mc1.21.11-0.3.7%2Balpha.0.10.jar",
+                    "sha1": "FDD8C2009852FB41118D5C5C0969A6E274D7426C"
+                },
+                {
                     "name": "cloth-config-21.11.153-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
                     "sha1": "4C224606A963BCE223DB5B27EDB4959ECF40D4EE"
@@ -1046,6 +1061,11 @@
                     "sha1": "626FDE9E970030CFC8CB64CD0A1ABFC03D37ECC2"
                 },
                 {
+                    "name": "ConsumableOptimizer-2.2.1-1.21.5.jar",
+                    "url": "https://cdn.modrinth.com/data/4alTd2ag/versions/wSm5ryCF/ConsumableOptimizer-2.2.1-1.21.5.jar",
+                    "sha1": "EA42B25969524F25ACA5020DD7248F177E3D33F3"
+                },
+                {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.9.jar",
                     "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/JDUbABmP/CrashAssistant-fabric-1.21.5-1.21.11-1.11.9.jar",
                     "sha1": "FD8E3056DBB0ED3E8ED531CAEBC5FBFF2C435E09"
@@ -1054,6 +1074,11 @@
                     "name": "crosshairindicator-1.0.3.jar",
                     "url": "https://cdn.modrinth.com/data/zLAdIOH7/versions/acAUyXRW/crosshairindicator-1.0.3.jar",
                     "sha1": "EA4EB8455E7D732DFAB087E8EFBCA3F77B2CBFBB"
+                },
+                {
+                    "name": "elytrapitch-1.4.5.jar",
+                    "url": "https://cdn.modrinth.com/data/NSHJxibg/versions/R6jWgYEl/elytrapitch-1.4.5.jar",
+                    "sha1": "76E4E61274E9B43E6754BEE5064E47AC839BD155"
                 },
                 {
                     "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
@@ -1081,6 +1106,16 @@
                     "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65"
                 },
                 {
+                    "name": "freelook-1.2.8.jar",
+                    "url": "https://cdn.modrinth.com/data/g4pR0Fmy/versions/elzgeThs/freelook-1.2.8.jar",
+                    "sha1": "5F2352446C497C371834FDBEA8F39D8DFF229625"
+                },
+                {
+                    "name": "herosanchoroptimizer-1.1.4.jar",
+                    "url": "https://cdn.modrinth.com/data/5J1t3PV8/versions/4Z68XJ4T/herosanchoroptimizer-1.1.4.jar",
+                    "sha1": "35E0427BF6F2F56B13639C4F4BEC2B66ECC98629"
+                },
+                {
                     "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar",
                     "sha1": "4F17C6B7388F0AFC5D24075DC2A294963F78C712"
@@ -1089,6 +1124,16 @@
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
                     "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
+                },
+                {
+                    "name": "krypton-0.2.10.jar",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+                    "sha1": "94DDAEEAE6CA7FECC79E54A0AA02A5438A775A99"
+                },
+                {
+                    "name": "Marlow Crystal Optimizer.jar",
+                    "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/YKWJ63xQ/Marlow%20Crystal%20Optimizer.jar",
+                    "sha1": "5A0A64CA1EB7E2BED9BC6E7AD8E0BD639FBB8682"
                 },
                 {
                     "name": "MasEffects 1.21.11.jar",
@@ -1104,6 +1149,11 @@
                     "name": "modmenu-17.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
                     "sha1": "544A8B340AC3918D85BCC7D02EAFF5372814354B"
+                },
+                {
+                    "name": "moreculling-fabric-1.21.11-1.6.2.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
+                    "sha1": "11A929DE62650CC536244D4C2BA889FA84C1C0F2"
                 },
                 {
                     "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
@@ -1136,6 +1186,11 @@
                     "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850"
                 },
                 {
+                    "name": "ShieldStatus-4.1.2-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/GfoMZ9Ly/versions/TceBEtTK/ShieldStatus-4.1.2-1.21.11.jar",
+                    "sha1": "2AC1A80C798CAE662B91EFA3387CDEAC36A1BFA2"
+                },
+                {
                     "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar",
                     "sha1": "3F889DE77A0AEC69FFCFD28BF6FB2C077443788A"
@@ -1161,6 +1216,11 @@
                     "sha1": "2A3745BAA44E11672C4BEFE3BEECCEF758581F80"
                 },
                 {
+                    "name": "totemcounter-1.11.2+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/T9R7YTnA/versions/eRAPu7Ge/totemcounter-1.11.2%2Bmc1.21.11.jar",
+                    "sha1": "63CAD515EA0C7E38C874125D737CBC2D00A08700"
+                },
+                {
                     "name": "ukulib-1.10.2+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
                     "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F"
@@ -1169,6 +1229,11 @@
                     "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
                     "sha1": "E11951AAB0FF32626FEB48045DA0574260784543"
+                },
+                {
+                    "name": "WalksyLib-0.9.992+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
+                    "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD"
                 },
                 {
                     "name": "WI-Zoom-1.7-MC1.21.11.jar",
