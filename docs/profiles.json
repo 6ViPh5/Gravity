@@ -1061,6 +1061,11 @@
                     "sha1": "626FDE9E970030CFC8CB64CD0A1ABFC03D37ECC2"
                 },
                 {
+                    "name": "CommandHotkeys-1.0.2.jar",
+                    "url": "https://cdn.modrinth.com/data/BrUb7paY/versions/PFIusgAn/CommandHotkeys-1.0.2.jar",
+                    "sha1": "8D738938B81D663A17AD028EE4722F85FB7C4109"
+                },
+                {
                     "name": "ConsumableOptimizer-2.2.1-1.21.5.jar",
                     "url": "https://cdn.modrinth.com/data/4alTd2ag/versions/wSm5ryCF/ConsumableOptimizer-2.2.1-1.21.5.jar",
                     "sha1": "EA42B25969524F25ACA5020DD7248F177E3D33F3"
@@ -1109,6 +1114,11 @@
                     "name": "ferritecore-8.2.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
                     "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65"
+                },
+                {
+                    "name": "fpsoverlay-1.9.1-1.21.9.jar",
+                    "url": "https://cdn.modrinth.com/data/xhf0jJmq/versions/SCm32Chr/fpsoverlay-1.9.1-1.21.9.jar",
+                    "sha1": "A261A2724277CB3CBD4D0C79C1289FDE09ECE114"
                 },
                 {
                     "name": "freelook-1.2.8.jar",
