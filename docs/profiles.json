@@ -1061,9 +1061,9 @@
                     "sha1": "626FDE9E970030CFC8CB64CD0A1ABFC03D37ECC2"
                 },
                 {
-                    "name": "CommandHotkeys-1.0.2.jar",
-                    "url": "https://cdn.modrinth.com/data/BrUb7paY/versions/PFIusgAn/CommandHotkeys-1.0.2.jar",
-                    "sha1": "8D738938B81D663A17AD028EE4722F85FB7C4109"
+                    "name": "commandkeys-fabric-2.4.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/8eiBV9Yy/commandkeys-fabric-2.4.0%2B1.21.11.jar",
+                    "sha1": "AA5B25837E0EC39721F6583C661852433CFEF46D"
                 },
                 {
                     "name": "ConsumableOptimizer-2.2.1-1.21.5.jar",
@@ -1139,6 +1139,11 @@
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
                     "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
+                },
+                {
+                    "name": "keystraksplus-1.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/etqPFIW7/versions/EUJCvYWs/keystraksplus-1.0.0.jar",
+                    "sha1": "D223FD50091C438A49D2DB23D615FFE31A2CE828"
                 },
                 {
                     "name": "krypton-0.2.10.jar",
