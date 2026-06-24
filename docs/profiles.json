@@ -1250,6 +1250,17 @@
     ],
     "optional_mods": [
         {
+            "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dL4IyVTy/chat_heads-1.2.4-fabric-1.21.11.jar",
+            "sha1": "DBB0D197A19BBE5DE43242595ADD638A2F6E2131",
+            "display_name": "Chat Heads",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
             "name": "cursors_extended-fabric-4.1.6+26.1.jar",
             "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/uIMwOyDw/cursors_extended-fabric-4.1.6%2B26.1.jar",
             "sha1": "7E837FAC5F002C90B0C86BDFFCE3FB568FBD0160",
@@ -1270,6 +1281,28 @@
             "target_profiles": [
                 "opt",
                 "vanplus"
+            ]
+        },
+        {
+            "name": "Essential_1-4-0-3_fabric_1-21-11.jar",
+            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/fkvuZace/Essential_1-4-0-3_fabric_1-21-11.jar",
+            "sha1": "4533DBD7D3694ABF7BAEE301A213E8C5990B9695",
+            "display_name": "Essential",
+            "req_user_type": "microsoft",
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
+            "name": "herobot-1.21.11-1.4.3+v260315.jar",
+            "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
+            "sha1": "17ABA207E6BD906CAE58B1C804F455955A9036B5",
+            "display_name": "Herobot",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
             ]
         },
         {
