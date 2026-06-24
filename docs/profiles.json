@@ -1231,6 +1231,11 @@
                     "sha1": "E11951AAB0FF32626FEB48045DA0574260784543"
                 },
                 {
+                    "name": "ViaFabricPlus-4.4.14.jar",
+                    "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/3MFqgZdf/ViaFabricPlus-4.4.14.jar",
+                    "sha1": "FF30C6254C9AFAF0C8A5A6EA2D8D79B1F5C5434A"
+                },
+                {
                     "name": "WalksyLib-0.9.992+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
                     "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD"
