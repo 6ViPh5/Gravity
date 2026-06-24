@@ -1206,9 +1206,9 @@
                     "sha1": "E8FD1EAE0D589393189F64062CA1E46FC03F4CED"
                 },
                 {
-                    "name": "sodium-fabric-0.8.13-beta.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/paat5Nz2/sodium-fabric-0.8.13-beta.2%2Bmc1.21.11.jar",
-                    "sha1": "983FA4E669B67B877F9E35921B1DCAD3C773E2FE"
+                    "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+                    "sha1": "4D80592BEF36674E7469AE2737A7704B826289AE"
                 },
                 {
                     "name": "spark-1.10.170-fabric.jar",
