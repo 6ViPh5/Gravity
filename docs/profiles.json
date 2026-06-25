@@ -12,7 +12,7 @@
         },
         {
             "id": "opt",
-            "name": "Optimizado",
+            "name": "Optimizado (NO USAR)",
             "version": "26.1.2",
             "loader": "fabric",
             "loader_version": "0.19.2",
