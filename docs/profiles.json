@@ -1296,6 +1296,7 @@
             "req_user_type": "microsoft",
             "dependencies": [],
             "target_profiles": [
+                "opt21",
                 "pvp1.9"
             ]
         },
