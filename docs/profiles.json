@@ -11,7 +11,7 @@
             }
         },
         {
-            "id": "opt",
+            "id": "optimizado",
             "name": "Optimizado",
             "version": "26.2",
             "loader": "fabric",
@@ -157,9 +157,9 @@
                     "sha1": "CFC41276B6BA6DD9B70535AEA8BEA8923905BC1B"
                 },
                 {
-                    "name": "sodium-fabric-0.9.1-beta.2+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/wpTNXtBM/sodium-fabric-0.9.1-beta.2%2Bmc26.2.jar",
-                    "sha1": "B1B963D4EA218DC8CBC1E569893DFE042403C8EB"
+                    "name": "sodium-fabric-0.9.0+mc26.2.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/3QgJXuSK/sodium-fabric-0.9.0%2Bmc26.2.jar",
+                    "sha1": "924DC2B779B7B7CD2D1D2464B863B00AA9FEA797"
                 },
                 {
                     "name": "spark-1.10.173-fabric.jar",
