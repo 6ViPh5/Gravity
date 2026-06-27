@@ -458,7 +458,7 @@
             "req_user_type": "microsoft",
             "dependencies": [],
             "target_profiles": [
-                "opt"
+                "optimizado"
             ]
         },
         {
@@ -470,17 +470,6 @@
             "dependencies": [],
             "target_profiles": [
                 "pvp1.9"
-            ]
-        },
-        {
-            "name": "journeymap-fabric-26.2-6.0.0-beta.92.jar",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/3O8PDgd0/journeymap-fabric-26.2-6.0.0-beta.92.jar",
-            "sha1": "AA5D8A605021F08F26600824C4D5810222DB0B9E",
-            "display_name": "JourneyMap",
-            "req_user_type": null,
-            "dependencies": [],
-            "target_profiles": [
-                "opt"
             ]
         }
     ]
