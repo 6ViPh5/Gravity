@@ -325,6 +325,11 @@
                     "sha1": "544A8B340AC3918D85BCC7D02EAFF5372814354B"
                 },
                 {
+                    "name": "morechathistory-1.3.1.jar",
+                    "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar",
+                    "sha1": "B4337EF9DC0A6CDF31D8F3DF68A6542F64F3625E"
+                },
+                {
                     "name": "moreculling-fabric-1.21.11-1.6.2.jar",
                     "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
                     "sha1": "11A929DE62650CC536244D4C2BA889FA84C1C0F2"
