@@ -345,11 +345,6 @@
                     "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999"
                 },
                 {
-                    "name": "ping-hud-1.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/zJGcsxiF/versions/cgndKGdH/ping-hud-1.0.0.jar",
-                    "sha1": "05994FCD573757ACB5139FC4DBD330B9FDD3EA9F"
-                },
-                {
                     "name": "pingfix-3.2.0.jar",
                     "url": "https://cdn.modrinth.com/data/9GikcByI/versions/tXaaAkvJ/pingfix-3.2.0.jar",
                     "sha1": "060153EB57A51E1F4C98B68BB9BB90F249EC2EE0"
