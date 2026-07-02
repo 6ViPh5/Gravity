@@ -320,11 +320,6 @@
                     "sha1": "5A0A64CA1EB7E2BED9BC6E7AD8E0BD639FBB8682"
                 },
                 {
-                    "name": "minihud-fabric-1.21.11-0.38.11.jar",
-                    "url": "https://cdn.modrinth.com/data/UMxybHE8/versions/U7cgYOl9/minihud-fabric-1.21.11-0.38.11.jar",
-                    "sha1": "94917C7A9415487BA89C32DE4971E6435A29ED87"
-                },
-                {
                     "name": "modmenu-17.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
                     "sha1": "544A8B340AC3918D85BCC7D02EAFF5372814354B"
