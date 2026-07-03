@@ -280,6 +280,11 @@
                     "sha1": "2BC17BB4275CC70A12E4AC35D139A71A30845720"
                 },
                 {
+                    "name": "fadeless-2.0.7-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/rDv0F5eE/fadeless-2.0.7-1.21.11.jar",
+                    "sha1": "C915116CE5B347C9F6D6EA31BD0552367ED407CE"
+                },
+                {
                     "name": "fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/E3Ei5xUe/fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar",
                     "sha1": "F40159E00187CDD12653F460DC9CD1BDF18D0BA5"
