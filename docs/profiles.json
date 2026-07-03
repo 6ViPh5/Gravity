@@ -509,6 +509,17 @@
             "target_profiles": [
                 "pvp1.9"
             ]
+        },
+        {
+            "name": "selfnametag-1.0.0+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/b1BQdN7H/versions/f6CyflHd/selfnametag-1.0.0%2Bmc1.21.11.jar",
+            "sha1": "B259C4CEF41CA56B508AE34754FE36DFA20443AF",
+            "display_name": "Self Nametag",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
