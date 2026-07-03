@@ -450,6 +450,23 @@
             ]
         },
         {
+            "name": "CraftPresence-2.7.1+1.21.11-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/E0OvDYn8/CraftPresence-2.7.1%2B1.21.11-fabric.jar",
+            "sha1": "9696E3080486BDF85E7D83A287CF913845C89DE3",
+            "display_name": "Discord Presence",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "UniLib-1.2.1+1.21.11-fabric.jar",
+                    "sha1": "74F50874B3E9551F0DF33C272CE62F5856ACDD7D",
+                    "url": "https://cdn.modrinth.com/data/nT86WUER/versions/2wvZasyj/UniLib-1.2.1%2B1.21.11-fabric.jar"
+                }
+            ],
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
             "name": "Essential_1-4-0-3_fabric_1-21-11.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/fkvuZace/Essential_1-4-0-3_fabric_1-21-11.jar",
             "sha1": "4533DBD7D3694ABF7BAEE301A213E8C5990B9695",
