@@ -305,6 +305,11 @@
                     "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C"
                 },
                 {
+                    "name": "KeyOverlay-1.21.5+.jar",
+                    "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
+                    "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E"
+                },
+                {
                     "name": "language-reload-1.7.7+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/rJRsdV10/language-reload-1.7.7%2B1.21.11.jar",
                     "sha1": "EB4BCA721845C31D76E5105F3161CCAD2D7EC57E"
