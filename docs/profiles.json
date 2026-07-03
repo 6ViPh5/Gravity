@@ -335,6 +335,11 @@
                     "sha1": "C3028A1906D7DA698F3176C4BB09266A273652D7"
                 },
                 {
+                    "name": "numeralping-1.2.8.jar",
+                    "url": "https://cdn.modrinth.com/data/XLd8Sh64/versions/7f1YbMYB/numeralping-1.2.8.jar",
+                    "sha1": "086E555C9A995C0BEBAF9A72CE1FB3ACBE0CB4E4"
+                },
+                {
                     "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
                     "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999"
