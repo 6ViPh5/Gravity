@@ -500,6 +500,17 @@
             ]
         },
         {
+            "name": "hit-color-fabric-1.21.11-0.1.jar",
+            "url": "https://cdn.modrinth.com/data/vJofZXEN/versions/hpRbnuwL/hit-color-fabric-1.21.11-0.1.jar",
+            "sha1": "BAF289A48271DD602202E185B44EF7624E1CE6F3",
+            "display_name": "Hit Color",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
