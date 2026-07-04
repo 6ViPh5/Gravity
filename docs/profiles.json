@@ -520,6 +520,17 @@
             "target_profiles": [
                 "pvp1.9"
             ]
+        },
+        {
+            "name": "toggle-sprint-display-1.6.0.jar",
+            "url": "https://cdn.modrinth.com/data/shVMaevq/versions/IQOqFHpH/toggle-sprint-display-1.6.0.jar",
+            "sha1": "EDB787D2F9B4ED314FD74872FB0150C5B64FCC0C",
+            "display_name": "Toggle Sprint",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
