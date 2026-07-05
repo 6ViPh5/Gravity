@@ -488,10 +488,10 @@
             ]
         },
         {
-            "name": "hit-color-fabric-1.21.11-0.1.jar",
-            "url": "https://cdn.modrinth.com/data/vJofZXEN/versions/hpRbnuwL/hit-color-fabric-1.21.11-0.1.jar",
-            "sha1": "BAF289A48271DD602202E185B44EF7624E1CE6F3",
-            "display_name": "Hit Color",
+            "name": "HitColorX-1.1.0.jar",
+            "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
+            "sha1": "C43465586078DB9DF30A1B9F442B9958ED9278FA",
+            "display_name": "HitColorX",
             "req_user_type": null,
             "dependencies": [],
             "target_profiles": [
