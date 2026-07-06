@@ -519,6 +519,13 @@
                     "name": "CustomScoreboard-1.12.3-1.21.11.jar",
                     "sha1": "1EAE52C8FB903E83E349EC1CDCD5376A32757CA7",
                     "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/RIWEJ0uh/CustomScoreboard-1.12.3-1.21.11.jar"
+                },
+                {
+                    "name": "config.jsonc",
+                    "sha1": "C22FC0E5B205B68B8C4967388A9EF9FDA1C3C33B",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/customscoreboard/config.jsonc",
+                    "file_type": "config",
+                    "install_path": "config/customscoreboard/"
                 }
             ],
             "target_profiles": [
