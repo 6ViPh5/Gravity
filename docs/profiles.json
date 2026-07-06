@@ -300,6 +300,11 @@
                     "sha1": "3F06271EA2C87634C23A37C97608B38FB78E015D"
                 },
                 {
+                    "name": "herobot-1.21.11-1.4.3+v260315.jar",
+                    "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
+                    "sha1": "17ABA207E6BD906CAE58B1C804F455955A9036B5"
+                },
+                {
                     "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar",
                     "sha1": "4F17C6B7388F0AFC5D24075DC2A294963F78C712"
@@ -477,17 +482,6 @@
             ]
         },
         {
-            "name": "herobot-1.21.11-1.4.3+v260315.jar",
-            "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
-            "sha1": "17ABA207E6BD906CAE58B1C804F455955A9036B5",
-            "display_name": "Herobot",
-            "req_user_type": null,
-            "dependencies": [],
-            "target_profiles": [
-                "pvp1.9"
-            ]
-        },
-        {
             "name": "HitColorX-1.1.0.jar",
             "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
             "sha1": "C43465586078DB9DF30A1B9F442B9958ED9278FA",
@@ -510,21 +504,27 @@
             ]
         },
         {
-            "name": "selfnametag-1.0.0+mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/b1BQdN7H/versions/f6CyflHd/selfnametag-1.0.0%2Bmc1.21.11.jar",
-            "sha1": "B259C4CEF41CA56B508AE34754FE36DFA20443AF",
-            "display_name": "Self Nametag",
+            "name": "scoreboardoverhaul-1.4.2-mc1.21.9.jar",
+            "url": "https://cdn.modrinth.com/data/2YIQkF2v/versions/dDjDMUSP/scoreboardoverhaul-1.4.2-mc1.21.9.jar",
+            "sha1": "FE1E7FCB02238B6D917C0BC128B17F3E18499FD4",
+            "display_name": "Better Scoreboard",
             "req_user_type": null,
-            "dependencies": [],
+            "dependencies": [
+                {
+                    "name": "CustomScoreboard-1.12.3-1.21.11.jar",
+                    "sha1": "1EAE52C8FB903E83E349EC1CDCD5376A32757CA7",
+                    "url": "https://cdn.modrinth.com/data/fpb5uaJt/versions/RIWEJ0uh/CustomScoreboard-1.12.3-1.21.11.jar"
+                }
+            ],
             "target_profiles": [
                 "pvp1.9"
             ]
         },
         {
-            "name": "SnappyTappy-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/dWOPoahl/versions/Fvbk9xLM/SnappyTappy-1.21.11.jar",
-            "sha1": "0E6A4A02F60ACC3F597587C87AB9300FF0AFE018",
-            "display_name": "SnappyTappy",
+            "name": "selfnametag-1.0.0+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/b1BQdN7H/versions/f6CyflHd/selfnametag-1.0.0%2Bmc1.21.11.jar",
+            "sha1": "B259C4CEF41CA56B508AE34754FE36DFA20443AF",
+            "display_name": "Self Nametag",
             "req_user_type": null,
             "dependencies": [],
             "target_profiles": [
