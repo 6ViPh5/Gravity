@@ -375,6 +375,11 @@
                     "sha1": "B5E85FCA31521B55CF5ECD0546AB53E1BC3F8961"
                 },
                 {
+                    "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
+                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/ijoZDewc/Resourcify%20%281.21.11-fabric%29-1.8.3.jar",
+                    "sha1": "4A7BD6F117997FA4857D2CDAD65513AAE1CAC9B2"
+                },
+                {
                     "name": "Searchables-fabric-1.21.11-1.0.4.jar",
                     "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8t7XWQgt/Searchables-fabric-1.21.11-1.0.4.jar",
                     "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850"
