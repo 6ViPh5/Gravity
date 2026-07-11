@@ -599,6 +599,19 @@
                     "file_type": "shader"
                 }
             ]
+        },
+        {
+            "id": "xd",
+            "name": "Q ondita kell",
+            "version": "1.90.5",
+            "loader": "fabric",
+            "loader_version": "0.19.3",
+            "req_user_type": null,
+            "visuals": {
+                "background": "https://stats.universocraft.com/assets/games/luckywars/c6419aa8fff495169a5a87e2715f589e.png"
+            },
+            "mods": [
+            ]
         }
     ],
     "optional_mods": [
