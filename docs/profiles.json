@@ -739,6 +739,19 @@
             "target_profiles": [
                 "pvp1.9"
             ]
+        },
+        {
+            "name": "LCKY Pack 3.0.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/LCKY%20Pack%203.0.zip",
+            "sha1": "95F2B8BE3AF47D7054DACB4D151952E16C9EFF4C",
+            "file_type": "resourcepack",
+            "display_name": "LuckyPack (UniversoCraft)",
+            "req_user_type": null,
+            "dependencies": [],
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ]
         }
     ]
 }
