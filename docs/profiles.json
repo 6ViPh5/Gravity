@@ -558,6 +558,11 @@
                     "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999"
                 },
                 {
+                    "name": "pingfix-3.2.0.jar",
+                    "url": "https://cdn.modrinth.com/data/9GikcByI/versions/tXaaAkvJ/pingfix-3.2.0.jar",
+                    "sha1": "060153EB57A51E1F4C98B68BB9BB90F249EC2EE0"
+                },
+                {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
                     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
                     "sha1": "BBDC920ECFF993148CD6E81A208536132245CE40"
