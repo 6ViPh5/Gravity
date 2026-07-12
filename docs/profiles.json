@@ -853,6 +853,13 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
+                },
+                {
+                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
+                    "display_name": "No Realms Button",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
+                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1176,6 +1183,13 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
+                },
+                {
+                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
+                    "display_name": "No Realms Button",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
+                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1370,21 +1384,27 @@
         },
         {
             "name": "ModernUI-MC-3.12.0.5-build.4+mc1.21.11-fabric.jar",
-            "display_name": "Modern UI mVUS",
             "url": "https://cdn.modrinth.com/data/2C0marwF/versions/WmK13lJr/ModernUI-MC-3.12.0.5-build.4%2Bmc1.21.11-fabric.jar",
             "sha1": "dbf401e79354cf7b2022aeab6cc46f83974baaae",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
+            "display_name": "Modern UI mVUS",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
-                    "display_name": "Forge Config API Port",
                     "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/uXrWPsCu/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
                     "sha1": "61aa1b5fafd75afc44552d0213cac39bc938bc2d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Forge Config API Port",
+                    "req_user_type": null,
+                    "dependencies": null
                 }
             ]
         }
