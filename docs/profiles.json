@@ -856,9 +856,19 @@
                 },
                 {
                     "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
-                    "display_name": "No Realms Button",
                     "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
                     "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "No Realms Button",
+                    "req_user_type": null,
+                    "dependencies": null
+                },
+                {
+                    "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
+                    "display_name": "Shulker Box Tooltip",
+                    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar",
+                    "sha1": "3f889de77a0aec69ffcfd28bf6fb2c077443788a",
                     "file_type": "mod"
                 }
             ],
@@ -1095,6 +1105,16 @@
                     "dependencies": null
                 },
                 {
+                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
+                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "No Realms Button",
+                    "req_user_type": null,
+                    "dependencies": null
+                },
+                {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
@@ -1183,13 +1203,6 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
-                },
-                {
-                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
-                    "display_name": "No Realms Button",
-                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
-                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
