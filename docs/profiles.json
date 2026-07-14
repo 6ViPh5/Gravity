@@ -863,13 +863,6 @@
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null
-                },
-                {
-                    "name": "shulkerboxtooltip-fabric-5.2.16+1.21.11.jar",
-                    "display_name": "Shulker Box Tooltip",
-                    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/rZovgkWT/shulkerboxtooltip-fabric-5.2.16%2B1.21.11.jar",
-                    "sha1": "3f889de77a0aec69ffcfd28bf6fb2c077443788a",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1418,6 +1411,25 @@
                     "display_name": "Forge Config API Port",
                     "req_user_type": null,
                     "dependencies": null
+                }
+            ]
+        },
+        {
+            "name": "ExploitationTimer-fabric-1.0.2.jar",
+            "display_name": "Exploitation Timer",
+            "url": "https://cdn.modrinth.com/data/f3TCgy6a/versions/c4OZpHeW/ExploitationTimer-fabric-1.0.2.jar",
+            "sha1": "cfc029c8117fa55e7e7244f3647df90799ff8921",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "dependencies": [
+                {
+                    "name": "anvianslib-fabric-1.21.10-1.4.jar",
+                    "display_name": "Anvian's Lib",
+                    "url": "https://cdn.modrinth.com/data/PuTjrq4T/versions/sxNNgRCw/anvianslib-fabric-1.21.10-1.4.jar",
+                    "sha1": "1ae6ad4d2c09f466fce1722b3e88cdcc54a9d3d5",
+                    "file_type": "mod"
                 }
             ]
         }
