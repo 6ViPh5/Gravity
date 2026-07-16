@@ -1244,19 +1244,6 @@
             "dependencies": []
         },
         {
-            "name": "HitColorX-1.1.0.jar",
-            "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
-            "sha1": "C43465586078DB9DF30A1B9F442B9958ED9278FA",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "HitColorX",
-            "req_user_type": null,
-            "dependencies": []
-        },
-        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
@@ -1416,21 +1403,47 @@
         },
         {
             "name": "ExploitationTimer-fabric-1.0.2.jar",
-            "display_name": "Exploitation Timer",
             "url": "https://cdn.modrinth.com/data/f3TCgy6a/versions/c4OZpHeW/ExploitationTimer-fabric-1.0.2.jar",
             "sha1": "cfc029c8117fa55e7e7244f3647df90799ff8921",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
+            "display_name": "Exploitation Timer",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "anvianslib-fabric-1.21.10-1.4.jar",
-                    "display_name": "Anvian's Lib",
                     "url": "https://cdn.modrinth.com/data/PuTjrq4T/versions/sxNNgRCw/anvianslib-fabric-1.21.10-1.4.jar",
                     "sha1": "1ae6ad4d2c09f466fce1722b3e88cdcc54a9d3d5",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Anvian's Lib",
+                    "req_user_type": null,
+                    "dependencies": null
                 }
+            ]
+        },
+        {
+            "name": "combat-hitbox-1.0.10.jar",
+            "display_name": "Combat Hitboxes",
+            "url": "https://cdn.modrinth.com/data/geGZinIB/versions/xDTFU0cD/combat-hitbox-1.0.10.jar",
+            "sha1": "095764fbc6a053ebc8d16382c9fb28901a55a0dc",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
+            "name": "glinteverything-1.1.0+mc1.21.11.jar",
+            "display_name": "Glint Everything",
+            "url": "https://cdn.modrinth.com/data/mfcsZ4EP/versions/MrUNfxNW/glinteverything-1.1.0%2Bmc1.21.11.jar",
+            "sha1": "116c7b985dd1fc2a2d29f1279562383efc2994b9",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
             ]
         }
     ]
