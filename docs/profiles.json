@@ -863,20 +863,6 @@
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null
-                },
-                {
-                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
-                    "display_name": "Nuit Interop",
-                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
-                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
-                    "display_name": "Nuit",
-                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
-                    "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1210,20 +1196,6 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
-                },
-                {
-                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
-                    "display_name": "Nuit Interop",
-                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
-                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
-                    "display_name": "Nuit",
-                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
-                    "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1479,6 +1451,26 @@
             "display_name": "Glint Everything",
             "req_user_type": null,
             "dependencies": null
+        },
+        {
+            "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
+            "display_name": "Nuit (SkyBoxes)",
+            "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
+            "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "dependencies": [
+                {
+                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
+                    "display_name": "Nuit Interop",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
+                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
