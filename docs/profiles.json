@@ -1257,6 +1257,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "cloth-config-21.11.153-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+                    "sha1": "4C224606A963BCE223DB5B27EDB4959ECF40D4EE",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
                     "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/OUQC9j12/CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
                     "sha1": "BD73F580D652A9CF87566CCB0FB63666F5651879",
@@ -1374,19 +1387,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "AAE8567BD9EA397D50AFF1D0B680A82FFE67040C",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "morechathistory-1.3.1.jar",
                     "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar",
                     "sha1": "B4337EF9DC0A6CDF31D8F3DF68A6542F64F3625E",
@@ -1468,6 +1468,19 @@
                     "name": "spark-1.10.170-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
                     "sha1": "2A3745BAA44E11672C4BEFE3BEECCEF758581F80",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
