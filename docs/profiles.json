@@ -866,10 +866,13 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "display_name": "Translations for Sodium",
                     "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/aWUQvPXo/SodiumTranslations.zip",
                     "sha1": "fa86f154c95a558e316ac99f0fb6aae53fcb4d17",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Translations for Sodium",
+                    "req_user_type": null,
+                    "dependencies": null
                 }
             ],
             "req_user_type": null
@@ -1115,6 +1118,16 @@
                     "dependencies": null
                 },
                 {
+                    "name": "SodiumTranslations.zip",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/aWUQvPXo/SodiumTranslations.zip",
+                    "sha1": "fa86f154c95a558e316ac99f0fb6aae53fcb4d17",
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Translations for Sodium",
+                    "req_user_type": null,
+                    "dependencies": null
+                },
+                {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
@@ -1203,13 +1216,6 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
-                },
-                {
-                    "name": "SodiumTranslations.zip",
-                    "display_name": "Translations for Sodium",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/aWUQvPXo/SodiumTranslations.zip",
-                    "sha1": "fa86f154c95a558e316ac99f0fb6aae53fcb4d17",
-                    "file_type": "resourcepack"
                 }
             ],
             "req_user_type": null
@@ -1331,20 +1337,6 @@
                 "pvp1.9"
             ],
             "display_name": "TotemBar",
-            "req_user_type": null,
-            "dependencies": []
-        },
-        {
-            "name": "LCKY Pack 3.0.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/LCKY%20Pack%203.0.zip",
-            "sha1": "95F2B8BE3AF47D7054DACB4D151952E16C9EFF4C",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "LuckyPack (UniversoCraft)",
             "req_user_type": null,
             "dependencies": []
         },
@@ -1491,6 +1483,18 @@
                     "dependencies": null
                 }
             ]
+        },
+        {
+            "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
+            "display_name": "LuckyPack UniversoCraft",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A76%C2%A7lLuc%C2%A7e%C2%A7lkyP%C2%A7c%C2%A7lack%20%C2%A76Universo%C2%A7bCraft.zip",
+            "sha1": "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "install_path": ""
         }
     ]
 }
