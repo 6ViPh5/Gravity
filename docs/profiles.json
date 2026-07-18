@@ -1167,10 +1167,16 @@
                 },
                 {
                     "name": "libjf-3.19.12.jar",
-                    "display_name": "libjf-3.19.12.jar",
                     "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/nrxuA7sO/libjf-3.19.12.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
                     "sha1": "7124959999fbc14798030ced46af8fbdb4f7c6ed",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "libjf-3.19.12.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null
@@ -1530,6 +1536,19 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "respackopts-4.14.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "libjf-3.19.12.jar",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/nrxuA7sO/libjf-3.19.12.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+                    "sha1": "7124959999fbc14798030ced46af8fbdb4f7c6ed",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "libjf-3.19.12.jar",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
