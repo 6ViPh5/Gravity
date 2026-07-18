@@ -29,7 +29,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "chat_heads-1.2.4-fabric-26.1.jar",
@@ -39,7 +40,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-26.2.155.jar",
@@ -49,7 +51,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-26.2-1.11.10.jar",
@@ -59,7 +62,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.2.6-26.2-fabric.jar",
@@ -69,7 +73,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features-7.1.1-26.2-fabric.jar",
@@ -79,7 +84,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.10.5-mc26.2.jar",
@@ -89,7 +95,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.153.0+26.2.jar",
@@ -99,7 +106,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
@@ -109,7 +117,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
@@ -119,7 +128,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ferritecore-9.0.0-fabric.jar",
@@ -129,7 +139,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.16.0+26.2.jar",
@@ -139,7 +150,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.11.1+mc26.2.jar",
@@ -149,7 +161,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "lambdynamiclights-4.12.2+26.2.jar",
@@ -159,7 +172,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "language-reload-1.7.7+26.2.jar",
@@ -169,7 +183,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.25.0+mc26.2.jar",
@@ -179,7 +194,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-20.0.0-beta.4.jar",
@@ -189,7 +205,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-2.0.0.jar",
@@ -199,7 +216,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "moreculling-fabric-26.2-1.8.0-beta.1.jar",
@@ -209,7 +227,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "NoChatReports-FABRIC-26.2-v2.20.0.jar",
@@ -219,7 +238,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "packetfixer-fabric-3.3.5-26.2.jar",
@@ -229,7 +249,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-3.1.0-beta.1+26.2.jar",
@@ -239,7 +260,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.2.0+mc26.2.jar",
@@ -249,7 +271,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (26.2-fabric)-1.8.4.jar",
@@ -259,7 +282,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Searchables-fabric-26.2-1.0.1.jar",
@@ -269,7 +293,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "smoothscroll-2.9.0.jar",
@@ -279,7 +304,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.8.9+mc26.2.jar",
@@ -289,7 +315,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.9.0+mc26.2.jar",
@@ -299,7 +326,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "spark-1.10.173-fabric.jar",
@@ -309,7 +337,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null
@@ -332,7 +361,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
@@ -342,7 +372,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "badpackets-fabric-0.11.2.jar",
@@ -352,7 +383,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
@@ -362,7 +394,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -372,7 +405,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
@@ -382,7 +416,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.16.jar",
@@ -392,7 +427,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "citresewn-continuation-1.2.2-fork.10+1.21.11.jar",
@@ -402,7 +438,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
@@ -412,7 +449,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-21.11.153-fabric.jar",
@@ -422,7 +460,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "collective-1.21.11-8.31.jar",
@@ -432,7 +471,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "commandkeys-fabric-2.4.0+1.21.11.jar",
@@ -442,7 +482,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
@@ -452,7 +493,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "CrosshairAddons-2.1.0-1.21.11.jar",
@@ -462,7 +504,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
@@ -472,7 +515,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -482,7 +526,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
@@ -492,7 +537,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_sound_features-0.8.1-1.21.9-fabric.jar",
@@ -502,7 +548,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
@@ -512,7 +559,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.10.5-mc1.21.11.jar",
@@ -522,7 +570,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.141.4+1.21.11.jar",
@@ -532,7 +581,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fadeless-2.0.7-1.21.11.jar",
@@ -542,7 +592,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
@@ -552,7 +603,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "herobot-1.21.11-1.4.3+v260315.jar",
@@ -562,7 +614,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
@@ -572,7 +625,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
@@ -582,7 +636,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
@@ -592,7 +647,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "language-reload-1.7.7+1.21.11.jar",
@@ -602,7 +658,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Marlow Crystal Optimizer.jar",
@@ -612,7 +669,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-17.0.0.jar",
@@ -622,7 +680,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-1.3.1.jar",
@@ -632,7 +691,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "moreculling-fabric-1.21.11-1.6.2.jar",
@@ -642,7 +702,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
@@ -652,7 +713,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "numeralping-1.2.8.jar",
@@ -662,7 +724,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
@@ -672,7 +735,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "pingfix-3.2.0.jar",
@@ -682,7 +746,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
@@ -692,7 +757,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.1.0+mc1.21.11.jar",
@@ -702,7 +768,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
@@ -712,7 +779,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Searchables-fabric-1.21.11-1.0.4.jar",
@@ -722,7 +790,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ShieldFixes-2.0.2-1.21.11.jar",
@@ -732,7 +801,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ShieldStatus-4.1.2-1.21.11.jar",
@@ -742,7 +812,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "smoothscroll-2.6.7.jar",
@@ -752,7 +823,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
@@ -762,7 +834,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
@@ -772,7 +845,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "spark-1.10.170-fabric.jar",
@@ -782,7 +856,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "totemcounter-1.11.2+mc1.21.11.jar",
@@ -792,7 +867,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ukulib-1.10.2+1.21.11.jar",
@@ -802,7 +878,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
@@ -812,7 +889,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ViaFabricPlus-4.4.14.jar",
@@ -822,7 +900,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "WalksyLib-0.9.992+1.21.11.jar",
@@ -832,7 +911,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
@@ -842,7 +922,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "zoomify-2.15.2+1.21.11.jar",
@@ -852,7 +933,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
@@ -862,7 +944,8 @@
                     "install_path": null,
                     "display_name": "No Realms Button",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "SodiumTranslations.zip",
@@ -872,7 +955,8 @@
                     "install_path": null,
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null
@@ -895,7 +979,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "badpackets-fabric-0.11.2.jar",
@@ -905,7 +990,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -915,7 +1001,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
@@ -925,7 +1012,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "citresewn-continuation-1.2.2-fork.10+1.21.11.jar",
@@ -935,7 +1023,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
@@ -945,7 +1034,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -955,7 +1045,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
@@ -965,7 +1056,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_sound_features-0.8.1-1.21.9-fabric.jar",
@@ -975,7 +1067,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
@@ -985,7 +1078,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.10.5-mc1.21.11.jar",
@@ -995,7 +1089,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.141.4+1.21.11.jar",
@@ -1005,7 +1100,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fadeless-2.0.7-1.21.11.jar",
@@ -1015,7 +1111,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
@@ -1025,7 +1122,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
@@ -1035,7 +1133,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-1.3.1.jar",
@@ -1045,7 +1144,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "numeralping-1.2.8.jar",
@@ -1055,7 +1155,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
@@ -1065,7 +1166,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "pingfix-3.2.0.jar",
@@ -1075,7 +1177,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
@@ -1085,7 +1188,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
@@ -1095,7 +1199,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "spark-1.10.170-fabric.jar",
@@ -1105,7 +1210,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
@@ -1115,7 +1221,8 @@
                     "install_path": null,
                     "display_name": "No Realms Button",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "SodiumTranslations.zip",
@@ -1125,7 +1232,8 @@
                     "install_path": null,
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
@@ -1135,7 +1243,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ferritecore-8.2.0-fabric.jar",
@@ -1145,7 +1254,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
@@ -1155,7 +1265,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "krypton-0.2.10.jar",
@@ -1165,7 +1276,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
@@ -1175,7 +1287,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-17.0.1-beta.1.jar",
@@ -1185,7 +1298,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.2.2+mc1.21.11.jar",
@@ -1195,7 +1309,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
@@ -1205,7 +1320,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
@@ -1215,7 +1331,8 @@
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null
@@ -1233,7 +1350,8 @@
             ],
             "display_name": "Essential",
             "req_user_type": "microsoft",
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
@@ -1247,7 +1365,8 @@
             ],
             "display_name": "Chat Heads",
             "req_user_type": null,
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "Essential_1-4-0-3_fabric_1-21-11.jar",
@@ -1261,7 +1380,8 @@
             ],
             "display_name": "Essential",
             "req_user_type": "microsoft",
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "KeyOverlay-1.21.5+.jar",
@@ -1274,7 +1394,8 @@
             ],
             "display_name": "Key Overlay",
             "req_user_type": null,
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "scoreboardoverhaul-1.4.2-mc1.21.9.jar",
@@ -1298,7 +1419,8 @@
                     "target_profiles": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "config.jsonc",
@@ -1309,9 +1431,11 @@
                     "target_profiles": null,
                     "display_name": null,
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "selfnametag-1.0.0+mc1.21.11.jar",
@@ -1325,7 +1449,8 @@
             ],
             "display_name": "Self Nametag",
             "req_user_type": null,
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "totembar-1.0.2.jar",
@@ -1338,7 +1463,8 @@
             ],
             "display_name": "TotemBar",
             "req_user_type": null,
-            "dependencies": []
+            "dependencies": [],
+            "allowed_users": null
         },
         {
             "name": "FpsOverlay-fabric-5.5.jar",
@@ -1352,7 +1478,8 @@
             ],
             "display_name": "FPS Overlay",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "hitboxplus-1.0.0+1.21.11.jar",
@@ -1365,7 +1492,8 @@
             ],
             "display_name": "HitBox+",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "symbol-chat-1.21.11-1.3.13.jar",
@@ -1379,7 +1507,8 @@
             ],
             "display_name": "Symbol Chat",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "ModernUI-MC-3.12.0.5-build.4+mc1.21.11-fabric.jar",
@@ -1403,9 +1532,11 @@
                     "target_profiles": null,
                     "display_name": "Forge Config API Port",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "ExploitationTimer-fabric-1.0.2.jar",
@@ -1428,9 +1559,11 @@
                     "target_profiles": null,
                     "display_name": "Anvian's Lib",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "combat-hitbox-1.0.10.jar",
@@ -1443,7 +1576,8 @@
             ],
             "display_name": "Combat Hitboxes",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "glinteverything-1.1.0+mc1.21.11.jar",
@@ -1456,7 +1590,8 @@
             ],
             "display_name": "Glint Everything",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
@@ -1480,9 +1615,11 @@
                     "target_profiles": null,
                     "display_name": "Nuit Interop",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
@@ -1496,7 +1633,8 @@
             ],
             "display_name": "LuckyPack UniversoCraft",
             "req_user_type": null,
-            "dependencies": null
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "§4§lViPh Pack.zip",
@@ -1509,7 +1647,7 @@
                 "opt1.21"
             ],
             "display_name": "ViPh Pack",
-            "req_user_type": "microsoft",
+            "req_user_type": "exclusive",
             "dependencies": [
                 {
                     "name": "§e§lViPh Pack §6§lLu§e§lc§c§lky §6Univ§bCraft.zip",
@@ -1520,8 +1658,12 @@
                     "target_profiles": null,
                     "display_name": "§e§lViPh Pack §6§lLu§e§lc§c§lky §6Univ§bCraft.zip",
                     "req_user_type": null,
-                    "dependencies": null
+                    "dependencies": null,
+                    "allowed_users": null
                 }
+            ],
+            "allowed_users": [
+                "6ViPh5"
             ]
         }
     ]
