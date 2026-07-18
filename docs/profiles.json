@@ -1486,15 +1486,37 @@
         },
         {
             "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
-            "display_name": "LuckyPack UniversoCraft",
             "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A76%C2%A7lLuc%C2%A7e%C2%A7lkyP%C2%A7c%C2%A7lack%20%C2%A76Universo%C2%A7bCraft.zip",
             "sha1": "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0",
+            "file_type": "resourcepack",
+            "install_path": "",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "display_name": "LuckyPack UniversoCraft",
+            "req_user_type": null,
+            "dependencies": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "display_name": "ViPh Pack",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "503afc3510d426cb7fa97b195215d6eb57b72a03",
             "file_type": "resourcepack",
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
-            "install_path": ""
+            "dependencies": [
+                {
+                    "name": "§e§lViPh Pack §6§lLu§e§lc§c§lky §6Univ§bCraft.zip",
+                    "display_name": "§e§lViPh Pack §6§lLu§e§lc§c§lky §6Univ§bCraft.zip",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A7e%C2%A7lViPh%20Pack%20%C2%A76%C2%A7lLu%C2%A7e%C2%A7lc%C2%A7c%C2%A7lky%20%C2%A76Univ%C2%A7bCraft.zip",
+                    "sha1": "bb1b341a181c8f2d6e4a76795a7610da07d61fbc",
+                    "file_type": "resourcepack"
+                }
+            ]
         }
     ]
 }
