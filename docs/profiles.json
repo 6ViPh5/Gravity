@@ -863,6 +863,20 @@
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null
+                },
+                {
+                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
+                    "display_name": "Nuit Interop",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
+                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
+                    "display_name": "Nuit",
+                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
+                    "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1196,6 +1210,20 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null
+                },
+                {
+                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
+                    "display_name": "Nuit Interop",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
+                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
+                    "display_name": "Nuit",
+                    "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
+                    "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
@@ -1428,23 +1456,29 @@
         },
         {
             "name": "combat-hitbox-1.0.10.jar",
-            "display_name": "Combat Hitboxes",
             "url": "https://cdn.modrinth.com/data/geGZinIB/versions/xDTFU0cD/combat-hitbox-1.0.10.jar",
             "sha1": "095764fbc6a053ebc8d16382c9fb28901a55a0dc",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
-            ]
+            ],
+            "display_name": "Combat Hitboxes",
+            "req_user_type": null,
+            "dependencies": null
         },
         {
             "name": "glinteverything-1.1.0+mc1.21.11.jar",
-            "display_name": "Glint Everything",
             "url": "https://cdn.modrinth.com/data/mfcsZ4EP/versions/MrUNfxNW/glinteverything-1.1.0%2Bmc1.21.11.jar",
             "sha1": "116c7b985dd1fc2a2d29f1279562383efc2994b9",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
-            ]
+            ],
+            "display_name": "Glint Everything",
+            "req_user_type": null,
+            "dependencies": null
         }
     ]
 }
