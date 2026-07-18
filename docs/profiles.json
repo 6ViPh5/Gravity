@@ -1141,16 +1141,35 @@
                 },
                 {
                     "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
-                    "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
                     "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "respackopts-4.14.3.jar",
-                    "display_name": "respackopts-4.14.3.jar",
                     "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/r1EgjrxB/respackopts-4.14.3.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
                     "sha1": "c41365e8fb7011c8ac5190171bdaa11cf07ab794",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "respackopts-4.14.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "libjf-3.19.12.jar",
+                    "display_name": "libjf-3.19.12.jar",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/nrxuA7sO/libjf-3.19.12.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+                    "sha1": "7124959999fbc14798030ced46af8fbdb4f7c6ed",
                     "file_type": "mod"
                 }
             ],
@@ -1479,6 +1498,45 @@
                     "replaces": null
                 },
                 {
+                    "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
+                    "sha1": "E757883C4959582BED8B057C1F830CB84F325567",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+                    "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "respackopts-4.14.3.jar",
+                    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/r1EgjrxB/respackopts-4.14.3.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
+                    "sha1": "c41365e8fb7011c8ac5190171bdaa11cf07ab794",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "respackopts-4.14.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
@@ -1581,33 +1639,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
-                    "sha1": "E757883C4959582BED8B057C1F830CB84F325567",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
-                    "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
-                    "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "respackopts-4.14.3.jar",
-                    "display_name": "respackopts-4.14.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/r1EgjrxB/respackopts-4.14.3.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
-                    "sha1": "c41365e8fb7011c8ac5190171bdaa11cf07ab794",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null
