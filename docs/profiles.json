@@ -1879,9 +1879,9 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "texturepacks_1",
+            "exclusive_group": "texturepack11",
             "replaces": [
-                "LCKYPACK3.0"
+                "LCKY Pack 3.0.zip"
             ]
         },
         {
@@ -1915,7 +1915,7 @@
             "allowed_users": [
                 "6ViPh5"
             ],
-            "exclusive_group": "texturepacks_1"
+            "exclusive_group": "texturepack11"
         }
     ]
 }
