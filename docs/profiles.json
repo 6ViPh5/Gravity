@@ -1983,7 +1983,7 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "texturepack11",
+            "exclusive_group": "tx_1",
             "replaces": [
                 "LCKY Pack 3.0.zip"
             ]
@@ -1997,7 +1997,12 @@
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
-            ]
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "ViPh"
+            ],
+            "exclusive_group": "tx_1"
         }
     ]
 }
