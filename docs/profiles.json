@@ -2303,14 +2303,16 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "NoHungerBar.zip",
+                    "display_name": "No Hunger Bar",
+                    "url": "https://cdn.modrinth.com/data/Ik0VQE7y/versions/DDKIH0hi/NoHungerBar.zip",
+                    "sha1": "0df9067b828287c70a01f36d4545bcb176b88144",
+                    "file_type": "resourcepack"
                 }
             ],
-            "req_user_type": "exclusive",
-            "allowed_users": [
-                "6ViPh5",
-                "6ViPh52",
-                "6ViPh53"
-            ]
+            "is_upcoming": true
         }
     ],
     "optional_mods": [
