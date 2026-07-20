@@ -2305,9 +2305,12 @@
                     "replaces": null
                 }
             ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": true
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5",
+                "6ViPh52",
+                "6ViPh53"
+            ]
         }
     ],
     "optional_mods": [
@@ -2633,6 +2636,7 @@
                 "opt1.21"
             ],
             "display_name": "§4§lViPh Pack.zip",
+            "req_user_type": null,
             "dependencies": null,
             "allowed_users": [
                 "6ViPh"
