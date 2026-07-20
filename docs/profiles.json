@@ -1682,7 +1682,7 @@
             "loader": "fabric",
             "loader_version": "0.19.3",
             "visuals": {
-                "background": "https://cdn.modrinth.com/data/vKuhJr4s/images/61a1369d5027dc8091ac47338edf0bca2002765b.png"
+                "background": "https://cdn.modrinth.com/data/vKuhJr4s/images/b61cd5a7204387d01ae40070f8c167c7d5843d58.png"
             },
             "mods": [
                 {
@@ -2142,17 +2142,29 @@
                 },
                 {
                     "name": "options.txt",
-                    "display_name": "options.txt",
                     "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/extras/config/meccha/options.txt",
                     "sha1": "235817bbc7b96e880f4d7e6593a35e037130003e",
-                    "file_type": "config"
+                    "file_type": "config",
+                    "install_path": null,
+                    "display_name": "options.txt",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "skinrestorer-2.9.0+26.1-fabric.jar",
-                    "display_name": "Skin Restorer",
                     "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/lICMyGKE/skinrestorer-2.9.0%2B26.1-fabric.jar",
                     "sha1": "08da5c99ea64e32fe6e9463f8d0024fc241a7915",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Skin Restorer",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": "microsoft"
