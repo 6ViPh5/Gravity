@@ -9,7 +9,9 @@
             "visuals": {
                 "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png"
             },
-            "req_user_type": null
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null
         },
         {
             "id": "optimizado",
@@ -399,7 +401,9 @@
                     "replaces": null
                 }
             ],
-            "req_user_type": null
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null
         },
         {
             "id": "pvp1.9",
@@ -1179,7 +1183,9 @@
                     "replaces": null
                 }
             ],
-            "req_user_type": null
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null
         },
         {
             "id": "opt1.21",
@@ -1673,7 +1679,9 @@
                     "replaces": null
                 }
             ],
-            "req_user_type": null
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null
         },
         {
             "id": "meccha",
@@ -2167,7 +2175,9 @@
                     "replaces": null
                 }
             ],
-            "req_user_type": "microsoft"
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": true
         }
     ],
     "optional_mods": [
