@@ -1010,19 +1010,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "totemcounter-1.11.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/T9R7YTnA/versions/eRAPu7Ge/totemcounter-1.11.2%2Bmc1.21.11.jar",
-                    "sha1": "63CAD515EA0C7E38C874125D737CBC2D00A08700",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ukulib-1.10.2+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
                     "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F",
