@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "intervalSeconds": 600,
+  "prefix": "\u00266[Meccha] \u0026r",
+  "messages": [
+    "\u0026a¡Bienvenido! \u0026fEscribe \u0026e/meccha \u0026fpara crear o unirte a una sala y jugar.",
+    "\u0026b\u0026l¡Eventos! \u0026fOrganizamos grandes noches de escondidas \u00267(este sábado es la próxima)\u0026f. \u0026e100 cupos, por orden de llegada \u00267—\u0026f consigue el tuyo en [\u00269\u0026nDiscord\u0026r\u0026f](https://discord.gg/NxEFTr4Fv3)\u0026f.",
+    "\u0026bÚnete a la comunidad y encuentra compañeros de equipo en [\u00269\u0026nDiscord\u0026r\u0026b](https://discord.gg/NxEFTr4Fv3)\u0026b!",
+    "\u0026d¿Te encanta el juego? Juega el original en [\u00266\u0026nSteam\u0026r\u0026d](https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/)\u0026d.",
+    "\u0026f¿Encontraste un error? Repórtalo en [\u00269\u0026nDiscord\u0026r\u0026f](https://discord.gg/NxEFTr4Fv3) (lee primero las normas).",
+    "\u0026eConsejo: \u0026fpinta tu cuerpo para que combine con la sala, haz una pose (R) ¡y quédate quieto!",
+    "\u0026a¿Eres creador de contenido? \u0026fPor favor menciona el mod en la descripción de tu video o en un comentario fijado, ¡y únete a nuestro [\u00269\u0026nDiscord\u0026r\u0026f](https://discord.gg/NxEFTr4Fv3)! ¡Gracias! \u0026d<3"
+  ]
+}
