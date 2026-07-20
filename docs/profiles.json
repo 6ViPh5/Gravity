@@ -2293,10 +2293,16 @@
                 },
                 {
                     "name": "modmenu-18.0.0.jar",
-                    "display_name": "Mod Menu",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3rsoV1bk/modmenu-18.0.0.jar",
                     "sha1": "0b5cd2531cd3506e431cd2d739da3abceed08ea6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Mod Menu",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -2618,16 +2624,15 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "c2d43d19c51cc3174fc97e75c40cc455cb910f60",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
             "display_name": "§4§lViPh Pack.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "3d45b54260c211bd1233af34e00489b50157752e",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
             "req_user_type": "exclusive",
-            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
             ],
