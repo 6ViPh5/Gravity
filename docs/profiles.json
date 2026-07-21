@@ -2306,12 +2306,20 @@
                 },
                 {
                     "name": "NoHungerBar.zip",
-                    "display_name": "No Hunger Bar",
                     "url": "https://cdn.modrinth.com/data/Ik0VQE7y/versions/DDKIH0hi/NoHungerBar.zip",
                     "sha1": "0df9067b828287c70a01f36d4545bcb176b88144",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "No Hunger Bar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
             "is_upcoming": true
         }
     ],
@@ -2629,19 +2637,12 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "3d45b54260c211bd1233af34e00489b50157752e",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
             "display_name": "§4§lViPh Pack.zip",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh"
+            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "02c3ae66ca2944f927a09a63ba82a01c87cfd087",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "opt1.21"
             ],
             "exclusive_group": "tx_1"
         }
