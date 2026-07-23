@@ -2637,14 +2637,28 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "display_name": "§4§lViPh Pack.zip",
             "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
             "sha1": "02c3ae66ca2944f927a09a63ba82a01c87cfd087",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "opt1.21"
             ],
+            "display_name": "§4§lViPh Pack.zip",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "exclusive_group": "tx_1"
+        },
+        {
+            "name": "invisibility-reveal-1.0.0.jar",
+            "display_name": "AntiInvisibility",
+            "url": "https://cdn.modrinth.com/data/usWmP3KF/versions/kCZGv79I/invisibility-reveal-1.0.0.jar",
+            "sha1": "25d37eea9a71db5fb1b2b0f04cad0d290436d210",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
