@@ -1877,1062 +1877,1970 @@
                 },
                 {
                     "name": "BHMenu-Fabric-26.1-2.5.3.jar",
-                    "display_name": "BHMenu-Fabric-26.1-2.5.3.jar",
                     "url": "https://cdn.modrinth.com/data/yWSAtnfH/versions/z62iwoR1/BHMenu-Fabric-26.1-2.5.3.jar",
                     "sha1": "94367f6cb1b63cc705addcc4666f45b574232029",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "BHMenu-Fabric-26.1-2.5.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "BadOptimizations-2.4.1-26.1-fabric.jar",
-                    "display_name": "BadOptimizations-2.4.1-26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/gjIvugXc/BadOptimizations-2.4.1-26.1-fabric.jar",
                     "sha1": "9636073ca8f378ea796b5d13bffac146a7f2f0f3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "BadOptimizations-2.4.1-26.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "BedrockEntityModels-26.1.2-1.1.0-fabric.jar",
-                    "display_name": "BedrockEntityModels-26.1.2-1.1.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/MmYSmcY6/versions/SO2fYfdQ/BedrockEntityModels-26.1.2-1.1.0-fabric.jar",
                     "sha1": "3ad65c7be6104f0b6715ef24aa71862bb967cebf",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "BedrockEntityModels-26.1.2-1.1.0-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "BedrockSkins-26.1.2-1.9.1-fabric.jar",
-                    "display_name": "BedrockSkins-26.1.2-1.9.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/76lEgqhs/versions/LTaTlyV3/BedrockSkins-26.1.2-1.9.1-fabric.jar",
                     "sha1": "f8902c29ecda81eeb7eafdd5c8dfb1f0beeebadb",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "BedrockSkins-26.1.2-1.9.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "BetterF3-18.0.2-Fabric-26.1.jar",
-                    "display_name": "BetterF3-18.0.2-Fabric-26.1.jar",
                     "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/aRWqyAza/BetterF3-18.0.2-Fabric-26.1.jar",
                     "sha1": "383ecca24482d1b1385ad25127fe78a0607a34c0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "BetterF3-18.0.2-Fabric-26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ConfigManager-fabric-26.1_26.2-1.1.3.jar",
-                    "display_name": "ConfigManager-fabric-26.1_26.2-1.1.3.jar",
                     "url": "https://cdn.modrinth.com/data/jlNms3Jp/versions/W4C08wBC/ConfigManager-fabric-26.1_26.2-1.1.3.jar",
                     "sha1": "ce2d31f3cb6815fe83c742326430af8dd9f6a479",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ConfigManager-fabric-26.1_26.2-1.1.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "CustomPlayerModels-Fabric-26.1-0.6.27a.jar",
-                    "display_name": "CustomPlayerModels-Fabric-26.1-0.6.27a.jar",
                     "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/5TBX9e3S/CustomPlayerModels-Fabric-26.1-0.6.27a.jar",
                     "sha1": "ae680897840ae7a2d716e60fb4be8a3817123c3e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "CustomPlayerModels-Fabric-26.1-0.6.27a.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "DualBar-1.2.jar",
-                    "display_name": "DualBar-1.2.jar",
                     "url": "https://cdn.modrinth.com/data/IMch8an1/versions/zLajWfp8/DualBar-1.2.jar",
                     "sha1": "8529f7d0839748596b9b2ec8cd76b96cfd8efdfa",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "DualBar-1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "FactoryAPI-26.1.2-2.2.8-fabric.jar",
-                    "display_name": "FactoryAPI-26.1.2-2.2.8-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/nkTZHOLD/versions/WPmPigj8/FactoryAPI-26.1.2-2.2.8-fabric.jar",
                     "sha1": "52c9f3cb1f9922881283c49e2728dc3fc78356ad",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "FactoryAPI-26.1.2-2.2.8-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "FastServerPings-1.1.2+26.3.jar",
-                    "display_name": "FastServerPings-1.1.2+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/5eVpQJSP/versions/YtMWZP6y/FastServerPings-1.1.2%2B26.3.jar",
                     "sha1": "bc2d199b336c006bc47734e5faa5877dfe2c8ca6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "FastServerPings-1.1.2+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
-                    "display_name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/jUe0ucoE/ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
                     "sha1": "82e4deaa210b75d3b51a268769ad24cc85796235",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Gnetum-4.5.0+26.1.2-fabric.jar",
-                    "display_name": "Gnetum-4.5.0+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/UginDrS6/Gnetum-4.5.0%2B26.1.2-fabric.jar",
                     "sha1": "efd8176ae165351393bd9f6788cf2a9b0e1aff2f",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Gnetum-4.5.0+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Ixeris-4.5.2+26.1.2-fabric.jar",
-                    "display_name": "Ixeris-4.5.2+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/wvfy8WWr/Ixeris-4.5.2%2B26.1.2-fabric.jar",
                     "sha1": "bc770e5016bea4b215f35ad40dabc7a5e60810e0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Ixeris-4.5.2+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "LWS-26.1.2-0.0.1-fabric.jar",
-                    "display_name": "LWS-26.1.2-0.0.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ATANFEww/versions/HurQw6Xa/LWS-26.1.2-0.0.1-fabric.jar",
                     "sha1": "ac4aa5cb372c7c779e0d1d4be98f6d8e72aea898",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "LWS-26.1.2-0.0.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Legacy4J-26.1.2-1.9-pre-2-fabric.jar",
-                    "display_name": "Legacy4J-26.1.2-1.9-pre-2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/gHvKJofA/versions/A2IY6LLn/Legacy4J-26.1.2-1.9-pre-2-fabric.jar",
                     "sha1": "47f53e483d8fa73939b33f062b92769a5fb9e164",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Legacy4J-26.1.2-1.9-pre-2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "NoPryingEyes-26.1.2-3.0.0-beta.jar",
-                    "display_name": "NoPryingEyes-26.1.2-3.0.0-beta.jar",
                     "url": "https://cdn.modrinth.com/data/LoXPgYhm/versions/9xWCcBaS/NoPryingEyes-26.1.2-3.0.0-beta.jar",
                     "sha1": "fba2baed9979eca269594e0f1b5333333f3e1e1f",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "NoPryingEyes-26.1.2-3.0.0-beta.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ProPlacer-v26.1.0-mc26.1.x-Fabric.jar",
-                    "display_name": "ProPlacer-v26.1.0-mc26.1.x-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/LhK0LkWd/versions/xBE4TGtn/ProPlacer-v26.1.0-mc26.1.x-Fabric.jar",
                     "sha1": "93c81de3deab581c422aa9d86e8f0decc915e32a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ProPlacer-v26.1.0-mc26.1.x-Fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "PuzzlesLib-v26.1.12-mc26.1.x-Fabric.jar",
-                    "display_name": "PuzzlesLib-v26.1.12-mc26.1.x-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/A85OttK1/PuzzlesLib-v26.1.12-mc26.1.x-Fabric.jar",
                     "sha1": "d50ebfa970866ec1ae28da4da40407de68b6d92f",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "PuzzlesLib-v26.1.12-mc26.1.x-Fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ScalableLux-fabric-0.3.0-alpha.0.2-all.jar",
-                    "display_name": "ScalableLux-fabric-0.3.0-alpha.0.2-all.jar",
                     "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ToW8oIIq/ScalableLux-fabric-0.3.0-alpha.0.2-all.jar",
                     "sha1": "45c36984c42cab6bc05d916a1d4b75c97ea91ddc",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ScalableLux-fabric-0.3.0-alpha.0.2-all.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Stfu-2.9.1-26.1.jar",
-                    "display_name": "Stfu-2.9.1-26.1.jar",
                     "url": "https://cdn.modrinth.com/data/Rg9WdvvR/versions/8Wj07Ua1/Stfu-2.9.1-26.1.jar",
                     "sha1": "895fa9df9ac03692c42aed430e4059745395ae30",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Stfu-2.9.1-26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "advancementscreenshot-26.1.2-5.2.jar",
-                    "display_name": "advancementscreenshot-26.1.2-5.2.jar",
                     "url": "https://cdn.modrinth.com/data/lU8KbfG2/versions/jGP9gOEi/advancementscreenshot-26.1.2-5.2.jar",
                     "sha1": "8cb607484f6cb83b35ab1de83c081997bb4862da",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "advancementscreenshot-26.1.2-5.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "animatica-0.6.3+26.1.jar",
-                    "display_name": "animatica-0.6.3+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/fei2AQqc/animatica-0.6.3%2B26.1.jar",
                     "sha1": "b6dc4ca4ab7b22a1d4c67ac1771dea55a45895a4",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "animatica-0.6.3+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "animatium-4.1+26.1.2-fabric.jar",
-                    "display_name": "animatium-4.1+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/zy0karK1/versions/bldX3Vcm/animatium-4.1%2B26.1.2-fabric.jar",
                     "sha1": "8d0315e8bb854b70997553a77838e06aa9be1fc0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "animatium-4.1+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "antismooth-2.0.2.jar",
-                    "display_name": "antismooth-2.0.2.jar",
                     "url": "https://cdn.modrinth.com/data/zlZC5n7T/versions/S36WZ9w9/antismooth-2.0.2.jar",
                     "sha1": "e069678f19184586feede4486af6cfc727f31fe2",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "antismooth-2.0.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "asynclogger-2.1.2+26.1.2-fabric.jar",
-                    "display_name": "asynclogger-2.1.2+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/zvNzKfGF/versions/MCoxIcu9/asynclogger-2.1.2%2B26.1.2-fabric.jar",
                     "sha1": "a8bdcca229399792d33eb5de3bd1fc8c1bb95f2e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "asynclogger-2.1.2+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "bannerpoint-1.1.1+26.1.2-fabric.jar",
-                    "display_name": "bannerpoint-1.1.1+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/IfTBNyjQ/versions/CMMC0LWF/bannerpoint-1.1.1%2B26.1.2-fabric.jar",
                     "sha1": "9e9eae1cd9e3cc3bf733620f7418ff64adb6df2b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "bannerpoint-1.1.1+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "bobby-5.2.13.1+mc26.1.jar",
-                    "display_name": "bobby-5.2.13.1+mc26.1.jar",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ECf8PS1Q/bobby-5.2.13.1%2Bmc26.1.jar",
                     "sha1": "d87b919a585b5855a44785df86e06da59817849c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "bobby-5.2.13.1+mc26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "borderlessmining-1.2.3+26.1-fabric.jar",
-                    "display_name": "borderlessmining-1.2.3+26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/KxYAzYLi/versions/Q2HwYDTI/borderlessmining-1.2.3%2B26.1-fabric.jar",
                     "sha1": "b4dbb36d370eeee61e861072f5323532b5843bf2",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "borderlessmining-1.2.3+26.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "bug-fixer-upper-1.10.0.jar",
-                    "display_name": "bug-fixer-upper-1.10.0.jar",
                     "url": "https://cdn.modrinth.com/data/gRMQvlnJ/versions/VLfsqxzM/bug-fixer-upper-1.10.0.jar",
                     "sha1": "fc474a05b319c77c3f8f932f42908c27ed339db7",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "bug-fixer-upper-1.10.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.35.jar",
-                    "display_name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.35.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/22VT4H6y/c2me-fabric-mc26.1.2-0.4.0-alpha.0.35.jar",
                     "sha1": "190c552c6f9ac846e5323fab57a7ba329ceaee2a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.35.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.35.jar",
-                    "display_name": "c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.35.jar",
                     "url": "https://cdn.modrinth.com/data/qtPMklut/versions/1U35OLgA/c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.35.jar",
                     "sha1": "e5cc5dd726497957c0ad127d79290a9bd6d02ba4",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "c2me-fabric-opts-accel-opencl-mc26.1.2-0.4.0-alpha.0.35.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "cave_fog_stabilizer-1.2.2+26.1-fabric.jar",
-                    "display_name": "cave_fog_stabilizer-1.2.2+26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ztUKf3vp/versions/wg5wf1Mb/cave_fog_stabilizer-1.2.2%2B26.1-fabric.jar",
                     "sha1": "9685773536c066e35004858ce39e1c76c464b804",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "cave_fog_stabilizer-1.2.2+26.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "collective-26.1.2-8.32.jar",
-                    "display_name": "collective-26.1.2-8.32.jar",
                     "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/iXqgYZEw/collective-26.1.2-8.32.jar",
                     "sha1": "13887a5d78938c6ce55c15bcbd1352db625e84e1",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "collective-26.1.2-8.32.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "console-adv-sounds-1.0.19.jar",
-                    "display_name": "console-adv-sounds-1.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/v2x7Gozv/versions/ffx3Tybt/console-adv-sounds-1.0.19.jar",
                     "sha1": "26d0b7d333a5a0bafa4ef8830bef00e89d72a432",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "console-adv-sounds-1.0.19.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "continuity-3.0.1-beta.2+26.1.jar",
-                    "display_name": "continuity-3.0.1-beta.2+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/1IjD5062/versions/l1mM6Ov7/continuity-3.0.1-beta.2%2B26.1.jar",
                     "sha1": "be4bf927bbb84f0f57783aea8c6624890680b4d2",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "continuity-3.0.1-beta.2+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "cull-fewer-leaves-1.1.2+26.1-fabric.jar",
-                    "display_name": "cull-fewer-leaves-1.1.2+26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/alhWWxax/versions/jIEsEM7M/cull-fewer-leaves-1.1.2%2B26.1-fabric.jar",
                     "sha1": "0b603a240e2b1f424ef37562ebbe830b07008b30",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "cull-fewer-leaves-1.1.2+26.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
-                    "display_name": "dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/HV67Kt1R/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar",
                     "sha1": "2ed66a7f5cf81c8f4b17a551a1f7371ef99a45f7",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "e4mc-fabric-6.2.0-modern.jar",
-                    "display_name": "e4mc-fabric-6.2.0-modern.jar",
                     "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/7xT2gfm2/e4mc-fabric-6.2.0-modern.jar",
                     "sha1": "6a949b1f5697d216b78dfd141111ad115ea1fe24",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "e4mc-fabric-6.2.0-modern.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "experimentalist-2.0.5+26.1-fabric.jar",
-                    "display_name": "experimentalist-2.0.5+26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/SKCLXAJ2/versions/kWKdWhHq/experimentalist-2.0.5%2B26.1-fabric.jar",
                     "sha1": "5dcb20ef363a036fb3bfa379fa777fc40a31b010",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "experimentalist-2.0.5+26.1-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
-                    "display_name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/H7KycYXE/fast-ip-ping-v1.0.11-mc26.1.2.jar",
                     "sha1": "6b69eaa6323da9f7933206d55cdb09ea3299cde3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "fix-keyboard-on-linux-1.0.2.jar",
-                    "display_name": "fix-keyboard-on-linux-1.0.2.jar",
                     "url": "https://cdn.modrinth.com/data/siXFh9dn/versions/hoSPSRQf/fix-keyboard-on-linux-1.0.2.jar",
                     "sha1": "3409ef6494ab1e9a151177775a12b63004c87080",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "fix-keyboard-on-linux-1.0.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "fzzy_config-0.7.6+26.1.jar",
-                    "display_name": "fzzy_config-0.7.6+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/EzFtPUO0/fzzy_config-0.7.6%2B26.1.jar",
                     "sha1": "dabdfb956438fc9526ec0794fcf4ff0261a75870",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "fzzy_config-0.7.6+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "globalpacks-fabric-26.1-26.1.0.jar",
-                    "display_name": "globalpacks-fabric-26.1-26.1.0.jar",
                     "url": "https://cdn.modrinth.com/data/NRLPy2mk/versions/bdqlFvg9/globalpacks-fabric-26.1-26.1.0.jar",
                     "sha1": "ffd35b8feee8959385d6692efdf616a5440f7b9a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "globalpacks-fabric-26.1-26.1.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "immersive_optimization-fabric-26.1.2-0.2.0.jar",
-                    "display_name": "immersive_optimization-fabric-26.1.2-0.2.0.jar",
                     "url": "https://cdn.modrinth.com/data/vNZgQmjg/versions/iL9BwcjV/immersive_optimization-fabric-26.1.2-0.2.0.jar",
                     "sha1": "0896ceee0e0e34eb8e6dc2106d0fd3d48488dd5c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "immersive_optimization-fabric-26.1.2-0.2.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "iris-fabric-1.10.9+mc26.1.1.jar",
-                    "display_name": "iris-fabric-1.10.9+mc26.1.1.jar",
                     "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/MwcLS51S/iris-fabric-1.10.9%2Bmc26.1.1.jar",
                     "sha1": "c30e04509a1b284372cb9037b07714d4223ae91a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "iris-fabric-1.10.9+mc26.1.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "jasione-1.0.4+26.1.2-fabric.jar",
-                    "display_name": "jasione-1.0.4+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/qlDkBPij/versions/8ddPyABR/jasione-1.0.4%2B26.1.2-fabric.jar",
                     "sha1": "85bb2f70d0543725aedd0a0209fa7075f371c177",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "jasione-1.0.4+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "kreno_fpatcher-26.2.0+26.1.jar",
-                    "display_name": "kreno_fpatcher-26.2.0+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/yzkasIPx/versions/ao5jVc3l/kreno_fpatcher-26.2.0%2B26.1.jar",
                     "sha1": "8505adf224c4a0c95345b056064f1dd587395a03",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "kreno_fpatcher-26.2.0+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "lambdabettergrass-2.7.2+26.1.1.jar",
-                    "display_name": "lambdabettergrass-2.7.2+26.1.1.jar",
                     "url": "https://cdn.modrinth.com/data/2Uev7LdA/versions/oGxP5WHV/lambdabettergrass-2.7.2%2B26.1.1.jar",
                     "sha1": "ab9973e5ec6c0999295ea42de35e2a20c353c6b6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "lambdabettergrass-2.7.2+26.1.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "legacy-nether-extended-3.0.0.jar",
-                    "display_name": "legacy-nether-extended-3.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/l54rfVmm/versions/43hvftU7/legacy-nether-extended-3.0.0.jar",
                     "sha1": "1e5256445dda51d3eeede3555d78941d65c5fbaf",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "legacy-nether-extended-3.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "locator_lodestones-1.5.3+26.1+A.jar",
-                    "display_name": "locator_lodestones-1.5.3+26.1+A.jar",
                     "url": "https://cdn.modrinth.com/data/pMBcsVIg/versions/2ScPNrBr/locator_lodestones-1.5.3%2B26.1%2BA.jar",
                     "sha1": "b4fb50909236b929fafbae74197c18d6bc2a6dee",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "locator_lodestones-1.5.3+26.1+A.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "longview-1.2.2.jar",
-                    "display_name": "longview-1.2.2.jar",
                     "url": "https://cdn.modrinth.com/data/4lDrPSXX/versions/39hMrVrb/longview-1.2.2.jar",
                     "sha1": "f1870b6d6982af173ae7166b811f6dec6019b56a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "longview-1.2.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "macos-input-fixes-1.13.jar",
-                    "display_name": "macos-input-fixes-1.13.jar",
                     "url": "https://cdn.modrinth.com/data/x9BrsVME/versions/Bejy0PdE/macos-input-fixes-1.13.jar",
                     "sha1": "b71d0deb7d7cc4db64b51a1456efdd8fa9c360de",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "macos-input-fixes-1.13.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "minimega-6.5.10.jar",
-                    "display_name": "minimega-6.5.10.jar",
                     "url": "https://cdn.modrinth.com/data/d4zJxq8p/versions/EAikteRb/minimega-6.5.10.jar",
                     "sha1": "23d9a6f1ccfb57fa63a32c815ce1ae51b825edcc",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "minimega-6.5.10.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "moderner-beta-fabric-5.0.0-alpha.2+26.1.jar",
-                    "display_name": "moderner-beta-fabric-5.0.0-alpha.2+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/xkrdwmh2/versions/IiPlo6zR/moderner-beta-fabric-5.0.0-alpha.2%2B26.1.jar",
                     "sha1": "a1cb5a4d6310d6b5f319e62c590f541ea9ecc7a1",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "moderner-beta-fabric-5.0.0-alpha.2+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "modernregsyncfix-2.0.0.jar",
-                    "display_name": "modernregsyncfix-2.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/U2w9BZus/versions/LmIVtB3w/modernregsyncfix-2.0.0.jar",
                     "sha1": "1a3ddb73c99cf269390f40d9f9fb2981fb9e03e1",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "modernregsyncfix-2.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ok_zoomer-17.0.0-beta.5.jar",
-                    "display_name": "ok_zoomer-17.0.0-beta.5.jar",
                     "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/YzceAAtG/ok_zoomer-17.0.0-beta.5.jar",
                     "sha1": "f5d44978015bc65cef144b87fc77bc46b075cd4d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ok_zoomer-17.0.0-beta.5.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "particle_core-0.3.2+26.1.jar",
-                    "display_name": "particle_core-0.3.2+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/EkGqhJyz/particle_core-0.3.2%2B26.1.jar",
                     "sha1": "2cc7af5d75e8b3af7deb8b5acec2fcb52654b252",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "particle_core-0.3.2+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "picturemode-fabric-1.1.6+26.1.jar",
-                    "display_name": "picturemode-fabric-1.1.6+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/kFU5UCQz/versions/KbGUhsCQ/picturemode-fabric-1.1.6%2B26.1.jar",
                     "sha1": "6e87e708d2c3a3fab9f39903e7bece061c27dbf7",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "picturemode-fabric-1.1.6+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "pingview-fabric-1.6.jar",
-                    "display_name": "pingview-fabric-1.6.jar",
                     "url": "https://cdn.modrinth.com/data/gvl7lVcV/versions/C9VPqSKD/pingview-fabric-1.6.jar",
                     "sha1": "c81b0a7f39d734c796ea939afe6afc63d5f0924b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "pingview-fabric-1.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "placeholder-api-3.0.0+26.1.jar",
-                    "display_name": "placeholder-api-3.0.0+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/b3IPAHgB/placeholder-api-3.0.0%2B26.1.jar",
                     "sha1": "c1ce548549ec4517b9393985cefc65389e6f36d8",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "placeholder-api-3.0.0+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "pneumonocore-1.3.1+26.1+A.jar",
-                    "display_name": "pneumonocore-1.3.1+26.1+A.jar",
                     "url": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/7W6vppKP/pneumonocore-1.3.1%2B26.1%2BA.jar",
                     "sha1": "301cf23034d9f469973549cc5e1d818eea839ad6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "pneumonocore-1.3.1+26.1+A.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "preferred-gamerules-2.0.0+26.1.jar",
-                    "display_name": "preferred-gamerules-2.0.0+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/kKib77nY/versions/YwL9Cznl/preferred-gamerules-2.0.0%2B26.1.jar",
                     "sha1": "c5297405196b6f9bd0e0e017af7eb5321dd09d43",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "preferred-gamerules-2.0.0+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "renderscale-1.4.0-alpha.4-fabric+26.1.jar",
-                    "display_name": "renderscale-1.4.0-alpha.4-fabric+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/Va8PJBFX/versions/VOWPqRuK/renderscale-1.4.0-alpha.4-fabric%2B26.1.jar",
                     "sha1": "e8d558ae04ee5d7cbb85c0dffef4aa3c67f282e5",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "renderscale-1.4.0-alpha.4-fabric+26.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "servercore-fabric-1.5.19+26.1.2.jar",
-                    "display_name": "servercore-fabric-1.5.19+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/H6TboTA2/servercore-fabric-1.5.19%2B26.1.2.jar",
                     "sha1": "f69e39b6a750eb14f2cd6c07dfab64fd3d71192f",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "servercore-fabric-1.5.19+26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "simple_music_control-1.5.0+26.1.2-fabric.jar",
-                    "display_name": "simple_music_control-1.5.0+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/8AX2hHnX/versions/6obEDPFP/simple_music_control-1.5.0%2B26.1.2-fabric.jar",
                     "sha1": "4fad59d2b7352e19c186eaa41521b990acb13557",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "simple_music_control-1.5.0+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "skyboxify-3.1+26.1.2-fabric.jar",
-                    "display_name": "skyboxify-3.1+26.1.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/DWuwk8aA/versions/D42TqRVw/skyboxify-3.1%2B26.1.2-fabric.jar",
                     "sha1": "c75f4d393669d3a082d62abbb15393926e6d2e82",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "skyboxify-3.1+26.1.2-fabric.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "sodium-fabric-0.8.12+mc26.1.2.jar",
-                    "display_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/eRJU33Hp/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
                     "sha1": "cd6c6236f0dcff03c7148414db220de32c934b5a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "sodium-fabric-0.8.12+mc26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "sodium-shadowy-path-blocks-fabric-7.0.0.jar",
-                    "display_name": "sodium-shadowy-path-blocks-fabric-7.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/EIa1eiMm/versions/ygm51jhU/sodium-shadowy-path-blocks-fabric-7.0.0.jar",
                     "sha1": "1399156a64c7bfbc38fa21af935495cfb74923c3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "sodium-shadowy-path-blocks-fabric-7.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "vmp-fabric-mc26.1.2-0.2.0+beta.7.234-all.jar",
-                    "display_name": "vmp-fabric-mc26.1.2-0.2.0+beta.7.234-all.jar",
                     "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/9f7J0dAp/vmp-fabric-mc26.1.2-0.2.0%2Bbeta.7.234-all.jar",
                     "sha1": "9a7ad0973bdb06d2eb8d66827bbafd56d6af87fb",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "vmp-fabric-mc26.1.2-0.2.0+beta.7.234-all.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "voicechat-fabric-2.6.21+26.1.2.jar",
-                    "display_name": "voicechat-fabric-2.6.21+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/BvX8YEGO/voicechat-fabric-2.6.21%2B26.1.2.jar",
                     "sha1": "4276972b1b4f1695e812d0b5cf7fc6a6e4a85c14",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "voicechat-fabric-2.6.21+26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "whiteout-0.18.3.jar",
-                    "display_name": "whiteout-0.18.3.jar",
                     "url": "https://cdn.modrinth.com/data/5piZC07n/versions/klSvzezN/whiteout-0.18.3.jar",
                     "sha1": "be32a961d0567266a2ebd0a228417a9068acc095",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "whiteout-0.18.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "zfastnoise-1.0.39+26.1.2.jar",
-                    "display_name": "zfastnoise-1.0.39+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/ghmh5tiI/zfastnoise-1.0.39%2B26.1.2.jar",
                     "sha1": "189219033b14c5430b84158827a7cdfa966c1e31",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "zfastnoise-1.0.39+26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
-                    "display_name": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
                     "url": "https://cdn.modrinth.com/data/slufHzC2/versions/JFOw2pGN/%2B1.21.3%20Fresh%20Moves%20v3.1.1%20%28No%20Animated%20Eyes%29.zip",
                     "sha1": "dc6dad757f1009b6512471fdaece264260bbf549",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "3D Default 1.21.2+ v1.15.0.zip",
-                    "display_name": "3D Default 1.21.2+ v1.15.0.zip",
                     "url": "https://cdn.modrinth.com/data/5aPp18Lx/versions/Xs7Vngsn/3D%20Default%201.21.2%2B%20v1.15.0.zip",
                     "sha1": "cc61b586aaae83497f77d79ceeffc4009950cd54",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "3D Default 1.21.2+ v1.15.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "A Minecraft Movie Hero Pack.zip",
-                    "display_name": "A Minecraft Movie Hero Pack.zip",
                     "url": "https://cdn.modrinth.com/data/x1fU20j7/versions/2aHKlUHr/A%20Minecraft%20Movie%20Hero%20Pack.zip",
                     "sha1": "32694d1d487a0d43803baa78187c8eedca9d1698",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "A Minecraft Movie Hero Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Ashen_16x.zip",
-                    "display_name": "Ashen_16x.zip",
                     "url": "https://cdn.modrinth.com/data/LSmohupN/versions/znwxp1rV/Ashen_16x.zip",
                     "sha1": "d7ab3cd0cc3b848942286ce608db615929e874ed",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Ashen_16x.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Baby Kitty and Friends.zip",
-                    "display_name": "Baby Kitty and Friends.zip",
                     "url": "https://cdn.modrinth.com/data/iQdku7XQ/versions/q2UiQ1PD/Baby%20Kitty%20and%20Friends.zip",
                     "sha1": "2c62c8ffa6c65937d236aeac6619cf8c88625292",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Baby Kitty and Friends.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Bare Bones 1.21.11.zip",
-                    "display_name": "Bare Bones 1.21.11.zip",
                     "url": "https://cdn.modrinth.com/data/rox3U8B6/versions/jQBWn2Q3/Bare%20Bones%201.21.11.zip",
                     "sha1": "2023465d2bac693b009c65c4e2566c2d58e2c2c6",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Bare Bones 1.21.11.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Bare Bones x LambdaBetterGrass 1.21.8.zip",
-                    "display_name": "Bare Bones x LambdaBetterGrass 1.21.8.zip",
                     "url": "https://cdn.modrinth.com/data/7x43ZN3Z/versions/D6OKFWf7/Bare%20Bones%20x%20LambdaBetterGrass%201.21.8.zip",
                     "sha1": "c2cf35f41f5e2eabf92b4c95b3f97fce5d0db8e9",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Bare Bones x LambdaBetterGrass 1.21.8.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Bedrock Skin Packs.zip",
-                    "display_name": "Bedrock Skin Packs.zip",
                     "url": "https://cdn.modrinth.com/data/QpmHXexN/versions/3qk9QYdO/Bedrock%20Skin%20Packs.zip",
                     "sha1": "8f25aca7bb71e4003baaf7b71c58c97a637f7310",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Bedrock Skin Packs.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Better-Leaves-9.5.zip",
-                    "display_name": "Better-Leaves-9.5.zip",
                     "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/XWtayRKd/Better-Leaves-9.5.zip",
                     "sha1": "78b7e6cbb1661716423429d2c46ab08266cdf1f8",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Better-Leaves-9.5.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "CF32PA-2026r10.zip",
-                    "display_name": "CF32PA-2026r10.zip",
                     "url": "https://cdn.modrinth.com/data/bkFF9W8s/versions/K7Hn5UWz/CF32PA-2026r10.zip",
                     "sha1": "6d853506a5c705af08ae7b540f4b46f79783ff99",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "CF32PA-2026r10.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Candy Texture Pack.zip",
-                    "display_name": "Candy Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/NGIRqFgR/versions/bxHfHkig/Candy%20Texture%20Pack.zip",
                     "sha1": "762150d543cc4ba61c6bd626d85f87971d170cdd",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Candy Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Cartoon Texture Pack.zip",
-                    "display_name": "Cartoon Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/I8Wm3eT9/versions/KHKFUGdZ/Cartoon%20Texture%20Pack.zip",
                     "sha1": "68b8446b80c9be9d08f246e7f9352ae9add5c393",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Cartoon Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Chinese Mythology Mash-up.zip",
-                    "display_name": "Chinese Mythology Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/kRsZVu69/versions/s9kVY3d7/Chinese%20Mythology%20Mash-up.zip",
                     "sha1": "1392a8de61fff60a436c6b7a1df69490e0edf9bd",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Chinese Mythology Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "City Texture Pack.zip",
-                    "display_name": "City Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/IcRlkcNt/versions/nPKe1P1i/City%20Texture%20Pack.zip",
                     "sha1": "8fd4af871d2217f86323c217090cdd16b4787418",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "City Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Classic MCYT Skin Pack.zip",
-                    "display_name": "Classic MCYT Skin Pack.zip",
                     "url": "https://cdn.modrinth.com/data/8fM4nRG5/versions/QOretmOo/Classic%20MCYT%20Skin%20Pack.zip",
                     "sha1": "fb3e085ef413c3b730008f55aa18f8dac4886f55",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Classic MCYT Skin Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Default-Dark-Mode-Legacy4J-1.21.9+-1.3.0.zip",
-                    "display_name": "Default-Dark-Mode-Legacy4J-1.21.9+-1.3.0.zip",
                     "url": "https://cdn.modrinth.com/data/8xdgUCRk/versions/Ykaasrzg/Default-Dark-Mode-Legacy4J-1.21.9%2B-1.3.0.zip",
                     "sha1": "1a40bbfb7b4db28244948c188463e2ca12fa3154",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Default-Dark-Mode-Legacy4J-1.21.9+-1.3.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Doctor Who Legacy Skins.zip",
-                    "display_name": "Doctor Who Legacy Skins.zip",
                     "url": "https://cdn.modrinth.com/data/M4781Cfl/versions/HxD8ysRt/Doctor%20Who%20Legacy%20Skins%281%29.zip",
                     "sha1": "bd5cf4074c2acb15ebc90d26f2051fc252b95541",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Doctor Who Legacy Skins.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Egyptian Mythology Mash-up.zip",
-                    "display_name": "Egyptian Mythology Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/1Ee44YG5/versions/Dnd8sB9r/Egyptian%20Mythology%20Mash-up.zip",
                     "sha1": "bb1d866f27d6a413d64e7affb5e4281059ed5bac",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Egyptian Mythology Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "FA+All_Extensions-v1.9.2.zip",
-                    "display_name": "FA+All_Extensions-v1.9.2.zip",
                     "url": "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip",
                     "sha1": "510b8b67d2de0852ffbff704906b8dff78443b67",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "FA+All_Extensions-v1.9.2.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Faithful 32x - 26.1.zip",
-                    "display_name": "Faithful 32x - 26.1.zip",
                     "url": "https://cdn.modrinth.com/data/w0TnApzs/versions/Fj5GKJnf/Faithful%2032x%20-%2026.1.zip",
                     "sha1": "9447e84ee7121c86304e467a0f8d5b095872e1e6",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Faithful 32x - 26.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Faithful 64x - Release 13.zip",
-                    "display_name": "Faithful 64x - Release 13.zip",
                     "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/yjAqtxxY/Faithful%2064x%20-%20Release%2013.zip",
                     "sha1": "06f37fc2febd487e5b94a1d93858c50ae8c8ca51",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Faithful 64x - Release 13.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "FalloutMash-upPack.zip",
-                    "display_name": "FalloutMash-upPack.zip",
                     "url": "https://cdn.modrinth.com/data/YyQcuyAN/versions/UZEBNeOe/FalloutMash-upPack.zip",
                     "sha1": "0f6fca1ac40b3b97a2b99bedac2dee01eca7a0ad",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "FalloutMash-upPack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Fantasy Texture Pack.zip",
-                    "display_name": "Fantasy Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/kFbEIMmd/versions/z6ctmmBE/Fantasy%20Texture%20Pack.zip",
                     "sha1": "3d82154ef2c05b7ca8068a0b575dd0b1b64b1ade",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Fantasy Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Festive Mash-up.zip",
-                    "display_name": "Festive Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/pE8Ji9UH/versions/xg5RzqC5/Festive%20Mash-up.zip",
                     "sha1": "6e0fff666318a4d42e7ed977e1a8f409e71f90c2",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Festive Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Festive+Continued.zip",
-                    "display_name": "Festive+Continued.zip",
                     "url": "https://cdn.modrinth.com/data/SPRYZD9q/versions/yCfNt1DW/Festive%2BContinued.zip",
                     "sha1": "e370fadd4018f659f76ed8b4a427f72f86daba0a",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Festive+Continued.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "FreshAnimations_v1.10.5.zip",
-                    "display_name": "FreshAnimations_v1.10.5.zip",
                     "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/RGIzA5em/FreshAnimations_v1.10.5.zip",
                     "sha1": "0d069c5583d1dd4591e55ec5ff6dd0905f3f8615",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "FreshAnimations_v1.10.5.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Greek Mythology Mash-up.zip",
-                    "display_name": "Greek Mythology Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/WtfCCeNe/versions/1KzVMhiP/Greek%20Mythology%20Mash-up.zip",
                     "sha1": "08d3646eb0ffcc0ae58f4ad58a29d7c9b590b604",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Greek Mythology Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Halloween Mash-up.zip",
-                    "display_name": "Halloween Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/mXZavX3c/versions/YVztuEK9/Halloween%20Mash-up.zip",
                     "sha1": "e9efbdd8442b916e25bae840f5cc6d327c95fc22",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Halloween Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Halloween+Continued.zip",
-                    "display_name": "Halloween+Continued.zip",
                     "url": "https://cdn.modrinth.com/data/1suDOUj6/versions/dxqLkhO9/Halloween%2BContinued.zip",
                     "sha1": "46f9014cba87d9d2fad731996102d8d31f4cc897",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Halloween+Continued.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Legacy Titles.zip",
-                    "display_name": "Legacy Titles.zip",
                     "url": "https://cdn.modrinth.com/data/o8MTMlkh/versions/xxREu2B5/Legacy%20Titles.zip",
                     "sha1": "6ed2a3ae9e7208ccdae17c8a60fba66d653e76a1",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Legacy Titles.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Legacy Worlds.zip",
-                    "display_name": "Legacy Worlds.zip",
                     "url": "https://cdn.modrinth.com/data/IFQ5IZDt/versions/NSRrGxCF/Legacy%20Worlds.zip",
                     "sha1": "8017806b2bc0825e9a3bc35509b309b3bd6a0d4a",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Legacy Worlds.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Legacy-Modpack-Resources.zip",
-                    "display_name": "Legacy-Modpack-Resources.zip",
                     "url": "https://cdn.modrinth.com/data/WUq4Lff9/versions/lMnNx0B4/Legacy-Modpack-Resources.zip",
                     "sha1": "81ef5a35a1c7e24df949cc6e4a0798f0c4795435",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Legacy-Modpack-Resources.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Legacy-Skin-Packs-2.4.0.zip",
-                    "display_name": "Legacy-Skin-Packs-2.4.0.zip",
                     "url": "https://cdn.modrinth.com/data/IU7pUM86/versions/hW2BbtE4/Legacy-Skin-Packs-2.4.0.zip",
                     "sha1": "a6193dba4c5cc97fdace60f925d62fe02211fd3e",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Legacy-Skin-Packs-2.4.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Mass Effect.zip",
-                    "display_name": "Mass Effect.zip",
                     "url": "https://cdn.modrinth.com/data/27e5KETs/versions/u0aJfMeM/Mass%20Effect.zip",
                     "sha1": "e67ab67335c9de75e54dacacc3337572742f9b50",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Mass Effect.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Modern-Skin-Packs-2.4.0.zip",
-                    "display_name": "Modern-Skin-Packs-2.4.0.zip",
                     "url": "https://cdn.modrinth.com/data/UJZvIuVv/versions/uHBubbwJ/Modern-Skin-Packs-2.4.0.zip",
                     "sha1": "55c5f015c56db44ad7d5e8c0d94e562c51ef666f",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Modern-Skin-Packs-2.4.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Natural Texture Pack.zip",
-                    "display_name": "Natural Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/wl6YG9AY/versions/4NJA1Hi8/Natural%20Texture%20Pack.zip",
                     "sha1": "25075617b910871f35b82e11b87ed0a73d375bb7",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Natural Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Norse Mythology Mash-up.zip",
-                    "display_name": "Norse Mythology Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/1COPjvze/versions/PNh1C95v/Norse%20Mythology%20Mash-up.zip",
                     "sha1": "b70de6e910eb6404a4bb9f1fa7a889a840c7f602",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Norse Mythology Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Ocelots-Skin-Pack.zip",
-                    "display_name": "Ocelots-Skin-Pack.zip",
                     "url": "https://cdn.modrinth.com/data/YQaFsEwB/versions/8lSHT67E/Ocelots-Skin-Pack.zip",
                     "sha1": "53a729f94a7c5dbabded30d44964202f88c4e745",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Ocelots-Skin-Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Old UI for Legacy4J (RP Compat).zip",
-                    "display_name": "Old UI for Legacy4J (RP Compat).zip",
                     "url": "https://cdn.modrinth.com/data/LIHfShYl/versions/XBeg7tkb/Old%20UI%20for%20Legacy4J%20%28RP%20Compat%29.zip",
                     "sha1": "b16fedbd6b6d8df87a1532faab1aeb55b89e9c41",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Old UI for Legacy4J (RP Compat).zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "PACP_Base_Release.zip",
-                    "display_name": "PACP_Base_Release.zip",
                     "url": "https://cdn.modrinth.com/data/gx2HeuWD/versions/aDRJthSc/PACP_Base_Release.zip",
                     "sha1": "2f05b6c017bbf859a0f4d2f870420d35833d0002",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "PACP_Base_Release.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Patrix_26.1_32x_basic.zip",
-                    "display_name": "Patrix_26.1_32x_basic.zip",
                     "url": "https://cdn.modrinth.com/data/olO1TaXd/versions/dqji1V3m/Patrix_26.1_32x_basic.zip",
                     "sha1": "f20f77fc61f6110d882b5a231ca559563068f130",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Patrix_26.1_32x_basic.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Pattern Texture Pack.zip",
-                    "display_name": "Pattern Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/2F04lb0o/versions/DH4NyLyx/Pattern%20Texture%20Pack.zip",
                     "sha1": "415d9c28793971e077744cd168b5c3847fdbc48b",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Pattern Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Pirates of the Caribbean Mash-up.zip",
-                    "display_name": "Pirates of the Caribbean Mash-up.zip",
                     "url": "https://cdn.modrinth.com/data/bkDlbAtL/versions/fc8rkb3X/Pirates%20of%20the%20Caribbean%20Mash-up.zip",
                     "sha1": "f9d1bed27c71efeaec7bb38cecf1b4df0d430b44",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Pirates of the Caribbean Mash-up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Plastic Texture Pack.zip",
-                    "display_name": "Plastic Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/meEXwbr9/versions/UHhFQk6m/Plastic%20Texture%20Pack.zip",
                     "sha1": "17659beaf64b3fa14e634477b0086dfdd0f8b194",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Plastic Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "RAYs_3D_Ladders_v2.0.zip",
-                    "display_name": "RAYs_3D_Ladders_v2.0.zip",
                     "url": "https://cdn.modrinth.com/data/Uupo7yGf/versions/KEPsTS4k/RAYs_3D_Ladders_v2.0.zip",
                     "sha1": "a81c75f9c4336a016fe3921f0c9d5f2ac9ffe70f",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "RAYs_3D_Ladders_v2.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "RAYs_3D_Rails_v3.1.zip",
-                    "display_name": "RAYs_3D_Rails_v3.1.zip",
                     "url": "https://cdn.modrinth.com/data/jKa9Ievs/versions/2DlvUHem/RAYs_3D_Rails_v3.1.zip",
                     "sha1": "4e4c856b0eeffe2f643f93890ba03c1f3b2d4f7f",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "RAYs_3D_Rails_v3.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Round-Trees-8.3.zip",
-                    "display_name": "Round-Trees-8.3.zip",
                     "url": "https://cdn.modrinth.com/data/XlqZTP4W/versions/fIYZj3xh/Round-Trees-8.3.zip",
                     "sha1": "fb1bb53555f7914395b9c20464927f8a5c41ced1",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Round-Trees-8.3.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Short Shield.zip",
-                    "display_name": "Short Shield.zip",
                     "url": "https://cdn.modrinth.com/data/yiR8imzk/versions/9kDSKQVa/Short%20Shield.zip",
                     "sha1": "bbd15d5badd7412b1e18dc55d1e1fcef3738a954",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Short Shield.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Simple Grass Flowers v1.9.6.zip",
-                    "display_name": "Simple Grass Flowers v1.9.6.zip",
                     "url": "https://cdn.modrinth.com/data/ti9KkMHm/versions/BFqp4P2V/Simple%20Grass%20Flowers%20v1.9.6.zip",
                     "sha1": "0c94482b3b271f110c79b9f29257376f43adc0bb",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Simple Grass Flowers v1.9.6.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Steampunk Texture Pack.zip",
-                    "display_name": "Steampunk Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/iWaY0S0z/versions/krfgutvs/Steampunk%20Texture%20Pack.zip",
                     "sha1": "3f3de11eba67c2a5752f19737ce128e73c73848f",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Steampunk Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Super Cute Texture Pack.zip",
-                    "display_name": "Super Cute Texture Pack.zip",
                     "url": "https://cdn.modrinth.com/data/ohS9Jkb7/versions/IAZjuEQF/Super%20Cute%20Texture%20Pack.zip",
                     "sha1": "b9716b119b67ccdff80fe51261b11983698a3788",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Super Cute Texture Pack.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Super Mario Mash-Up.zip",
-                    "display_name": "Super Mario Mash-Up.zip",
                     "url": "https://cdn.modrinth.com/data/ArxJTTKm/versions/A3rOYdwT/Super%20Mario%20Mash-Up.zip",
                     "sha1": "0316569de3a180a2e17e147a2a8bb481dbfaa778",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Super Mario Mash-Up.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "The_Garden_Awakens_v1.0.zip",
-                    "display_name": "The_Garden_Awakens_v1.0.zip",
                     "url": "https://cdn.modrinth.com/data/btzz80tF/versions/N3oRgK5f/The_Garden_Awakens_v1.0.zip",
                     "sha1": "2db27b9ba76c6019f6875b13eb55eda86a0a1ea8",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "The_Garden_Awakens_v1.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Transparency Fix.zip",
-                    "display_name": "Transparency Fix.zip",
                     "url": "https://cdn.modrinth.com/data/MK3k9U5o/versions/TQhkspk3/Transparency%20Fix.zip",
                     "sha1": "8f73ae6d148de386ba9706f6225d3227ddea869c",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Transparency Fix.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "TutorialWorldAddon.zip",
-                    "display_name": "TutorialWorldAddon.zip",
                     "url": "https://cdn.modrinth.com/data/If3YYTYV/versions/UwXUb7sq/TutorialWorldAddon.zip",
                     "sha1": "765f4f8334d7a3cf0fbc2674c0e511c490e6e9e1",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "TutorialWorldAddon.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Vintage 26w29d.zip",
-                    "display_name": "Vintage 26w29d.zip",
                     "url": "https://cdn.modrinth.com/data/9kOsrTdF/versions/he1fkCR3/Vintage%2026w29d.zip",
                     "sha1": "a688c23665d54c15b638017c9050b25b1cd02788",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Vintage 26w29d.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Whimscape_26.1-26.2_r1.zip",
-                    "display_name": "Whimscape_26.1-26.2_r1.zip",
                     "url": "https://cdn.modrinth.com/data/4YkvO5Rp/versions/eRKJhmrJ/Whimscape_26.1-26.2_r1.zip",
                     "sha1": "9e2acd9c688b5b238adc19ad9da2f23ea52fa101",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "Whimscape_26.1-26.2_r1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "crops-3d(2).zip",
-                    "display_name": "crops-3d(2).zip",
                     "url": "https://cdn.modrinth.com/data/PgpTtNoI/versions/iKYRZwnm/crops-3d%282%29.zip",
                     "sha1": "233e886a3aed43cb48d01f87b8d68f43eb66b970",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "crops-3d(2).zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "faithful-legacy.zip",
-                    "display_name": "faithful-legacy.zip",
                     "url": "https://cdn.modrinth.com/data/PbrKfOSH/versions/LaRBCmRN/faithful-legacy.zip",
                     "sha1": "60fe181eb9b438b1f3b28cd9c74941db7c6a91b9",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "faithful-legacy.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "golden-days-alpha-16.0-[1.20-to-26.2].zip",
-                    "display_name": "golden-days-alpha-16.0-[1.20-to-26.2].zip",
                     "url": "https://cdn.modrinth.com/data/GalExSh7/versions/UhQHwjFs/golden-days-alpha-16.0-%5B1.20-to-26.2%5D.zip",
                     "sha1": "8bf7d7fc5ddcb8873773af625f3cfc8b5d0c2c36",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "golden-days-alpha-16.0-[1.20-to-26.2].zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "golden-days-base-16.1-[1.20-to-26.2].zip",
-                    "display_name": "golden-days-base-16.1-[1.20-to-26.2].zip",
                     "url": "https://cdn.modrinth.com/data/BFzJ6aQL/versions/ldoYKBFc/golden-days-base-16.1-%5B1.20-to-26.2%5D.zip",
                     "sha1": "a880b8762cac15f06119f403c116f9e04e10c78c",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "golden-days-base-16.1-[1.20-to-26.2].zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ore4j-O4J-3.3.0.zip",
-                    "display_name": "ore4j-O4J-3.3.0.zip",
                     "url": "https://cdn.modrinth.com/data/pEZP92gi/versions/cbeycLW6/ore4j-O4J-3.3.0.zip",
                     "sha1": "8da6de571bc0ab414a9223ee65514b44ea58cae5",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "ore4j-O4J-3.3.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "shorterswords.zip",
-                    "display_name": "shorterswords.zip",
                     "url": "https://cdn.modrinth.com/data/BpaObV8j/versions/TSnvYpcx/shorterswords.zip",
                     "sha1": "02aa5e247cf3a909ed69aea588a51edb0f62cec5",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "shorterswords.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "vanilla-live-2.0.0.zip",
-                    "display_name": "vanilla-live-2.0.0.zip",
                     "url": "https://cdn.modrinth.com/data/gztVVDVO/versions/gIZtsQFQ/vanilla-live-2.0.0.zip",
                     "sha1": "ed8a56021c7d5139ecf0817dea6e367d70356b10",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "vanilla-live-2.0.0.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "BSL_v10.1.3.zip",
-                    "display_name": "BSL_v10.1.3.zip",
                     "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/hIibTfxn/BSL_v10.1.3.zip",
                     "sha1": "c2459c82c23dc7442eaf1976dade30c2c2f18a9f",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "BSL_v10.1.3.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
-                    "display_name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
                     "url": "https://cdn.modrinth.com/data/ZvMtQlho/versions/kC2Y8q1P/Bliss_v2.1.2_%28Chocapic13_Shaders_edit%29.zip",
                     "sha1": "ded6c8a98305f8aff90ef781e7585b33b8452cfd",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ComplementaryReimagined_r5.8.1.zip",
-                    "display_name": "ComplementaryReimagined_r5.8.1.zip",
                     "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/yCCduG44/ComplementaryReimagined_r5.8.1.zip",
                     "sha1": "5a021081f0178ed91dd911194071465ab0a4348b",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "ComplementaryReimagined_r5.8.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ComplementaryUnbound_r5.8.1.zip",
-                    "display_name": "ComplementaryUnbound_r5.8.1.zip",
                     "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
                     "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "ComplementaryUnbound_r5.8.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Kappa_v5.3.zip",
-                    "display_name": "Kappa_v5.3.zip",
                     "url": "https://cdn.modrinth.com/data/Y8161YLz/versions/8p4viq8V/Kappa_v5.3.zip",
                     "sha1": "620388c59df919fc29f8762268942f4871c2fb55",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Kappa_v5.3.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "MakeUp-UltraFast-9.5c.zip",
-                    "display_name": "MakeUp-UltraFast-9.5c.zip",
                     "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/zt4eHisU/MakeUp-UltraFast-9.5c.zip",
                     "sha1": "57dfa2eb8b3f9c2e4963f6b77a3cedb0e846dc5d",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "MakeUp-UltraFast-9.5c.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Noble v1.9.5.zip",
-                    "display_name": "Noble v1.9.5.zip",
                     "url": "https://cdn.modrinth.com/data/sclYVqbt/versions/N7iRa7lP/Noble%20v1.9.5.zip",
                     "sha1": "495869ae9bd5706655efc3168446eb648f27d777",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Noble v1.9.5.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Nostalgia_v5.1.zip",
-                    "display_name": "Nostalgia_v5.1.zip",
                     "url": "https://cdn.modrinth.com/data/xEItlMn3/versions/fzxeGgx7/Nostalgia_v5.1.zip",
                     "sha1": "c93900007773ce0314539461e26aa8faadf4aec9",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Nostalgia_v5.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "RedHat_v34.3.1.zip",
-                    "display_name": "RedHat_v34.3.1.zip",
                     "url": "https://cdn.modrinth.com/data/ZvitaqQh/versions/Ca8OxUZj/RedHat_v34.3.1.zip",
                     "sha1": "357e3062b2930a269332c94ac863e7916d023116",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "RedHat_v34.3.1.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "RenderPearl v2.8.0-beta.3.zip",
-                    "display_name": "RenderPearl v2.8.0-beta.3.zip",
                     "url": "https://cdn.modrinth.com/data/BrRak9pu/versions/6iThJ7Uo/RenderPearl%20v2.8.0-beta.3.zip",
                     "sha1": "99b1725094821b65c93856d4854c0fe2da8f9561",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "RenderPearl v2.8.0-beta.3.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Shrimple_v0.12.zip",
-                    "display_name": "Shrimple_v0.12.zip",
                     "url": "https://cdn.modrinth.com/data/BS9T99lD/versions/tAx0UOBX/Shrimple_v0.12.zip",
                     "sha1": "03f9a8e9c14f53a9c7ed33d89316ec930ab501cc",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Shrimple_v0.12.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Solas Shader V3.7.zip",
-                    "display_name": "Solas Shader V3.7.zip",
                     "url": "https://cdn.modrinth.com/data/EpQFjzrQ/versions/WcoEHPPx/Solas%20Shader%20V3.7.zip",
                     "sha1": "0b8296fccb872babba488acec206816c7b48e222",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "Solas Shader V3.7.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "miniature-shader-2.18.12.zip",
-                    "display_name": "miniature-shader-2.18.12.zip",
                     "url": "https://cdn.modrinth.com/data/UaS8ROxa/versions/8f0PCWn5/miniature-shader-2.18.12.zip",
                     "sha1": "11d6b139e49d4b6226c2711517736ddb8a85b474",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "miniature-shader-2.18.12.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "rethinking-voxels_r0.1-beta9.zip",
-                    "display_name": "rethinking-voxels_r0.1-beta9.zip",
                     "url": "https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip",
                     "sha1": "9689915ec1a7215eb6060be2a08eaf3a09ebdbab",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "rethinking-voxels_r0.1-beta9.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "superDuperVanilla.zip",
-                    "display_name": "superDuperVanilla.zip",
                     "url": "https://cdn.modrinth.com/data/LMIZZNxZ/versions/KB0sOLSc/superDuperVanilla.zip",
                     "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
-                    "file_type": "shader"
+                    "file_type": "shader",
+                    "install_path": null,
+                    "display_name": "superDuperVanilla.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
             "is_upcoming": true
         },
         {
@@ -2972,45 +3880,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "zoomify-2.16.1+26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/tpQ8eZAo/zoomify-2.16.1%2B26.1.jar",
-                    "sha1": "c180ae8cf90da1abd67c26b5c5e7bf5d795c3b1d",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Zoomify (Zoom)",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "badpackets-fabric-0.12.2.jar",
-                    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SgNrUT3E/badpackets-fabric-0.12.2.jar",
-                    "sha1": "6733365cd9e0a44f6bb28326385b96e2328b31f2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "bad packets",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "bobby-5.2.13+mc26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/njaTBYvt/bobby-5.2.13%2Bmc26.1.jar",
-                    "sha1": "24bb68c889e56d6a532725668ca663e4197935c5",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Bobby",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "chat_heads-1.2.4-fabric-26.1.jar",
                     "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ct4sHdcD/chat_heads-1.2.4-fabric-26.1.jar",
                     "sha1": "4a529510d0690adfa94df8e359fa444e2251a657",
@@ -3024,38 +3893,12 @@
                     "replaces": null
                 },
                 {
-                    "name": "citresewn-continuation-1.2.2-fork.12+26.1.2.jar",
-                    "url": "https://cdn.modrinth.com/data/8auYYPlH/versions/wwFXSCaw/citresewn-continuation-1.2.2-fork.12%2B26.1.2.jar",
-                    "sha1": "55b83f007d90f6279aac9d55895a71d414304d27",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "CIT Resewn Continuation",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "cloth-config-26.1.154.jar",
                     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/GFM8zh9J/cloth-config-26.1.154.jar",
                     "sha1": "832f9047bc4af13587709c74f7c37e1c8579d1eb",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Cloth Config API",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "Clumps-fabric-26.1.2-26.1.2.1.jar",
-                    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/RXNrUIjA/Clumps-fabric-26.1.2-26.1.2.1.jar",
-                    "sha1": "c1e9539fdadb3cba1c4b665a141e39a65e6ef674",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Clumps",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -3082,19 +3925,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "[EMF] Entity Model Features",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "entity_sound_features-0.8.1-26.1-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/SiN0Ur9P/entity_sound_features-0.8.1-26.1-fabric.jar",
-                    "sha1": "19ebdba2fdbd4a1b94c76edc4d941260ba0ba0b1",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "[ESF] Entity Sound Features",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -3154,19 +3984,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "fadeless-2.0.8-26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/AuK4B1qm/fadeless-2.0.8-26.1.jar",
-                    "sha1": "53c22a0efa32c8c34470e7742e14d0e75b2cc90e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fadeless",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ferritecore-9.0.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar",
                     "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
@@ -3193,19 +4010,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "krypton-0.3.0.jar",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/kYAGItyj/krypton-0.3.0.jar",
-                    "sha1": "2557a2dae9492ab98580a61fb9f209df7a90e733",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Krypton",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "language-reload-1.7.7+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/G7cLFIIG/language-reload-1.7.7%2B26.1.2.jar",
                     "sha1": "73c5b5bc7e3cd94dfcdd385e2f305cff969dbb97",
@@ -3225,6 +4029,123 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Lithium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "modmenu-18.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3rsoV1bk/modmenu-18.0.0.jar",
+                    "sha1": "0b5cd2531cd3506e431cd2d739da3abceed08ea6",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Mod Menu",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "zoomify-2.16.1+26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/tpQ8eZAo/zoomify-2.16.1%2B26.1.jar",
+                    "sha1": "c180ae8cf90da1abd67c26b5c5e7bf5d795c3b1d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Zoomify (Zoom)",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "badpackets-fabric-0.12.2.jar",
+                    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SgNrUT3E/badpackets-fabric-0.12.2.jar",
+                    "sha1": "6733365cd9e0a44f6bb28326385b96e2328b31f2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "bad packets",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "bobby-5.2.13+mc26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/njaTBYvt/bobby-5.2.13%2Bmc26.1.jar",
+                    "sha1": "24bb68c889e56d6a532725668ca663e4197935c5",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Bobby",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "citresewn-continuation-1.2.2-fork.12+26.1.2.jar",
+                    "url": "https://cdn.modrinth.com/data/8auYYPlH/versions/wwFXSCaw/citresewn-continuation-1.2.2-fork.12%2B26.1.2.jar",
+                    "sha1": "55b83f007d90f6279aac9d55895a71d414304d27",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "CIT Resewn Continuation",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Clumps-fabric-26.1.2-26.1.2.1.jar",
+                    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/RXNrUIjA/Clumps-fabric-26.1.2-26.1.2.1.jar",
+                    "sha1": "c1e9539fdadb3cba1c4b665a141e39a65e6ef674",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Clumps",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "entity_sound_features-0.8.1-26.1-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/SiN0Ur9P/entity_sound_features-0.8.1-26.1-fabric.jar",
+                    "sha1": "19ebdba2fdbd4a1b94c76edc4d941260ba0ba0b1",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "[ESF] Entity Sound Features",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "fadeless-2.0.8-26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/AuK4B1qm/fadeless-2.0.8-26.1.jar",
+                    "sha1": "53c22a0efa32c8c34470e7742e14d0e75b2cc90e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fadeless",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "krypton-0.3.0.jar",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/kYAGItyj/krypton-0.3.0.jar",
+                    "sha1": "2557a2dae9492ab98580a61fb9f209df7a90e733",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Krypton",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -3537,19 +4458,6 @@
                     "file_type": "config",
                     "install_path": "config/sound_physics_remastered/",
                     "display_name": "soundphysics.properties",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "modmenu-18.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3rsoV1bk/modmenu-18.0.0.jar",
-                    "sha1": "0b5cd2531cd3506e431cd2d739da3abceed08ea6",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Mod Menu",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -3910,12 +4818,16 @@
             "file_type": "resourcepack",
             "install_path": null,
             "target_profiles": [
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "§4§lViPh Pack.zip",
-            "req_user_type": null,
+            "req_user_type": "exclusive",
             "dependencies": null,
-            "allowed_users": null,
+            "allowed_users": [
+                "6ViPh5",
+                "KelloGamer_LZ"
+            ],
             "exclusive_group": "tx_1"
         }
     ]
