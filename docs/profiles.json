@@ -2321,6 +2321,17 @@
             "req_user_type": null,
             "allowed_users": null,
             "is_upcoming": true
+        },
+        {
+            "id": "legacy",
+            "name": "Legacy Edition",
+            "version": "26.2",
+            "loader": "fabric",
+            "loader_version": "0.19.3",
+            "is_upcoming": true,
+            "visuals": {
+                "background": "https://i.redd.it/legacy-original-wallpaper-gameart-hd-download-v0-v9y6ryisq7vd1.png?width=1920&format=png&auto=webp&s=c5e3e52e40e0ff5eb67ad8b90c428896eb974e17"
+            }
         }
     ],
     "optional_mods": [
