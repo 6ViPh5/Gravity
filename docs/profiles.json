@@ -1181,6 +1181,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
+                    "display_name": "CursorCentered Fix",
+                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
+                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -1677,6 +1684,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
+                    "display_name": "CursorCentered Fix",
+                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
+                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
