@@ -1194,6 +1194,20 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "krypton-0.2.10.jar",
+                    "display_name": "Krypton",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+                    "display_name": "No Chat Reports",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+                    "sha1": "4e519507bdd81ce2520da33f497a5f12469f5b10",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -1640,19 +1654,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "krypton-0.2.10.jar",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
-                    "sha1": "94DDAEEAE6CA7FECC79E54A0AA02A5438A775A99",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
                     "sha1": "203BDCB26E97B3217B045E1182651A7D7B6462EC",
@@ -1703,6 +1704,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "krypton-0.2.10.jar",
+                    "display_name": "Krypton",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2684,12 +2692,27 @@
         },
         {
             "name": "whoami-1.0.jar",
-            "display_name": "Who am I?",
             "url": "https://cdn.modrinth.com/data/CcxcmoLQ/versions/qX809hta/whoami-1.0.jar",
             "sha1": "d8c82b4e959452ebd68efda3c7abfce3cf002c95",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
+            ],
+            "display_name": "Who am I?",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "replaymod-1.21.11-2.6.27.jar",
+            "display_name": "ReplayMod",
+            "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/LcmLujKZ/replaymod-1.21.11-2.6.27.jar",
+            "sha1": "6f840b1c05a648b2852d70294c6bb801818772ea",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
             ]
         }
     ]
