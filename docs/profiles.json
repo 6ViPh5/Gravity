@@ -1014,19 +1014,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "totemcounter-1.11.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/T9R7YTnA/versions/eRAPu7Ge/totemcounter-1.11.2%2Bmc1.21.11.jar",
-                    "sha1": "63CAD515EA0C7E38C874125D737CBC2D00A08700",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ukulib-1.10.2+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
                     "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F",
@@ -1197,17 +1184,29 @@
                 },
                 {
                     "name": "krypton-0.2.10.jar",
-                    "display_name": "Krypton",
                     "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
                     "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Krypton",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
-                    "display_name": "No Chat Reports",
                     "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
                     "sha1": "4e519507bdd81ce2520da33f497a5f12469f5b10",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "No Chat Reports",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1615,6 +1614,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "krypton-0.2.10.jar",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
+                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Krypton",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
@@ -1704,13 +1716,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "krypton-0.2.10.jar",
-                    "display_name": "Krypton",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
-                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2706,14 +2711,18 @@
         },
         {
             "name": "replaymod-1.21.11-2.6.27.jar",
-            "display_name": "ReplayMod",
             "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/LcmLujKZ/replaymod-1.21.11-2.6.27.jar",
             "sha1": "6f840b1c05a648b2852d70294c6bb801818772ea",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
-            ]
+            ],
+            "display_name": "ReplayMod",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
