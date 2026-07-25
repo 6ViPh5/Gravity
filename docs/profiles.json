@@ -1184,10 +1184,16 @@
                 },
                 {
                     "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
-                    "display_name": "CursorCentered Fix",
                     "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
                     "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "CursorCentered Fix",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1582,6 +1588,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
+                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "CursorCentered Fix",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
                     "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
@@ -1684,13 +1703,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
-                    "display_name": "CursorCentered Fix",
-                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
-                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2441,21 +2453,6 @@
             "allowed_users": null
         },
         {
-            "name": "selfnametag-1.0.0+mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/b1BQdN7H/versions/f6CyflHd/selfnametag-1.0.0%2Bmc1.21.11.jar",
-            "sha1": "B259C4CEF41CA56B508AE34754FE36DFA20443AF",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Self Nametag",
-            "req_user_type": null,
-            "dependencies": [],
-            "allowed_users": null
-        },
-        {
             "name": "totembar-1.0.2.jar",
             "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
             "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
@@ -2684,6 +2681,16 @@
                 "KelloGamer_LZ"
             ],
             "exclusive_group": "tx_1"
+        },
+        {
+            "name": "whoami-1.0.jar",
+            "display_name": "Who am I?",
+            "url": "https://cdn.modrinth.com/data/CcxcmoLQ/versions/qX809hta/whoami-1.0.jar",
+            "sha1": "d8c82b4e959452ebd68efda3c7abfce3cf002c95",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
