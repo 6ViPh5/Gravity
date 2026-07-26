@@ -2,7 +2,7 @@
     "profiles": [
         {
             "id": "vanilla",
-            "name": "Vanillaaa",
+            "name": "Vanilla",
             "version": "26.2",
             "loader": "vanilla",
             "loader_version": null,
