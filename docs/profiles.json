@@ -2672,9 +2672,9 @@
             "req_user_type": "exclusive",
             "dependencies": null,
             "allowed_users": [
-                "6ViPh5",
-                "I_Flx"
-            ]
+                "6ViPh5"
+            ],
+            "exclusive_group": "inv"
         },
         {
             "name": "§4§lViPh Pack.zip",
@@ -2726,23 +2726,33 @@
         },
         {
             "name": "Highlighter-1.21.11-fabric-1.2.0.jar",
-            "display_name": "Item Highlighter",
             "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/pJg91INR/Highlighter-1.21.11-fabric-1.2.0.jar",
             "sha1": "a5ba71e489a9f336dcaa087beb23c1f55cac630b",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
+            "display_name": "Item Highlighter",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "Iceberg-1.21.11-fabric-1.4.0.1.jar",
-                    "display_name": "Iceberg",
                     "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/yRNBxEJF/Iceberg-1.21.11-fabric-1.4.0.1.jar",
                     "sha1": "911073f3958e22ff87920662e9e85e189243e1a2",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Iceberg",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         }
     ]
 }
