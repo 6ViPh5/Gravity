@@ -2753,6 +2753,17 @@
                 }
             ],
             "allowed_users": null
+        },
+        {
+            "name": "chat_highlight_n_sound-1.1.4.jar",
+            "display_name": "Chat Highlight & Sound",
+            "url": "https://cdn.modrinth.com/data/ZxVa4ICg/versions/pWPVgJGt/chat_highlight_n_sound-1.1.4.jar",
+            "sha1": "e732f500afd5459d57a25b6dbcba31b9658efead",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ]
         }
     ]
 }
