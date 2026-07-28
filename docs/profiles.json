@@ -2752,17 +2752,40 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "display_name": "§4§lViPh Pack.zip",
             "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
             "sha1": "09e99aa0bf6536e9e8426edd49fe6ae19760838a",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
+            "display_name": "ViPh Pack",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
+            ]
+        },
+        {
+            "name": "clientcommands-2.13.2.jar",
+            "display_name": "Client Commands",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/eKkGy7fT/clientcommands-2.13.2.jar",
+            "sha1": "95fc03d7dae6fb1790baf59e15e2090325b7238f",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ]
+        },
+        {
+            "name": "clientcommands-2.15.1.jar",
+            "display_name": "Client Commands",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/3QTuhe8G/clientcommands-2.15.1.jar",
+            "sha1": "d1767937bb15b72646f487e0f93c50f03bb4f14b",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
             ]
         }
     ]
