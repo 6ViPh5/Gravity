@@ -2677,25 +2677,6 @@
             "exclusive_group": "inv"
         },
         {
-            "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "02c3ae66ca2944f927a09a63ba82a01c87cfd087",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "§4§lViPh Pack.zip",
-            "req_user_type": "exclusive",
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5",
-                "KelloGamer_LZ"
-            ],
-            "exclusive_group": "tx_1"
-        },
-        {
             "name": "whoami-1.0.jar",
             "url": "https://cdn.modrinth.com/data/CcxcmoLQ/versions/qX809hta/whoami-1.0.jar",
             "sha1": "d8c82b4e959452ebd68efda3c7abfce3cf002c95",
@@ -2756,13 +2737,32 @@
         },
         {
             "name": "DidYouMentionMe-1.1.10.jar",
-            "display_name": "Did You Mention Me?",
             "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/Lzw1LkEA/DidYouMentionMe-1.1.10.jar",
             "sha1": "31910d16f6d3946706bc8f08e3e923711d0c8b7f",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
+            ],
+            "display_name": "Did You Mention Me?",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "display_name": "§4§lViPh Pack.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "09e99aa0bf6536e9e8426edd49fe6ae19760838a",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5"
             ]
         }
     ]
