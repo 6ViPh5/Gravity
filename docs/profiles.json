@@ -1040,19 +1040,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "ViaFabricPlus-4.4.14.jar",
-                    "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/3MFqgZdf/ViaFabricPlus-4.4.14.jar",
-                    "sha1": "FF30C6254C9AFAF0C8A5A6EA2D8D79B1F5C5434A",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "WalksyLib-0.9.992+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
                     "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD",
@@ -1207,6 +1194,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "BetterF1-Fabric-1.1+1.21.9.jar",
+                    "display_name": "Better F1 Reborn",
+                    "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/ZGXovn58/BetterF1-Fabric-1.1%2B1.21.9.jar",
+                    "sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2566,7 +2560,8 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "exclusive_group": "gui"
         },
         {
             "name": "ExploitationTimer-fabric-1.0.2.jar",
@@ -2797,6 +2792,65 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "ViaFabricPlus-4.4.14.jar",
+            "display_name": "ViaFabricPlus",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/3MFqgZdf/ViaFabricPlus-4.4.14.jar",
+            "sha1": "ff30c6254c9afaf0c8a5a6ea2d8d79b1f5c5434a",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
+            "name": "craftify-2.0.0-1.21.11.jar",
+            "display_name": "Craftify",
+            "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/t1WTsiC4/craftify-2.0.0-1.21.11.jar",
+            "sha1": "51308d6c9a89c44fd5a0d1d7f8b945d7c48f41e6",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
+        },
+        {
+            "name": "vanillahud-3.4.2+1.21.11.jar",
+            "display_name": "VanillaHUD",
+            "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/jXj7BfJS/vanillahud-3.4.2%2B1.21.11.jar",
+            "sha1": "610d95856691ad8b294feb390940bd21c51472bf",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "gui",
+            "dependencies": [
+                {
+                    "name": "OneConfig-1.21.11-fabric-1.0.13.jar",
+                    "display_name": "OneConfig",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/3loTk9rG/OneConfig-1.21.11-fabric-1.0.13.jar",
+                    "sha1": "50d4f5b63be2d848b3bfec83b797919a76014a9c",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "HealthIndicators-21.11.1.jar",
+            "display_name": "Health Indicators",
+            "url": "https://cdn.modrinth.com/data/htkVd6dQ/versions/yZzbIUkE/HealthIndicators-21.11.1.jar",
+            "sha1": "72a2c2cc16fa5a05bfae6c9cfb4dce859e34ea15",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "dependencies": [
+                {
+                    "name": "architectury-19.0.1-fabric.jar",
+                    "display_name": "Architectury API",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
+                    "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
