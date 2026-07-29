@@ -1210,10 +1210,16 @@
                 },
                 {
                     "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-                    "display_name": "Sodium",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
                     "sha1": "e757883c4959582bed8b057c1f830cb84f325567",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1700,10 +1706,16 @@
                 },
                 {
                     "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-                    "display_name": "Sodium",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
                     "sha1": "e757883c4959582bed8b057c1f830cb84f325567",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
