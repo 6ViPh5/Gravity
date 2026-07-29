@@ -494,19 +494,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.16.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/ZSGmg1qu/c2me-fabric-mc1.21.11-0.4.0-alpha.0.16.jar",
-                    "sha1": "8E67DB99364C951AEAFC5E1513BB72C130E458E2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "citresewn-continuation-1.2.2-fork.10+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/8auYYPlH/versions/euCUBM7p/citresewn-continuation-1.2.2-fork.10%2B1.21.11.jar",
                     "sha1": "60E639D529F99C95FB086982655E91486056280C",
@@ -728,19 +715,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/QwkfUKSj/ImmediatelyFast-Fabric-1.14.2%2B1.21.11.jar",
-                    "sha1": "4F17C6B7388F0AFC5D24075DC2A294963F78C712",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
                     "url": "https://cdn.modrinth.com/data/Kp2uclYl/versions/mZy4fW0C/inventoryhud.fabric.1.21.11-3.4.29.jar",
                     "sha1": "36FF4F8A05C0F7D66B7C4BDC4778DA49FF8205C5",
@@ -861,19 +835,6 @@
                     "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
                     "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "pingfix-3.2.0.jar",
-                    "url": "https://cdn.modrinth.com/data/9GikcByI/versions/tXaaAkvJ/pingfix-3.2.0.jar",
-                    "sha1": "060153EB57A51E1F4C98B68BB9BB90F249EC2EE0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1105,19 +1066,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
-                    "sha1": "E757883C4959582BED8B057C1F830CB84F325567",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
                     "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
@@ -1197,9 +1145,68 @@
                 },
                 {
                     "name": "BetterF1-Fabric-1.1+1.21.9.jar",
-                    "display_name": "Better F1 Reborn",
                     "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/ZGXovn58/BetterF1-Fabric-1.1%2B1.21.9.jar",
                     "sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better F1 Reborn",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
+                    "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ferritecore-8.2.0-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+                    "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
+                    "sha1": "43E451464F979BDF9FF4AC288B358A2F91B79ED8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+                    "display_name": "Lithium",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+                    "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "modernfix-5.26.3-build.1.jar",
+                    "display_name": "ModernFix-mVUS",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/yPCwXBn8/modernfix-5.26.3-build.1.jar",
+                    "sha1": "4b0758e7c052b20ebb58cde9de083520a3d114ab",
                     "file_type": "mod"
                 }
             ],
@@ -1452,19 +1459,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "pingfix-3.2.0.jar",
-                    "url": "https://cdn.modrinth.com/data/9GikcByI/versions/tXaaAkvJ/pingfix-3.2.0.jar",
-                    "sha1": "060153EB57A51E1F4C98B68BB9BB90F249EC2EE0",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
                     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
                     "sha1": "BBDC920ECFF993148CD6E81A208536132245CE40",
@@ -1536,19 +1530,6 @@
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "sodium-fabric-0.8.13+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
-                    "sha1": "E757883C4959582BED8B057C1F830CB84F325567",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -1710,6 +1691,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
+                    "display_name": "Lithium",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+                    "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2714,7 +2702,8 @@
             "display_name": "ReplayMod",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "exclusive_group": "bugs_error_1"
         },
         {
             "name": "Highlighter-1.21.11-fabric-1.2.0.jar",
@@ -2795,62 +2784,91 @@
         },
         {
             "name": "ViaFabricPlus-4.4.14.jar",
-            "display_name": "ViaFabricPlus",
             "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/3MFqgZdf/ViaFabricPlus-4.4.14.jar",
             "sha1": "ff30c6254c9afaf0c8a5a6ea2d8d79b1f5c5434a",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
-            ]
+            ],
+            "display_name": "ViaFabricPlus",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "bugs_error_1"
         },
         {
             "name": "craftify-2.0.0-1.21.11.jar",
-            "display_name": "Craftify",
             "url": "https://cdn.modrinth.com/data/nrJ2NpD0/versions/t1WTsiC4/craftify-2.0.0-1.21.11.jar",
             "sha1": "51308d6c9a89c44fd5a0d1d7f8b945d7c48f41e6",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
-            ]
+            ],
+            "display_name": "Craftify",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "vanillahud-3.4.2+1.21.11.jar",
-            "display_name": "VanillaHUD",
             "url": "https://cdn.modrinth.com/data/pWXJaKrX/versions/jXj7BfJS/vanillahud-3.4.2%2B1.21.11.jar",
             "sha1": "610d95856691ad8b294feb390940bd21c51472bf",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
-            "exclusive_group": "gui",
+            "display_name": "VanillaHUD",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "OneConfig-1.21.11-fabric-1.0.13.jar",
-                    "display_name": "OneConfig",
                     "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/3loTk9rG/OneConfig-1.21.11-fabric-1.0.13.jar",
                     "sha1": "50d4f5b63be2d848b3bfec83b797919a76014a9c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "OneConfig",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null,
+            "exclusive_group": "gui"
         },
         {
             "name": "HealthIndicators-21.11.1.jar",
-            "display_name": "Health Indicators",
             "url": "https://cdn.modrinth.com/data/htkVd6dQ/versions/yZzbIUkE/HealthIndicators-21.11.1.jar",
             "sha1": "72a2c2cc16fa5a05bfae6c9cfb4dce859e34ea15",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
+            "display_name": "Health Indicators",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "architectury-19.0.1-fabric.jar",
-                    "display_name": "Architectury API",
                     "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
                     "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Architectury API",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         }
     ]
 }
