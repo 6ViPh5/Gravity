@@ -2756,24 +2756,6 @@
             "allowed_users": null
         },
         {
-            "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "09e99aa0bf6536e9e8426edd49fe6ae19760838a",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "ViPh Pack",
-            "req_user_type": "exclusive",
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5",
-                "KelloGamer_LZ"
-            ]
-        },
-        {
             "name": "clientcommands-2.13.2.jar",
             "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/eKkGy7fT/clientcommands-2.13.2.jar",
             "sha1": "95fc03d7dae6fb1790baf59e15e2090325b7238f",
@@ -2875,6 +2857,23 @@
                 }
             ],
             "allowed_users": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "display_name": "ViPh Pack",
+            "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "21922af756b64e21ec624ee1b3e9c8c9016609e3",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5",
+                "KelloGamer_LZ"
+            ],
+            "exclusive_group": "tx_1"
         }
     ]
 }
