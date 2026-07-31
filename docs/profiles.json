@@ -410,7 +410,7 @@
             "name": "PvP 1.9",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.2",
+            "loader_version": "0.19.3",
             "visuals": {
                 "background": "https://hypixel.net/attachments/2021-04-22_22-19-05-png.2520643/"
             },
@@ -1208,10 +1208,7 @@
                     "exclusive_group": null,
                     "replaces": null
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null
+            ]
         },
         {
             "id": "opt1.21",
@@ -2860,15 +2857,17 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "display_name": "ViPh Pack",
             "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
             "sha1": "21922af756b64e21ec624ee1b3e9c8c9016609e3",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
+            "display_name": "ViPh Pack",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
                 "KelloGamer_LZ"
