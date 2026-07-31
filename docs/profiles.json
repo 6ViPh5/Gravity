@@ -2695,22 +2695,6 @@
             "allowed_users": null
         },
         {
-            "name": "replaymod-1.21.11-2.6.27.jar",
-            "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/LcmLujKZ/replaymod-1.21.11-2.6.27.jar",
-            "sha1": "6f840b1c05a648b2852d70294c6bb801818772ea",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "ReplayMod",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "bugs_error_1"
-        },
-        {
             "name": "Highlighter-1.21.11-fabric-1.2.0.jar",
             "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/pJg91INR/Highlighter-1.21.11-fabric-1.2.0.jar",
             "sha1": "a5ba71e489a9f336dcaa087beb23c1f55cac630b",
@@ -2860,19 +2844,21 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "display_name": "ViPh Pack",
             "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
             "sha1": "8fb7f55f4610cc5cf6a5eec2a28027ba14c3a6cd",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
-            "exclusive_group": "tx_1",
+            "display_name": "ViPh Pack",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
-            ]
+            ],
+            "exclusive_group": "tx_1"
         }
     ]
 }
