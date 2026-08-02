@@ -2844,43 +2844,51 @@
         },
         {
             "name": "mclogger-1.1.2.jar",
-            "display_name": "Chat Logger",
             "url": "https://cdn.modrinth.com/data/d64ioX2q/versions/3guNTSaS/mclogger-1.1.2.jar",
             "sha1": "91db065de2c106c67ab31f9c629f3eef9405a269",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
+            "display_name": "Chat Logger",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
-            ]
+            ],
+            "exclusive_group": "chat_mod"
         },
         {
             "name": "persistent-chat-2.0.1+1.21.11-fabric.jar",
-            "display_name": "Persistent Chat",
             "url": "https://cdn.modrinth.com/data/kzOJywOa/versions/WsRD6pYh/persistent-chat-2.0.1%2B1.21.11-fabric.jar",
             "sha1": "a1e40a622105df4fb55037c27c230f1d6fd0b7f7",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
+            "display_name": "Persistent Chat",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
-            ]
+            ],
+            "exclusive_group": "chat_mod"
         },
         {
             "name": "§4§lViPh Pack.zip",
-            "display_name": "ViPh Pack",
             "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
             "sha1": "cdf06258d8cb4363f70d9eb9c2fafcc4e2bf0042",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
+            "display_name": "ViPh Pack",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
                 "KelloGamer_LZ"
