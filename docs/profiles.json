@@ -2864,48 +2864,6 @@
                 "6ViPh5",
                 "KelloGamer_LZ"
             ]
-        },
-        {
-            "name": "HealthIndicators-1.21.11-0.0.1.jar",
-            "display_name": "Player Health Indicators (ANIMATED)",
-            "url": "https://cdn.modrinth.com/data/5uHXoloI/versions/w5iWcfnZ/HealthIndicators-1.21.11-0.0.1.jar",
-            "sha1": "fc2230c4c11e57363fe1fc6873e74fdaf707a191",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "dependencies": [
-                {
-                    "name": "ImproperUI-1.21.11-0.0.7-BETA.jar",
-                    "display_name": "ImproperUI",
-                    "url": "https://cdn.modrinth.com/data/rizRiwPL/versions/bG5F25rq/ImproperUI-1.21.11-0.0.7-BETA.jar",
-                    "sha1": "e87e9e7bbcbfabd851c29ac24f1ca3dce5054082",
-                    "file_type": "mod"
-                }
-            ],
-            "exclusive_group": "health_indicator"
-        },
-        {
-            "name": "simple-health-indicator-7.0.0+1.21.9.jar",
-            "display_name": "Simple Health Indicator",
-            "url": "https://cdn.modrinth.com/data/Dt8M1EnB/versions/Wwn1Nfk1/simple-health-indicator-7.0.0%2B1.21.9.jar",
-            "sha1": "d300ecd1358319b98053b7821c19222427809d3d",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "exclusive_group": "health_indicator"
-        },
-        {
-            "name": "Heart Indicator 1.21.11.jar",
-            "display_name": "Heart Indicator",
-            "url": "https://cdn.modrinth.com/data/YD3LM4aF/versions/2V1jOSd3/Heart%20Indicator%201.21.11.jar",
-            "sha1": "7f31b6416c2853a71385759d2c17e7076793c40f",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "exclusive_group": "health_indicator"
         }
     ]
 }
