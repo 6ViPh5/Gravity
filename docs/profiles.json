@@ -2814,35 +2814,6 @@
             "exclusive_group": "gui"
         },
         {
-            "name": "HealthIndicators-21.11.1.jar",
-            "url": "https://cdn.modrinth.com/data/htkVd6dQ/versions/yZzbIUkE/HealthIndicators-21.11.1.jar",
-            "sha1": "72a2c2cc16fa5a05bfae6c9cfb4dce859e34ea15",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "Health Indicators",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "architectury-19.0.1-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/uNdfrcQ8/architectury-19.0.1-fabric.jar",
-                    "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "Architectury API",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
-        },
-        {
             "name": "mclogger-1.1.2.jar",
             "url": "https://cdn.modrinth.com/data/d64ioX2q/versions/3guNTSaS/mclogger-1.1.2.jar",
             "sha1": "91db065de2c106c67ab31f9c629f3eef9405a269",
@@ -2893,6 +2864,48 @@
                 "6ViPh5",
                 "KelloGamer_LZ"
             ]
+        },
+        {
+            "name": "HealthIndicators-1.21.11-0.0.1.jar",
+            "display_name": "Player Health Indicators (ANIMATED)",
+            "url": "https://cdn.modrinth.com/data/5uHXoloI/versions/w5iWcfnZ/HealthIndicators-1.21.11-0.0.1.jar",
+            "sha1": "fc2230c4c11e57363fe1fc6873e74fdaf707a191",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "dependencies": [
+                {
+                    "name": "ImproperUI-1.21.11-0.0.7-BETA.jar",
+                    "display_name": "ImproperUI",
+                    "url": "https://cdn.modrinth.com/data/rizRiwPL/versions/bG5F25rq/ImproperUI-1.21.11-0.0.7-BETA.jar",
+                    "sha1": "e87e9e7bbcbfabd851c29ac24f1ca3dce5054082",
+                    "file_type": "mod"
+                }
+            ],
+            "exclusive_group": "health_indicator"
+        },
+        {
+            "name": "simple-health-indicator-7.0.0+1.21.9.jar",
+            "display_name": "Simple Health Indicator",
+            "url": "https://cdn.modrinth.com/data/Dt8M1EnB/versions/Wwn1Nfk1/simple-health-indicator-7.0.0%2B1.21.9.jar",
+            "sha1": "d300ecd1358319b98053b7821c19222427809d3d",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "health_indicator"
+        },
+        {
+            "name": "Heart Indicator 1.21.11.jar",
+            "display_name": "Heart Indicator",
+            "url": "https://cdn.modrinth.com/data/YD3LM4aF/versions/2V1jOSd3/Heart%20Indicator%201.21.11.jar",
+            "sha1": "7f31b6416c2853a71385759d2c17e7076793c40f",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "health_indicator"
         }
     ]
 }
