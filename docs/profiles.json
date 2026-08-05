@@ -819,19 +819,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
                     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
                     "sha1": "BBDC920ECFF993148CD6E81A208536132245CE40",
@@ -1059,19 +1046,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "CursorCentered Fix",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "krypton-0.2.10.jar",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
-                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Krypton",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -1458,19 +1432,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/XsMMpmvW/packetfixer-fabric-3.3.5-1.21.11.jar",
-                    "sha1": "087CD5F23680CACAA5841528FCA815C8DBFE5999",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
                     "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
                     "sha1": "BBDC920ECFF993148CD6E81A208536132245CE40",
@@ -1594,19 +1555,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "CursorCentered Fix",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "krypton-0.2.10.jar",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar",
-                    "sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Krypton",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -2824,6 +2772,7 @@
                 "opt1.21"
             ],
             "display_name": "Chat Logger",
+            "req_user_type": null,
             "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
