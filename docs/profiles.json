@@ -1066,19 +1066,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
-                    "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ferritecore-8.2.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
                     "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65",
@@ -1529,19 +1516,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "CursorCentered Fix",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
-                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/OOPL1nCG/c2me-fabric-mc1.21.11-0.4.0-alpha.0.19.jar",
-                    "sha1": "9E87A1D9066F8B4C6EEE20E6556834E20C7CC1E8",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
