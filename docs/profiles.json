@@ -442,19 +442,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "badpackets-fabric-0.11.2.jar",
-                    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SZTlaMHp/badpackets-fabric-0.11.2.jar",
-                    "sha1": "E3CB4E11CD1E882F480CAD8345FBCE559B425368",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/o4y0N2hu/versions/bacofMP2/betterhurtcam-1.12.0%2Bmc1.21.11.jar",
                     "sha1": "ACC66405FBCC7E293CCD39D7DB27AC2301B1E8FD",
@@ -1201,19 +1188,6 @@
                     "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
                     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
                     "sha1": "2BC17BB4275CC70A12E4AC35D139A71A30845720",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "badpackets-fabric-0.11.2.jar",
-                    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/SZTlaMHp/badpackets-fabric-0.11.2.jar",
-                    "sha1": "E3CB4E11CD1E882F480CAD8345FBCE559B425368",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
