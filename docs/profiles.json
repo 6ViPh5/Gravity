@@ -1933,7 +1933,8 @@
             "req_user_type": "exclusive",
             "dependencies": null,
             "allowed_users": [
-                "6ViPh5"
+                "6ViPh5",
+                "I_Flx"
             ],
             "exclusive_group": "inv"
         },
