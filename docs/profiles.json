@@ -2099,7 +2099,6 @@
                 "opt1.21"
             ],
             "display_name": "ViPh Pack",
-            "req_user_type": "exclusive",
             "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
