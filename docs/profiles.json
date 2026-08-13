@@ -2141,6 +2141,17 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "afk-cinematics-1.0.2+1.21.11.jar",
+            "display_name": "AFK Cinematics",
+            "url": "https://cdn.modrinth.com/data/MjVuY1gY/versions/bpY2tTgg/afk-cinematics-1.0.2%2B1.21.11.jar",
+            "sha1": "90fa759ff309586cb9b82c0eca534aceefebc893",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ]
         }
     ]
 }
