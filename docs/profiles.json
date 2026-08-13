@@ -2130,25 +2130,32 @@
         },
         {
             "name": "tntimer-2.0.jar",
-            "display_name": "TNTimer",
             "url": "https://cdn.modrinth.com/data/OD5SwQqx/versions/nf4W5c2Q/tntimer-2.0.jar",
             "sha1": "9b5012f4cb6bd90744324638d14201e6134bdfab",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
+            "display_name": "TNTimer",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "exclusive_group": "tnt_timer"
         },
         {
             "name": "SpaceTNTTracker-1.1.0.jar",
-            "display_name": "SpaceTNTTracker",
             "url": "https://cdn.modrinth.com/data/q1dJUfL7/versions/lsNwIc7N/SpaceTNTTracker-1.1.0.jar",
             "sha1": "48b9b416920fe5a9b7005cb47e0b1e9fc036b706",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
-            "exclusive_group": "tnt_timer"
+            "display_name": "SpaceTNTTracker",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
