@@ -1840,7 +1840,8 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "exclusive_group": "tnt_timer"
         },
         {
             "name": "combat-hitbox-1.0.10.jar",
@@ -2110,20 +2111,33 @@
         },
         {
             "name": "sip-1.1.jar",
-            "display_name": "See Invis Players",
             "url": "https://cdn.modrinth.com/data/EUM5Xs8z/versions/4p63JMYu/sip-1.1.jar",
             "sha1": "584908059d6b2a8140aa4c9ce18d89d8fc71c015",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
             ],
-            "exclusive_group": "invisibility",
+            "display_name": "See Invis Players",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
                 "I_Flx",
                 "aluwjf"
-            ]
+            ],
+            "exclusive_group": "invisibility"
+        },
+        {
+            "name": "tntimer-2.0.jar",
+            "display_name": "TNTimer",
+            "url": "https://cdn.modrinth.com/data/OD5SwQqx/versions/nf4W5c2Q/tntimer-2.0.jar",
+            "sha1": "9b5012f4cb6bd90744324638d14201e6134bdfab",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "tnt_timer"
         }
     ]
 }
