@@ -2138,6 +2138,17 @@
                 "pvp1.9"
             ],
             "exclusive_group": "tnt_timer"
+        },
+        {
+            "name": "SpaceTNTTracker-1.1.0.jar",
+            "display_name": "SpaceTNTTracker",
+            "url": "https://cdn.modrinth.com/data/q1dJUfL7/versions/lsNwIc7N/SpaceTNTTracker-1.1.0.jar",
+            "sha1": "48b9b416920fe5a9b7005cb47e0b1e9fc036b706",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "tnt_timer"
         }
     ]
 }
