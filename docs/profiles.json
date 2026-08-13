@@ -2090,19 +2090,13 @@
         },
         {
             "name": "§4§lViPh Pack.zip",
+            "display_name": "ViPh Pack",
             "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "cdf06258d8cb4363f70d9eb9c2fafcc4e2bf0042",
+            "sha1": "17aeb56044daf1f0c060b982c6fca133d440c9d2",
             "file_type": "resourcepack",
-            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
-            ],
-            "display_name": "ViPh Pack",
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5",
-                "KelloGamer_LZ"
             ]
         }
     ]
