@@ -2097,6 +2097,10 @@
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
+            ],
+            "exclusive_group": "tx_1",
+            "replaces": [
+                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
             ]
         }
     ]
