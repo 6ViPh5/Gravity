@@ -2152,6 +2152,17 @@
                 "pvp1.9",
                 "opt1.21"
             ]
+        },
+        {
+            "name": "tntimer-2.0.jar",
+            "display_name": "TNTimer",
+            "url": "https://cdn.modrinth.com/data/OD5SwQqx/versions/nf4W5c2Q/tntimer-2.0.jar",
+            "sha1": "9b5012f4cb6bd90744324638d14201e6134bdfab",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "exclusive_group": "tnt_timer"
         }
     ]
 }
