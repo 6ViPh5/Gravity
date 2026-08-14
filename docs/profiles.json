@@ -2158,21 +2158,6 @@
             "allowed_users": null
         },
         {
-            "name": "tntimer-2.0.jar",
-            "url": "https://cdn.modrinth.com/data/OD5SwQqx/versions/nf4W5c2Q/tntimer-2.0.jar",
-            "sha1": "9b5012f4cb6bd90744324638d14201e6134bdfab",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "TNTimer",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "tnt_timer"
-        },
-        {
             "name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/3kCdl1bI/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
             "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e",
@@ -2189,14 +2174,18 @@
         },
         {
             "name": "voicechat-fabric-1.21.11-2.6.22.jar",
-            "display_name": "Simple Voice Chat",
             "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar",
             "sha1": "d607bc579bb5e0488a539ed87e62e91f10d38376",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
-            ]
+            ],
+            "display_name": "Simple Voice Chat",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
