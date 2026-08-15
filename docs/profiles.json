@@ -2186,6 +2186,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "HitColorX-1.1.0.jar",
+            "display_name": "HitColor X",
+            "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
+            "sha1": "c43465586078db9df30a1b9f442b9958ed9278fa",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
