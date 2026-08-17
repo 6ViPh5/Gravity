@@ -2091,25 +2091,6 @@
             ]
         },
         {
-            "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "09c64b6f39222aa1f3297163d0a632a2a9549576",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "ViPh Pack",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "tx_1",
-            "replaces": [
-                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
-            ]
-        },
-        {
             "name": "sip-1.1.jar",
             "url": "https://cdn.modrinth.com/data/EUM5Xs8z/versions/4p63JMYu/sip-1.1.jar",
             "sha1": "584908059d6b2a8140aa4c9ce18d89d8fc71c015",
@@ -2189,12 +2170,31 @@
         },
         {
             "name": "HitColorX-1.1.0.jar",
-            "display_name": "HitColor X",
             "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
             "sha1": "c43465586078db9df30a1b9f442b9958ed9278fa",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
+            ],
+            "display_name": "HitColor X",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "display_name": "ViPh Pack",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "9a284e08bf24d01a5170fd9fabaae8484e2070ae",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "exclusive_group": "tx_1",
+            "replaces": [
+                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
             ]
         }
     ]
