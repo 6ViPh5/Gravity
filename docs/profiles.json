@@ -15,7 +15,7 @@
         },
         {
             "id": "optimizado",
-            "name": "Optimizado",
+            "name": "Opt 26.2",
             "version": "26.2",
             "loader": "fabric",
             "loader_version": "0.19.3",
@@ -1163,7 +1163,7 @@
         },
         {
             "id": "opt1.21",
-            "name": "Optimizado 2",
+            "name": "Opt 1.21.11",
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.19.3",
