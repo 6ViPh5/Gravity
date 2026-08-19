@@ -2202,10 +2202,10 @@
             "allowed_users": null
         },
         {
-            "name": "freecam-fabric-1.4.0+mc1.21.11.jar",
-            "display_name": "Freecam",
-            "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/zjfNOY3S/freecam-fabric-1.4.0%2Bmc1.21.11.jar",
-            "sha1": "8ef063ed6259642a8f4901ce6d820c6b260eb8e6",
+            "name": "freelook-1.2.8.jar",
+            "display_name": "Freelook",
+            "url": "https://cdn.modrinth.com/data/g4pR0Fmy/versions/elzgeThs/freelook-1.2.8.jar",
+            "sha1": "5f2352446c497c371834fdbea8f39d8dff229625",
             "file_type": "mod",
             "target_profiles": [
                 "pvp1.9"
