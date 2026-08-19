@@ -873,32 +873,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
-                    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
-                    "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/o4y0N2hu/versions/bacofMP2/betterhurtcam-1.12.0%2Bmc1.21.11.jar",
-                    "sha1": "ACC66405FBCC7E293CCD39D7DB27AC2301B1E8FD",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
                     "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
@@ -938,19 +912,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
-                    "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
-                    "sha1": "C718337965B7EC98894C25A835D6C61813FAF412",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "cloth-config-21.11.153-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
                     "sha1": "4C224606A963BCE223DB5B27EDB4959ECF40D4EE",
@@ -964,61 +925,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "collective-1.21.11-8.31.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/dwKdiJKa/collective-1.21.11-8.31.jar",
-                    "sha1": "DA6FF5AA8294F95B0D37BC4B9AF1D0E49A167EE6",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "commandkeys-fabric-2.4.0+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/8eiBV9Yy/commandkeys-fabric-2.4.0%2B1.21.11.jar",
-                    "sha1": "AA5B25837E0EC39721F6583C661852433CFEF46D",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
                     "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/OUQC9j12/CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
                     "sha1": "BD73F580D652A9CF87566CCB0FB63666F5651879",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "CrosshairAddons-2.1.0-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/QrKEZXN9/versions/hh4BRUmO/CrosshairAddons-2.1.0-1.21.11.jar",
-                    "sha1": "D919D6AB5B8147B368D4F566156907809A61778D",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/o1tyE5vJ/versions/iLIQEttK/custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
-                    "sha1": "1E0DF3DDC5099A404E6A7BF9D40C8A2041F0DBB3",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1133,58 +1042,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "herobot-1.21.11-1.4.3+v260315.jar",
-                    "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
-                    "sha1": "17ABA207E6BD906CAE58B1C804F455955A9036B5",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
-                    "url": "https://cdn.modrinth.com/data/Kp2uclYl/versions/mZy4fW0C/inventoryhud.fabric.1.21.11-3.4.29.jar",
-                    "sha1": "36FF4F8A05C0F7D66B7C4BDC4778DA49FF8205C5",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "language-reload-1.7.7+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/rJRsdV10/language-reload-1.7.7%2B1.21.11.jar",
-                    "sha1": "EB4BCA721845C31D76E5105F3161CCAD2D7EC57E",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "Marlow Crystal Optimizer.jar",
-                    "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/YKWJ63xQ/Marlow%20Crystal%20Optimizer.jar",
-                    "sha1": "5A0A64CA1EB7E2BED9BC6E7AD8E0BD639FBB8682",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "modmenu-17.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/Tyk71iSw/modmenu-17.0.0.jar",
                     "sha1": "544A8B340AC3918D85BCC7D02EAFF5372814354B",
@@ -1201,32 +1058,6 @@
                     "name": "morechathistory-1.3.1.jar",
                     "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar",
                     "sha1": "B4337EF9DC0A6CDF31D8F3DF68A6542F64F3625E",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "moreculling-fabric-1.21.11-1.6.2.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
-                    "sha1": "11A929DE62650CC536244D4C2BA889FA84C1C0F2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/LU326iui/notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
-                    "sha1": "C3028A1906D7DA698F3176C4BB09266A273652D7",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1276,58 +1107,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "Searchables-fabric-1.21.11-1.0.4.jar",
-                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8t7XWQgt/Searchables-fabric-1.21.11-1.0.4.jar",
-                    "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ShieldFixes-2.0.2-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/HfLFMeJe/versions/vYE8dSob/ShieldFixes-2.0.2-1.21.11.jar",
-                    "sha1": "BAC642BE62478438F2090FE47342F31F76D81052",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ShieldStatus-4.1.2-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/GfoMZ9Ly/versions/TceBEtTK/ShieldStatus-4.1.2-1.21.11.jar",
-                    "sha1": "2AC1A80C798CAE662B91EFA3387CDEAC36A1BFA2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "smoothscroll-2.6.7.jar",
-                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/OVornAB5/smoothscroll-2.6.7.jar",
-                    "sha1": "E3F6418DA6806B51093B1F6CF1AD0D3786252F63",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "spark-1.10.170-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
                     "sha1": "2A3745BAA44E11672C4BEFE3BEECCEF758581F80",
@@ -1341,61 +1120,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "ukulib-1.10.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
-                    "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
-                    "sha1": "E11951AAB0FF32626FEB48045DA0574260784543",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "WalksyLib-0.9.992+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
-                    "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
                     "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "zoomify-2.15.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar",
-                    "sha1": "E1F738A9026E9F087D96861935F994B010B8131A",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1484,32 +1211,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
-                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
-                    "sha1": "4e519507bdd81ce2520da33f497a5f12469f5b10",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "No Chat Reports",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "BetterF1-Fabric-1.1+1.21.9.jar",
-                    "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/ZGXovn58/BetterF1-Fabric-1.1%2B1.21.9.jar",
-                    "sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Better F1 Reborn",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ferritecore-8.2.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
                     "sha1": "C2E2F5E008F5BC9F401DFAD8CA94909917006B65",
@@ -1549,19 +1250,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "modernfix-5.26.3-build.1.jar",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/yPCwXBn8/modernfix-5.26.3-build.1.jar",
-                    "sha1": "4b0758e7c052b20ebb58cde9de083520a3d114ab",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "ModernFix-mVUS",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "reeses-sodium-options-fabric-2.2.2+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/a0OPChhe/reeses-sodium-options-fabric-2.2.2%2Bmc1.21.11.jar",
                     "sha1": "725FB4EC98F5501B09E99C641F2D1E971438FE36",
@@ -1594,6 +1282,318 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
+                    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
+                    "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/o4y0N2hu/versions/bacofMP2/betterhurtcam-1.12.0%2Bmc1.21.11.jar",
+                    "sha1": "ACC66405FBCC7E293CCD39D7DB27AC2301B1E8FD",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
+                    "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
+                    "sha1": "C718337965B7EC98894C25A835D6C61813FAF412",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "collective-1.21.11-8.31.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/dwKdiJKa/collective-1.21.11-8.31.jar",
+                    "sha1": "DA6FF5AA8294F95B0D37BC4B9AF1D0E49A167EE6",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "commandkeys-fabric-2.4.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/65UyswbY/versions/8eiBV9Yy/commandkeys-fabric-2.4.0%2B1.21.11.jar",
+                    "sha1": "AA5B25837E0EC39721F6583C661852433CFEF46D",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "CrosshairAddons-2.1.0-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/QrKEZXN9/versions/hh4BRUmO/CrosshairAddons-2.1.0-1.21.11.jar",
+                    "sha1": "D919D6AB5B8147B368D4F566156907809A61778D",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/o1tyE5vJ/versions/iLIQEttK/custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
+                    "sha1": "1E0DF3DDC5099A404E6A7BF9D40C8A2041F0DBB3",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "herobot-1.21.11-1.4.3+v260315.jar",
+                    "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
+                    "sha1": "17ABA207E6BD906CAE58B1C804F455955A9036B5",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
+                    "url": "https://cdn.modrinth.com/data/Kp2uclYl/versions/mZy4fW0C/inventoryhud.fabric.1.21.11-3.4.29.jar",
+                    "sha1": "36FF4F8A05C0F7D66B7C4BDC4778DA49FF8205C5",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "language-reload-1.7.7+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/rJRsdV10/language-reload-1.7.7%2B1.21.11.jar",
+                    "sha1": "EB4BCA721845C31D76E5105F3161CCAD2D7EC57E",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Marlow Crystal Optimizer.jar",
+                    "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/YKWJ63xQ/Marlow%20Crystal%20Optimizer.jar",
+                    "sha1": "5A0A64CA1EB7E2BED9BC6E7AD8E0BD639FBB8682",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "moreculling-fabric-1.21.11-1.6.2.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
+                    "sha1": "11A929DE62650CC536244D4C2BA889FA84C1C0F2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/LU326iui/notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
+                    "sha1": "C3028A1906D7DA698F3176C4BB09266A273652D7",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Searchables-fabric-1.21.11-1.0.4.jar",
+                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/8t7XWQgt/Searchables-fabric-1.21.11-1.0.4.jar",
+                    "sha1": "32D0EDF6F65AA9D7B33312A14CD5125AAD189850",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ShieldFixes-2.0.2-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/HfLFMeJe/versions/vYE8dSob/ShieldFixes-2.0.2-1.21.11.jar",
+                    "sha1": "BAC642BE62478438F2090FE47342F31F76D81052",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ShieldStatus-4.1.2-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/GfoMZ9Ly/versions/TceBEtTK/ShieldStatus-4.1.2-1.21.11.jar",
+                    "sha1": "2AC1A80C798CAE662B91EFA3387CDEAC36A1BFA2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "smoothscroll-2.6.7.jar",
+                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/OVornAB5/smoothscroll-2.6.7.jar",
+                    "sha1": "E3F6418DA6806B51093B1F6CF1AD0D3786252F63",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ukulib-1.10.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
+                    "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
+                    "sha1": "E11951AAB0FF32626FEB48045DA0574260784543",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "WalksyLib-0.9.992+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
+                    "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "zoomify-2.15.2+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gI5KZI8V/zoomify-2.15.2%2B1.21.11.jar",
+                    "sha1": "E1F738A9026E9F087D96861935F994B010B8131A",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+                    "sha1": "4e519507bdd81ce2520da33f497a5f12469f5b10",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "No Chat Reports",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "BetterF1-Fabric-1.1+1.21.9.jar",
+                    "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/ZGXovn58/BetterF1-Fabric-1.1%2B1.21.9.jar",
+                    "sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better F1 Reborn",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "modernfix-5.26.3-build.1.jar",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/yPCwXBn8/modernfix-5.26.3-build.1.jar",
+                    "sha1": "4b0758e7c052b20ebb58cde9de083520a3d114ab",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ModernFix-mVUS",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -1642,8 +1642,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Chat Heads",
             "req_user_type": null,
@@ -1657,25 +1657,11 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Essential",
             "req_user_type": "microsoft",
-            "dependencies": [],
-            "allowed_users": null
-        },
-        {
-            "name": "KeyOverlay-1.21.5+.jar",
-            "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
-            "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "Key Overlay",
-            "req_user_type": null,
             "dependencies": [],
             "allowed_users": null
         },
@@ -1686,8 +1672,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Better Scoreboard",
             "req_user_type": null,
@@ -1724,48 +1710,19 @@
             "allowed_users": null
         },
         {
-            "name": "totembar-1.0.2.jar",
-            "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
-            "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "TotemBar",
-            "req_user_type": null,
-            "dependencies": [],
-            "allowed_users": null
-        },
-        {
             "name": "FpsOverlay-fabric-5.5.jar",
             "url": "https://cdn.modrinth.com/data/j0IQ4hjv/versions/P7W6G01M/FpsOverlay-fabric-5.5.jar",
             "sha1": "50df73810034c4ce95cca95e7005b76ea8ceb4dd",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "FPS Overlay",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "hitboxplus-1.0.0+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/nbkDyHgy/versions/QLb600lG/hitboxplus-1.0.0%2B1.21.11.jar",
-            "sha1": "7e228146df498a40fc66b468c3fba90264d09751",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "HitBox+",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "hitbox"
         },
         {
             "name": "symbol-chat-1.21.11-1.3.13.jar",
@@ -1774,8 +1731,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Symbol Chat",
             "req_user_type": null,
@@ -1789,8 +1746,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Modern UI mVUS",
             "req_user_type": null,
@@ -1812,6 +1769,239 @@
             ],
             "allowed_users": null,
             "exclusive_group": "gui"
+        },
+        {
+            "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
+            "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Nuit (SkyBoxes)",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
+                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Nuit Interop",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A76%C2%A7lLuc%C2%A7e%C2%A7lkyP%C2%A7c%C2%A7lack%20%C2%A76Universo%C2%A7bCraft.zip",
+            "sha1": "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0",
+            "file_type": "resourcepack",
+            "install_path": "",
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "LuckyPack UniversoCraft",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "tx_1",
+            "replaces": [
+                "§4§lViPh Pack.zip"
+            ]
+        },
+        {
+            "name": "Highlighter-1.21.11-fabric-1.2.0.jar",
+            "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/pJg91INR/Highlighter-1.21.11-fabric-1.2.0.jar",
+            "sha1": "a5ba71e489a9f336dcaa087beb23c1f55cac630b",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Item Highlighter",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "Iceberg-1.21.11-fabric-1.4.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/yRNBxEJF/Iceberg-1.21.11-fabric-1.4.0.1.jar",
+                    "sha1": "911073f3958e22ff87920662e9e85e189243e1a2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Iceberg",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "DidYouMentionMe-1.1.10.jar",
+            "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/Lzw1LkEA/DidYouMentionMe-1.1.10.jar",
+            "sha1": "31910d16f6d3946706bc8f08e3e923711d0c8b7f",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Did You Mention Me?",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "clientcommands-2.13.2.jar",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/eKkGy7fT/clientcommands-2.13.2.jar",
+            "sha1": "95fc03d7dae6fb1790baf59e15e2090325b7238f",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Client Commands",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "mclogger-1.1.2.jar",
+            "url": "https://cdn.modrinth.com/data/d64ioX2q/versions/3guNTSaS/mclogger-1.1.2.jar",
+            "sha1": "91db065de2c106c67ab31f9c629f3eef9405a269",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Chat Logger",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": [
+                "6ViPh5"
+            ]
+        },
+        {
+            "name": "afk-cinematics-1.0.2+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/MjVuY1gY/versions/bpY2tTgg/afk-cinematics-1.0.2%2B1.21.11.jar",
+            "sha1": "90fa759ff309586cb9b82c0eca534aceefebc893",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "AFK Cinematics",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/3kCdl1bI/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+            "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "3D Skin Layers",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "voicechat-fabric-1.21.11-2.6.22.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar",
+            "sha1": "d607bc579bb5e0488a539ed87e62e91f10d38376",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Simple Voice Chat",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a",
+            "file_type": "resourcepack",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "ViPh Pack",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "tx_1",
+            "replaces": [
+                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
+            ]
+        },
+        {
+            "name": "KeyOverlay-1.21.5+.jar",
+            "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
+            "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Key Overlay",
+            "req_user_type": null,
+            "dependencies": [],
+            "allowed_users": null
+        },
+        {
+            "name": "totembar-1.0.2.jar",
+            "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
+            "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "TotemBar",
+            "req_user_type": null,
+            "dependencies": [],
+            "allowed_users": null
+        },
+        {
+            "name": "hitboxplus-1.0.0+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/nbkDyHgy/versions/QLb600lG/hitboxplus-1.0.0%2B1.21.11.jar",
+            "sha1": "7e228146df498a40fc66b468c3fba90264d09751",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "HitBox+",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "hitbox"
         },
         {
             "name": "ExploitationTimer-fabric-1.0.2.jar",
@@ -1873,55 +2063,6 @@
             "allowed_users": null
         },
         {
-            "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
-            "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Nuit (SkyBoxes)",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "nuit-interop-fabric-1.0.0-beta.1+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/8bePC1B2/nuit-interop-fabric-1.0.0-beta.1%2Bmc1.21.11.jar",
-                    "sha1": "736722a60194aaad1aecc29919a99eec4dfcfae2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "Nuit Interop",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
-        },
-        {
-            "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A76%C2%A7lLuc%C2%A7e%C2%A7lkyP%C2%A7c%C2%A7lack%20%C2%A76Universo%C2%A7bCraft.zip",
-            "sha1": "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0",
-            "file_type": "resourcepack",
-            "install_path": "",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "LuckyPack UniversoCraft",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "tx_1",
-            "replaces": [
-                "§4§lViPh Pack.zip"
-            ]
-        },
-        {
             "name": "invisibility-reveal-1.0.0.jar",
             "url": "https://cdn.modrinth.com/data/usWmP3KF/versions/kCZGv79I/invisibility-reveal-1.0.0.jar",
             "sha1": "25d37eea9a71db5fb1b2b0f04cad0d290436d210",
@@ -1950,66 +2091,6 @@
                 "pvp1.9"
             ],
             "display_name": "Who am I?",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "Highlighter-1.21.11-fabric-1.2.0.jar",
-            "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/pJg91INR/Highlighter-1.21.11-fabric-1.2.0.jar",
-            "sha1": "a5ba71e489a9f336dcaa087beb23c1f55cac630b",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Item Highlighter",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "Iceberg-1.21.11-fabric-1.4.0.1.jar",
-                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/yRNBxEJF/Iceberg-1.21.11-fabric-1.4.0.1.jar",
-                    "sha1": "911073f3958e22ff87920662e9e85e189243e1a2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "Iceberg",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
-        },
-        {
-            "name": "DidYouMentionMe-1.1.10.jar",
-            "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/Lzw1LkEA/DidYouMentionMe-1.1.10.jar",
-            "sha1": "31910d16f6d3946706bc8f08e3e923711d0c8b7f",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Did You Mention Me?",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "clientcommands-2.13.2.jar",
-            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/eKkGy7fT/clientcommands-2.13.2.jar",
-            "sha1": "95fc03d7dae6fb1790baf59e15e2090325b7238f",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Client Commands",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
@@ -2074,23 +2155,6 @@
             "exclusive_group": "gui"
         },
         {
-            "name": "mclogger-1.1.2.jar",
-            "url": "https://cdn.modrinth.com/data/d64ioX2q/versions/3guNTSaS/mclogger-1.1.2.jar",
-            "sha1": "91db065de2c106c67ab31f9c629f3eef9405a269",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Chat Logger",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5"
-            ]
-        },
-        {
             "name": "sip-1.1.jar",
             "url": "https://cdn.modrinth.com/data/EUM5Xs8z/versions/4p63JMYu/sip-1.1.jar",
             "sha1": "584908059d6b2a8140aa4c9ce18d89d8fc71c015",
@@ -2124,51 +2188,6 @@
             "allowed_users": null
         },
         {
-            "name": "afk-cinematics-1.0.2+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/MjVuY1gY/versions/bpY2tTgg/afk-cinematics-1.0.2%2B1.21.11.jar",
-            "sha1": "90fa759ff309586cb9b82c0eca534aceefebc893",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "AFK Cinematics",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/3kCdl1bI/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
-            "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "3D Skin Layers",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "voicechat-fabric-1.21.11-2.6.22.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar",
-            "sha1": "d607bc579bb5e0488a539ed87e62e91f10d38376",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Simple Voice Chat",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
             "name": "HitColorX-1.1.0.jar",
             "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
             "sha1": "c43465586078db9df30a1b9f442b9958ed9278fa",
@@ -2183,18 +2202,13 @@
             "allowed_users": null
         },
         {
-            "name": "§4§lViPh Pack.zip",
-            "display_name": "ViPh Pack",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a",
-            "file_type": "resourcepack",
+            "name": "freecam-fabric-1.4.0+mc1.21.11.jar",
+            "display_name": "Freecam",
+            "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/zjfNOY3S/freecam-fabric-1.4.0%2Bmc1.21.11.jar",
+            "sha1": "8ef063ed6259642a8f4901ce6d820c6b260eb8e6",
+            "file_type": "mod",
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "exclusive_group": "tx_1",
-            "replaces": [
-                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
+                "pvp1.9"
             ]
         }
     ]
