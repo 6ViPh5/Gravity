@@ -1,9 +1,9 @@
 {
-  "version": "4.5.5",
+  "version": "4.5.6",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRkhRVW5DSzJrK0k2V0t4N2hrODNKdFFaMFlWTXlhdEx1SmRmS01rNzJqcU9GT3UwSFozeU5PKy9ZVVcrOWxLOU4wS2M0NzJrVTVYUVRTbk45OEpGQ05uMCtJamRYcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTA5NTYwCWZpbGU6R3Jhdml0eV80LjUuNV94NjQtc2V0dXAuZXhlClZFMWh1OThDZmVTRkNoTWxjODN5eGQ4ZU02V3cwdDR1RG5RQW1kNzFLYzFKWmVWSm1FTFB0QXJIWk9SYStXOFZZTVlhNGpyR3lZRTY5RG5Sejd6Z0JBPT0K",
-      "url": "https://github.com/6ViPh5/Gravity/releases/download/gravity-launcher/Gravity_4.5.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRkhRVW5DSzJrK016MUxvRG02VXMzamtscGNIWGFoQTcyRTFkYWhmdE9HRlI4TkNGbkNYQ2RHZjB2bWM4ZlRkM0Z4L283SnU0WmExK1Z1aDVOcjB2MzN4Yy83ZkRKTVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTYwNDU2CWZpbGU6R3Jhdml0eV80LjUuNl94NjQtc2V0dXAuZXhlCndnRGpIVmI1eGZQeml6bW9ISEwxazJmaWpMTks2NmZ3eWdsMUQvb1Z3Q04ybmF1QUNMRGNZc0xYRW1vWmtvaEdlZWdZRDNzM1YvUjBuT3hsZndqZkF3PT0K",
+      "url": "https://github.com/6ViPh5/Gravity/releases/download/gravity-launcher/Gravity_4.5.6_x64-setup.exe"
     }
   }
 }
