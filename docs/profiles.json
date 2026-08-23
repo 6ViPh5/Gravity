@@ -2203,9 +2203,23 @@
         },
         {
             "name": "freelook-1.2.8.jar",
-            "display_name": "Freelook",
             "url": "https://cdn.modrinth.com/data/g4pR0Fmy/versions/elzgeThs/freelook-1.2.8.jar",
             "sha1": "5f2352446c497c371834fdbea8f39d8dff229625",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Freelook",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "removewardeneffect-0.0.2-1.21.9FB.jar",
+            "display_name": "No darkness effect",
+            "url": "https://cdn.modrinth.com/data/TsB0rgEK/versions/AZ846uWO/removewardeneffect-0.0.2-1.21.9FB.jar",
+            "sha1": "ea5a5ef9278be543519345a364e22ce8b1697bc9",
             "file_type": "mod",
             "target_profiles": [
                 "pvp1.9"
