@@ -1798,7 +1798,8 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "exclusive_group": "sky"
         },
         {
             "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
@@ -2217,13 +2218,29 @@
         },
         {
             "name": "removewardeneffect-0.0.2-1.21.9FB.jar",
-            "display_name": "No darkness effect",
             "url": "https://cdn.modrinth.com/data/TsB0rgEK/versions/AZ846uWO/removewardeneffect-0.0.2-1.21.9FB.jar",
             "sha1": "ea5a5ef9278be543519345a364e22ce8b1697bc9",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
-            ]
+            ],
+            "display_name": "No darkness effect",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "cirrus-fabric-1.21.11-1.2.1.jar",
+            "display_name": "Cirrus",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/p0xqyq1N/cirrus-fabric-1.21.11-1.2.1.jar",
+            "sha1": "df7f78d5644b16b4d52957fc59cf2c384aad5f7d",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "exclusive_group": "sky"
         }
     ]
 }
