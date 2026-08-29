@@ -1898,21 +1898,6 @@
             ]
         },
         {
-            "name": "afk-cinematics-1.0.2+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/MjVuY1gY/versions/bpY2tTgg/afk-cinematics-1.0.2%2B1.21.11.jar",
-            "sha1": "90fa759ff309586cb9b82c0eca534aceefebc893",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "AFK Cinematics",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
             "name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/3kCdl1bI/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
             "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e",
@@ -2248,12 +2233,27 @@
         },
         {
             "name": "Time & Weather Changer-fabric-1.21.11-1.0.0.jar",
-            "display_name": "Time & Weather Changer",
             "url": "https://cdn.modrinth.com/data/R1xYzY0M/versions/Y1zbW3v3/Time%20%26%20Weather%20Changer-fabric-1.21.11-1.0.0.jar",
             "sha1": "c57c0fc233dccb1466ec01fb843b77a823de7aa7",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "pvp1.9"
+            ],
+            "display_name": "Time & Weather Changer",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "ji-afk-cinematic-1.21.11-2.3.0.jar",
+            "display_name": "Ji AFK Cinematic",
+            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/uOHKiHt1/ji-afk-cinematic-1.21.11-2.3.0.jar",
+            "sha1": "1f3b6e5a4897e738af77315d63c4d9fe05facb37",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
             ]
         }
     ]
