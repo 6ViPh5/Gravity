@@ -1646,7 +1646,7 @@
                 "pvp1.9"
             ],
             "display_name": "Chat Heads",
-            "req_user_type": null,
+            "req_user_type": "microsoft",
             "dependencies": [],
             "allowed_users": null
         },
@@ -1963,6 +1963,21 @@
             "exclusive_group": "sky"
         },
         {
+            "name": "ji-afk-cinematic-1.21.11-2.3.0.jar",
+            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/uOHKiHt1/ji-afk-cinematic-1.21.11-2.3.0.jar",
+            "sha1": "1f3b6e5a4897e738af77315d63c4d9fe05facb37",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Ji AFK Cinematic",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
@@ -2244,17 +2259,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "ji-afk-cinematic-1.21.11-2.3.0.jar",
-            "display_name": "Ji AFK Cinematic",
-            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/uOHKiHt1/ji-afk-cinematic-1.21.11-2.3.0.jar",
-            "sha1": "1f3b6e5a4897e738af77315d63c4d9fe05facb37",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ]
         }
     ]
 }
