@@ -833,16 +833,22 @@
                 },
                 {
                     "name": "sodium-fabric-0.8.7+mc1.21.11.jar",
-                    "display_name": "Sodium",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
                     "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
-                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
-                    "display_name": "Iris Shaders",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
+                    "display_name": "Sodium",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
                     "file_type": "mod"
                 }
             ],
@@ -1277,6 +1283,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "sodium-fabric-0.8.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
+                    "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1589,17 +1608,10 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.7+mc1.21.11.jar",
+                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
                     "display_name": "Sodium",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
-                    "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
-                    "display_name": "Iris Shaders",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
-                    "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
                     "file_type": "mod"
                 }
             ],
