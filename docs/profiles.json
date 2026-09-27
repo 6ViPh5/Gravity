@@ -846,10 +846,16 @@
                 },
                 {
                     "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
-                    "display_name": "Sodium",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
                     "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1296,6 +1302,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1606,13 +1625,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
-                    "display_name": "Sodium",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
-                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2103,7 +2115,6 @@
                 "pvp1.9"
             ],
             "display_name": "Anti Invisibility",
-            "req_user_type": "exclusive",
             "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
@@ -2184,25 +2195,6 @@
             ],
             "allowed_users": null,
             "exclusive_group": "gui"
-        },
-        {
-            "name": "sip-1.1.jar",
-            "url": "https://cdn.modrinth.com/data/EUM5Xs8z/versions/4p63JMYu/sip-1.1.jar",
-            "sha1": "584908059d6b2a8140aa4c9ce18d89d8fc71c015",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "See Invis Players",
-            "req_user_type": "exclusive",
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5",
-                "I_Flx",
-                "aluwjf"
-            ],
-            "exclusive_group": "invisibility"
         },
         {
             "name": "SpaceTNTTracker-1.1.0.jar",
