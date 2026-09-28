@@ -793,32 +793,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "reeses-sodium-options-fabric-2.2.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/a0OPChhe/reeses-sodium-options-fabric-2.2.2%2Bmc1.21.11.jar",
-                    "sha1": "725FB4EC98F5501B09E99C641F2D1E971438FE36",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/taHK5pw1/sodium-extra-fabric-0.9.3%2Bmc1.21.11.jar",
-                    "sha1": "01C09539F0C5BF41CA7F743E32E4242BB0B31CCD",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "fabric-api-0.141.6+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
                     "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
@@ -832,9 +806,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.7+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
-                    "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+                    "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+                    "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
@@ -845,12 +819,38 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
-                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
+                    "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/yqY1efrC/sodium-extra-fabric-0.8.3%2Bmc1.21.11.jar",
+                    "sha1": "e8fd1eae0d589393189f64062ca1e46fc03f4ced",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": "Sodium",
+                    "display_name": "Sodium Extra",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
+                    "sha1": "fb452b122fd72e8540d32fbe3df01cc34a45ce41",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Reese's Sodium Options",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+                    "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -1250,32 +1250,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "reeses-sodium-options-fabric-2.2.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/a0OPChhe/reeses-sodium-options-fabric-2.2.2%2Bmc1.21.11.jar",
-                    "sha1": "725FB4EC98F5501B09E99C641F2D1E971438FE36",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "sodium-extra-fabric-0.9.3+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/taHK5pw1/sodium-extra-fabric-0.9.3%2Bmc1.21.11.jar",
-                    "sha1": "01C09539F0C5BF41CA7F743E32E4242BB0B31CCD",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "fabric-api-0.141.6+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
                     "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
@@ -1289,9 +1263,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.7+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/UddlN6L4/sodium-fabric-0.8.7%2Bmc1.21.11.jar",
-                    "sha1": "e8865210ba9a926fc206ab9e73f9d4988a81ff69",
+                    "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar",
+                    "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
@@ -1302,12 +1276,38 @@
                     "replaces": null
                 },
                 {
-                    "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/rkdTcxoT/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
-                    "sha1": "4a8733fe544168068d12fa94b2ab03e6c0c7bf91",
+                    "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/yqY1efrC/sodium-extra-fabric-0.8.3%2Bmc1.21.11.jar",
+                    "sha1": "e8fd1eae0d589393189f64062ca1e46fc03f4ced",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": "Sodium",
+                    "display_name": "Sodium Extra",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/yIgAFMna/reeses-sodium-options-fabric-2.0.3%2Bmc1.21.11.jar",
+                    "sha1": "fb452b122fd72e8540d32fbe3df01cc34a45ce41",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Reese's Sodium Options",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "iris-fabric-1.10.7+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/fDpuVzVr/iris-fabric-1.10.7%2Bmc1.21.11.jar",
+                    "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -2115,6 +2115,7 @@
                 "pvp1.9"
             ],
             "display_name": "Anti Invisibility",
+            "req_user_type": null,
             "dependencies": null,
             "allowed_users": [
                 "6ViPh5",
