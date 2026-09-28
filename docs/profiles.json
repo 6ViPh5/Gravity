@@ -856,6 +856,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "rsls-1.1.17.jar",
+                    "display_name": "Raise Sound Limit Simplified",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/BA8Hz4ei/rsls-1.1.17.jar",
+                    "sha1": "fd431e085ea491eb436cf17db4cb304e996199b0",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -1625,6 +1632,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "rsls-1.1.17.jar",
+                    "display_name": "Raise Sound Limit Simplified",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/BA8Hz4ei/rsls-1.1.17.jar",
+                    "sha1": "fd431e085ea491eb436cf17db4cb304e996199b0",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
