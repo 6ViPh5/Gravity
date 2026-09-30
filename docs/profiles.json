@@ -859,10 +859,16 @@
                 },
                 {
                     "name": "rsls-1.1.17.jar",
-                    "display_name": "Raise Sound Limit Simplified",
                     "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/BA8Hz4ei/rsls-1.1.17.jar",
                     "sha1": "fd431e085ea491eb436cf17db4cb304e996199b0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Raise Sound Limit Simplified",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1322,6 +1328,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "rsls-1.1.17.jar",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/BA8Hz4ei/rsls-1.1.17.jar",
+                    "sha1": "fd431e085ea491eb436cf17db4cb304e996199b0",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Raise Sound Limit Simplified",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1632,13 +1651,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "rsls-1.1.17.jar",
-                    "display_name": "Raise Sound Limit Simplified",
-                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/BA8Hz4ei/rsls-1.1.17.jar",
-                    "sha1": "fd431e085ea491eb436cf17db4cb304e996199b0",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -2280,6 +2292,21 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "ui_utils-1.0.2+1.21.11.jar",
+            "display_name": "Ui Utils",
+            "url": null,
+            "sha1": "56b74709a9a6286e5d3b44c53331b267258f8a82",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5"
+            ]
         }
     ]
 }
