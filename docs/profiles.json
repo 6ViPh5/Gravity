@@ -2030,21 +2030,6 @@
             "allowed_users": null
         },
         {
-            "name": "ui_utils-1.0.2+1.21.11.jar",
-            "display_name": "Ui Utils",
-            "url": "https://www.curseforge.com/minecraft/mc-mods/uiutils/download/7869788",
-            "sha1": "56b74709a9a6286e5d3b44c53331b267258f8a82",
-            "file_type": "mod",
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "req_user_type": "exclusive",
-            "allowed_users": [
-                "6ViPh5"
-            ]
-        },
-        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
