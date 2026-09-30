@@ -2032,7 +2032,7 @@
         {
             "name": "ui_utils-1.0.2+1.21.11.jar",
             "display_name": "Ui Utils",
-            "url": null,
+            "url": "https://www.curseforge.com/minecraft/mc-mods/uiutils/download/7869788",
             "sha1": "56b74709a9a6286e5d3b44c53331b267258f8a82",
             "file_type": "mod",
             "target_profiles": [
