@@ -4741,8 +4741,18 @@
                     "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/fW2xykin/Jade-mc26.1-Fabric-26.1.9.jar",
                     "sha1": "03b4851616f37605de692772245b5b8ed6acf8e1",
                     "file_type": "mod"
+                },
+                {
+                    "name": "pointblank-fabric-26.1.2-2.2.0.jar",
+                    "display_name": "Vic's Point Blank",
+                    "url": "https://cdn.modrinth.com/data/og4KPYmA/versions/KSJXZ5GE/pointblank-fabric-26.1.2-2.2.0.jar",
+                    "sha1": "16d13ad1d683756781c3665bacbb0779aa58ec9f",
+                    "file_type": "mod"
                 }
-            ]
+            ],
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": true
         }
     ],
     "optional_mods": [
