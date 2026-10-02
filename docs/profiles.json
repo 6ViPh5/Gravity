@@ -4770,10 +4770,7 @@
                     "sha1": "391d9a2a84321edbdab3df6a7dd9178b343c2f0f",
                     "file_type": "mod"
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": true
+            ]
         }
     ],
     "optional_mods": [
