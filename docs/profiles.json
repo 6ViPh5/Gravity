@@ -5784,12 +5784,38 @@
         },
         {
             "name": "zoomify-2.16.3+26.1.jar",
-            "display_name": "Zoomify (Zoom)",
             "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/oDot7UCR/zoomify-2.16.3%2B26.1.jar",
             "sha1": "d3e6fd1c7f5767e6995060c3d7a144e086e4c949",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "refhor"
+            ],
+            "display_name": "Zoomify",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "torohealth-continued-fabric-1.21.11-1.5.1.jar",
+            "display_name": "ToroHealth Damage Indicators",
+            "url": "https://cdn.modrinth.com/data/28cjn3lz/versions/ieFMlKV2/torohealth-continued-fabric-1.21.11-1.5.1.jar",
+            "sha1": "b8e26c67fadf2a8aa300b0fbc0ab45f13250951a",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ]
+        },
+        {
+            "name": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.9-1.21.11.jar",
+            "display_name": "Accurate Block Placement Reborn",
+            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6RQ6b1gr/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.9-1.21.11.jar",
+            "sha1": "ffbe315191eff9bce2f103b6df56bd683c855759",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
             ]
         }
     ]
