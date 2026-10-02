@@ -4645,19 +4645,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "ArmorStatues-v26.1.0-mc26.1.x-Fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/bbGCtEvb/versions/yLTFQpRr/ArmorStatues-v26.1.0-mc26.1.x-Fabric.jar",
-                    "sha1": "8e7de59eabd32303c9ebfad141e4231ce8842537",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Armor Statues",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "ArmorTrimItemFix-fabric-26.1-2.1.5.jar",
                     "url": "https://cdn.modrinth.com/data/kIhxG5zE/versions/tWrvjeFb/ArmorTrimItemFix-fabric-26.1-2.1.5.jar",
                     "sha1": "a8dfc8d334c2bc43a5d8874abc7120973ffbf725",
