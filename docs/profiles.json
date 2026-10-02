@@ -5209,6 +5209,36 @@
             "allowed_users": null
         },
         {
+            "name": "torohealth-continued-fabric-1.21.11-1.5.1.jar",
+            "url": "https://cdn.modrinth.com/data/28cjn3lz/versions/ieFMlKV2/torohealth-continued-fabric-1.21.11-1.5.1.jar",
+            "sha1": "b8e26c67fadf2a8aa300b0fbc0ab45f13250951a",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "ToroHealth Damage Indicators",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.9-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6RQ6b1gr/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.9-1.21.11.jar",
+            "sha1": "ffbe315191eff9bce2f103b6df56bd683c855759",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Accurate Block Placement Reborn",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
@@ -5797,21 +5827,10 @@
             "allowed_users": null
         },
         {
-            "name": "torohealth-continued-fabric-1.21.11-1.5.1.jar",
-            "display_name": "ToroHealth Damage Indicators",
-            "url": "https://cdn.modrinth.com/data/28cjn3lz/versions/ieFMlKV2/torohealth-continued-fabric-1.21.11-1.5.1.jar",
-            "sha1": "b8e26c67fadf2a8aa300b0fbc0ab45f13250951a",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ]
-        },
-        {
-            "name": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.9-1.21.11.jar",
-            "display_name": "Accurate Block Placement Reborn",
-            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6RQ6b1gr/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.9-1.21.11.jar",
-            "sha1": "ffbe315191eff9bce2f103b6df56bd683c855759",
+            "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+            "display_name": "Mouse Tweaks",
+            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+            "sha1": "86515de45fe960bd717deea0954055106e857b81",
             "file_type": "mod",
             "target_profiles": [
                 "pvp1.9",
