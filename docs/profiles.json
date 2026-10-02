@@ -4685,39 +4685,64 @@
                 },
                 {
                     "name": "naturallychargedcreepers.json5",
-                    "display_name": "naturallychargedcreepers.json5",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/naturallychargedcreepers.json5",
                     "sha1": "86b3975553d263ab90d6e42336858f7304ad5460",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "display_name": "naturallychargedcreepers.json5",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "xmmp.toml",
-                    "display_name": "xmmp.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/xmmp.toml",
                     "sha1": "94d3f26833a096d41a2180104b0e43066cece1d4",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "display_name": "xmmp.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "sodium-extra-options.json",
-                    "display_name": "sodium-extra-options.json",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/sodium-extra-options.json",
                     "sha1": "5b05f353c8e6cd07be881c30ec016d438142f42f",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "display_name": "sodium-extra-options.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "options.txt",
-                    "display_name": "options.txt",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/options.txt",
                     "sha1": "6f4148ae94e337103c5cbbf6314010394f22eb29",
-                    "file_type": "config"
+                    "file_type": "config",
+                    "install_path": null,
+                    "display_name": "options.txt",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Jade-mc26.1-Fabric-26.1.9.jar",
+                    "display_name": "Jade 🔍",
+                    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/fW2xykin/Jade-mc26.1-Fabric-26.1.9.jar",
+                    "sha1": "03b4851616f37605de692772245b5b8ed6acf8e1",
+                    "file_type": "mod"
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": true
+            ]
         }
     ],
     "optional_mods": [
@@ -5414,11 +5439,17 @@
             "dependencies": [
                 {
                     "name": "ambientsounds-client.json",
-                    "display_name": "ambientsounds-client.json",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/ambientsounds-client.json",
                     "sha1": "6f2ad751f6ce69150ebbc8b09801a36a133a0246",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "ambientsounds-client.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
@@ -5577,43 +5608,73 @@
             "dependencies": [
                 {
                     "name": "blocks.toml",
-                    "display_name": "blocks.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/subtle_effects/blocks.toml",
                     "sha1": "0edc43ac21887319b3531b5e72551e47f4b72c42",
                     "file_type": "config",
-                    "install_path": "config/subtle_effects"
+                    "install_path": "config/subtle_effects",
+                    "target_profiles": null,
+                    "display_name": "blocks.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "entities.toml",
-                    "display_name": "entities.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/subtle_effects/entities.toml",
                     "sha1": "0adcb36cccf2bc9d97fc4f9cec550ce993855253",
                     "file_type": "config",
-                    "install_path": "config/subtle_effects"
+                    "install_path": "config/subtle_effects",
+                    "target_profiles": null,
+                    "display_name": "entities.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "environment.toml",
-                    "display_name": "environment.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/subtle_effects/environment.toml",
                     "sha1": "3b5c845ddd3e286fd4d7391ca15485fca31b67c8",
                     "file_type": "config",
-                    "install_path": "config/subtle_effects"
+                    "install_path": "config/subtle_effects",
+                    "target_profiles": null,
+                    "display_name": "environment.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "general.toml",
-                    "display_name": "general.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/subtle_effects/general.toml",
                     "sha1": "65f95c9a0ec32a5d7f719ebe099f29e0172dad75",
                     "file_type": "config",
-                    "install_path": "config/subtle_effects"
+                    "install_path": "config/subtle_effects",
+                    "target_profiles": null,
+                    "display_name": "general.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "items.toml",
-                    "display_name": "items.toml",
                     "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/config/subtle_effects/items.toml",
                     "sha1": "22441f163a7d580c9225e66bdab2e2c511145556",
                     "file_type": "config",
-                    "install_path": "config/subtle_effects"
+                    "install_path": "config/subtle_effects",
+                    "target_profiles": null,
+                    "display_name": "items.toml",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
