@@ -2030,6 +2030,22 @@
             "allowed_users": null
         },
         {
+            "name": "atmospherics-2.6.6-mc-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/36CJxKFF/atmospherics-2.6.6-mc-1.21.11.jar",
+            "sha1": "8b9a8f7afd8a7adc9b6ae66c197566ec855e94f2",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Atmospherics",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "sky"
+        },
+        {
             "name": "KeyOverlay-1.21.5+.jar",
             "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/gWh346MI/KeyOverlay-1.21.5%2B.jar",
             "sha1": "BEDB628F9102357A55E0B0B0393B50A4BB714F3E",
@@ -2294,16 +2310,14 @@
             "allowed_users": null
         },
         {
-            "name": "atmospherics-2.6.6-mc-1.21.11.jar",
-            "display_name": "Atmospherics",
-            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/36CJxKFF/atmospherics-2.6.6-mc-1.21.11.jar",
-            "sha1": "8b9a8f7afd8a7adc9b6ae66c197566ec855e94f2",
+            "name": "immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
+            "display_name": "Immersive Hotbar",
+            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/vSH3zm1L/immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
+            "sha1": "7e95f707ef14b004ec5dd8c910ab6d82436e65f3",
             "file_type": "mod",
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "exclusive_group": "sky"
+                "pvp1.9"
+            ]
         }
     ]
 }
