@@ -2292,6 +2292,18 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "atmospherics-2.6.6-mc-1.21.11.jar",
+            "display_name": "Atmospherics",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/36CJxKFF/atmospherics-2.6.6-mc-1.21.11.jar",
+            "sha1": "8b9a8f7afd8a7adc9b6ae66c197566ec855e94f2",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "exclusive_group": "sky"
         }
     ]
 }
