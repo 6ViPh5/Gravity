@@ -4706,6 +4706,13 @@
                     "sha1": "5b05f353c8e6cd07be881c30ec016d438142f42f",
                     "file_type": "config",
                     "install_path": "config/"
+                },
+                {
+                    "name": "options.txt",
+                    "display_name": "options.txt",
+                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/Refined%20Horizons/options.txt",
+                    "sha1": "6f4148ae94e337103c5cbbf6314010394f22eb29",
+                    "file_type": "config"
                 }
             ],
             "req_user_type": null,
