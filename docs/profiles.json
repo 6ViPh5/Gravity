@@ -2311,13 +2311,18 @@
         },
         {
             "name": "immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
-            "display_name": "Immersive Hotbar",
             "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/vSH3zm1L/immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
             "sha1": "7e95f707ef14b004ec5dd8c910ab6d82436e65f3",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
-                "pvp1.9"
-            ]
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "display_name": "Immersive Hotbar",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
