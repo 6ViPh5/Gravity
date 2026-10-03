@@ -4854,9 +4854,29 @@
                 },
                 {
                     "name": "framework-fabric-26.1.2-0.13.23.jar",
-                    "display_name": "framework-fabric-26.1.2-0.13.23.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/framework-fabric-26.1.2-0.13.23.jar",
                     "sha1": "039034e4e9e6780469849470ae36e66a836271b8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "framework-fabric-26.1.2-0.13.23.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "goblintraders-fabric-26.1.2-1.12.0.jar",
+                    "display_name": "goblintraders-fabric-26.1.2-1.12.0.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/goblintraders-fabric-26.1.2-1.12.0.jar",
+                    "sha1": "43d96c2d021577d3c753c638c9eba6946a094e30",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
+                    "display_name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/goldenhopper-fabric-26.1.2-1.7.0.jar",
+                    "sha1": "033e4bf6c59cf5911cb90f9d10701e85c2de535e",
                     "file_type": "mod"
                 }
             ],
