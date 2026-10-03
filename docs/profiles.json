@@ -2994,19 +2994,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "mcw-holidays-1.1.2-mc26.1fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/i9WdjxKf/mcw-holidays-1.1.2-mc26.1fabric.jar",
-                    "sha1": "12421e7674d56acf0690ac806f7c17047cb0aa76",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Macaw's Holidays",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "mcw-lights-1.1.5-mc26.1fabric.jar",
                     "url": "https://cdn.modrinth.com/data/w4an97C2/versions/3pQc7GPB/mcw-lights-1.1.5-mc26.1fabric.jar",
                     "sha1": "679476773db96d2800dece8a40df4cd173c5fcb7",
@@ -4867,17 +4854,185 @@
                 },
                 {
                     "name": "goblintraders-fabric-26.1.2-1.12.0.jar",
-                    "display_name": "goblintraders-fabric-26.1.2-1.12.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/goblintraders-fabric-26.1.2-1.12.0.jar",
                     "sha1": "43d96c2d021577d3c753c638c9eba6946a094e30",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "goblintraders-fabric-26.1.2-1.12.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
-                    "display_name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/goldenhopper-fabric-26.1.2-1.7.0.jar",
                     "sha1": "033e4bf6c59cf5911cb90f9d10701e85c2de535e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Too_Many_Bows-fabric-1.1.0-26.1.2.jar",
+                    "url": "https://cdn.modrinth.com/data/FOiJ92uI/versions/GIfvkNxL/Too_Many_Bows-fabric-1.1.0-26.1.2.jar",
+                    "sha1": "ed35826a7eda28b3fbd667cb9821bbface4cd04e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Too Many Bows",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "crazy-chambers-v1.2.0-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FapP9XhG/versions/hsdbAM34/crazy-chambers-v1.2.0-mc26.3.jar",
+                    "sha1": "aff5599e0e49246a1e1627012a3d9a33e56b6614",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Crazy Chambers",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "gildedarmor-26.1.2-0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/uUXwaFR5/versions/4XV1foCB/gildedarmor-26.1.2-0.1.jar",
+                    "sha1": "f53ba5343718a5d181b75ce3c6174dfdd0eecd72",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Gilded Armor",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "better-frost-walker-fabric-26.1-3.1.1+fabric+26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/Fzp3LTAR/versions/EUAyw8ne/better-frost-walker-fabric-26.1-3.1.1%2Bfabric%2B26.1.jar",
+                    "sha1": "26854d8e24593f41a3ad84ddc775bef3d2e11454",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better Frost Walker",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "monkeylib538-fabric-26.1-5.3.1+fabric+26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/gYap5A8T/versions/wv1qCALy/monkeylib538-fabric-26.1-5.3.1%2Bfabric%2B26.1.jar",
+                    "sha1": "6733a594c68b1d07bea1d55e7296a0918b30316b",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "MonkeyLib538",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "Villager-API-26.1.x-fabric-1.26.7.1.jar",
+                    "url": "https://cdn.modrinth.com/data/9Tp2Becg/versions/QmtHsEEy/Villager-API-26.1.x-fabric-1.26.7.1.jar",
+                    "sha1": "70022fb7ae75f9ce1034fd2cf0fe69dae85b03f8",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Villager API",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "MoreVillagersRe-26.1.x-fabric-1.26.7.1.jar",
+                    "url": "https://cdn.modrinth.com/data/1fOqTPRO/versions/bDdecKzp/MoreVillagersRe-26.1.x-fabric-1.26.7.1.jar",
+                    "sha1": "e44d5b36a87fb88dd3bce08b209c1e2cac5bdd30",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "More Villagers: Re-employed",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "jei_trim_hider-1.0.0-Fabric-26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/mgJmej0q/versions/sp3gZj0D/jei_trim_hider-1.0.0-Fabric-26.1.jar",
+                    "sha1": "f1f63e88bcf699418a0d0536f75dea022a4ab1a9",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "JEI Trim Hider",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "totembar-1.0.3.jar",
+                    "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/kacK7jrK/totembar-1.0.3.jar",
+                    "sha1": "a6188cc895335f77f2454cd69a7cc26f7274002b",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Totem Bar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "mixson-2.2.0-multiloader.jar",
+                    "url": "https://cdn.modrinth.com/data/EgugIDm8/versions/76WpeR5z/mixson-2.2.0-multiloader.jar",
+                    "sha1": "d21e738c6e0d462b74053272773762e92e90054d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "mixson",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "defaulted-1.3.8.release-26.1.2-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/LxgPJAAy/versions/Hxl3cE0M/defaulted-1.3.8.release-26.1.2-fabric.jar",
+                    "sha1": "c7961b6e1a0120555134d9229ccf71046ce35ce4",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Defaulted",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "simple_smithing_overhaul-fabric-2.9.14+26.1.2.jar",
+                    "url": "https://cdn.modrinth.com/data/U5TJjZc3/versions/3aKW1uqe/simple_smithing_overhaul-fabric-2.9.14%2B26.1.2.jar",
+                    "sha1": "58828b0d1dff1ff29e272ad3d1d14fdaaa75a3c2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Simple Smithing Overhaul",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -5766,20 +5921,6 @@
             "allowed_users": null
         },
         {
-            "name": "real-arrow-tip-0.3.1+mc26.1.jar",
-            "url": "https://cdn.modrinth.com/data/vgVfk0m2/versions/4qiim8gH/real-arrow-tip-0.3.1%2Bmc26.1.jar",
-            "sha1": "0fb889ce91816efaeaab182f1edbb2cb81c18b0a",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "refhor"
-            ],
-            "display_name": "Real Arrow Tip",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
             "name": "SubtleEffects-fabric-26.1-1.14.3.jar",
             "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/bUt5IK5S/SubtleEffects-fabric-26.1-1.14.3.jar",
             "sha1": "6ae47cdd0d73aa1bfb3dd991d4d64196e6820c5e",
@@ -5916,6 +6057,20 @@
                 "refhor"
             ],
             "display_name": "Zoomify",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "pulse-trims-1.0.2-fabric-26.1.x.jar",
+            "url": "https://cdn.modrinth.com/data/5YOjKSuq/versions/97myOygK/pulse-trims-1.0.2-fabric-26.1.x.jar",
+            "sha1": "0f59bb4440d8f612b12b1438dfc52d09ae696b5d",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "refhor"
+            ],
+            "display_name": "Pulse Trims",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
