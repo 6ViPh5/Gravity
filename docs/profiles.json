@@ -4801,10 +4801,10 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-2.4.jar",
-                    "display_name": "viph-ideas-2.4.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/main/docs/mods/Refined%20Horizons/viph-ideas-2.4.jar",
-                    "sha1": "128f7f9bda0096086655203146fcaeb528c140ae",
+                    "name": "viph-ideas-2.6.jar",
+                    "display_name": "viph-ideas-2.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.6.jar",
+                    "sha1": "eac0566280b7368b235f69dabcf3c2edff78efc8",
                     "file_type": "mod"
                 }
             ],
