@@ -4112,19 +4112,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "travelersbackpack-fabric-26.1.2-11.2.11.jar",
-                    "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/NUbnGgy9/travelersbackpack-fabric-26.1.2-11.2.11.jar",
-                    "sha1": "4fab32b6a70a0694d0dcfc4cca8ad0f4f2b1b8db",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Traveler's Backpack",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "trek-B0.6.2.jar",
                     "url": "https://cdn.modrinth.com/data/h2jngREY/versions/OYbFzi8L/trek-B0.6.2.jar",
                     "sha1": "e83cbdbe987129cb039ead47d11994d8cbdb1ade",
@@ -4580,19 +4567,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "Ancient Artifacts 2 V2.5.5m for 1.21.6-26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/RO3LwIqV/versions/yxrBjPoO/Ancient%20Artifacts%202%20V2.5.5m%20for%201.21.6-26.2.jar",
-                    "sha1": "8508e1d5097ff103e558522c6d1b9cf88de74539",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Ancient Artifacts 2",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "animatica-0.6.3+26.1.jar",
                     "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/fei2AQqc/animatica-0.6.3%2B26.1.jar",
                     "sha1": "b6dc4ca4ab7b22a1d4c67ac1771dea55a45895a4",
@@ -4802,9 +4776,50 @@
                 },
                 {
                     "name": "viph-ideas-2.7.jar",
-                    "display_name": "viph-ideas-2.7.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.7.jar",
                     "sha1": "91b3b57043ef0be550d8917245f1b72b22e62436",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-2.7.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
+                    "display_name": "VillagerConfig",
+                    "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/SNQutdno/villagerconfig-fabric-4.6.0%2B26.1.2.jar",
+                    "sha1": "26aff1b13748f2c4cd669763c6f5debc4bf57100",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "LostTrinkets-26.1.0-mc26.1.2-fabric.jar",
+                    "display_name": "Lost Trinkets Renewed",
+                    "url": "https://cdn.modrinth.com/data/YXvTD5Ha/versions/t0KL0dbw/LostTrinkets-26.1.0-mc26.1.2-fabric.jar",
+                    "sha1": "9a1b8ff6df499db3cf7727841ac7dc0875ea7e64",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "better-wanderingtraders-1.0.0+1.21.6.jar",
+                    "display_name": "Better Wandering Traders",
+                    "url": "https://cdn.modrinth.com/data/zBa7cdvh/versions/G01X6iLP/better-wanderingtraders-1.0.0%2B1.21.6.jar",
+                    "sha1": "f49923f1bc09dccee5c4612df058f7411ca17f2b",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "bettercoppergolem-FABRIC-2.4.2-26.1.2.jar",
+                    "display_name": "Better Copper Golem",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/fXlHRA2M/bettercoppergolem-FABRIC-2.4.2-26.1.2.jar",
+                    "sha1": "76576d813087a2d0e7c8778fcb09882395751c8c",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "backpacked-fabric-26.1.2-3.0.4.jar",
+                    "display_name": "backpacked-fabric-26.1.2-3.0.4.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/backpacked-fabric-26.1.2-3.0.4.jar",
+                    "sha1": "a3868118d7e14307a18b2a0d5fac61f8c92d0b3d",
                     "file_type": "mod"
                 }
             ],
