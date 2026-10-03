@@ -4799,6 +4799,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "viph-ideas-2.4.jar",
+                    "display_name": "viph-ideas-2.4.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.4.jar",
+                    "sha1": "8902b8c25d2ca6a01d10fc1e2fb5f2331157f01f",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -5234,6 +5241,21 @@
                 "pvp1.9"
             ],
             "display_name": "Accurate Block Placement Reborn",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
+            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
+            "sha1": "86515de45fe960bd717deea0954055106e857b81",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Mouse Tweaks",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
@@ -5825,17 +5847,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
-            "display_name": "Mouse Tweaks",
-            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
-            "sha1": "86515de45fe960bd717deea0954055106e857b81",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ]
         }
     ]
 }
