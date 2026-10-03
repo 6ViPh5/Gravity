@@ -79,16 +79,16 @@ heartbeatVolume = 1.0
 heartBeatingWaitTime = 3
 
 [dustClouds]
-scale = 0.5
-alpha = 0.3
+scale = 1.0
+alpha = 0.39607844
 preventWhenRaining = false
 flyIntoWall = true
 lessViewBlocking = false
 playerFell = true
 mobFell = true
 landMaceAttack = true
-playerRunning = true
-mobRunning = true
+playerRunning = false
+mobRunning = false
 playerRunningRequiresSpeed = false
 
 [burning]
