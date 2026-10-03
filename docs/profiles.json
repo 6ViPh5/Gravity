@@ -2994,6 +2994,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "mcw-holidays-1.1.2-mc26.1fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/i9WdjxKf/mcw-holidays-1.1.2-mc26.1fabric.jar",
+                    "sha1": "12421e7674d56acf0690ac806f7c17047cb0aa76",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Macaw's Holidays",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "mcw-lights-1.1.5-mc26.1fabric.jar",
                     "url": "https://cdn.modrinth.com/data/w4an97C2/versions/3pQc7GPB/mcw-lights-1.1.5-mc26.1fabric.jar",
                     "sha1": "679476773db96d2800dece8a40df4cd173c5fcb7",
@@ -4970,19 +4983,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "jei_trim_hider-1.0.0-Fabric-26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/mgJmej0q/versions/sp3gZj0D/jei_trim_hider-1.0.0-Fabric-26.1.jar",
-                    "sha1": "f1f63e88bcf699418a0d0536f75dea022a4ab1a9",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "JEI Trim Hider",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "totembar-1.0.3.jar",
                     "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/kacK7jrK/totembar-1.0.3.jar",
                     "sha1": "a6188cc895335f77f2454cd69a7cc26f7274002b",
@@ -5916,6 +5916,20 @@
                 "refhor"
             ],
             "display_name": "Particle Rain",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "real-arrow-tip-0.3.1+mc26.1.jar",
+            "url": "https://cdn.modrinth.com/data/vgVfk0m2/versions/4qiim8gH/real-arrow-tip-0.3.1%2Bmc26.1.jar",
+            "sha1": "0fb889ce91816efaeaab182f1edbb2cb81c18b0a",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "refhor"
+            ],
+            "display_name": "Real Arrow Tip",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
