@@ -4789,37 +4789,74 @@
                 },
                 {
                     "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
-                    "display_name": "VillagerConfig",
                     "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/SNQutdno/villagerconfig-fabric-4.6.0%2B26.1.2.jar",
                     "sha1": "26aff1b13748f2c4cd669763c6f5debc4bf57100",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "VillagerConfig",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "LostTrinkets-26.1.0-mc26.1.2-fabric.jar",
-                    "display_name": "Lost Trinkets Renewed",
                     "url": "https://cdn.modrinth.com/data/YXvTD5Ha/versions/t0KL0dbw/LostTrinkets-26.1.0-mc26.1.2-fabric.jar",
                     "sha1": "9a1b8ff6df499db3cf7727841ac7dc0875ea7e64",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Lost Trinkets Renewed",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "better-wanderingtraders-1.0.0+1.21.6.jar",
-                    "display_name": "Better Wandering Traders",
                     "url": "https://cdn.modrinth.com/data/zBa7cdvh/versions/G01X6iLP/better-wanderingtraders-1.0.0%2B1.21.6.jar",
                     "sha1": "f49923f1bc09dccee5c4612df058f7411ca17f2b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better Wandering Traders",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "bettercoppergolem-FABRIC-2.4.2-26.1.2.jar",
-                    "display_name": "Better Copper Golem",
                     "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/fXlHRA2M/bettercoppergolem-FABRIC-2.4.2-26.1.2.jar",
                     "sha1": "76576d813087a2d0e7c8778fcb09882395751c8c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better Copper Golem",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "backpacked-fabric-26.1.2-3.0.4.jar",
-                    "display_name": "backpacked-fabric-26.1.2-3.0.4.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/backpacked-fabric-26.1.2-3.0.4.jar",
                     "sha1": "a3868118d7e14307a18b2a0d5fac61f8c92d0b3d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "backpacked-fabric-26.1.2-3.0.4.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "framework-fabric-26.1.2-0.13.23.jar",
+                    "display_name": "framework-fabric-26.1.2-0.13.23.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/framework-fabric-26.1.2-0.13.23.jar",
+                    "sha1": "039034e4e9e6780469849470ae36e66a836271b8",
                     "file_type": "mod"
                 }
             ],
