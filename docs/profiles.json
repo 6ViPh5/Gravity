@@ -4983,6 +4983,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "jei_trim_hider-1.0.0-Fabric-26.1.jar",
+                    "url": "https://cdn.modrinth.com/data/mgJmej0q/versions/sp3gZj0D/jei_trim_hider-1.0.0-Fabric-26.1.jar",
+                    "sha1": "f1f63e88bcf699418a0d0536f75dea022a4ab1a9",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "JEI Trim Hider",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "totembar-1.0.3.jar",
                     "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/kacK7jrK/totembar-1.0.3.jar",
                     "sha1": "a6188cc895335f77f2454cd69a7cc26f7274002b",
@@ -4994,52 +5007,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "mixson-2.2.0-multiloader.jar",
-                    "url": "https://cdn.modrinth.com/data/EgugIDm8/versions/76WpeR5z/mixson-2.2.0-multiloader.jar",
-                    "sha1": "d21e738c6e0d462b74053272773762e92e90054d",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "mixson",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "defaulted-1.3.8.release-26.1.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/LxgPJAAy/versions/Hxl3cE0M/defaulted-1.3.8.release-26.1.2-fabric.jar",
-                    "sha1": "c7961b6e1a0120555134d9229ccf71046ce35ce4",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Defaulted",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "simple_smithing_overhaul-fabric-2.9.14+26.1.2.jar",
-                    "url": "https://cdn.modrinth.com/data/U5TJjZc3/versions/3aKW1uqe/simple_smithing_overhaul-fabric-2.9.14%2B26.1.2.jar",
-                    "sha1": "58828b0d1dff1ff29e272ad3d1d14fdaaa75a3c2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Simple Smithing Overhaul",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar",
-                    "display_name": "Easy Anvils",
-                    "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/nkznXCKk/EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar",
-                    "sha1": "37c726b056cf5310fdb6e7a37a1bf793ce07e1dd",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
