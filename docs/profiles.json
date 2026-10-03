@@ -5033,6 +5033,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar",
+                    "display_name": "Easy Anvils",
+                    "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/nkznXCKk/EasyAnvils-v26.1.4-mc26.1.x-Fabric.jar",
+                    "sha1": "37c726b056cf5310fdb6e7a37a1bf793ce07e1dd",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
