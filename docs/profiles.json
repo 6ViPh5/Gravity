@@ -5548,21 +5548,6 @@
             "exclusive_group": "tnt_timer"
         },
         {
-            "name": "combat-hitbox-1.0.10.jar",
-            "url": "https://cdn.modrinth.com/data/geGZinIB/versions/xDTFU0cD/combat-hitbox-1.0.10.jar",
-            "sha1": "095764fbc6a053ebc8d16382c9fb28901a55a0dc",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "Combat Hitboxes",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "hitbox"
-        },
-        {
             "name": "glinteverything-1.1.0+mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/mfcsZ4EP/versions/MrUNfxNW/glinteverything-1.1.0%2Bmc1.21.11.jar",
             "sha1": "116c7b985dd1fc2a2d29f1279562383efc2994b9",
