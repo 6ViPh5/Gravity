@@ -6075,6 +6075,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "animatium-4.4.1+1.21.11-fabric.jar",
+            "display_name": "Animatium",
+            "url": "https://cdn.modrinth.com/data/zy0karK1/versions/a7UIOXPU/animatium-4.4.1%2B1.21.11-fabric.jar",
+            "sha1": "ff8ce04f3295b838764c7196e12f390b62f1cdaf",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
