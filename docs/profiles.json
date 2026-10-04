@@ -24,12 +24,12 @@
             },
             "mods": [
                 {
-                    "name": "bobby-5.2.14+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/9O9VU4Wh/bobby-5.2.14%2Bmc26.2.jar",
-                    "sha1": "0A57A358795280386F8A20AAD1DE35EFE4E5E5D1",
+                    "name": "entity_sound_features-0.8.2-26.1-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/wLbaCWaA/entity_sound_features-0.8.2-26.1-fabric.jar",
+                    "sha1": "4398bc8c1d199b9c7a7bef7368c028ef3a65062f",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": null,
+                    "display_name": "[ESF] Entity Sound Features",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -37,116 +37,12 @@
                     "replaces": null
                 },
                 {
-                    "name": "chat_heads-1.2.4-fabric-26.1.jar",
-                    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ct4sHdcD/chat_heads-1.2.4-fabric-26.1.jar",
-                    "sha1": "4A529510D0690ADFA94DF8E359FA444E2251A657",
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "cloth-config-26.2.155.jar",
-                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Nv3xnWXd/cloth-config-26.2.155.jar",
-                    "sha1": "BABCF16DBD15E09D326E21FFE85AB3F7D843EF9E",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "CrashAssistant-fabric-26.2-1.11.10.jar",
-                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/ty1I3NCt/CrashAssistant-fabric-26.2-1.11.10.jar",
-                    "sha1": "95DD7850F11140FAF7B41864D78E9A4652AB3C87",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "entity_model_features-3.2.6-26.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/xQeW3qQB/entity_model_features-3.2.6-26.2-fabric.jar",
-                    "sha1": "47862C653E419AA6741338B795DB841F1086A643",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "entity_texture_features-7.1.1-26.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HLCBKYFD/entity_texture_features-7.1.1-26.2-fabric.jar",
-                    "sha1": "2D09A60630E8F25A25D9C06D87684C74A843CAAC",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "entityculling-fabric-1.10.5-mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/iiF6U3Ne/entityculling-fabric-1.10.5-mc26.2.jar",
-                    "sha1": "F66F9D8CBB1F76466AAF45E46FB11B18207E3AEF",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fabric-api-0.153.0+26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/M8Kbv865/fabric-api-0.153.0%2B26.2.jar",
-                    "sha1": "1D22675AE6EBC304F7F808CA842B11DB85CA9A90",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-                    "sha1": "2BC17BB4275CC70A12E4AC35D139A71A30845720",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fast-ip-ping-v1.0.11-mc26.1.2.jar",
-                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/H7KycYXE/fast-ip-ping-v1.0.11-mc26.1.2.jar",
-                    "sha1": "6B69EAA6323DA9F7933206D55CDB09EA3299CDE3",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
+                    "display_name": "Fabric Language Kotlin",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -156,88 +52,10 @@
                 {
                     "name": "ferritecore-9.0.0-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar",
-                    "sha1": "EAC76FF0F3753422C61B2C44487D0D195D88D4BC",
+                    "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ImmediatelyFast-Fabric-1.16.0+26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/FQU5HWsp/ImmediatelyFast-Fabric-1.16.0%2B26.2.jar",
-                    "sha1": "FC0B3322ADEC4CA80B5250D6D4B275045EE3C202",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "iris-fabric-1.11.1+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/3uIIps8q/iris-fabric-1.11.1%2Bmc26.2.jar",
-                    "sha1": "1A75998310ECBB5F2D62FE5E58BD9E9D6A8833BA",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "lambdynamiclights-4.12.2+26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/jBLH7Qy8/lambdynamiclights-4.12.2%2B26.2.jar",
-                    "sha1": "0667B3E1D203A54A0FCEDE02D97FC3B9F384711C",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "language-reload-1.7.7+26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/L79IylWm/language-reload-1.7.7%2B26.2.jar",
-                    "sha1": "261027CEF3C476D4FAFDF59362179EB8DA9019D2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "lithium-fabric-0.25.0+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/x1OEDMlF/lithium-fabric-0.25.0%2Bmc26.2.jar",
-                    "sha1": "EE6613921C224097F968A289E8A7B53E036CC6EC",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "modmenu-20.0.0-beta.4.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/3gAjUrx6/modmenu-20.0.0-beta.4.jar",
-                    "sha1": "ECCB69023A351A8A1531EA70D04732120C1167AA",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
+                    "display_name": "FerriteCore",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -247,10 +65,10 @@
                 {
                     "name": "morechathistory-2.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar",
-                    "sha1": "6CE97845F93090DD7556B6E64BB7D63E126B83B4",
+                    "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": null,
+                    "display_name": "More Chat History",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -258,149 +76,281 @@
                     "replaces": null
                 },
                 {
-                    "name": "moreculling-fabric-26.2-1.8.0-beta.1.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/RwGECWCy/moreculling-fabric-26.2-1.8.0-beta.1.jar",
-                    "sha1": "D26FED5415EE09D503FA941A452FBB4080554F81",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "sodium-extra-fabric-0.9.4+mc26.3.jar",
+                    "display_name": "Sodium Extra",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar",
+                    "sha1": "ff2056f222b751fe161123e71e55afd5b2f41da4",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "NoChatReports-FABRIC-26.2-v2.20.0.jar",
-                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/Uh2eAZ4R/NoChatReports-FABRIC-26.2-v2.20.0.jar",
-                    "sha1": "767D339D550F6FB3CF137D6147ABB4EAA6E7CE9E",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "SodiumExtraInformation-fabric-2.9.0.jar",
+                    "display_name": "Sodium Extra Information",
+                    "url": "https://cdn.modrinth.com/data/696WgnvT/versions/4ynwThl7/SodiumExtraInformation-fabric-2.9.0.jar",
+                    "sha1": "49fa24920ddb3917e73880b40b058916fb8abffa",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "packetfixer-fabric-3.3.5-26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/6e5jpTai/packetfixer-fabric-3.3.5-26.2.jar",
-                    "sha1": "994893303614F7325ADFE8F36D554431D4E86917",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "sodium-fabric-0.9.3-alpha.1+mc26.3.jar",
+                    "display_name": "Sodium",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/v4PSXean/sodium-fabric-0.9.3-alpha.1%2Bmc26.3.jar",
+                    "sha1": "5d88caf6f3e182cd39d0fb0d2e7200c5e613f287",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "placeholder-api-3.1.0-beta.1+26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/NDqH16LT/placeholder-api-3.1.0-beta.1%2B26.2.jar",
-                    "sha1": "99B57CCC1D4323C4EF71887828DAC25CE4CE2103",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "animatica-0.6.2+26.3.jar",
+                    "display_name": "Animatica Refabricated",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/q6u7sgZG/animatica-0.6.2%2B26.3.jar",
+                    "sha1": "65fbee1197fcd342d88b34c33856da5c04fa7fed",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "reeses-sodium-options-fabric-2.2.0+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/zD41FWKT/reeses-sodium-options-fabric-2.2.0%2Bmc26.2.jar",
-                    "sha1": "0452F3DBE4B5E49A46FEB486C6739A44A651E3F7",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "anvianslib-fabric-26.1-1.5.0.jar",
+                    "display_name": "Anvian's Lib",
+                    "url": "https://cdn.modrinth.com/data/PuTjrq4T/versions/yF1sty8C/anvianslib-fabric-26.1-1.5.0.jar",
+                    "sha1": "90703eae117e6189d198a098751d75e21fa70c1c",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "Resourcify (26.2-fabric)-1.8.4.jar",
-                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/czHVFy6D/Resourcify%20%2826.2-fabric%29-1.8.4.jar",
-                    "sha1": "C154B9500A1024AB5C5C5334EC331040EB5C3E3F",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "AsyncParticles-26.3.2.0-alpha.3+26.3.jar",
+                    "display_name": "AsyncParticles",
+                    "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/iDHkUsnf/AsyncParticles-26.3.2.0-alpha.3%2B26.3.jar",
+                    "sha1": "4b353dc68239db205e4c8fd28c8c19d921507125",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "Searchables-fabric-26.2-1.0.1.jar",
-                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/bvFby61J/Searchables-fabric-26.2-1.0.1.jar",
-                    "sha1": "73C1917F4FF056254C95F50A5ACB18D16384139A",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "BadOptimizations-2.4.1-26.3-fabric.jar",
+                    "display_name": "BadOptimizations",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar",
+                    "sha1": "4cc25ce6217326ff14169f5358921773297e9475",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "smoothscroll-2.9.0.jar",
-                    "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/UnyB1ePl/smoothscroll-2.9.0.jar",
-                    "sha1": "AAF1136D8308621A27F2CD4D424A278EE2F15ADC",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "cloth-config-fabric-26.3.159.jar",
+                    "display_name": "Cloth Config API",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar",
+                    "sha1": "9a5cce069380a2047250831dcb19f4ef1b15872d",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "sodium-extra-fabric-0.8.9+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/Yx7JiBit/sodium-extra-fabric-0.8.9%2Bmc26.2.jar",
-                    "sha1": "CFC41276B6BA6DD9B70535AEA8BEA8923905BC1B",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "Controlling-fabric-26.3-26.3.3.jar",
+                    "display_name": "Controlling",
+                    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/4QeVlQxd/Controlling-fabric-26.3-26.3.3.jar",
+                    "sha1": "232a2b50b30b9922be9074a82e74f7424d885e33",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "sodium-fabric-0.9.0+mc26.2.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/3QgJXuSK/sodium-fabric-0.9.0%2Bmc26.2.jar",
-                    "sha1": "924DC2B779B7B7CD2D1D2464B863B00AA9FEA797",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
+                    "display_name": "Crash Assistant",
+                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/alR3tamq/CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
+                    "sha1": "dea53a10e5fbfaacd18e212a0eb0fe328b3e9467",
+                    "file_type": "mod"
                 },
                 {
-                    "name": "spark-1.10.173-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/iYFOl6lQ/spark-1.10.173-fabric.jar",
-                    "sha1": "FAB7A3FEC7DD01936FA21C88AF40F8093B714DD2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "name": "enhancedblockentities-0.13.1+26.3-fabric.jar",
+                    "display_name": "Enhanced Block Entities Reloaded",
+                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/vhH2bwq7/enhancedblockentities-0.13.1%2B26.3-fabric.jar",
+                    "sha1": "8f55da0f2db4da8dcd3d0a55d49bf423f7638199",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "entity_model_features-3.3.10-26.3-fabric.jar",
+                    "display_name": "[EMF] Entity Model Features",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/jeqNlUR9/entity_model_features-3.3.10-26.3-fabric.jar",
+                    "sha1": "a60c2bcffa623c5e16425ff94668e22dcbcc96f8",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "entity_texture_features-7.2.5-26.3-fabric.jar",
+                    "display_name": "[ETF] Entity Texture Features",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/O8J3sxxp/entity_texture_features-7.2.5-26.3-fabric.jar",
+                    "sha1": "c4d8d0f47a2ab15091f47a1d74336a119ab5f1b1",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "entityculling-fabric-1.11.2-mc26.3.jar",
+                    "display_name": "Entity Culling",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/F4loCvYt/entityculling-fabric-1.11.2-mc26.3.jar",
+                    "sha1": "f2196e803fe77cfbb62c4a2acb64803d98b4f61c",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fabric-api-0.161.0+26.3.jar",
+                    "display_name": "Fabric API",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bNnaTiuM/fabric-api-0.161.0%2B26.3.jar",
+                    "sha1": "53f9ee02c3702734d90520aa8c9719bf0e1c8d4f",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fast-ip-ping-v1.0.12-mc26.3.jar",
+                    "display_name": "Fast IP Ping",
+                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/N6hOHbOO/fast-ip-ping-v1.0.12-mc26.3.jar",
+                    "sha1": "7db094c0a3f4c0d272d41c800838c57fe6bb823e",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fishingrodfix-26.3-v0.6.jar",
+                    "display_name": "Fishing Rod Fix",
+                    "url": "https://cdn.modrinth.com/data/x9ISUf1U/versions/tBPcVWlJ/fishingrodfix-26.3-v0.6.jar",
+                    "sha1": "b09baced81af91899a86111c4798233f1aa1d802",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "ImmediatelyFast-Fabric-1.17.1+26.3.jar",
+                    "display_name": "ImmediatelyFast",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
+                    "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "iris-fabric-1.11.7+mc26.3.jar",
+                    "display_name": "Iris Shaders",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+                    "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "krypton-0.3.2.jar",
+                    "display_name": "Krypton",
+                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/UugdIYJw/krypton-0.3.2.jar",
+                    "sha1": "21b21cb88e412f0bce73b6609de6dd6aca958d7d",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "language-reload-1.7.8+26.3.jar",
+                    "display_name": "Language Reload",
+                    "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/QVn4cccd/language-reload-1.7.8%2B26.3.jar",
+                    "sha1": "e6fd2df83d1d3d0f352a7e45eaf76f4551c136f2",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "lithium-fabric-0.26.2+mc26.3.jar",
+                    "display_name": "Lithium",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar",
+                    "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "modernfix-5.27.20-build.2.jar",
+                    "display_name": "ModernFix-mVUS",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/pa9cAfYg/modernfix-5.27.20-build.2.jar",
+                    "sha1": "b63337e801fbf2cb420a049d69220c56e083f514",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "modmenu-21.0.0.jar",
+                    "display_name": "Mod Menu",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+                    "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "moreculling-fabric-26.3-1.9.0.jar",
+                    "display_name": "More Culling",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/t7vAlfgO/moreculling-fabric-26.3-1.9.0.jar",
+                    "sha1": "7308b0b0b6fffb0e076cabf97db7fc889d9ada68",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
+                    "display_name": "No Chat Reports",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/6g96avt2/NoChatReports-FABRIC-26.3-v2.21.0.jar",
+                    "sha1": "ed49e6780f20fcad080a211f8163c9d130ebdd34",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "nvidium-0.4.4-beta7-26.3.jar",
+                    "display_name": "Nvidium",
+                    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/8mVK1zbk/nvidium-0.4.4-beta7-26.3.jar",
+                    "sha1": "6741b037b97a2a0b50231b52780feb893b3d51fc",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "PacketFixer-fabric-3.3.6.jar",
+                    "display_name": "Packet Fixer",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/dTKbGYbb/PacketFixer-fabric-3.3.6.jar",
+                    "sha1": "a71fcdee677e23583da12b9237ab165ae7a0c8b0",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "placeholder-api-3.2.0+26.3.jar",
+                    "display_name": "Text Placeholder API",
+                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar",
+                    "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Resourcify (26.3-fabric)-1.8.7.jar",
+                    "display_name": "Resourcify",
+                    "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/fRxNdO2e/Resourcify%20%2826.3-fabric%29-1.8.7.jar",
+                    "sha1": "2bc181e1ccb4fedd13cb71da17eb7ede85c21378",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
+                    "display_name": "ScalableLux",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/g4eqNSKd/ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
+                    "sha1": "d51dcbe901452a1cb378139ca351009254e7ab0d",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Searchables-fabric-26.3-1.0.2.jar",
+                    "display_name": "Searchables",
+                    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/RlPMfNdS/Searchables-fabric-26.3-1.0.2.jar",
+                    "sha1": "47372e0b6c78ca12651cac46d2cc0e9cdfa4dd7b",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fzzy_config-0.7.7+fix3+26.3.jar",
+                    "display_name": "Fzzy Config",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/YkOumqzV/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
+                    "sha1": "373b6365bb9f447d2810c151ec2f698ee789366f",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "display_name": "Iceberg",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/zhVGUJyW/Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "sha1": "e65d856fdfa925045b99283b60ba002dcca7e332",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "MossyLib-1.6.0+26.3+fabric.jar",
+                    "display_name": "MossyLib",
+                    "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/yMuPxSiE/MossyLib-1.6.0%2B26.3%2Bfabric.jar",
+                    "sha1": "48facdb59d1a9b924c88123885671bc7d64388ba",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Prism-26.3-fabric-1.1.3.jar",
+                    "display_name": "Prism",
+                    "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/ETN2U7Rc/Prism-26.3-fabric-1.1.3.jar",
+                    "sha1": "91852e4f48ccc0bffe216ba000115c10a4afd84a",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "tlib-fabric-1.5.0-26.3.jar",
+                    "display_name": "TLib",
+                    "url": "https://cdn.modrinth.com/data/sBn7rVvc/versions/4shvVPZP/tlib-fabric-1.5.0-26.3.jar",
+                    "sha1": "d648d0821cd875539d4ba25b181fca0ae827d986",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+                    "display_name": "YetAnotherConfigLib (YACL)",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+                    "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "architectury-fabric-22.0.3.jar",
+                    "display_name": "Architectury API",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gAI51C1M/architectury-fabric-22.0.3.jar",
+                    "sha1": "7d72ecc77151be1edbf8ce3e72fc7e2370b57006",
+                    "file_type": "mod"
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
             "is_upcoming": true
         },
         {
@@ -413,19 +363,6 @@
                 "background": "https://images.alphacoders.com/109/thumb-1920-1099436.png"
             },
             "mods": [
-                {
-                    "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-                    "sha1": "2BC17BB4275CC70A12E4AC35D139A71A30845720",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
                 {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
@@ -896,19 +833,6 @@
                 "background": "https://images7.alphacoders.com/125/thumb-1920-1250158.png"
             },
             "mods": [
-                {
-                    "name": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-                    "sha1": "2BC17BB4275CC70A12E4AC35D139A71A30845720",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
                 {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "url": "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
@@ -5040,34 +4964,6 @@
     ],
     "optional_mods": [
         {
-            "name": "Essential_1-4-0-3_fabric_26-2.jar",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/VKJcoZCi/Essential_1-4-0-3_fabric_26-2.jar",
-            "sha1": "863B993DAFFA2B1080424068635CA31A031818C1",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Essential",
-            "req_user_type": "microsoft",
-            "dependencies": [],
-            "allowed_users": null
-        },
-        {
-            "name": "clientcommands-2.15.1.jar",
-            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/3QTuhe8G/clientcommands-2.15.1.jar",
-            "sha1": "d1767937bb15b72646f487e0f93c50f03bb4f14b",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Client Commands",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dL4IyVTy/chat_heads-1.2.4-fabric-1.21.11.jar",
             "sha1": "DBB0D197A19BBE5DE43242595ADD638A2F6E2131",
@@ -6041,6 +5937,415 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "atmospherics-2.6.6-mc-26.3.jar",
+            "display_name": "ATMOSPHERICS",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/ypMUWkFh/atmospherics-2.6.6-mc-26.3.jar",
+            "sha1": "bc4fcb49efc8027bc017a47750a3dbcc60f8fac8",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
+            "display_name": "Better Clouds",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/zLlQcx3w/better-clouds-1.15.0-beta.4%2B26.3-fabric.jar",
+            "sha1": "31b69af23cd78ae65e1abaf2cf83ea6c109024b7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "boatiview-fabric-0.0.10-26.3.jar",
+            "display_name": "Boat Item View",
+            "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/ZlP1ROUh/boatiview-fabric-0.0.10-26.3.jar",
+            "sha1": "cd6a1dce4b938253f04eab8e96f207b3d28d751c",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "chat_heads-1.3.2-fabric-26.3.jar",
+            "display_name": "Chat Heads",
+            "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/i3gcElvQ/chat_heads-1.3.2-fabric-26.3.jar",
+            "sha1": "cf4eec23f6bc4b3ce7c3c20308694beb5f4c5edf",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "chatanimation-fabric-1.3.3+mc26.3.jar",
+            "display_name": "Chat Animation [Smooth Chat]",
+            "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/zbvXFs0t/chatanimation-fabric-1.3.3%2Bmc26.3.jar",
+            "sha1": "6640621b6669e7b7fb781bfb1bd410dcff4f4fc9",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "cirrus-fabric-26.3-1.4.1.jar",
+            "display_name": "Cirrus",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/2erYeKg1/cirrus-fabric-26.3-1.4.1.jar",
+            "sha1": "2070952d0f1a473cc2d06be961e894e23e90876b",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "clientcommands-2.16.2.jar",
+            "display_name": "clientcommands",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/HXUpxTML/clientcommands-2.16.2.jar",
+            "sha1": "6571ed9b65ae8eddf74632d5d5d2f208c6316433",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "easegui-fabric-1.0.0+26.3.jar",
+            "display_name": "EaseGUI",
+            "url": "https://cdn.modrinth.com/data/zS8uflwP/versions/Tsxi4hHV/easegui-fabric-1.0.0%2B26.3.jar",
+            "sha1": "af65d493c870579dfd8a285230f2ffc22bf0c9ad",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "gui"
+        },
+        {
+            "name": "effectual-fabric-1.4.2-26.3.jar",
+            "display_name": "Effectual",
+            "url": "https://cdn.modrinth.com/data/OoF97Pto/versions/LJUNgffX/effectual-fabric-1.4.2-26.3.jar",
+            "sha1": "a90ced084060f0071bcf230dedaadfe9e6191c21",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "elytratrails-1.6.6-26.3.jar",
+            "display_name": "Elytra Contrails Mod",
+            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/VWvtBt3R/elytratrails-1.6.6-26.3.jar",
+            "sha1": "2bf7964d7fcd07db90ade32ee9c8c02acd027dd6",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Essential_1-5-0-1_fabric_26-3.jar",
+            "display_name": "Essential Mod",
+            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NWE2l2zJ/Essential_1-5-0-1_fabric_26-3.jar",
+            "sha1": "bd4f770d11370c6c60f8fb415392c60e4bba3b56",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "req_user_type": "microsoft"
+        },
+        {
+            "name": "explosive-enhancement-1.4.2-26.2.jar",
+            "display_name": "Explosive Enhancement",
+            "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/q9vZmPqg/explosive-enhancement-1.4.2-26.2.jar",
+            "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Highlighter-26.3-fabric-1.2.3.jar",
+            "display_name": "Item Highlighter",
+            "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/aaau0F2w/Highlighter-26.3-fabric-1.2.3.jar",
+            "sha1": "a6345c4d5687de857eeeeb5eebc37b8c111385c7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "immersive-hotbar-1.2.2-26.3.jar",
+            "display_name": "Immersive Hotbar",
+            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/5p5svVAS/immersive-hotbar-1.2.2-26.3.jar",
+            "sha1": "f820ea7ed80cc248855371fb512da894ac8747dc",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "InventoryParticles-3.2.0+26.3+fabric.jar",
+            "display_name": "Inventory Particles",
+            "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/iOrtag4W/InventoryParticles-3.2.0%2B26.3%2Bfabric.jar",
+            "sha1": "5adb976ad784459e2748d9c9b25d812eeba8ea26",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "ItemBorders-26.3-fabric-1.3.3.jar",
+            "display_name": "Item Borders",
+            "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/pVZMoGZS/ItemBorders-26.3-fabric-1.3.3.jar",
+            "sha1": "9ef1cf7e86deae89425bdbbad10429eacc3246ff",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "lambdynamiclights-4.13.0+26.3.jar",
+            "display_name": "LambDynamicLights - Dynamic Lights",
+            "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
+            "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+            "display_name": "Make Bubbles Pop",
+            "url": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/CAFPNCYd/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+            "sha1": "9b1af574e6f3a0e532a9aa97b9eee18f00bc9e7f",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "MouseTweaks-fabric-mc26.3-2.31.jar",
+            "display_name": "Mouse Tweaks",
+            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar",
+            "sha1": "65c0f5588900e7ade476164ec4915bfab52c129a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "notenoughanimations-fabric-1.12.6-mc26.3.jar",
+            "display_name": "Not Enough Animations",
+            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
+            "sha1": "6554509fc89187c5b6d63f586edfc35b8e41158c",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "punchy-2.8d-fabric-26.3.jar",
+            "display_name": "Punchy!",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/iptzBFXY/punchy-2.8d-fabric-26.3.jar",
+            "sha1": "e40dc8d15c8f4c02cf207766ab685f739c0d2b2f",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "RoughlyEnoughItems-26.3.823.jar",
+            "display_name": "Roughly Enough Items (REI)",
+            "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/ePn2dRJ1/RoughlyEnoughItems-26.3.823.jar",
+            "sha1": "1e8a34a2a4e9e8e680cbd173b793ff1a7db97ea9",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "norecipebook-4.3+26.3.jar",
+                    "display_name": "NoRecipeBook",
+                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
+                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
+                    "file_type": "mod"
+                }
+            ],
+            "exclusive_group": "enoughitems"
+        },
+        {
+            "name": "skinlayers3d-fabric-1.11.3-mc26.3.jar",
+            "display_name": "3D Skin Layers",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
+            "sha1": "31ee367d5900d20a77c9c610cdd6dc9361c26865",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "smoothgui-fabric-2.0.6+mc26.3.jar",
+            "display_name": "Smooth Gui",
+            "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/UogAgPfh/smoothgui-fabric-2.0.6%2Bmc26.3.jar",
+            "sha1": "799618fb6b9fac2cb418320a16aa97147c81f621",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "gui"
+        },
+        {
+            "name": "smoothscroll-3.0.0.jar",
+            "display_name": "Smooth Scrolling",
+            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/EhHH4Sfv/smoothscroll-3.0.0.jar",
+            "sha1": "853ab86683004562bda72e55409ef5e84f2c476a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "smoothswapping-0.9.11-26.3-fabric.jar",
+            "display_name": "Smooth Swapping",
+            "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/TYYQn5Mn/smoothswapping-0.9.11-26.3-fabric.jar",
+            "sha1": "2c58662fe1873bb084cfd949e69ce66e232998cb",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "sound-physics-remastered-fabric-1.5.1+26.3.jar",
+            "display_name": "Sound Physics Remastered",
+            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/9loJgQlO/sound-physics-remastered-fabric-1.5.1%2B26.3.jar",
+            "sha1": "6259b275cda55f802cdb898729e88fd33f437310",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "SubtleEffects-fabric-26.3-1.14.3.jar",
+            "display_name": "Subtle Effects",
+            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/O7wZaFBK/SubtleEffects-fabric-26.3-1.14.3.jar",
+            "sha1": "43b05b190d08ffb73039b978894f6d3972a5322a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Telepistons-1.1.4-26.3.jar",
+            "display_name": "Telepistons",
+            "url": "https://cdn.modrinth.com/data/23PBx0DP/versions/geiPkx5u/Telepistons-1.1.4-26.3.jar",
+            "sha1": "5ddd3c33d5bd8a8512b6405b770211d3ae4b7f07",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "visuality-0.7.15+26.3.jar",
+            "display_name": "Visuality",
+            "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
+            "sha1": "9c6c1554114150464716b8a82da8a8872ea3db8e",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "voicechat-fabric-2.6.24+26.3.jar",
+            "display_name": "Simple Voice Chat",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
+            "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "vcinteraction-fabric-1.0.8+26.3.jar",
+                    "display_name": "Voice Chat Interaction",
+                    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/AuH4GjYn/vcinteraction-fabric-1.0.8%2B26.3.jar",
+                    "sha1": "ee2b8144fe901dff05db813b05a58f4a718e48cc",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "voicemessages-fabric-1.0.13-26.3.jar",
+                    "display_name": "Voice Messages",
+                    "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/ZYDCOCas/voicemessages-fabric-1.0.13-26.3.jar",
+                    "sha1": "8b29732ceccf6f565cc995c3408b4c21891b4fdf",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar",
+            "display_name": "Accurate Block Placement Reborn",
+            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/fofTJCem/AccurateBlockPlacement-Reborn-1.4.7%2Bmc-26.3.jar",
+            "sha1": "ca2714e1952ccdcd74b46dc1d834907954fcb0a2",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "xaerominimap-fabric-26.3-26.5.3.jar",
+            "display_name": "Xaero's Minimap",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/YPkAliDt/xaerominimap-fabric-26.3-26.5.3.jar",
+            "sha1": "28b67391892582747bd17a7525318a954e54c80a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "xaeroworldmap-fabric-26.3-1.46.4.jar",
+                    "display_name": "Xaero's World Map",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UleMm8za/xaeroworldmap-fabric-26.3-1.46.4.jar",
+                    "sha1": "11bd97b82a33585cab32678dc92a1ea7e3da5954",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "xaeros-optimal-beacons-add-on-1.3.0.jar",
+                    "display_name": "Xaero's Optimal Beacons Add-On",
+                    "url": "https://cdn.modrinth.com/data/3pNfuOS8/versions/57VwW6qu/xaeros-optimal-beacons-add-on-1.3.0.jar",
+                    "sha1": "251aeddf463be60d840fc993c46e01d719c013b5",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "xmmp-1.1.1+26.2-fabric.jar",
+                    "display_name": "Xaero's Maps: Multiplayer+",
+                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/S5atSSQA/xmmp-1.1.1%2B26.2-fabric.jar",
+                    "sha1": "bf0ef2841a51446b670daf480106fa15aff5642c",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "jei-26.3-fabric-31.9.0.57.jar",
+            "display_name": "Just Enough Items (JEI)",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cfeQTcve/jei-26.3-fabric-31.9.0.57.jar",
+            "sha1": "4cc5a974ce4698051d5ac4604d7278eb5017aaa0",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "enoughitems",
+            "dependencies": [
+                {
+                    "name": "mezz_config-26.3-fabric-0.6.8.jar",
+                    "display_name": "MezzConfig",
+                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar",
+                    "sha1": "7e7770093973e2ffb53ff9fb8d32304bf73744c4",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "norecipebook-4.3+26.3.jar",
+                    "display_name": "NoRecipeBook",
+                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
+                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
