@@ -4997,17 +4997,29 @@
                 },
                 {
                     "name": "ftb-ultimine-fabric-26.1.2.5.jar",
-                    "display_name": "ftb-ultimine-fabric-26.1.2.5.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/ftb-ultimine-fabric-26.1.2.5.jar",
                     "sha1": "a3911b6c418d3d438241d22749fbe91850e9de97",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ftb-ultimine-fabric-26.1.2.5.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ftb-library-fabric-26.1.2.9.jar",
-                    "display_name": "ftb-library-fabric-26.1.2.9.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/ftb-library-fabric-26.1.2.9.jar",
                     "sha1": "fa51efcf46c7bd855163927502edfcce34e8fa30",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ftb-library-fabric-26.1.2.9.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -5103,7 +5115,7 @@
                 },
                 {
                     "name": "config.jsonc",
-                    "url": "https://raw.githubusercontent.com/6ViPh5/Gravity/main/docs/extras/config/config/customscoreboard/config.jsonc",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/1.21.11/config/customscoreboard/config.jsonc",
                     "sha1": "C22FC0E5B205B68B8C4967388A9EF9FDA1C3C33B",
                     "file_type": "config",
                     "install_path": "config/customscoreboard/",
