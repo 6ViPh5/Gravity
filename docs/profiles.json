@@ -348,10 +348,7 @@
                     "sha1": "7d72ecc77151be1edbf8ce3e72fc7e2370b57006",
                     "file_type": "mod"
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": true
+            ]
         },
         {
             "id": "opt1.21",
@@ -1603,6 +1600,58 @@
             },
             "mods": [
                 {
+                    "name": "entity_sound_features-0.8.2-26.1-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/wLbaCWaA/entity_sound_features-0.8.2-26.1-fabric.jar",
+                    "sha1": "4398bc8c1d199b9c7a7bef7368c028ef3a65062f",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "[ESF] Entity Sound Features",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ferritecore-9.0.0-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar",
+                    "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "FerriteCore",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "morechathistory-2.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar",
+                    "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "More Chat History",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "AttributeFix-fabric-MC26.1.2-26.1.2.3.jar",
                     "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/5WbPg3Mm/AttributeFix-fabric-MC26.1.2-26.1.2.3.jar",
                     "sha1": "4f2789d6aefada4dfc48438e41f45fc06aa24076",
@@ -2383,19 +2432,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "entity_sound_features-0.8.2-26.1-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/wLbaCWaA/entity_sound_features-0.8.2-26.1-fabric.jar",
-                    "sha1": "4398bc8c1d199b9c7a7bef7368c028ef3a65062f",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "[ESF] Entity Sound Features",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "entity_texture_features-7.2.4-26.1-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/2fuEG26n/entity_texture_features-7.2.4-26.1-fabric.jar",
                     "sha1": "2d6dab7464ca838ea4399136dec540cc40fc9759",
@@ -2448,19 +2484,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
-                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fabric Language Kotlin",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "fadeless-2.0.8-26.1.jar",
                     "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/AuK4B1qm/fadeless-2.0.8-26.1.jar",
                     "sha1": "53c22a0efa32c8c34470e7742e14d0e75b2cc90e",
@@ -2493,19 +2516,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fast Paintings",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ferritecore-9.0.0-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar",
-                    "sha1": "eac76ff0f3753422c61b2c44487d0d195d88d4bc",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "FerriteCore",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -3169,19 +3179,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "More Babies",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "morechathistory-2.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/8qkXwOnk/versions/qpDhYv1Y/morechathistory-2.0.0.jar",
-                    "sha1": "6ce97845f93090dd7556b6e64bb7d63e126b83b4",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "More Chat History",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -4964,6 +4961,417 @@
     ],
     "optional_mods": [
         {
+            "name": "atmospherics-2.6.6-mc-26.3.jar",
+            "display_name": "ATMOSPHERICS",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/ypMUWkFh/atmospherics-2.6.6-mc-26.3.jar",
+            "sha1": "bc4fcb49efc8027bc017a47750a3dbcc60f8fac8",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "sky"
+        },
+        {
+            "name": "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
+            "display_name": "Better Clouds",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/zLlQcx3w/better-clouds-1.15.0-beta.4%2B26.3-fabric.jar",
+            "sha1": "31b69af23cd78ae65e1abaf2cf83ea6c109024b7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "boatiview-fabric-0.0.10-26.3.jar",
+            "display_name": "Boat Item View",
+            "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/ZlP1ROUh/boatiview-fabric-0.0.10-26.3.jar",
+            "sha1": "cd6a1dce4b938253f04eab8e96f207b3d28d751c",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "chat_heads-1.3.2-fabric-26.3.jar",
+            "display_name": "Chat Heads",
+            "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/i3gcElvQ/chat_heads-1.3.2-fabric-26.3.jar",
+            "sha1": "cf4eec23f6bc4b3ce7c3c20308694beb5f4c5edf",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "chatanimation-fabric-1.3.3+mc26.3.jar",
+            "display_name": "Chat Animation [Smooth Chat]",
+            "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/zbvXFs0t/chatanimation-fabric-1.3.3%2Bmc26.3.jar",
+            "sha1": "6640621b6669e7b7fb781bfb1bd410dcff4f4fc9",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "cirrus-fabric-26.3-1.4.1.jar",
+            "display_name": "Cirrus",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/2erYeKg1/cirrus-fabric-26.3-1.4.1.jar",
+            "sha1": "2070952d0f1a473cc2d06be961e894e23e90876b",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "sky"
+        },
+        {
+            "name": "clientcommands-2.16.2.jar",
+            "display_name": "clientcommands",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/HXUpxTML/clientcommands-2.16.2.jar",
+            "sha1": "6571ed9b65ae8eddf74632d5d5d2f208c6316433",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "easegui-fabric-1.0.0+26.3.jar",
+            "display_name": "EaseGUI",
+            "url": "https://cdn.modrinth.com/data/zS8uflwP/versions/Tsxi4hHV/easegui-fabric-1.0.0%2B26.3.jar",
+            "sha1": "af65d493c870579dfd8a285230f2ffc22bf0c9ad",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "gui"
+        },
+        {
+            "name": "effectual-fabric-1.4.2-26.3.jar",
+            "display_name": "Effectual",
+            "url": "https://cdn.modrinth.com/data/OoF97Pto/versions/LJUNgffX/effectual-fabric-1.4.2-26.3.jar",
+            "sha1": "a90ced084060f0071bcf230dedaadfe9e6191c21",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "elytratrails-1.6.6-26.3.jar",
+            "display_name": "Elytra Contrails Mod",
+            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/VWvtBt3R/elytratrails-1.6.6-26.3.jar",
+            "sha1": "2bf7964d7fcd07db90ade32ee9c8c02acd027dd6",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Essential_1-5-0-1_fabric_26-3.jar",
+            "display_name": "Essential Mod",
+            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NWE2l2zJ/Essential_1-5-0-1_fabric_26-3.jar",
+            "sha1": "bd4f770d11370c6c60f8fb415392c60e4bba3b56",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "req_user_type": "microsoft"
+        },
+        {
+            "name": "explosive-enhancement-1.4.2-26.2.jar",
+            "display_name": "Explosive Enhancement",
+            "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/q9vZmPqg/explosive-enhancement-1.4.2-26.2.jar",
+            "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Highlighter-26.3-fabric-1.2.3.jar",
+            "display_name": "Item Highlighter",
+            "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/aaau0F2w/Highlighter-26.3-fabric-1.2.3.jar",
+            "sha1": "a6345c4d5687de857eeeeb5eebc37b8c111385c7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "immersive-hotbar-1.2.2-26.3.jar",
+            "display_name": "Immersive Hotbar",
+            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/5p5svVAS/immersive-hotbar-1.2.2-26.3.jar",
+            "sha1": "f820ea7ed80cc248855371fb512da894ac8747dc",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "InventoryParticles-3.2.0+26.3+fabric.jar",
+            "display_name": "Inventory Particles",
+            "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/iOrtag4W/InventoryParticles-3.2.0%2B26.3%2Bfabric.jar",
+            "sha1": "5adb976ad784459e2748d9c9b25d812eeba8ea26",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "ItemBorders-26.3-fabric-1.3.3.jar",
+            "display_name": "Item Borders",
+            "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/pVZMoGZS/ItemBorders-26.3-fabric-1.3.3.jar",
+            "sha1": "9ef1cf7e86deae89425bdbbad10429eacc3246ff",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "lambdynamiclights-4.13.0+26.3.jar",
+            "display_name": "LambDynamicLights - Dynamic Lights",
+            "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
+            "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+            "display_name": "Make Bubbles Pop",
+            "url": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/CAFPNCYd/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+            "sha1": "9b1af574e6f3a0e532a9aa97b9eee18f00bc9e7f",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "MouseTweaks-fabric-mc26.3-2.31.jar",
+            "display_name": "Mouse Tweaks",
+            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar",
+            "sha1": "65c0f5588900e7ade476164ec4915bfab52c129a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "notenoughanimations-fabric-1.12.6-mc26.3.jar",
+            "display_name": "Not Enough Animations",
+            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
+            "sha1": "6554509fc89187c5b6d63f586edfc35b8e41158c",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "punchy-2.8d-fabric-26.3.jar",
+            "display_name": "Punchy!",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/iptzBFXY/punchy-2.8d-fabric-26.3.jar",
+            "sha1": "e40dc8d15c8f4c02cf207766ab685f739c0d2b2f",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "RoughlyEnoughItems-26.3.823.jar",
+            "display_name": "Roughly Enough Items (REI)",
+            "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/ePn2dRJ1/RoughlyEnoughItems-26.3.823.jar",
+            "sha1": "1e8a34a2a4e9e8e680cbd173b793ff1a7db97ea9",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "norecipebook-4.3+26.3.jar",
+                    "display_name": "NoRecipeBook",
+                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
+                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
+                    "file_type": "mod"
+                }
+            ],
+            "exclusive_group": "enoughitems"
+        },
+        {
+            "name": "skinlayers3d-fabric-1.11.3-mc26.3.jar",
+            "display_name": "3D Skin Layers",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
+            "sha1": "31ee367d5900d20a77c9c610cdd6dc9361c26865",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "smoothgui-fabric-2.0.6+mc26.3.jar",
+            "display_name": "Smooth Gui",
+            "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/UogAgPfh/smoothgui-fabric-2.0.6%2Bmc26.3.jar",
+            "sha1": "799618fb6b9fac2cb418320a16aa97147c81f621",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "gui"
+        },
+        {
+            "name": "smoothscroll-3.0.0.jar",
+            "display_name": "Smooth Scrolling",
+            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/EhHH4Sfv/smoothscroll-3.0.0.jar",
+            "sha1": "853ab86683004562bda72e55409ef5e84f2c476a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "smoothswapping-0.9.11-26.3-fabric.jar",
+            "display_name": "Smooth Swapping",
+            "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/TYYQn5Mn/smoothswapping-0.9.11-26.3-fabric.jar",
+            "sha1": "2c58662fe1873bb084cfd949e69ce66e232998cb",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "sound-physics-remastered-fabric-1.5.1+26.3.jar",
+            "display_name": "Sound Physics Remastered",
+            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/9loJgQlO/sound-physics-remastered-fabric-1.5.1%2B26.3.jar",
+            "sha1": "6259b275cda55f802cdb898729e88fd33f437310",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "SubtleEffects-fabric-26.3-1.14.3.jar",
+            "display_name": "Subtle Effects",
+            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/O7wZaFBK/SubtleEffects-fabric-26.3-1.14.3.jar",
+            "sha1": "43b05b190d08ffb73039b978894f6d3972a5322a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "Telepistons-1.1.4-26.3.jar",
+            "display_name": "Telepistons",
+            "url": "https://cdn.modrinth.com/data/23PBx0DP/versions/geiPkx5u/Telepistons-1.1.4-26.3.jar",
+            "sha1": "5ddd3c33d5bd8a8512b6405b770211d3ae4b7f07",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "visuality-0.7.15+26.3.jar",
+            "display_name": "Visuality",
+            "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
+            "sha1": "9c6c1554114150464716b8a82da8a8872ea3db8e",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "voicechat-fabric-2.6.24+26.3.jar",
+            "display_name": "Simple Voice Chat",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
+            "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "vcinteraction-fabric-1.0.8+26.3.jar",
+                    "display_name": "Voice Chat Interaction",
+                    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/AuH4GjYn/vcinteraction-fabric-1.0.8%2B26.3.jar",
+                    "sha1": "ee2b8144fe901dff05db813b05a58f4a718e48cc",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "voicemessages-fabric-1.0.13-26.3.jar",
+                    "display_name": "Voice Messages",
+                    "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/ZYDCOCas/voicemessages-fabric-1.0.13-26.3.jar",
+                    "sha1": "8b29732ceccf6f565cc995c3408b4c21891b4fdf",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar",
+            "display_name": "Accurate Block Placement Reborn",
+            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/fofTJCem/AccurateBlockPlacement-Reborn-1.4.7%2Bmc-26.3.jar",
+            "sha1": "ca2714e1952ccdcd74b46dc1d834907954fcb0a2",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "xaerominimap-fabric-26.3-26.5.3.jar",
+            "display_name": "Xaero's Minimap",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/YPkAliDt/xaerominimap-fabric-26.3-26.5.3.jar",
+            "sha1": "28b67391892582747bd17a7525318a954e54c80a",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "dependencies": [
+                {
+                    "name": "xaeroworldmap-fabric-26.3-1.46.4.jar",
+                    "display_name": "Xaero's World Map",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UleMm8za/xaeroworldmap-fabric-26.3-1.46.4.jar",
+                    "sha1": "11bd97b82a33585cab32678dc92a1ea7e3da5954",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "xaeros-optimal-beacons-add-on-1.3.0.jar",
+                    "display_name": "Xaero's Optimal Beacons Add-On",
+                    "url": "https://cdn.modrinth.com/data/3pNfuOS8/versions/57VwW6qu/xaeros-optimal-beacons-add-on-1.3.0.jar",
+                    "sha1": "251aeddf463be60d840fc993c46e01d719c013b5",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "xmmp-1.1.1+26.2-fabric.jar",
+                    "display_name": "Xaero's Maps: Multiplayer+",
+                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/S5atSSQA/xmmp-1.1.1%2B26.2-fabric.jar",
+                    "sha1": "bf0ef2841a51446b670daf480106fa15aff5642c",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "jei-26.3-fabric-31.9.0.57.jar",
+            "display_name": "Just Enough Items (JEI)",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cfeQTcve/jei-26.3-fabric-31.9.0.57.jar",
+            "sha1": "4cc5a974ce4698051d5ac4604d7278eb5017aaa0",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "exclusive_group": "enoughitems",
+            "dependencies": [
+                {
+                    "name": "mezz_config-26.3-fabric-0.6.8.jar",
+                    "display_name": "MezzConfig",
+                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar",
+                    "sha1": "7e7770093973e2ffb53ff9fb8d32304bf73744c4",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "norecipebook-4.3+26.3.jar",
+                    "display_name": "NoRecipeBook",
+                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
+                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dL4IyVTy/chat_heads-1.2.4-fabric-1.21.11.jar",
             "sha1": "DBB0D197A19BBE5DE43242595ADD638A2F6E2131",
@@ -5937,417 +6345,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "atmospherics-2.6.6-mc-26.3.jar",
-            "display_name": "ATMOSPHERICS",
-            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/ypMUWkFh/atmospherics-2.6.6-mc-26.3.jar",
-            "sha1": "bc4fcb49efc8027bc017a47750a3dbcc60f8fac8",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "exclusive_group": "sky"
-        },
-        {
-            "name": "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
-            "display_name": "Better Clouds",
-            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/zLlQcx3w/better-clouds-1.15.0-beta.4%2B26.3-fabric.jar",
-            "sha1": "31b69af23cd78ae65e1abaf2cf83ea6c109024b7",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "boatiview-fabric-0.0.10-26.3.jar",
-            "display_name": "Boat Item View",
-            "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/ZlP1ROUh/boatiview-fabric-0.0.10-26.3.jar",
-            "sha1": "cd6a1dce4b938253f04eab8e96f207b3d28d751c",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "chat_heads-1.3.2-fabric-26.3.jar",
-            "display_name": "Chat Heads",
-            "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/i3gcElvQ/chat_heads-1.3.2-fabric-26.3.jar",
-            "sha1": "cf4eec23f6bc4b3ce7c3c20308694beb5f4c5edf",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "chatanimation-fabric-1.3.3+mc26.3.jar",
-            "display_name": "Chat Animation [Smooth Chat]",
-            "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/zbvXFs0t/chatanimation-fabric-1.3.3%2Bmc26.3.jar",
-            "sha1": "6640621b6669e7b7fb781bfb1bd410dcff4f4fc9",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "cirrus-fabric-26.3-1.4.1.jar",
-            "display_name": "Cirrus",
-            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/2erYeKg1/cirrus-fabric-26.3-1.4.1.jar",
-            "sha1": "2070952d0f1a473cc2d06be961e894e23e90876b",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "exclusive_group": "sky"
-        },
-        {
-            "name": "clientcommands-2.16.2.jar",
-            "display_name": "clientcommands",
-            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/HXUpxTML/clientcommands-2.16.2.jar",
-            "sha1": "6571ed9b65ae8eddf74632d5d5d2f208c6316433",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "easegui-fabric-1.0.0+26.3.jar",
-            "display_name": "EaseGUI",
-            "url": "https://cdn.modrinth.com/data/zS8uflwP/versions/Tsxi4hHV/easegui-fabric-1.0.0%2B26.3.jar",
-            "sha1": "af65d493c870579dfd8a285230f2ffc22bf0c9ad",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "exclusive_group": "gui"
-        },
-        {
-            "name": "effectual-fabric-1.4.2-26.3.jar",
-            "display_name": "Effectual",
-            "url": "https://cdn.modrinth.com/data/OoF97Pto/versions/LJUNgffX/effectual-fabric-1.4.2-26.3.jar",
-            "sha1": "a90ced084060f0071bcf230dedaadfe9e6191c21",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "elytratrails-1.6.6-26.3.jar",
-            "display_name": "Elytra Contrails Mod",
-            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/VWvtBt3R/elytratrails-1.6.6-26.3.jar",
-            "sha1": "2bf7964d7fcd07db90ade32ee9c8c02acd027dd6",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "Essential_1-5-0-1_fabric_26-3.jar",
-            "display_name": "Essential Mod",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/NWE2l2zJ/Essential_1-5-0-1_fabric_26-3.jar",
-            "sha1": "bd4f770d11370c6c60f8fb415392c60e4bba3b56",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "req_user_type": "microsoft"
-        },
-        {
-            "name": "explosive-enhancement-1.4.2-26.2.jar",
-            "display_name": "Explosive Enhancement",
-            "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/q9vZmPqg/explosive-enhancement-1.4.2-26.2.jar",
-            "sha1": "18214af634d37a211c5dd1c2d2136ee9cd2a7df7",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "Highlighter-26.3-fabric-1.2.3.jar",
-            "display_name": "Item Highlighter",
-            "url": "https://cdn.modrinth.com/data/cVNW5lr6/versions/aaau0F2w/Highlighter-26.3-fabric-1.2.3.jar",
-            "sha1": "a6345c4d5687de857eeeeb5eebc37b8c111385c7",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "immersive-hotbar-1.2.2-26.3.jar",
-            "display_name": "Immersive Hotbar",
-            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/5p5svVAS/immersive-hotbar-1.2.2-26.3.jar",
-            "sha1": "f820ea7ed80cc248855371fb512da894ac8747dc",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "InventoryParticles-3.2.0+26.3+fabric.jar",
-            "display_name": "Inventory Particles",
-            "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/iOrtag4W/InventoryParticles-3.2.0%2B26.3%2Bfabric.jar",
-            "sha1": "5adb976ad784459e2748d9c9b25d812eeba8ea26",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "ItemBorders-26.3-fabric-1.3.3.jar",
-            "display_name": "Item Borders",
-            "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/pVZMoGZS/ItemBorders-26.3-fabric-1.3.3.jar",
-            "sha1": "9ef1cf7e86deae89425bdbbad10429eacc3246ff",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "lambdynamiclights-4.13.0+26.3.jar",
-            "display_name": "LambDynamicLights - Dynamic Lights",
-            "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
-            "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
-            "display_name": "Make Bubbles Pop",
-            "url": "https://cdn.modrinth.com/data/gPCdW0Wr/versions/CAFPNCYd/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
-            "sha1": "9b1af574e6f3a0e532a9aa97b9eee18f00bc9e7f",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "MouseTweaks-fabric-mc26.3-2.31.jar",
-            "display_name": "Mouse Tweaks",
-            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/LeMuMhLv/MouseTweaks-fabric-mc26.3-2.31.jar",
-            "sha1": "65c0f5588900e7ade476164ec4915bfab52c129a",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "notenoughanimations-fabric-1.12.6-mc26.3.jar",
-            "display_name": "Not Enough Animations",
-            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
-            "sha1": "6554509fc89187c5b6d63f586edfc35b8e41158c",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "punchy-2.8d-fabric-26.3.jar",
-            "display_name": "Punchy!",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/iptzBFXY/punchy-2.8d-fabric-26.3.jar",
-            "sha1": "e40dc8d15c8f4c02cf207766ab685f739c0d2b2f",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "RoughlyEnoughItems-26.3.823.jar",
-            "display_name": "Roughly Enough Items (REI)",
-            "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/ePn2dRJ1/RoughlyEnoughItems-26.3.823.jar",
-            "sha1": "1e8a34a2a4e9e8e680cbd173b793ff1a7db97ea9",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "dependencies": [
-                {
-                    "name": "norecipebook-4.3+26.3.jar",
-                    "display_name": "NoRecipeBook",
-                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
-                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
-                    "file_type": "mod"
-                }
-            ],
-            "exclusive_group": "enoughitems"
-        },
-        {
-            "name": "skinlayers3d-fabric-1.11.3-mc26.3.jar",
-            "display_name": "3D Skin Layers",
-            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
-            "sha1": "31ee367d5900d20a77c9c610cdd6dc9361c26865",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "smoothgui-fabric-2.0.6+mc26.3.jar",
-            "display_name": "Smooth Gui",
-            "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/UogAgPfh/smoothgui-fabric-2.0.6%2Bmc26.3.jar",
-            "sha1": "799618fb6b9fac2cb418320a16aa97147c81f621",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "exclusive_group": "gui"
-        },
-        {
-            "name": "smoothscroll-3.0.0.jar",
-            "display_name": "Smooth Scrolling",
-            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/EhHH4Sfv/smoothscroll-3.0.0.jar",
-            "sha1": "853ab86683004562bda72e55409ef5e84f2c476a",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "smoothswapping-0.9.11-26.3-fabric.jar",
-            "display_name": "Smooth Swapping",
-            "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/TYYQn5Mn/smoothswapping-0.9.11-26.3-fabric.jar",
-            "sha1": "2c58662fe1873bb084cfd949e69ce66e232998cb",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "sound-physics-remastered-fabric-1.5.1+26.3.jar",
-            "display_name": "Sound Physics Remastered",
-            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/9loJgQlO/sound-physics-remastered-fabric-1.5.1%2B26.3.jar",
-            "sha1": "6259b275cda55f802cdb898729e88fd33f437310",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "SubtleEffects-fabric-26.3-1.14.3.jar",
-            "display_name": "Subtle Effects",
-            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/O7wZaFBK/SubtleEffects-fabric-26.3-1.14.3.jar",
-            "sha1": "43b05b190d08ffb73039b978894f6d3972a5322a",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "Telepistons-1.1.4-26.3.jar",
-            "display_name": "Telepistons",
-            "url": "https://cdn.modrinth.com/data/23PBx0DP/versions/geiPkx5u/Telepistons-1.1.4-26.3.jar",
-            "sha1": "5ddd3c33d5bd8a8512b6405b770211d3ae4b7f07",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "visuality-0.7.15+26.3.jar",
-            "display_name": "Visuality",
-            "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
-            "sha1": "9c6c1554114150464716b8a82da8a8872ea3db8e",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "voicechat-fabric-2.6.24+26.3.jar",
-            "display_name": "Simple Voice Chat",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
-            "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "dependencies": [
-                {
-                    "name": "vcinteraction-fabric-1.0.8+26.3.jar",
-                    "display_name": "Voice Chat Interaction",
-                    "url": "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/AuH4GjYn/vcinteraction-fabric-1.0.8%2B26.3.jar",
-                    "sha1": "ee2b8144fe901dff05db813b05a58f4a718e48cc",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "voicemessages-fabric-1.0.13-26.3.jar",
-                    "display_name": "Voice Messages",
-                    "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/ZYDCOCas/voicemessages-fabric-1.0.13-26.3.jar",
-                    "sha1": "8b29732ceccf6f565cc995c3408b4c21891b4fdf",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar",
-            "display_name": "Accurate Block Placement Reborn",
-            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/fofTJCem/AccurateBlockPlacement-Reborn-1.4.7%2Bmc-26.3.jar",
-            "sha1": "ca2714e1952ccdcd74b46dc1d834907954fcb0a2",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "xaerominimap-fabric-26.3-26.5.3.jar",
-            "display_name": "Xaero's Minimap",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/YPkAliDt/xaerominimap-fabric-26.3-26.5.3.jar",
-            "sha1": "28b67391892582747bd17a7525318a954e54c80a",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "dependencies": [
-                {
-                    "name": "xaeroworldmap-fabric-26.3-1.46.4.jar",
-                    "display_name": "Xaero's World Map",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/UleMm8za/xaeroworldmap-fabric-26.3-1.46.4.jar",
-                    "sha1": "11bd97b82a33585cab32678dc92a1ea7e3da5954",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "xaeros-optimal-beacons-add-on-1.3.0.jar",
-                    "display_name": "Xaero's Optimal Beacons Add-On",
-                    "url": "https://cdn.modrinth.com/data/3pNfuOS8/versions/57VwW6qu/xaeros-optimal-beacons-add-on-1.3.0.jar",
-                    "sha1": "251aeddf463be60d840fc993c46e01d719c013b5",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "xmmp-1.1.1+26.2-fabric.jar",
-                    "display_name": "Xaero's Maps: Multiplayer+",
-                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/S5atSSQA/xmmp-1.1.1%2B26.2-fabric.jar",
-                    "sha1": "bf0ef2841a51446b670daf480106fa15aff5642c",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "jei-26.3-fabric-31.9.0.57.jar",
-            "display_name": "Just Enough Items (JEI)",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cfeQTcve/jei-26.3-fabric-31.9.0.57.jar",
-            "sha1": "4cc5a974ce4698051d5ac4604d7278eb5017aaa0",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "exclusive_group": "enoughitems",
-            "dependencies": [
-                {
-                    "name": "mezz_config-26.3-fabric-0.6.8.jar",
-                    "display_name": "MezzConfig",
-                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar",
-                    "sha1": "7e7770093973e2ffb53ff9fb8d32304bf73744c4",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "norecipebook-4.3+26.3.jar",
-                    "display_name": "NoRecipeBook",
-                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
-                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
-                    "file_type": "mod"
-                }
-            ]
         }
     ]
 }
