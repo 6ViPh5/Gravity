@@ -3,15 +3,10 @@
         {
             "id": "vanilla",
             "name": "Vanilla",
-            "version": "26.2",
-            "loader": "vanilla",
-            "loader_version": null,
+            "version": "26.3",
             "visuals": {
-                "background": "https://cdn.modrinth.com/data/6r6dKiPb/images/2bf3c0c916fb15a6fad63b86b7a617bb973860e8.png"
-            },
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null
+                "background": "https://static.allthings.how/wp-content/uploads/2026/07/minecraft-26-3-snapshot-3-introduces-cushions-straw-beds-got-cover.webp"
+            }
         },
         {
             "id": "optimizado",
@@ -859,17 +854,29 @@
                 },
                 {
                     "name": "exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "display_name": "Exordium",
                     "url": "https://cdn.modrinth.com/data/DynYZEae/versions/pZAsvm42/exordium-fabric-2.1.1-mc1.21.11.jar",
                     "sha1": "5aab4395e5d501ee9b578162fcf643352685fc4c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Exordium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
-                    "display_name": "Enhanced Block Entities Reloaded",
                     "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
                     "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Enhanced Block Entities Reloaded",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -1316,6 +1323,32 @@
                     "replaces": null
                 },
                 {
+                    "name": "exordium-fabric-2.1.1-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/pZAsvm42/exordium-fabric-2.1.1-mc1.21.11.jar",
+                    "sha1": "5aab4395e5d501ee9b578162fcf643352685fc4c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Exordium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
+                    "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Enhanced Block Entities Reloaded",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1577,45 +1610,55 @@
                 },
                 {
                     "name": "apple-skin-fix-1.21.11-1.0.1.jar",
-                    "display_name": "AppleSkin Lunge Fix",
                     "url": "https://cdn.modrinth.com/data/X8whoGUt/versions/1YKIGsLs/apple-skin-fix-1.21.11-1.0.1.jar",
                     "sha1": "f55301d84e25a06c33b08af7d4e954a1f8dbf28e",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "display_name": "Exordium",
-                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/pZAsvm42/exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "sha1": "5aab4395e5d501ee9b578162fcf643352685fc4c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "AppleSkin Lunge Fix",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
-                    "display_name": "ScalableLux",
                     "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
                     "sha1": "9df93ab6442fa374c17fab6b5181fe2c215d9d5b",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
-                    "display_name": "Enhanced Block Entities Reloaded",
-                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
-                    "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ScalableLux",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
-                    "display_name": "Not Enough Animations",
                     "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/LU326iui/notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
                     "sha1": "c3028a1906d7da698f3176c4bb09266a273652d7",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Not Enough Animations",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 },
                 {
                     "name": "Marlow Crystal Optimizer.jar",
-                    "display_name": "Marlow's Crystal Optimizer",
                     "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/YKWJ63xQ/Marlow%20Crystal%20Optimizer.jar",
                     "sha1": "5a0a64ca1eb7e2bed9bc6e7ad8e0bd639fbb8682",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Marlow's Crystal Optimizer",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
                 }
             ],
             "req_user_type": null,
@@ -5616,6 +5659,49 @@
             "exclusive_group": "animatium"
         },
         {
+            "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/o4y0N2hu/versions/bacofMP2/betterhurtcam-1.12.0%2Bmc1.21.11.jar",
+            "sha1": "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "BetterHurtCam",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "animatium"
+        },
+        {
+            "name": "bobby-5.2.11.1+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ZwOXWoVI/bobby-5.2.11.1%2Bmc1.21.11.jar",
+            "sha1": "cce5a11090510e4d81e9954e5e53d1e05cc4540c",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Bobby",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "herobot-1.21.11-1.4.3+v260315.jar",
+            "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
+            "sha1": "17aba207e6bd906cae58b1c804f455955a9036b5",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "HeroBot",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CDJqeuBJ/Essential_1-5-0-1_fabric_26-1-2.jar",
             "sha1": "7d6975d27132b291e6f66b9b94ae66849d6d74b1",
@@ -5952,37 +6038,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
-            "display_name": "BetterHurtCam",
-            "url": "https://cdn.modrinth.com/data/o4y0N2hu/versions/bacofMP2/betterhurtcam-1.12.0%2Bmc1.21.11.jar",
-            "sha1": "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "exclusive_group": "animatium"
-        },
-        {
-            "name": "bobby-5.2.11.1+mc1.21.11.jar",
-            "display_name": "Bobby",
-            "url": "https://cdn.modrinth.com/data/M08ruV16/versions/ZwOXWoVI/bobby-5.2.11.1%2Bmc1.21.11.jar",
-            "sha1": "cce5a11090510e4d81e9954e5e53d1e05cc4540c",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ]
-        },
-        {
-            "name": "herobot-1.21.11-1.4.3+v260315.jar",
-            "display_name": "HeroBot",
-            "url": "https://cdn.modrinth.com/data/wt23fpWX/versions/9ig2SGA7/herobot-1.21.11-1.4.3%2Bv260315.jar",
-            "sha1": "17aba207e6bd906cae58b1c804f455955a9036b5",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ]
         }
     ]
 }
