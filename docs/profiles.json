@@ -880,7 +880,7 @@
             "name": "PvP 1.9",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.3",
+            "loader_version": "0.19.5",
             "visuals": {
                 "background": "https://images7.alphacoders.com/125/thumb-1920-1250158.png"
             },
@@ -1664,7 +1664,7 @@
             "loader": "fabric",
             "loader_version": "0.19.5",
             "visuals": {
-                "background": "https://cdn.discordapp.com/attachments/1216473321324023808/1555642100031295679/2026-10-02_15.05.41.png?backend=b2&ex=6ac1441b&is=6abff29b&hm=fed93eb830e4ee9dbc5e3cc870d6e0a07a737da408caeb1ee18db496992a319c"
+                "background": "https://static.planetminecraft.com/files/image/minecraft/data-pack/2021/376/15134276_l.webp"
             },
             "mods": [
                 {
@@ -5021,10 +5021,7 @@
                     "exclusive_group": null,
                     "replaces": null
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null
+            ]
         }
     ],
     "optional_mods": [
@@ -5739,6 +5736,20 @@
             "allowed_users": null
         },
         {
+            "name": "animatium-4.4.1+1.21.11-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zy0karK1/versions/a7UIOXPU/animatium-4.4.1%2B1.21.11-fabric.jar",
+            "sha1": "ff8ce04f3295b838764c7196e12f390b62f1cdaf",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Animatium",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CDJqeuBJ/Essential_1-5-0-1_fabric_26-1-2.jar",
             "sha1": "7d6975d27132b291e6f66b9b94ae66849d6d74b1",
@@ -6075,16 +6086,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "animatium-4.4.1+1.21.11-fabric.jar",
-            "display_name": "Animatium",
-            "url": "https://cdn.modrinth.com/data/zy0karK1/versions/a7UIOXPU/animatium-4.4.1%2B1.21.11-fabric.jar",
-            "sha1": "ff8ce04f3295b838764c7196e12f390b62f1cdaf",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ]
         }
     ]
 }
