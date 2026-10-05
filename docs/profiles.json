@@ -6405,6 +6405,20 @@
             "allowed_users": null
         },
         {
+            "name": "right-click-cps-v4-4.0.0.jar",
+            "display_name": "Right Click CPS",
+            "url": "https://cdn.modrinth.com/data/bOeNKXAu/versions/IEZlwAQX/right-click-cps-v4-4.0.0.jar",
+            "sha1": "cc1ff37666b70138a5ae7d212abcaf5a1ee310b5",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5"
+            ]
+        },
+        {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CDJqeuBJ/Essential_1-5-0-1_fabric_26-1-2.jar",
             "sha1": "7d6975d27132b291e6f66b9b94ae66849d6d74b1",
@@ -6741,18 +6755,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "right-click-cps-v4-4.0.0.jar",
-            "display_name": "Right Click CPS",
-            "url": "https://cdn.modrinth.com/data/bOeNKXAu/versions/IEZlwAQX/right-click-cps-v4-4.0.0.jar",
-            "sha1": "cc1ff37666b70138a5ae7d212abcaf5a1ee310b5",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "req_user_type": "exclusive",
-            "allowed_users": []
         }
     ]
 }
