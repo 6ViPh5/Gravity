@@ -4931,6 +4931,19 @@
                     "replaces": null
                 },
                 {
+                    "name": "viph-ideas-2.7.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.7.jar",
+                    "sha1": "91b3b57043ef0be550d8917245f1b72b22e62436",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-2.7.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
                     "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/SNQutdno/villagerconfig-fabric-4.6.0%2B26.1.2.jar",
                     "sha1": "26aff1b13748f2c4cd669763c6f5debc4bf57100",
@@ -5163,13 +5176,6 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
-                },
-                {
-                    "name": "viph-ideas-2.8.jar",
-                    "display_name": "viph-ideas-2.8.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.8.jar",
-                    "sha1": "758ed11589955f92a718cdbfc79d39c639b3f3c8",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -6150,21 +6156,6 @@
             "allowed_users": null
         },
         {
-            "name": "AccurateBlockPlacement-Reborn-1.4.6+mc-1.21.9-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/6RQ6b1gr/AccurateBlockPlacement-Reborn-1.4.6%2Bmc-1.21.9-1.21.11.jar",
-            "sha1": "ffbe315191eff9bce2f103b6df56bd683c855759",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "Accurate Block Placement Reborn",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
             "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
             "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/i1duwnJl/MouseTweaks-fabric-mc1.21.11-2.30.jar",
             "sha1": "86515de45fe960bd717deea0954055106e857b81",
@@ -6750,6 +6741,18 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "right-click-cps-v4-4.0.0.jar",
+            "display_name": "Right Click CPS",
+            "url": "https://cdn.modrinth.com/data/bOeNKXAu/versions/IEZlwAQX/right-click-cps-v4-4.0.0.jar",
+            "sha1": "cc1ff37666b70138a5ae7d212abcaf5a1ee310b5",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": []
         }
     ]
 }
