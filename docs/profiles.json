@@ -4931,19 +4931,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-2.7.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.7.jar",
-                    "sha1": "91b3b57043ef0be550d8917245f1b72b22e62436",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-2.7.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/SNQutdno/villagerconfig-fabric-4.6.0%2B26.1.2.jar",
                     "sha1": "26aff1b13748f2c4cd669763c6f5debc4bf57100",
@@ -5178,10 +5165,10 @@
                     "replaces": null
                 },
                 {
-                    "name": "ReachBehind-v26.1.1-mc26.1.x-Fabric.jar",
-                    "display_name": "Reach Behind",
-                    "url": "https://cdn.modrinth.com/data/MDljZreW/versions/1n4IGS2X/ReachBehind-v26.1.1-mc26.1.x-Fabric.jar",
-                    "sha1": "3a8c434b0d9647d45fc073a7ea8ea0458e9a6c72",
+                    "name": "viph-ideas-2.8.jar",
+                    "display_name": "viph-ideas-2.8.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.8.jar",
+                    "sha1": "758ed11589955f92a718cdbfc79d39c639b3f3c8",
                     "file_type": "mod"
                 }
             ],
