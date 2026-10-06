@@ -6178,7 +6178,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9"
+                "pvp1.9",
+                "opt1.21"
             ],
             "display_name": "Key Overlay [HotBar]",
             "req_user_type": null,
@@ -6760,25 +6761,28 @@
             "allowed_users": null
         },
         {
-            "name": "fpsoverlay-1.9.1-1.21.9.jar",
-            "display_name": "Info Overlay",
-            "url": "https://cdn.modrinth.com/data/xhf0jJmq/versions/SCm32Chr/fpsoverlay-1.9.1-1.21.9.jar",
-            "sha1": "a261a2724277cb3cbd4d0c79c1289fde09ece114",
+            "name": "HudFabric-1.0.6-1.21.11.jar",
+            "display_name": "HudFabric",
+            "url": "https://cdn.modrinth.com/data/jNODUcnv/versions/IMcs2EIv/HudFabric-1.0.6-1.21.11.jar",
+            "sha1": "1f697ed1453acc8752aa92a9c3631e1db14e7bf9",
             "file_type": "mod",
             "target_profiles": [
                 "pvp1.9",
                 "opt1.21"
             ],
-            "exclusive_group": "overlay",
-            "dependencies": [
-                {
-                    "name": "midnightlib-fabric-1.9.3+1.21.11.jar",
-                    "display_name": "MidnightLib",
-                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/jkodor79/midnightlib-fabric-1.9.3%2B1.21.11.jar",
-                    "sha1": "5ff624cc3763a0cb9a25296ed3a442d1ace44d68",
-                    "file_type": "mod"
-                }
-            ]
+            "exclusive_group": "overlay"
+        },
+        {
+            "name": "hudplus-1.21.11-26.1.2.jar",
+            "display_name": "HUD+",
+            "url": "https://cdn.modrinth.com/data/EqwpK4rm/versions/k83NIHbF/hudplus-1.21.11-26.1.2.jar",
+            "sha1": "c70f4ce2bdc08dcc833c62e436c0f44bb89bd0f9",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "exclusive_group": "overlay"
         }
     ]
 }
