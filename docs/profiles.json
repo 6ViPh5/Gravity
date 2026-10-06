@@ -496,6 +496,12 @@
                     "replaces": [
                         "architectury-fabric-22.0.3.jar"
                     ]
+                },
+                {
+                    "name": "skinrestorer-2.11.0+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/K7BFrFJD/skinrestorer-2.11.0%2B26.3-fabric.jar",
+                    "sha1": "1da011465f62f631a95775aa9843a8b413a71db5",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
