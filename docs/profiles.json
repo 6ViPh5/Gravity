@@ -922,6 +922,17 @@
             },
             "mods": [
                 {
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "url": "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "sha1": "F4B319DCC20530496E7755FB925C5BABDEFE4E9F",
