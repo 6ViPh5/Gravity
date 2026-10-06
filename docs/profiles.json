@@ -1640,32 +1640,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "ukulib-1.10.2+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
-                    "sha1": "8DFEAF1CACB1DCE35C06489D99F193E538A3827F",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
-                    "sha1": "E11951AAB0FF32626FEB48045DA0574260784543",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "WalksyLib-0.9.992+1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/7P86n6Vg/versions/1l5Wvg5J/WalksyLib-0.9.992%2B1.21.11.jar",
                     "sha1": "A8040F6C3E094F19CE45D1743140362F6F977CAD",
@@ -1768,6 +1742,13 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "replaces": null
+                },
+                {
+                    "name": "Controlling-fabric-1.21.11-29.0.1.jar",
+                    "display_name": "Controlling",
+                    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/A6W4m3vi/Controlling-fabric-1.21.11-29.0.1.jar",
+                    "sha1": "afbbbb9248d9afe6224886c62ee1b35732f056f3",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -6734,6 +6715,44 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
+            "display_name": "uku's Armor HUD",
+            "url": "https://cdn.modrinth.com/data/wF189hn9/versions/ZDZWmIsH/ukus-armor-hud-0.10.2%2Bmc1.21.11.jar",
+            "sha1": "e11951aab0ff32626feb48045da0574260784543",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "dependencies": [
+                {
+                    "name": "ukulib-1.10.2+1.21.11.jar",
+                    "display_name": "ukulib",
+                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/t9ZJ7RPT/ukulib-1.10.2%2B1.21.11.jar",
+                    "sha1": "8dfeaf1cacb1dce35c06489d99f193e538a3827f",
+                    "file_type": "mod"
+                }
+            ]
+        },
+        {
+            "name": "status-effect-hud-1.0.0.jar",
+            "display_name": "Status Effect HUD",
+            "url": "https://cdn.modrinth.com/data/9snnMU8p/versions/zH1ooQll/status-effect-hud-1.0.0.jar",
+            "sha1": "bb291510670835916fc3d57461ee439b83dbbc87",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "dependencies": [
+                {
+                    "name": "hudlib-1.2.1.jar",
+                    "display_name": "HUD Lib",
+                    "url": "https://cdn.modrinth.com/data/dWIHwNEE/versions/YLsu1hqb/hudlib-1.2.1.jar",
+                    "sha1": "732df01d8a69ba90398dd4059a379ef83231888a",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
