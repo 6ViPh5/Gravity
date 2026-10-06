@@ -363,17 +363,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "nvidium-0.4.4-beta7-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/8mVK1zbk/nvidium-0.4.4-beta7-26.3.jar",
-                    "sha1": "6741b037b97a2a0b50231b52780feb893b3d51fc",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Nvidium",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "PacketFixer-fabric-3.3.6.jar",
                     "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/dTKbGYbb/PacketFixer-fabric-3.3.6.jar",
                     "sha1": "a71fcdee677e23583da12b9237ab165ae7a0c8b0",
@@ -5062,6 +5051,20 @@
             ]
         },
         {
+            "name": "Leggings Fix 1.21.2-1.21.x.zip",
+            "url": "https://cdn.modrinth.com/data/9kKRfUOA/versions/GN2Elksf/Leggings%20Fix%201.21.2-1.21.x.zip",
+            "sha1": "e9991029ad8c082d33cfaebbbefa3da2f365b24f",
+            "file_type": "resourcepack",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Leggings Fix",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dL4IyVTy/chat_heads-1.2.4-fabric-1.21.11.jar",
             "sha1": "DBB0D197A19BBE5DE43242595ADD638A2F6E2131",
@@ -5481,6 +5484,37 @@
             "allowed_users": null
         },
         {
+            "name": "effecttimerplus-fabric-2.2.7+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/JIUF2Wb5/versions/5mBLMYSY/effecttimerplus-fabric-2.2.7%2B1.21.11.jar",
+            "sha1": "7a852400f93df5fc47637baf7000b68d2df9a630",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Effect Timer Plus",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "effect"
+        },
+        {
+            "name": "Clearer Slot Highlight.zip",
+            "url": "https://cdn.modrinth.com/data/NITh4Uod/versions/IEYjKwQ1/Clearer%20Slot%20Highlight.zip",
+            "sha1": "dd3bc0548a068a08760960fc9d1597c66c7ca2da",
+            "file_type": "resourcepack",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "Clearer Slot Highlight",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "totembar-1.0.2.jar",
             "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
             "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
@@ -5814,22 +5848,6 @@
             "exclusive_group": "effect"
         },
         {
-            "name": "effecttimerplus-fabric-2.2.7+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/JIUF2Wb5/versions/5mBLMYSY/effecttimerplus-fabric-2.2.7%2B1.21.11.jar",
-            "sha1": "7a852400f93df5fc47637baf7000b68d2df9a630",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Effect Timer Plus",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "effect"
-        },
-        {
             "name": "minimal-effect-hud-1.21.11-1.0.0.jar",
             "url": "https://cdn.modrinth.com/data/oJod2tJI/versions/RpsPaFIZ/minimal-effect-hud-1.21.11-1.0.0.jar",
             "sha1": "bd32c44a714c9ede560ad44e734b1a96f8bf11db",
@@ -5843,6 +5861,91 @@
             "dependencies": null,
             "allowed_users": null,
             "exclusive_group": "effect"
+        },
+        {
+            "name": "NameTagPing-3.0.1.jar",
+            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
+            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "PingNameTags",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "modmenu-17.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/cLkYaVuL/modmenu-17.0.1.jar",
+                    "sha1": "d5612d70bda58e0179b177ca9990e57471e67d19",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "fabric-api-0.141.6+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "placeholder-api-2.8.2+1.21.10.jar",
+                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
+                    "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "cloth-config-21.11.153-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+                    "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                },
+                {
+                    "name": "fabric-api-0.141.6+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
+                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -6184,69 +6287,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "NameTagPing-3.0.1.jar",
-            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
-            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "PingNameTags",
-            "dependencies": [
-                {
-                    "name": "modmenu-17.0.1.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/cLkYaVuL/modmenu-17.0.1.jar",
-                    "sha1": "d5612d70bda58e0179b177ca9990e57471e67d19",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "fabric-api-0.141.6+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
-                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "placeholder-api-2.8.2+1.21.10.jar",
-                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
-                    "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "cloth-config-21.11.153-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
-                    "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "fabric-api-0.141.6+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
-                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "Clearer Slot Highlight.zip",
-            "url": "https://cdn.modrinth.com/data/NITh4Uod/versions/IEYjKwQ1/Clearer%20Slot%20Highlight.zip",
-            "sha1": "dd3bc0548a068a08760960fc9d1597c66c7ca2da",
-            "file_type": "resourcepack",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "Clearer Slot Highlight"
-        },
-        {
-            "name": "Leggings Fix 1.21.2-1.21.x.zip",
-            "url": "https://cdn.modrinth.com/data/9kKRfUOA/versions/GN2Elksf/Leggings%20Fix%201.21.2-1.21.x.zip",
-            "sha1": "e9991029ad8c082d33cfaebbbefa3da2f365b24f",
-            "file_type": "resourcepack",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Leggings Fix"
         }
     ]
 }
