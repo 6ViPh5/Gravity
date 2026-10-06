@@ -6174,22 +6174,6 @@
             "allowed_users": null
         },
         {
-            "name": "HudFabric-1.0.6-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/jNODUcnv/versions/IMcs2EIv/HudFabric-1.0.6-1.21.11.jar",
-            "sha1": "1f697ed1453acc8752aa92a9c3631e1db14e7bf9",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "HudFabric",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "overlay"
-        },
-        {
             "name": "totembar-1.0.2.jar",
             "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
             "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
@@ -6424,6 +6408,20 @@
             "allowed_users": [
                 "6ViPh5"
             ]
+        },
+        {
+            "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
+            "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
+            "sha1": "c718337965b7ec98894c25a835d6c61813faf412",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Clean Keystrokes",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -6762,16 +6760,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
-            "display_name": "Clean Keystrokes",
-            "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
-            "sha1": "c718337965b7ec98894c25a835d6c61813faf412",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ]
         }
     ]
 }
