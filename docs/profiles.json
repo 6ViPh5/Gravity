@@ -1523,19 +1523,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
-                    "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
-                    "sha1": "C718337965B7EC98894C25A835D6C61813FAF412",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "collective-1.21.11-8.31.jar",
                     "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/dwKdiJKa/collective-1.21.11-8.31.jar",
                     "sha1": "DA6FF5AA8294F95B0D37BC4B9AF1D0E49A167EE6",
@@ -6178,13 +6165,45 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
+                "opt1.21",
+                "pvp1.9"
             ],
             "display_name": "Key Overlay [HotBar]",
             "req_user_type": null,
             "dependencies": [],
             "allowed_users": null
+        },
+        {
+            "name": "HudFabric-1.0.6-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/jNODUcnv/versions/IMcs2EIv/HudFabric-1.0.6-1.21.11.jar",
+            "sha1": "1f697ed1453acc8752aa92a9c3631e1db14e7bf9",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "HudFabric",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "overlay"
+        },
+        {
+            "name": "hudplus-1.21.11-26.1.2.jar",
+            "url": "https://cdn.modrinth.com/data/EqwpK4rm/versions/k83NIHbF/hudplus-1.21.11-26.1.2.jar",
+            "sha1": "c70f4ce2bdc08dcc833c62e436c0f44bb89bd0f9",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "HUD+",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "overlay"
         },
         {
             "name": "totembar-1.0.2.jar",
@@ -6761,28 +6780,14 @@
             "allowed_users": null
         },
         {
-            "name": "HudFabric-1.0.6-1.21.11.jar",
-            "display_name": "HudFabric",
-            "url": "https://cdn.modrinth.com/data/jNODUcnv/versions/IMcs2EIv/HudFabric-1.0.6-1.21.11.jar",
-            "sha1": "1f697ed1453acc8752aa92a9c3631e1db14e7bf9",
+            "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
+            "display_name": "Clean Keystrokes",
+            "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
+            "sha1": "c718337965b7ec98894c25a835d6c61813faf412",
             "file_type": "mod",
             "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "exclusive_group": "overlay"
-        },
-        {
-            "name": "hudplus-1.21.11-26.1.2.jar",
-            "display_name": "HUD+",
-            "url": "https://cdn.modrinth.com/data/EqwpK4rm/versions/k83NIHbF/hudplus-1.21.11-26.1.2.jar",
-            "sha1": "c70f4ce2bdc08dcc833c62e436c0f44bb89bd0f9",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "exclusive_group": "overlay"
+                "pvp1.9"
+            ]
         }
     ]
 }
