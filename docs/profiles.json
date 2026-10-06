@@ -32,9 +32,7 @@
                     "display_name": "[ESF] Entity Sound Features",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
@@ -45,9 +43,7 @@
                     "display_name": "Fabric Language Kotlin",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ferritecore-9.0.0-fabric.jar",
@@ -58,9 +54,7 @@
                     "display_name": "FerriteCore",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-2.0.0.jar",
@@ -71,9 +65,7 @@
                     "display_name": "More Chat History",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.9.4+mc26.3.jar",
@@ -84,22 +76,21 @@
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "SodiumExtraInformation-fabric-2.9.0.jar",
-                    "url": "https://cdn.modrinth.com/data/696WgnvT/versions/4ynwThl7/SodiumExtraInformation-fabric-2.9.0.jar",
-                    "sha1": "49fa24920ddb3917e73880b40b058916fb8abffa",
+                    "name": "SodiumExtraInformation-fabric-2.9.1.jar",
+                    "url": "https://cdn.modrinth.com/data/696WgnvT/versions/XM8gMY5X/SodiumExtraInformation-fabric-2.9.1.jar",
+                    "sha1": "582efb3e821ed87417cb6b0ee4b62b22dae273b1",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium Extra Information",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "SodiumExtraInformation-fabric-2.9.0.jar"
+                    ]
                 },
                 {
                     "name": "sodium-fabric-0.9.3-alpha.1+mc26.3.jar",
@@ -110,9 +101,7 @@
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "animatica-0.6.2+26.3.jar",
@@ -123,9 +112,7 @@
                     "display_name": "Animatica Refabricated",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "anvianslib-fabric-26.1-1.5.0.jar",
@@ -136,9 +123,7 @@
                     "display_name": "Anvian's Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "AsyncParticles-26.3.2.0-alpha.3+26.3.jar",
@@ -149,9 +134,7 @@
                     "display_name": "AsyncParticles",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BadOptimizations-2.4.1-26.3-fabric.jar",
@@ -162,9 +145,7 @@
                     "display_name": "BadOptimizations",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-fabric-26.3.159.jar",
@@ -175,9 +156,7 @@
                     "display_name": "Cloth Config API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Controlling-fabric-26.3-26.3.3.jar",
@@ -188,9 +167,7 @@
                     "display_name": "Controlling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-26.2-26.3-1.11.14.jar",
@@ -201,9 +178,7 @@
                     "display_name": "Crash Assistant",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "enhancedblockentities-0.13.1+26.3-fabric.jar",
@@ -214,22 +189,21 @@
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "entity_model_features-3.3.10-26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/jeqNlUR9/entity_model_features-3.3.10-26.3-fabric.jar",
-                    "sha1": "a60c2bcffa623c5e16425ff94668e22dcbcc96f8",
+                    "name": "entity_model_features-3.3.11-26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/N7d5LddE/entity_model_features-3.3.11-26.3-fabric.jar",
+                    "sha1": "9c11805cc34153fd89cb9fecf78be2b5a803b373",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "[EMF] Entity Model Features",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "entity_model_features-3.3.10-26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "entity_texture_features-7.2.5-26.3-fabric.jar",
@@ -240,9 +214,7 @@
                     "display_name": "[ETF] Entity Texture Features",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.11.2-mc26.3.jar",
@@ -253,22 +225,21 @@
                     "display_name": "Entity Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "fabric-api-0.161.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bNnaTiuM/fabric-api-0.161.0%2B26.3.jar",
-                    "sha1": "53f9ee02c3702734d90520aa8c9719bf0e1c8d4f",
+                    "name": "fabric-api-0.162.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/v2j28coa/fabric-api-0.162.0%2B26.3.jar",
+                    "sha1": "273cd2dcbd92d1559edcc91c9f23fee47f6ff93f",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "fabric-api-0.161.0+26.3.jar"
+                    ]
                 },
                 {
                     "name": "fast-ip-ping-v1.0.12-mc26.3.jar",
@@ -279,9 +250,7 @@
                     "display_name": "Fast IP Ping",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fishingrodfix-26.3-v0.6.jar",
@@ -292,9 +261,7 @@
                     "display_name": "Fishing Rod Fix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.17.1+26.3.jar",
@@ -305,9 +272,7 @@
                     "display_name": "ImmediatelyFast",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.11.7+mc26.3.jar",
@@ -318,9 +283,7 @@
                     "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "krypton-0.3.2.jar",
@@ -331,9 +294,7 @@
                     "display_name": "Krypton",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "language-reload-1.7.8+26.3.jar",
@@ -344,9 +305,7 @@
                     "display_name": "Language Reload",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.26.2+mc26.3.jar",
@@ -357,9 +316,7 @@
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "modernfix-5.27.20-build.2.jar",
@@ -370,9 +327,7 @@
                     "display_name": "ModernFix-mVUS",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-21.0.0.jar",
@@ -383,9 +338,7 @@
                     "display_name": "Mod Menu",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "moreculling-fabric-26.3-1.9.0.jar",
@@ -396,9 +349,7 @@
                     "display_name": "More Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
@@ -409,9 +360,7 @@
                     "display_name": "No Chat Reports",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "nvidium-0.4.4-beta7-26.3.jar",
@@ -422,9 +371,7 @@
                     "display_name": "Nvidium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "PacketFixer-fabric-3.3.6.jar",
@@ -435,9 +382,7 @@
                     "display_name": "Packet Fixer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-3.2.0+26.3.jar",
@@ -448,9 +393,7 @@
                     "display_name": "Text Placeholder API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (26.3-fabric)-1.8.7.jar",
@@ -461,9 +404,7 @@
                     "display_name": "Resourcify",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
@@ -474,9 +415,7 @@
                     "display_name": "ScalableLux",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Searchables-fabric-26.3-1.0.2.jar",
@@ -487,9 +426,7 @@
                     "display_name": "Searchables",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fzzy_config-0.7.7+fix3+26.3.jar",
@@ -500,9 +437,7 @@
                     "display_name": "Fzzy Config",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Iceberg-26.3-fabric-1.4.3.1.jar",
@@ -513,9 +448,7 @@
                     "display_name": "Iceberg",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "MossyLib-1.6.0+26.3+fabric.jar",
@@ -526,9 +459,7 @@
                     "display_name": "MossyLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Prism-26.3-fabric-1.1.3.jar",
@@ -539,9 +470,7 @@
                     "display_name": "Prism",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "tlib-fabric-1.5.0-26.3.jar",
@@ -552,9 +481,7 @@
                     "display_name": "TLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
@@ -565,22 +492,21 @@
                     "display_name": "YetAnotherConfigLib (YACL)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "architectury-fabric-22.0.3.jar",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gAI51C1M/architectury-fabric-22.0.3.jar",
-                    "sha1": "7d72ecc77151be1edbf8ce3e72fc7e2370b57006",
+                    "name": "architectury-fabric-22.0.4.jar",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WYttntbU/architectury-fabric-22.0.4.jar",
+                    "sha1": "543516815a93402ae8d6633bc464bd8b4c5b758d",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Architectury API",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "architectury-fabric-22.0.3.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
@@ -592,24 +518,11 @@
             "name": "Opt 1.21.11",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.5",
+            "loader_version": "0.19.3",
             "visuals": {
                 "background": "https://images.alphacoders.com/109/thumb-1920-1099436.png"
             },
             "mods": [
-                {
-                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
-                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fabric Language Kotlin",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
                 {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
@@ -619,9 +532,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
@@ -632,9 +543,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "citresewn-continuation-1.2.2-fork.10+1.21.11.jar",
@@ -645,9 +554,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-21.11.153-fabric.jar",
@@ -658,9 +565,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
@@ -671,9 +576,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -684,9 +587,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
@@ -697,9 +598,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_sound_features-0.8.1-1.21.9-fabric.jar",
@@ -710,9 +609,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
@@ -723,9 +620,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.10.5-mc1.21.11.jar",
@@ -736,9 +631,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fadeless-2.0.7-1.21.11.jar",
@@ -749,9 +642,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
@@ -762,9 +653,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-17.0.0.jar",
@@ -775,9 +664,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-1.3.1.jar",
@@ -788,9 +675,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "numeralping-1.2.8.jar",
@@ -801,9 +686,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
@@ -814,9 +697,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
@@ -827,9 +708,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
@@ -840,22 +719,21 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
-                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "name": "norealmsbutton-3.0.4+1.21-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/H6bHeMyo/norealmsbutton-3.0.4%2B1.21-fabric.jar",
+                    "sha1": "036b0b7a30a758a2c60719a2b8299a19a3bf4f8e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "norealmsbutton-3.0.3+1.21-fabric.jar"
+                    ]
                 },
                 {
                     "name": "SodiumTranslations.zip",
@@ -866,22 +744,21 @@
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
-                    "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
+                    "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/v6O6Avl5/packed_packs-fabric-2.3.1%2B1.21.11.jar",
+                    "sha1": "4c9dc31f9caf018565e081212d91d499db507261",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "packed_packs-fabric-2.2.1+1.21.11.jar"
+                    ]
                 },
                 {
                     "name": "respackopts-4.14.3.jar",
@@ -892,9 +769,7 @@
                     "display_name": "respackopts-4.14.3.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "libjf-3.19.12.jar",
@@ -905,22 +780,21 @@
                     "display_name": "libjf-3.19.12.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
-                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
+                    "name": "cursorcenteredfix-1.4.1-fabric+1.14.4-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/3IwwB1QA/cursorcenteredfix-1.4.1-fabric%2B1.14.4-1.21.11.jar",
+                    "sha1": "13bb561acbe3ab6147a4645a2e7d687e3e4a3e9e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "CursorCentered Fix",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar"
+                    ]
                 },
                 {
                     "name": "ferritecore-8.2.0-fabric.jar",
@@ -931,9 +805,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
@@ -944,9 +816,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
@@ -957,9 +827,7 @@
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.141.6+1.21.11.jar",
@@ -970,9 +838,7 @@
                     "display_name": "Fabric API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
@@ -983,9 +849,7 @@
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
@@ -996,9 +860,7 @@
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
@@ -1009,9 +871,7 @@
                     "display_name": "Reese's Sodium Options",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
@@ -1022,9 +882,7 @@
                     "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "rsls-1.1.17.jar",
@@ -1035,9 +893,7 @@
                     "display_name": "Raise Sound Limit Simplified",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
@@ -1048,11 +904,12 @@
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 }
-            ]
+            ],
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null
         },
         {
             "id": "pvp1.9",
@@ -1073,9 +930,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "citresewn-continuation-1.2.2-fork.10+1.21.11.jar",
@@ -1086,9 +941,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-21.11.153-fabric.jar",
@@ -1099,9 +952,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.10.jar",
@@ -1112,9 +963,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -1125,9 +974,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.2.4-1.21.11-fabric.jar",
@@ -1138,9 +985,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_sound_features-0.8.1-1.21.9-fabric.jar",
@@ -1151,9 +996,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features_1.21.11-fabric-7.1.jar",
@@ -1164,9 +1007,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.10.5-mc1.21.11.jar",
@@ -1177,9 +1018,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fadeless-2.0.7-1.21.11.jar",
@@ -1190,9 +1029,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
@@ -1203,9 +1040,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-17.0.0.jar",
@@ -1216,9 +1051,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-1.3.1.jar",
@@ -1229,9 +1062,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "numeralping-1.2.8.jar",
@@ -1242,9 +1073,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-2.8.2+1.21.10.jar",
@@ -1255,9 +1084,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
@@ -1268,9 +1095,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
@@ -1281,22 +1106,21 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "norealmsbutton-3.0.3+1.21-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MSK7LRF4/norealmsbutton-3.0.3%2B1.21-fabric.jar",
-                    "sha1": "00a8600266b1b8bf9cfd7d74791c2aef730b4fbc",
+                    "name": "norealmsbutton-3.0.4+1.21-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/H6bHeMyo/norealmsbutton-3.0.4%2B1.21-fabric.jar",
+                    "sha1": "036b0b7a30a758a2c60719a2b8299a19a3bf4f8e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "norealmsbutton-3.0.3+1.21-fabric.jar"
+                    ]
                 },
                 {
                     "name": "SodiumTranslations.zip",
@@ -1307,22 +1131,21 @@
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "packed_packs-fabric-2.2.1+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/7xiguGSQ/packed_packs-fabric-2.2.1%2B1.21.11.jar?mr_download_reason=standalone&mr_game_version=1.21.11&mr_loader=fabric",
-                    "sha1": "68e765ba891c2f1e6cc6f3116d744afae41150ac",
+                    "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/v6O6Avl5/packed_packs-fabric-2.3.1%2B1.21.11.jar",
+                    "sha1": "4c9dc31f9caf018565e081212d91d499db507261",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "packed_packs-fabric-2.2.1+1.21.11.jar"
+                    ]
                 },
                 {
                     "name": "respackopts-4.14.3.jar",
@@ -1333,9 +1156,7 @@
                     "display_name": "respackopts-4.14.3.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "libjf-3.19.12.jar",
@@ -1346,22 +1167,21 @@
                     "display_name": "libjf-3.19.12.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/Dn5lXom4/cursorcenteredfix-1.3.0-fabric%2B1.14.4-1.21.11.jar",
-                    "sha1": "78575d812059b7bd8814103272c6ab2fa7ffc092",
+                    "name": "cursorcenteredfix-1.4.1-fabric+1.14.4-1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/3Vf97jLY/versions/3IwwB1QA/cursorcenteredfix-1.4.1-fabric%2B1.14.4-1.21.11.jar",
+                    "sha1": "13bb561acbe3ab6147a4645a2e7d687e3e4a3e9e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "CursorCentered Fix",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "cursorcenteredfix-1.3.0-fabric+1.14.4-1.21.11.jar"
+                    ]
                 },
                 {
                     "name": "ferritecore-8.2.0-fabric.jar",
@@ -1372,9 +1192,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
@@ -1385,9 +1203,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.21.4+mc1.21.11.jar",
@@ -1398,9 +1214,7 @@
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.141.6+1.21.11.jar",
@@ -1411,9 +1225,7 @@
                     "display_name": "Fabric API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.8.12+mc1.21.11.jar",
@@ -1424,9 +1236,7 @@
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.8.3+mc1.21.11.jar",
@@ -1437,9 +1247,7 @@
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
@@ -1450,9 +1258,7 @@
                     "display_name": "Reese's Sodium Options",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.10.7+mc1.21.11.jar",
@@ -1463,9 +1269,7 @@
                     "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "rsls-1.1.17.jar",
@@ -1476,9 +1280,7 @@
                     "display_name": "Raise Sound Limit Simplified",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
@@ -1489,9 +1291,7 @@
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
@@ -1502,9 +1302,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "collective-1.21.11-8.31.jar",
@@ -1515,9 +1313,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "commandkeys-fabric-2.4.0+1.21.11.jar",
@@ -1528,9 +1324,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CrosshairAddons-2.1.0-1.21.11.jar",
@@ -1541,9 +1335,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "custom-crosshair-mod-v1.6.4-fabric-mc1.21.11.jar",
@@ -1554,9 +1346,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "language-reload-1.7.7+1.21.11.jar",
@@ -1567,9 +1357,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "moreculling-fabric-1.21.11-1.6.2.jar",
@@ -1580,9 +1368,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Searchables-fabric-1.21.11-1.0.4.jar",
@@ -1593,9 +1379,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ShieldFixes-2.0.2-1.21.11.jar",
@@ -1606,9 +1390,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ShieldStatus-4.1.2-1.21.11.jar",
@@ -1619,9 +1401,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "smoothscroll-2.6.7.jar",
@@ -1632,9 +1412,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "WalksyLib-0.9.992+1.21.11.jar",
@@ -1645,9 +1423,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "zoomify-2.15.2+1.21.11.jar",
@@ -1658,9 +1434,7 @@
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
@@ -1671,9 +1445,7 @@
                     "display_name": "No Chat Reports",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BetterF1-Fabric-1.1+1.21.9.jar",
@@ -1684,48 +1456,49 @@
                     "display_name": "Better F1 Reborn",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
-                    "name": "modernfix-5.26.3-build.1.jar",
-                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/yPCwXBn8/modernfix-5.26.3-build.1.jar",
-                    "sha1": "4b0758e7c052b20ebb58cde9de083520a3d114ab",
+                    "name": "modernfix-5.26.3-build.2.jar",
+                    "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/QrRIY2rV/modernfix-5.26.3-build.2.jar",
+                    "sha1": "5a51d1a9768bbf9943e6eef83abf43d2b82baa30",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "ModernFix-mVUS",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "modernfix-5.26.3-build.1.jar"
+                    ]
                 },
                 {
-                    "name": "ScalableLux-0.1.6+fabric.c25518a-all.jar",
-                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar",
-                    "sha1": "9df93ab6442fa374c17fab6b5181fe2c215d9d5b",
+                    "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ju27pK32/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "sha1": "e834feeca2246156f01df257da910d47dd9a5916",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "ScalableLux",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+                    ]
                 },
                 {
-                    "name": "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/LU326iui/notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
-                    "sha1": "c3028a1906d7da698f3176c4bb09266a273652d7",
+                    "name": "notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/rs2DhiV9/notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
+                    "sha1": "89baeec73c79a16539cfd341a307bcd3182b5b34",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Not Enough Animations",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "replaces": [
+                        "notenoughanimations-fabric-1.12.4-mc1.21.11.jar"
+                    ]
                 },
                 {
                     "name": "Marlow Crystal Optimizer.jar",
@@ -1736,9 +1509,7 @@
                     "display_name": "Marlow's Crystal Optimizer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Controlling-fabric-1.21.11-29.0.1.jar",
@@ -1749,9 +1520,7 @@
                     "display_name": "Controlling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -1777,9 +1546,7 @@
                     "display_name": "[ESF] Entity Sound Features",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
@@ -1790,9 +1557,7 @@
                     "display_name": "Fabric Language Kotlin",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ferritecore-9.0.0-fabric.jar",
@@ -1803,9 +1568,7 @@
                     "display_name": "FerriteCore",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "morechathistory-2.0.0.jar",
@@ -1816,9 +1579,7 @@
                     "display_name": "More Chat History",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "AttributeFix-fabric-MC26.1.2-26.1.2.3.jar",
@@ -1829,9 +1590,7 @@
                     "display_name": "AttributeFix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BadOptimizations-2.4.1-26.1-fabric.jar",
@@ -1842,9 +1601,7 @@
                     "display_name": "BadOptimizations",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "badpackets-fabric-0.12.2.jar",
@@ -1855,9 +1612,7 @@
                     "display_name": "bad packets",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "baguettelib-26.1.2-Fabric-2.0.7.jar",
@@ -1868,9 +1623,7 @@
                     "display_name": "BaguetteLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "balm-fabric-26.1.2-26.1.2.15.jar",
@@ -1881,9 +1634,7 @@
                     "display_name": "Balm",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "bclib-26.101.2.jar",
@@ -1894,9 +1645,7 @@
                     "display_name": "BCLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "beekeeperhut-fabric-3.0.3+mc26.1.2.jar",
@@ -1907,9 +1656,7 @@
                     "display_name": "Friends&Foes - Beekeeper Hut (Fabric/Quilt)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BetterAdvancements-Fabric-26.1.2-0.6.0.76.jar",
@@ -1920,9 +1667,7 @@
                     "display_name": "Better Advancements",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "betterarcheology-fabric-26.1.2-1.3.8.jar",
@@ -1933,9 +1678,7 @@
                     "display_name": "Better Archeology",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "better-end-26.101.2.jar",
@@ -1946,9 +1689,7 @@
                     "display_name": "BetterEnd",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "betterf1-fabric-26.1-1.3.jar",
@@ -1959,9 +1700,7 @@
                     "display_name": "Better F1 Reborn",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "betterhurtcam-fabric-1.13.0+mc26.1.jar",
@@ -1972,9 +1711,7 @@
                     "display_name": "BetterHurtCam",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "better-nether-26.101.2.jar",
@@ -1985,9 +1722,7 @@
                     "display_name": "BetterNether",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "BetterTridents-v26.1.0-mc26.1.x-Fabric.jar",
@@ -1998,9 +1733,7 @@
                     "display_name": "Better Tridents",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "boatiview-fabric-0.0.9-26.1.jar",
@@ -2011,9 +1744,7 @@
                     "display_name": "Boat Item View",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "bounced-4.1.4-fabric.26.1.2.jar",
@@ -2024,9 +1755,7 @@
                     "display_name": "Bounced",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "c2me-fabric-mc26.1.2-0.4.0-alpha.0.62.jar",
@@ -2037,9 +1766,7 @@
                     "display_name": "Concurrent Chunk Management Engine (Fabric)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "camerapture-1.10.14+mc26.1.2.jar",
@@ -2050,9 +1777,7 @@
                     "display_name": "Camerapture",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cardinal-components-api-8.0.1.jar",
@@ -2063,9 +1788,7 @@
                     "display_name": "Cardinal Components API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "carryon-fabric-26.1.2-2.10.0.jar",
@@ -2076,9 +1799,7 @@
                     "display_name": "Carry On",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "chat_heads-1.3.1-fabric-26.1.jar",
@@ -2089,9 +1810,7 @@
                     "display_name": "Chat Heads",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "chococraft-26.1.2-fabric-0.17.1.jar",
@@ -2102,9 +1821,7 @@
                     "display_name": "Chococraft",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Chunky-Fabric-1.5.3.jar",
@@ -2115,9 +1832,7 @@
                     "display_name": "Chunky",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cicada-lib-0.15.3+26.1.jar",
@@ -2128,9 +1843,7 @@
                     "display_name": "CICADA",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cloth-config-26.1.154.jar",
@@ -2141,9 +1854,7 @@
                     "display_name": "Cloth Config API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Clumps-fabric-26.1.2-26.1.2.1.jar",
@@ -2154,9 +1865,7 @@
                     "display_name": "Clumps",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "collective-26.1.2-8.32.jar",
@@ -2167,9 +1876,7 @@
                     "display_name": "Collective",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "comforts-fabric-15.0.0+26.1.2.jar",
@@ -2180,9 +1887,7 @@
                     "display_name": "Comforts",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "compasstomapxaeros-0.1.2-fabric-26.1.2.jar",
@@ -2193,9 +1898,7 @@
                     "display_name": "Compass to Map: Xaero's Minimap",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ConsumableOptimizer-2.2.2-26.1.jar",
@@ -2206,9 +1909,7 @@
                     "display_name": "Consumable Optimizer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Controlling-fabric-26.1.2-26.1.2.7.jar",
@@ -2219,9 +1920,7 @@
                     "display_name": "Controlling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cookingforblockheads-fabric-26.1.2-26.1.2.5.jar",
@@ -2232,9 +1931,7 @@
                     "display_name": "Cooking for Blockheads",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CrashAssistant-fabric-26.1-1.11.12.jar",
@@ -2245,9 +1942,7 @@
                     "display_name": "Crash Assistant",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "CreativeCore_FABRIC_v2.14.16_mc26.1.2.jar",
@@ -2258,9 +1953,7 @@
                     "display_name": "CreativeCore",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cursorcenteredfix-1.4.1-fabric+26.1-26.2.jar",
@@ -2271,9 +1964,7 @@
                     "display_name": "CursorCentered Fix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cushionbackport-26.1.2-Fabric-1.0.5.jar",
@@ -2284,9 +1975,7 @@
                     "display_name": "Cushion Backport",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "cwb-4.1.0+26.1.jar",
@@ -2297,9 +1986,7 @@
                     "display_name": "Cubes Without Borders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "deimos-26.1.2-fabric-2.7.jar",
@@ -2310,9 +1997,7 @@
                     "display_name": "Deimos",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.3.2-26.1.2-fabric.jar",
@@ -2323,9 +2008,7 @@
                     "display_name": "Detail Armor Bar Reconstructed",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "disenchanting_table-fabric-26.1.2-6.0.2.jar",
@@ -2336,9 +2019,7 @@
                     "display_name": "Dis-Enchanting Table",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dummmmmmy-26.1.2-3.0.1-fabric.jar",
@@ -2349,9 +2030,7 @@
                     "display_name": "MmmMmmMmmMmm",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-5.2.0.jar",
@@ -2362,9 +2041,7 @@
                     "display_name": "Dungeons and Taverns",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-ancient-city-overhaul-3.3.jar",
@@ -2375,9 +2052,7 @@
                     "display_name": "Dungeons and Taverns Ancient City Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-desert-temple-overhaul-v2.1.jar",
@@ -2388,9 +2063,7 @@
                     "display_name": "Dungeons and Taverns Desert Temple Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-ocean-monument-overhaul-v2.2.jar",
@@ -2401,9 +2074,7 @@
                     "display_name": "Dungeons and Taverns Ocean Monument Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-swamp-hut-overhaul-v2.3.jar",
@@ -2414,9 +2085,7 @@
                     "display_name": "Dungeons and Taverns Swamp Hut Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "dungeons-and-taverns-woodland-mansion-overhaul-2.1.jar",
@@ -2427,9 +2096,7 @@
                     "display_name": "Dungeons and Taverns Woodland Mansion Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "easyshulkerboxes-v26.1.5-mc26.1.x+fabric.jar",
@@ -2440,9 +2107,7 @@
                     "display_name": "Easy Shulker Boxes",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "EchoChest-v26.1.0-mc26.1.x-Fabric.jar",
@@ -2453,9 +2118,7 @@
                     "display_name": "Echo Chest",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "echoes_of_the_end__structures NeoForge Fabric 26.1.2 -12.00.13.jar",
@@ -2466,9 +2129,7 @@
                     "display_name": "Echoes of The End ( Structures)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "EclipseUI-fabric-1.0.4+mc26.1.jar",
@@ -2479,9 +2140,7 @@
                     "display_name": "EclipseUI",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Ecologics-NeoFab-26.1.2-2.5.3.jar",
@@ -2492,9 +2151,7 @@
                     "display_name": "Ecologics",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "effectual-fabric-1.4.2-26.1.2.jar",
@@ -2505,9 +2162,7 @@
                     "display_name": "Effectual",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "elevatorid-fabric-26.1.1-1.16.3.jar",
@@ -2518,9 +2173,7 @@
                     "display_name": "ElevatorMod",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "emotecraft-for-MC26.1.2-3.3.0-b.build.164.jar",
@@ -2531,9 +2184,7 @@
                     "display_name": "Emotecraft",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "enchanted_fishing_line-1.0.0-fabric-26.1-26.1.1-26.1.2.jar",
@@ -2544,9 +2195,7 @@
                     "display_name": "Enchanted Fishing Line",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "enchanted-vertical-slabs-2.6.6-fabric-mc26.1.1.jar",
@@ -2557,9 +2206,7 @@
                     "display_name": "Enchanted Vertical Slabs",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "EnchantmentDescriptions-fabric-MC26.1.2-26.1.2.6.jar",
@@ -2570,9 +2217,7 @@
                     "display_name": "Enchantment Descriptions",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "EnhancedTooltips-1.10.0+fabric.26.1.2.jar",
@@ -2583,9 +2228,7 @@
                     "display_name": "EnhancedTooltips",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_model_features-3.3.8-26.1-fabric.jar",
@@ -2596,9 +2239,7 @@
                     "display_name": "[EMF] Entity Model Features",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entity_texture_features-7.2.4-26.1-fabric.jar",
@@ -2609,9 +2250,7 @@
                     "display_name": "[ETF] Entity Texture Features",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "entityculling-fabric-1.11.2-mc26.1.jar",
@@ -2622,9 +2261,7 @@
                     "display_name": "Entity Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ExplorersCompass-26.1-2.5.1-fabric.jar",
@@ -2635,9 +2272,7 @@
                     "display_name": "Explorer's Compass",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.155.3+26.1.2.jar",
@@ -2648,9 +2283,7 @@
                     "display_name": "Fabric API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fadeless-2.0.8-26.1.jar",
@@ -2661,9 +2294,7 @@
                     "display_name": "Fadeless",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fancytoasts-fabric-26.1.x-1.4.7.jar",
@@ -2674,9 +2305,7 @@
                     "display_name": "Fancy Toasts | Better Advancements",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fastpaintings-26.1.2-1.4.0-fabric.jar",
@@ -2687,9 +2316,7 @@
                     "display_name": "Fast Paintings",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ForgeConfigAPIPort-v26.1.5-mc26.1.x-Fabric.jar",
@@ -2700,9 +2327,7 @@
                     "display_name": "Forge Config API Port",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "friendsandfoes-fabric-4.0.27+mc26.1.2.jar",
@@ -2713,9 +2338,7 @@
                     "display_name": "Friends&Foes (Fabric/Quilt)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "frostiful-fabric-3.1.0+26.1.x-beta.3.jar",
@@ -2726,9 +2349,7 @@
                     "display_name": "Frostiful",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fusion-1.3.15-fabric-mc26.1.jar",
@@ -2739,9 +2360,7 @@
                     "display_name": "Fusion (Connected Textures)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "fzzy_config-0.7.6+26.1.jar",
@@ -2752,9 +2371,7 @@
                     "display_name": "Fzzy Config",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "geckolib-fabric-26.1.2-5.5.2.jar",
@@ -2765,9 +2382,7 @@
                     "display_name": "Geckolib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "graves-3.11.1+26.1.2.jar",
@@ -2778,9 +2393,7 @@
                     "display_name": "Universal Graves",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Highlighter-26.1.2-fabric-1.2.1.jar",
@@ -2791,9 +2404,7 @@
                     "display_name": "Item Highlighter",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "hightlight-26.1-4.1.0.jar",
@@ -2804,9 +2415,7 @@
                     "display_name": "Highlight",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Iceberg-26.1.2-fabric-1.4.1.2.jar",
@@ -2817,9 +2426,7 @@
                     "display_name": "Iceberg",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ImmediatelyFast-Fabric-1.15.3+26.1.jar",
@@ -2830,9 +2437,7 @@
                     "display_name": "ImmediatelyFast",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "immersive_melodies-fabric-0.8.0+26.1.2.jar",
@@ -2843,9 +2448,7 @@
                     "display_name": "Immersive Melodies",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "immersive-hotbar-1.2.2-26.1.jar",
@@ -2856,9 +2459,7 @@
                     "display_name": "Immersive Hotbar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "interdimensionalwirelesstransmitter-fabric-26.1.2-1.0.1.jar",
@@ -2869,9 +2470,7 @@
                     "display_name": "Interdimensional Wireless Transmitter",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "InventoryParticles-3.2.0+26.1+fabric.jar",
@@ -2882,9 +2481,7 @@
                     "display_name": "Inventory Particles",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "iris-fabric-1.11.4+mc26.1.2.jar",
@@ -2895,9 +2492,7 @@
                     "display_name": "Iris Shaders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "jamlib-fabric-2.3.1+26.1.x.jar",
@@ -2908,9 +2503,7 @@
                     "display_name": "JamLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "jeed-26.1.2-2.5.2-fabric.jar",
@@ -2921,9 +2514,7 @@
                     "display_name": "Just Enough Effect Descriptions (JEED)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "jei-26.1.2-fabric-29.43.0.106.jar",
@@ -2934,9 +2525,7 @@
                     "display_name": "Just Enough Items (JEI)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "khazodacore-fabric-1.0.3+26.1.jar",
@@ -2947,9 +2536,7 @@
                     "display_name": "KhazodaCore",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "krypton-0.3.0.jar",
@@ -2960,9 +2547,7 @@
                     "display_name": "Krypton",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "laserbridges-26.1.2-fabric-6.jar",
@@ -2973,9 +2558,7 @@
                     "display_name": "Laser Bridges & Doors",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "libjf-26.1.4.jar",
@@ -2986,9 +2569,7 @@
                     "display_name": "LibJF",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lithium-fabric-0.24.7+mc26.1.2.jar",
@@ -2999,9 +2580,7 @@
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lithostitched-1.8.0-fabric-26.1.jar",
@@ -3012,9 +2591,7 @@
                     "display_name": "Lithostitched",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "lootr-fabric-26.1.2-1.23.38.123.jar",
@@ -3025,9 +2602,7 @@
                     "display_name": "Lootr",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mapdistancefix-fabric-1.1.1+mc26.jar",
@@ -3038,9 +2613,7 @@
                     "display_name": "Map Distance Fix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Marlow Crystal Optimizer.jar",
@@ -3051,9 +2624,7 @@
                     "display_name": "Marlow's Crystal Optimizer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-bridges-3.1.2-mc26.1fabric.jar",
@@ -3064,9 +2635,7 @@
                     "display_name": "Macaw's Bridges",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-doors-1.1.5-mc26.1fabric.jar",
@@ -3077,9 +2646,7 @@
                     "display_name": "Macaw's Doors",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-fences-1.2.1-mc26.1fabric.jar",
@@ -3090,9 +2657,7 @@
                     "display_name": "Macaw's Fences and Walls",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-furniture-3.4.2-mc26.1fabric.jar",
@@ -3103,9 +2668,7 @@
                     "display_name": "Macaw's Furniture",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-holidays-1.1.2-mc26.1fabric.jar",
@@ -3116,9 +2679,7 @@
                     "display_name": "Macaw's Holidays",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-lights-1.1.5-mc26.1fabric.jar",
@@ -3129,9 +2690,7 @@
                     "display_name": "Macaw's Lights and Lamps",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-paintings-1.1.0-mc26.1fabric.jar",
@@ -3142,9 +2701,7 @@
                     "display_name": "Macaw's Paintings",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-paths-1.1.1-mc26.1fabric.jar",
@@ -3155,9 +2712,7 @@
                     "display_name": "Macaw's Paths and Pavings",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-roofs-2.3.2-mc26.1fabric.jar",
@@ -3168,9 +2723,7 @@
                     "display_name": "Macaw's Roofs",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-stairs-1.0.2-mc26.1fabric.jar",
@@ -3181,9 +2734,7 @@
                     "display_name": "Macaw's Stairs",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-trapdoors-1.1.5-mc26.1fabric.jar",
@@ -3194,9 +2745,7 @@
                     "display_name": "Macaw's Trapdoors",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mcw-windows-2.4.2-mc26.1fabric.jar",
@@ -3207,9 +2756,7 @@
                     "display_name": "Macaw's Windows",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "medieval_buildings-fabric-26.1.2-1.2.0.jar",
@@ -3220,9 +2767,7 @@
                     "display_name": "Medieval Buildings",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "medieval_end-fabric-26.1.2-1.2.1.jar",
@@ -3233,9 +2778,7 @@
                     "display_name": "Medieval Buildings [End Edition]",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "medieval_nether-fabric-26.1.2-1.2.1.jar",
@@ -3246,9 +2789,7 @@
                     "display_name": "Medieval Buildings [Nether Edition]",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "mezz_config-26.1.2-fabric-0.6.6.jar",
@@ -3259,9 +2800,7 @@
                     "display_name": "MezzConfig",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "midnightlib-fabric-1.9.3+26.1.jar",
@@ -3272,9 +2811,7 @@
                     "display_name": "MidnightLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "modmenu-18.0.2.jar",
@@ -3285,9 +2822,7 @@
                     "display_name": "Mod Menu",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "monolib-fabric-26.1.2-4.1.1.jar",
@@ -3298,9 +2833,7 @@
                     "display_name": "MonoLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "moonlight-26.1.2-4.1.1-fabric.jar",
@@ -3311,9 +2844,7 @@
                     "display_name": "Moonlight Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "more_mobs-v1.5.11-mc1.14-26.3.9-mod.jar",
@@ -3324,9 +2855,7 @@
                     "display_name": "More Mobs",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "more-armor-trims-1.5.4-26.1.jar",
@@ -3337,9 +2866,7 @@
                     "display_name": "More Armor Trims",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "more-babies-26.1+3.0.2-fabric.jar",
@@ -3350,9 +2877,7 @@
                     "display_name": "More Babies",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "moreculling-fabric-26.1.2-1.7.3.jar",
@@ -3363,9 +2888,7 @@
                     "display_name": "More Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "MossyLib-1.6.0+26.1+fabric.jar",
@@ -3376,9 +2899,7 @@
                     "display_name": "MossyLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "MouseTweaks-fabric-mc26.1-2.31.jar",
@@ -3389,9 +2910,7 @@
                     "display_name": "Mouse Tweaks",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "naturallychargedcreepers-26.1.2-3.6.jar",
@@ -3402,9 +2921,7 @@
                     "display_name": "Naturally Charged Creepers",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "NaturesCompass-26.1-2.5.1-fabric.jar",
@@ -3415,9 +2932,7 @@
                     "display_name": "Nature's Compass",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "nerb-fabric-0.4.3+26.1.2.jar",
@@ -3428,9 +2943,7 @@
                     "display_name": "Not Enough Recipe Book [NERB]",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "NetherChested-v26.1.1-mc26.1.x-Fabric.jar",
@@ -3441,9 +2954,7 @@
                     "display_name": "Nether Chested",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "netherportalfix-fabric-26.1-26.1.0.1.jar",
@@ -3454,9 +2965,7 @@
                     "display_name": "NetherPortalFix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "new_slab_variants-fabric-26.1.2-3.1.0.jar",
@@ -3467,9 +2976,7 @@
                     "display_name": "New Slab Variants",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "NoChatReports-FABRIC-26.1-v2.19.0.jar",
@@ -3480,9 +2987,7 @@
                     "display_name": "No Chat Reports",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "noisium-fabric-2.8.5+mc26.1.2.jar",
@@ -3493,9 +2998,7 @@
                     "display_name": "NoisiumForked",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "norealmsbutton-3.0.4+26.1-fabric.jar",
@@ -3506,9 +3009,7 @@
                     "display_name": "No Realms Button",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "no-report-button-1.7.1-fabric.jar",
@@ -3519,9 +3020,7 @@
                     "display_name": "No Report Button",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "no-resource-pack-warnings-1.5.0.jar",
@@ -3532,9 +3031,7 @@
                     "display_name": "No Resource Pack Warnings",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "OverflowingBars-v26.1.0-mc26.1.x-Fabric.jar",
@@ -3545,9 +3042,7 @@
                     "display_name": "Overflowing Bars",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "packetfixer-fabric-3.3.5-26.1.2.jar",
@@ -3558,9 +3053,7 @@
                     "display_name": "Packet Fixer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "particular-26.1.2-Fabric-1.5.7.jar",
@@ -3571,9 +3064,7 @@
                     "display_name": "Particular ✨ Reforged",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "pehkui-rebuilt-fabric-3.8.7+26.1.2.jar",
@@ -3584,9 +3075,7 @@
                     "display_name": "Pehkui Rebuilt",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "PickUpNotifier-v26.1.1-mc26.1.x-Fabric.jar",
@@ -3597,9 +3086,7 @@
                     "display_name": "Pick Up Notifier",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "placeholder-api-3.0.0+26.1.jar",
@@ -3610,9 +3097,7 @@
                     "display_name": "Text Placeholder API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "PlayerAnimationLibMerged-1.2.6+mc.26.1.jar",
@@ -3623,9 +3108,7 @@
                     "display_name": "Player Animation Library",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "plushables-fabric-2.6.1+26.1.jar",
@@ -3636,9 +3119,7 @@
                     "display_name": "Plushables",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "polymer-bundled-0.16.5+26.1.2.jar",
@@ -3649,9 +3130,7 @@
                     "display_name": "Polymer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "powerless_refinedstorage-fabric-2.0+mc26.1.2.jar",
@@ -3662,9 +3141,7 @@
                     "display_name": "Refined Storage: Powerless Addon",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "PrickleMC-fabric-MC26.1.2-26.1.2.6.jar",
@@ -3675,9 +3152,7 @@
                     "display_name": "Prickle",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "promenade-5.5.2.jar",
@@ -3688,9 +3163,7 @@
                     "display_name": "Promenade",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "PuzzlesLib-v26.1.15-mc26.1.x-Fabric.jar",
@@ -3701,9 +3174,7 @@
                     "display_name": "Puzzles Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "rechiseled-1.2.6-fabric-mc26.1.jar",
@@ -3714,9 +3185,7 @@
                     "display_name": "Rechiseled",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "reeses-sodium-options-fabric-2.2.4+mc26.1.2.jar",
@@ -3727,9 +3196,7 @@
                     "display_name": "Reese's Sodium Options",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "refinedcooking-fabric-26.1.2-7.3.1.jar",
@@ -3740,9 +3207,7 @@
                     "display_name": "Refined Cooking",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "refinedstorage-fabric-3.2.1.jar",
@@ -3753,9 +3218,7 @@
                     "display_name": "Refined Storage",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "refinedstorage-jei-integration-fabric-2.0.1.jar",
@@ -3766,9 +3229,7 @@
                     "display_name": "Refined Storage - JEI Integration",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "refinedstorage-quartz-arsenal-fabric-2.0.6.jar",
@@ -3779,9 +3240,7 @@
                     "display_name": "Refined Storage - Quartz Arsenal",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ResourcefulConfig-4.0.1.jar",
@@ -3792,9 +3251,7 @@
                     "display_name": "Resourceful Config",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ResourcefulLib-4.0.1.jar",
@@ -3805,9 +3262,7 @@
                     "display_name": "Resourceful Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "respackopts-26.1.3.jar",
@@ -3818,9 +3273,7 @@
                     "display_name": "Respackopts",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Ribbits-26.1.2-Fabric-1.0.3.jar",
@@ -3831,9 +3284,7 @@
                     "display_name": "Ribbits-26.1.2-Fabric-1.0.3.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "rightclickharvest-fabric-4.6.2+26.1.x.jar",
@@ -3844,9 +3295,7 @@
                     "display_name": "RightClickHarvest",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "rsls-1.2.2.jar",
@@ -3857,9 +3306,7 @@
                     "display_name": "Raise Sound Limit Simplified",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sawmill-26.1.2-1.9.1-fabric.jar",
@@ -3870,9 +3317,7 @@
                     "display_name": "Sawmill",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "scribble-2.1.0-beta1+mc26.1.2.jar",
@@ -3883,9 +3328,7 @@
                     "display_name": "Scribble",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Searchables-fabric-26.1.2-1.0.2.jar",
@@ -3896,9 +3339,7 @@
                     "display_name": "Searchables",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "shatterlib-fabric-0.7.0+26.1.2.jar",
@@ -3909,9 +3350,7 @@
                     "display_name": "ShatterLib | OctoLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "shieldfixes-2.0.4+26.1.jar",
@@ -3922,9 +3361,7 @@
                     "display_name": "Shield Fixes",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "shogi-fabric-26.1.2-26.1.2.12.jar",
@@ -3935,9 +3372,7 @@
                     "display_name": "Shogi",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "skinrestorer-2.11.0+26.1-fabric.jar",
@@ -3948,9 +3383,7 @@
                     "display_name": "Skin Restorer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "smoothgui-fabric-2.0.6+mc26.1.jar",
@@ -3961,9 +3394,7 @@
                     "display_name": "Smooth Gui",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "smoothscroll-2.8.1.jar",
@@ -3974,9 +3405,7 @@
                     "display_name": "Smooth Scrolling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.9.4+mc26.1.2.jar",
@@ -3987,9 +3416,7 @@
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-fabric-0.9.2+mc26.1.2.jar",
@@ -4000,9 +3427,7 @@
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "spark-1.10.187-fabric.jar",
@@ -4013,9 +3438,7 @@
                     "display_name": "spark",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sparsestructures-fabric-26.1.2-3.1.3.jar",
@@ -4026,9 +3449,7 @@
                     "display_name": "Sparse Structures",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "status-effect-bars-1.0.11.jar",
@@ -4039,9 +3460,7 @@
                     "display_name": "Status Effect Bars",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "stks-tool-trims-1.2.0+26.2.jar",
@@ -4052,9 +3471,7 @@
                     "display_name": "STK's Tool Trims",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Structory_26.2_v1.3.7.jar",
@@ -4065,9 +3482,7 @@
                     "display_name": "Structory",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "supermartijn642configlib-1.1.8a-fabric-mc26.1.jar",
@@ -4078,9 +3493,7 @@
                     "display_name": "SuperMartijn642's Config Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "supermartijn642corelib-1.1.24b-fabric-mc26.1.jar",
@@ -4091,9 +3504,7 @@
                     "display_name": "SuperMartijn642's Core Lib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Terralith_26.1_v2.6.2_Fabric.jar",
@@ -4104,9 +3515,7 @@
                     "display_name": "Terralith",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "thermoo-fabric-10.1.5.jar",
@@ -4117,9 +3526,7 @@
                     "display_name": "Thermoo",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ticklowerperm-5.0.0.jar",
@@ -4130,9 +3537,7 @@
                     "display_name": "TickLowerPerm",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "TinySkeletons-v26.1.1-mc26.1.x-Fabric.jar",
@@ -4143,9 +3548,7 @@
                     "display_name": "Tiny Skeletons",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "tlib-fabric-1.5.0-26.1.2.jar",
@@ -4156,9 +3559,7 @@
                     "display_name": "TLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "tooltrims-2.0.10+tt3.0.x+mc26.1.2.jar",
@@ -4169,9 +3570,7 @@
                     "display_name": "Tool Trims Mod",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trade-cycling-fabric-1.0.22+26.1.2.jar",
@@ -4182,9 +3581,7 @@
                     "display_name": "Trade Cycling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trashcans-1.1.1a-fabric-mc26.1.jar",
@@ -4195,9 +3592,7 @@
                     "display_name": "Trash Cans",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trashslot-fabric-26.1.2-26.1.2.4.jar",
@@ -4208,9 +3603,7 @@
                     "display_name": "TrashSlot",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trek-B0.6.2.jar",
@@ -4221,9 +3614,7 @@
                     "display_name": "Trek",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trinkets_totem-1.0.0.jar",
@@ -4234,9 +3625,7 @@
                     "display_name": "Trinkets Totem",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trinkets-4.0.1+26.1.jar",
@@ -4247,9 +3636,7 @@
                     "display_name": "Trinkets Updated",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "trinkets-elytra-support-1.0.0.jar",
@@ -4260,9 +3647,7 @@
                     "display_name": "Trinkets Elytra Support",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "tru.e-ending-1.1.4d.jar",
@@ -4273,9 +3658,7 @@
                     "display_name": "True Ending - Ender Dragon Overhaul",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ukulib-fabric-2.0.0+26.1.jar",
@@ -4286,9 +3669,7 @@
                     "display_name": "ukulib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "underlay-1.0.5-fabric-mc26.1.jar",
@@ -4299,9 +3680,7 @@
                     "display_name": "Underlay",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "universal_ores-1.8.0.jar",
@@ -4312,9 +3691,7 @@
                     "display_name": "Universal Ores",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "universalgrid-fabric-26.1.2-1.0.2.jar",
@@ -4325,9 +3702,7 @@
                     "display_name": "Universal Grid",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "variantsandventures-fabric-1.0.28+mc26.1.2.jar",
@@ -4338,9 +3713,7 @@
                     "display_name": "Variants&Ventures",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Visible Traders-2.4.0-universal.jar",
@@ -4351,9 +3724,7 @@
                     "display_name": "Visible Traders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "WalksyLib-1.0.11+26.1.jar",
@@ -4364,9 +3735,7 @@
                     "display_name": "WalksyLib",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "waystones-fabric-26.1.2-26.1.2.16.jar",
@@ -4377,9 +3746,7 @@
                     "display_name": "Waystones",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "worldweaver-26.101.2.jar",
@@ -4390,9 +3757,7 @@
                     "display_name": "World Weaver",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "wunderlib-26.1.2-fabric.jar",
@@ -4403,9 +3768,7 @@
                     "display_name": "WunderLib: New Dawn",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "xaerominimap-fabric-26.1.2-26.5.0.jar",
@@ -4416,9 +3779,7 @@
                     "display_name": "Xaero's Minimap",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "xaeros-optimal-beacons-add-on-1.3.0.jar",
@@ -4429,9 +3790,7 @@
                     "display_name": "Xaero's Optimal Beacons Add-On",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "xaeroworldmap-fabric-26.1.2-1.46.0.jar",
@@ -4442,9 +3801,7 @@
                     "display_name": "Xaero's World Map",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "xmmp-1.1.0+26.1.2-fabric.jar",
@@ -4455,9 +3812,7 @@
                     "display_name": "Xaero's Maps: Multiplayer+",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.9.7+26.1-fabric.jar",
@@ -4468,9 +3823,7 @@
                     "display_name": "YetAnotherConfigLib (YACL)",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsApi-26.1.2-Fabric-6.1.3.jar",
@@ -4481,9 +3834,7 @@
                     "display_name": "YUNG's API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterCaves-26.1.2-Fabric-4.1.2.jar",
@@ -4494,9 +3845,7 @@
                     "display_name": "YUNG's Better Caves",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterDesertTemples-26.1.2-Fabric-5.1.1.jar",
@@ -4507,9 +3856,7 @@
                     "display_name": "YUNG's Better Desert Temples",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterDungeons-26.1.2-Fabric-6.1.1.jar",
@@ -4520,9 +3867,7 @@
                     "display_name": "YUNG's Better Dungeons",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterEndIsland-26.1.2-Fabric-4.1.0.jar",
@@ -4533,9 +3878,7 @@
                     "display_name": "YUNG's Better End Island",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterJungleTemples-26.1.2-Fabric-4.1.1.jar",
@@ -4546,9 +3889,7 @@
                     "display_name": "YUNG's Better Jungle Temples",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterMineshafts-26.1.2-Fabric-6.1.1.jar",
@@ -4559,9 +3900,7 @@
                     "display_name": "YUNG's Better Mineshafts",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterNetherFortresses-26.1.2-Fabric-4.1.1.jar",
@@ -4572,9 +3911,7 @@
                     "display_name": "YUNG's Better Nether Fortresses",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterOceanMonuments-26.1.2-Fabric-5.1.1.jar",
@@ -4585,9 +3922,7 @@
                     "display_name": "YUNG's Better Ocean Monuments",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterStrongholds-26.1.2-Fabric-6.1.1.jar",
@@ -4598,9 +3933,7 @@
                     "display_name": "YUNG's Better Strongholds",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBetterWitchHuts-26.1.2-Fabric-5.1.1.jar",
@@ -4611,9 +3944,7 @@
                     "display_name": "YUNG's Better Witch Huts",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsBridges-26.1.2-Fabric-6.1.0.jar",
@@ -4624,9 +3955,7 @@
                     "display_name": "YUNG's Bridges",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "YungsExtras-26.1.2-Fabric-6.1.0.jar",
@@ -4637,9 +3966,7 @@
                     "display_name": "YUNG's Extras",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "AccurateBlockPlacement-Reborn-1.4.6+mc-26.1-26.2.jar",
@@ -4650,9 +3977,7 @@
                     "display_name": "Accurate Block Placement Reborn",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "AnchorOptimizer-26.3.jar",
@@ -4663,9 +3988,7 @@
                     "display_name": "Anchor Optimizer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "animatica-0.6.3+26.1.jar",
@@ -4676,9 +3999,7 @@
                     "display_name": "Animatica Refabricated",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "appleskin-fabric-mc26.1.2-3.0.10.jar",
@@ -4689,9 +4010,7 @@
                     "display_name": "AppleSkin",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "architectury-fabric-20.1.16.jar",
@@ -4702,9 +4021,7 @@
                     "display_name": "Architectury API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "armor-stand-arms-v2.6.0.jar",
@@ -4715,9 +4032,7 @@
                     "display_name": "Armor Stand Arms",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ArmorTrimItemFix-fabric-26.1-2.1.5.jar",
@@ -4728,9 +4043,7 @@
                     "display_name": "Armor Trim Item Fix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "artifacts-fabric-15.1.3.jar",
@@ -4741,9 +4054,7 @@
                     "display_name": "Artifacts",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "AsyncParticles-26.1.2.7+26.1.2.jar",
@@ -4754,9 +4065,7 @@
                     "display_name": "AsyncParticles",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "naturallychargedcreepers.json5",
@@ -4767,9 +4076,7 @@
                     "display_name": "naturallychargedcreepers.json5",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "xmmp.toml",
@@ -4780,9 +4087,7 @@
                     "display_name": "xmmp.toml",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-options.json",
@@ -4793,9 +4098,7 @@
                     "display_name": "sodium-extra-options.json",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "options.txt",
@@ -4806,9 +4109,7 @@
                     "display_name": "options.txt",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Jade-mc26.1-Fabric-26.1.9.jar",
@@ -4819,9 +4120,7 @@
                     "display_name": "Jade 🔍",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "pointblank-fabric-26.1.2-2.2.0.jar",
@@ -4832,9 +4131,7 @@
                     "display_name": "Vic's Point Blank",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "MoreSpearEnchantments-fabric-1.1.1+26.1.jar",
@@ -4845,9 +4142,7 @@
                     "display_name": "More Spear Enchantments",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "apple-skin-fix-26.1.2-1.0.1.jar",
@@ -4858,9 +4153,7 @@
                     "display_name": "AppleSkin Lunge Fix",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "happy_ghasts_boost-merged-26.1.2-1.0.0.jar",
@@ -4871,9 +4164,7 @@
                     "display_name": "Happy Ghasts Boost",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "viph-ideas-2.7.jar",
@@ -4884,9 +4175,7 @@
                     "display_name": "viph-ideas-2.7.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
@@ -4897,9 +4186,7 @@
                     "display_name": "VillagerConfig",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "LostTrinkets-26.1.0-mc26.1.2-fabric.jar",
@@ -4910,9 +4197,7 @@
                     "display_name": "Lost Trinkets Renewed",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "better-wanderingtraders-1.0.0+1.21.6.jar",
@@ -4923,9 +4208,7 @@
                     "display_name": "Better Wandering Traders",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "bettercoppergolem-FABRIC-2.4.2-26.1.2.jar",
@@ -4936,9 +4219,7 @@
                     "display_name": "Better Copper Golem",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "backpacked-fabric-26.1.2-3.0.4.jar",
@@ -4949,9 +4230,7 @@
                     "display_name": "backpacked-fabric-26.1.2-3.0.4.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "framework-fabric-26.1.2-0.13.23.jar",
@@ -4962,9 +4241,7 @@
                     "display_name": "framework-fabric-26.1.2-0.13.23.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "goblintraders-fabric-26.1.2-1.12.0.jar",
@@ -4975,9 +4252,7 @@
                     "display_name": "goblintraders-fabric-26.1.2-1.12.0.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
@@ -4988,9 +4263,7 @@
                     "display_name": "goldenhopper-fabric-26.1.2-1.7.0.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Too_Many_Bows-fabric-1.1.0-26.1.2.jar",
@@ -5001,9 +4274,7 @@
                     "display_name": "Too Many Bows",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "crazy-chambers-v1.2.0-mc26.3.jar",
@@ -5014,9 +4285,7 @@
                     "display_name": "Crazy Chambers",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "gildedarmor-26.1.2-0.1.jar",
@@ -5027,9 +4296,7 @@
                     "display_name": "Gilded Armor",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "better-frost-walker-fabric-26.1-3.1.1+fabric+26.1.jar",
@@ -5040,9 +4307,7 @@
                     "display_name": "Better Frost Walker",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "monkeylib538-fabric-26.1-5.3.1+fabric+26.1.jar",
@@ -5053,9 +4318,7 @@
                     "display_name": "MonkeyLib538",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "Villager-API-26.1.x-fabric-1.26.7.1.jar",
@@ -5066,9 +4329,7 @@
                     "display_name": "Villager API",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "MoreVillagersRe-26.1.x-fabric-1.26.7.1.jar",
@@ -5079,9 +4340,7 @@
                     "display_name": "More Villagers: Re-employed",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "totembar-1.0.3.jar",
@@ -5092,9 +4351,7 @@
                     "display_name": "Totem Bar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ftb-ultimine-fabric-26.1.2.5.jar",
@@ -5105,9 +4362,7 @@
                     "display_name": "ftb-ultimine-fabric-26.1.2.5.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 },
                 {
                     "name": "ftb-library-fabric-26.1.2.9.jar",
@@ -5118,9 +4373,7 @@
                     "display_name": "ftb-library-fabric-26.1.2.9.jar",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -5187,9 +4440,9 @@
             "allowed_users": null
         },
         {
-            "name": "chatanimation-fabric-1.3.3+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/zbvXFs0t/chatanimation-fabric-1.3.3%2Bmc26.3.jar",
-            "sha1": "6640621b6669e7b7fb781bfb1bd410dcff4f4fc9",
+            "name": "chatanimation-fabric-1.3.4+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/dXVWAQA6/chatanimation-fabric-1.3.4%2Bmc26.3.jar",
+            "sha1": "5743ce2bb57f67fd3d6bdd8936a3ee3444b1c143",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5198,7 +4451,10 @@
             "display_name": "Chat Animation [Smooth Chat]",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "chatanimation-fabric-1.3.3+mc26.3.jar"
+            ]
         },
         {
             "name": "cirrus-fabric-26.3-1.4.1.jar",
@@ -5259,9 +4515,9 @@
             "allowed_users": null
         },
         {
-            "name": "elytratrails-1.6.6-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/VWvtBt3R/elytratrails-1.6.6-26.3.jar",
-            "sha1": "2bf7964d7fcd07db90ade32ee9c8c02acd027dd6",
+            "name": "elytratrails-1.6.7-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/4si44k97/elytratrails-1.6.7-26.3.jar",
+            "sha1": "eaeb6dbc396c68fd635e012fa6c3fe15f7d9960a",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5270,7 +4526,10 @@
             "display_name": "Elytra Contrails Mod",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "elytratrails-1.6.6-26.3.jar"
+            ]
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-3.jar",
@@ -5413,9 +4672,9 @@
             "allowed_users": null
         },
         {
-            "name": "punchy-2.8d-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/iptzBFXY/punchy-2.8d-fabric-26.3.jar",
-            "sha1": "e40dc8d15c8f4c02cf207766ab685f739c0d2b2f",
+            "name": "punchy-2.8e-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/X4yZP5Sy/punchy-2.8e-fabric-26.3.jar",
+            "sha1": "6ba01c20a8cc0800fb359af4f3f2ea3339c8df8d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5424,7 +4683,10 @@
             "display_name": "Punchy!",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "punchy-2.8d-fabric-26.3.jar"
+            ]
         },
         {
             "name": "RoughlyEnoughItems-26.3.823.jar",
@@ -5471,9 +4733,9 @@
             "allowed_users": null
         },
         {
-            "name": "smoothgui-fabric-2.0.6+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/UogAgPfh/smoothgui-fabric-2.0.6%2Bmc26.3.jar",
-            "sha1": "799618fb6b9fac2cb418320a16aa97147c81f621",
+            "name": "smoothgui-fabric-2.0.7+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WA06kzEe/smoothgui-fabric-2.0.7%2Bmc26.3.jar",
+            "sha1": "5e7d2a3fac5613991b0193ae309f884fdac89381",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5483,7 +4745,10 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "gui"
+            "exclusive_group": "gui",
+            "replaces": [
+                "smoothgui-fabric-2.0.6+mc26.3.jar"
+            ]
         },
         {
             "name": "smoothscroll-3.0.0.jar",
@@ -5627,9 +4892,9 @@
             "allowed_users": null
         },
         {
-            "name": "xaerominimap-fabric-26.3-26.5.3.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/YPkAliDt/xaerominimap-fabric-26.3-26.5.3.jar",
-            "sha1": "28b67391892582747bd17a7525318a954e54c80a",
+            "name": "xaerominimap-fabric-26.3-26.6.0.jar",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/B2aG1aya/xaerominimap-fabric-26.3-26.6.0.jar",
+            "sha1": "287f670348124261bef5c7833715c49960e74dee",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5681,12 +4946,15 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "xaerominimap-fabric-26.3-26.5.3.jar"
+            ]
         },
         {
-            "name": "jei-26.3-fabric-31.9.0.57.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cfeQTcve/jei-26.3-fabric-31.9.0.57.jar",
-            "sha1": "4cc5a974ce4698051d5ac4604d7278eb5017aaa0",
+            "name": "jei-26.3-fabric-31.9.0.58.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/QfoQJyPO/jei-26.3-fabric-31.9.0.58.jar",
+            "sha1": "145e8b52dfeabe2d9f1081b98a0682e501ecf2fb",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5725,7 +4993,10 @@
                 }
             ],
             "allowed_users": null,
-            "exclusive_group": "enoughitems"
+            "exclusive_group": "enoughitems",
+            "replaces": [
+                "jei-26.3-fabric-31.9.0.57.jar"
+            ]
         },
         {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
@@ -5864,9 +5135,9 @@
             "exclusive_group": "gui"
         },
         {
-            "name": "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/bYMAIhI1/nuit-fabric-1.0.0-beta.2%2Bmc1.21.11.jar",
-            "sha1": "1a72d35e86fcb54410bb7c39a261d3886412cbb3",
+            "name": "nuit-fabric-1.0.0-beta.6+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/eZSrQJjm/nuit-fabric-1.0.0-beta.6%2Bmc1.21.11.jar",
+            "sha1": "55c7e574c5b7254d8faba1ee13a484ae23c6abf7",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5892,7 +5163,10 @@
                 }
             ],
             "allowed_users": null,
-            "exclusive_group": "sky"
+            "exclusive_group": "sky",
+            "replaces": [
+                "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar"
+            ]
         },
         {
             "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
@@ -5991,9 +5265,9 @@
             ]
         },
         {
-            "name": "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/3kCdl1bI/skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
-            "sha1": "c80cbb86aa578e2c7a0a8111d010edafe1deda6e",
+            "name": "skinlayers3d-fabric-1.11.3-mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/TpZj1P0j/skinlayers3d-fabric-1.11.3-mc1.21.11.jar",
+            "sha1": "0380392a308dd3d0b52f713713f3b904405a57c0",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6003,12 +5277,15 @@
             "display_name": "3D Skin Layers",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "skinlayers3d-fabric-1.11.2-mc1.21.11.jar"
+            ]
         },
         {
-            "name": "voicechat-fabric-1.21.11-2.6.22.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/CN53keBo/voicechat-fabric-1.21.11-2.6.22.jar",
-            "sha1": "d607bc579bb5e0488a539ed87e62e91f10d38376",
+            "name": "voicechat-fabric-1.21.11-2.6.24.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MLNG868g/voicechat-fabric-1.21.11-2.6.24.jar",
+            "sha1": "5892ae4658614f18ccdc8a9762cebbb83136ae34",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6018,7 +5295,10 @@
             "display_name": "Simple Voice Chat",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "voicechat-fabric-1.21.11-2.6.22.jar"
+            ]
         },
         {
             "name": "§4§lViPh Pack.zip",
@@ -6040,9 +5320,9 @@
             ]
         },
         {
-            "name": "cirrus-fabric-1.21.11-1.2.1.jar",
-            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/p0xqyq1N/cirrus-fabric-1.21.11-1.2.1.jar",
-            "sha1": "df7f78d5644b16b4d52957fc59cf2c384aad5f7d",
+            "name": "cirrus-fabric-1.21.11-1.4.1.jar",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/Be40VqOz/cirrus-fabric-1.21.11-1.4.1.jar",
+            "sha1": "bd5f913ca7eb4d87a13036018a0419a01683239d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6053,12 +5333,15 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "sky"
+            "exclusive_group": "sky",
+            "replaces": [
+                "cirrus-fabric-1.21.11-1.2.1.jar"
+            ]
         },
         {
-            "name": "ji-afk-cinematic-1.21.11-2.3.0.jar",
-            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/uOHKiHt1/ji-afk-cinematic-1.21.11-2.3.0.jar",
-            "sha1": "1f3b6e5a4897e738af77315d63c4d9fe05facb37",
+            "name": "ji-afk-cinematic-1.21.11-2.3.1.jar",
+            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/ViJLxeFd/ji-afk-cinematic-1.21.11-2.3.1.jar",
+            "sha1": "3166c10bafb144ff8ba9b263cbb736316e8d22c4",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6068,7 +5351,10 @@
             "display_name": "Ji AFK Cinematic",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "ji-afk-cinematic-1.21.11-2.3.0.jar"
+            ]
         },
         {
             "name": "atmospherics-2.6.6-mc-1.21.11.jar",
@@ -6236,9 +5522,9 @@
             "allowed_users": null
         },
         {
-            "name": "ViaFabricPlus-4.4.14.jar",
-            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/3MFqgZdf/ViaFabricPlus-4.4.14.jar",
-            "sha1": "ff30c6254c9afaf0c8a5a6ea2d8d79b1f5c5434a",
+            "name": "ViaFabricPlus-4.4.15.jar",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/RM6hveoK/ViaFabricPlus-4.4.15.jar",
+            "sha1": "2ff9bda49d86f08dbb8b469c34c5ef9bca85fd25",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6248,7 +5534,10 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "bugs_error_1"
+            "exclusive_group": "bugs_error_1",
+            "replaces": [
+                "ViaFabricPlus-4.4.14.jar"
+            ]
         },
         {
             "name": "HitColorX-1.1.0.jar",
@@ -6280,9 +5569,9 @@
             "allowed_users": null
         },
         {
-            "name": "Time & Weather Changer-fabric-1.21.11-1.0.0.jar",
-            "url": "https://cdn.modrinth.com/data/R1xYzY0M/versions/Y1zbW3v3/Time%20%26%20Weather%20Changer-fabric-1.21.11-1.0.0.jar",
-            "sha1": "c57c0fc233dccb1466ec01fb843b77a823de7aa7",
+            "name": "timechanger-fabric-1.3.5+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/R1xYzY0M/versions/vqqG5fmz/timechanger-fabric-1.3.5%2B1.21.11.jar",
+            "sha1": "18cfa2775b3eb230df2d585bc7fff53663cc77bb",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6291,7 +5580,10 @@
             "display_name": "Time & Weather Changer",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "Time & Weather Changer-fabric-1.21.11-1.0.0.jar"
+            ]
         },
         {
             "name": "animatium-4.4.1+1.21.11-fabric.jar",
@@ -6368,9 +5660,9 @@
             ]
         },
         {
-            "name": "clean-keystrokes-1.1.0+mc1.21.6-11.jar",
-            "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/JYKAsp9P/clean-keystrokes-1.1.0%2Bmc1.21.6-11.jar",
-            "sha1": "c718337965b7ec98894c25a835d6c61813faf412",
+            "name": "clean-keystrokes-1.1.2+mc1.21.6-11.jar",
+            "url": "https://cdn.modrinth.com/data/5xqElbjw/versions/qshBe3DG/clean-keystrokes-1.1.2%2Bmc1.21.6-11.jar",
+            "sha1": "9e1ef68e21ac70d41430f9241778681a194af510",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6379,7 +5671,10 @@
             "display_name": "Clean Keystrokes",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
+            ]
         },
         {
             "name": "ukus-armor-hud-0.10.2+mc1.21.11.jar",
