@@ -6826,6 +6826,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "MasEffects 1.21.11.jar",
+            "display_name": "Mas Effects",
+            "url": "https://cdn.modrinth.com/data/YsP4hqhn/versions/QXvEu8Y3/MasEffects%201.21.11.jar",
+            "sha1": "20538153c7e633fb2d9474bafd3ea6447a3e2f5b",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ]
         }
     ]
 }
