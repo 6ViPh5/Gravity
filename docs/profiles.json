@@ -1027,19 +1027,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/pZAsvm42/exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "sha1": "5aab4395e5d501ee9b578162fcf643352685fc4c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Exordium",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
                     "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
                     "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
@@ -1477,19 +1464,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Raise Sound Limit Simplified",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/DynYZEae/versions/pZAsvm42/exordium-fabric-2.1.1-mc1.21.11.jar",
-                    "sha1": "5aab4395e5d501ee9b578162fcf643352685fc4c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Exordium",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
