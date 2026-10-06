@@ -6428,7 +6428,66 @@
                 }
             ],
             "allowed_users": null,
-            "exclusive_group": "hud"
+            "exclusive_group": "effect"
+        },
+        {
+            "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
+            "url": "https://cdn.modrinth.com/data/Kp2uclYl/versions/mZy4fW0C/inventoryhud.fabric.1.21.11-3.4.29.jar",
+            "sha1": "36ff4f8a05c0f7d66b7c4bdc4778da49ff8205c5",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "InventoryHUD+",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "effect"
+        },
+        {
+            "name": "effecttimerplus-fabric-2.2.7+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/JIUF2Wb5/versions/5mBLMYSY/effecttimerplus-fabric-2.2.7%2B1.21.11.jar",
+            "sha1": "7a852400f93df5fc47637baf7000b68d2df9a630",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Effect Timer Plus",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "effect"
+        },
+        {
+            "name": "minimal-effect-hud-1.21.11-1.0.0.jar",
+            "url": "https://cdn.modrinth.com/data/oJod2tJI/versions/RpsPaFIZ/minimal-effect-hud-1.21.11-1.0.0.jar",
+            "sha1": "bd32c44a714c9ede560ad44e734b1a96f8bf11db",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Minimal Status Effect Timer",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "exclusive_group": "effect"
+        },
+        {
+            "name": "zpxwz-health-indicator-fabric-1.21.11-1.3.1.jar",
+            "url": "https://cdn.modrinth.com/data/WAf4KWZ1/versions/kH6UBsta/zpxwz-health-indicator-fabric-1.21.11-1.3.1.jar",
+            "sha1": "b8b1805bf59d758c375dda8ebbbee33cd26d0103",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "zpxwz Health Indicator",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -6767,17 +6826,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "inventoryhud.fabric.1.21.11-3.4.29.jar",
-            "display_name": "InventoryHUD+",
-            "url": "https://cdn.modrinth.com/data/Kp2uclYl/versions/mZy4fW0C/inventoryhud.fabric.1.21.11-3.4.29.jar",
-            "sha1": "36ff4f8a05c0f7d66b7c4bdc4778da49ff8205c5",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "exclusive_group": "hud"
         }
     ]
 }
