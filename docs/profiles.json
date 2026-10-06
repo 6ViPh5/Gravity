@@ -592,7 +592,7 @@
             "name": "Opt 1.21.11",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.3",
+            "loader_version": "0.19.5",
             "visuals": {
                 "background": "https://images.alphacoders.com/109/thumb-1920-1099436.png"
             },
@@ -1052,10 +1052,7 @@
                     "exclusive_group": null,
                     "replaces": null
                 }
-            ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null
+            ]
         },
         {
             "id": "pvp1.9",
