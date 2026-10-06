@@ -496,12 +496,6 @@
                     "replaces": [
                         "architectury-fabric-22.0.3.jar"
                     ]
-                },
-                {
-                    "name": "skinrestorer-2.11.0+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/K7BFrFJD/skinrestorer-2.11.0%2B26.3-fabric.jar",
-                    "sha1": "1da011465f62f631a95775aa9843a8b413a71db5",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -518,6 +512,17 @@
                 "background": "https://images.alphacoders.com/109/thumb-1920-1099436.png"
             },
             "mods": [
+                {
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
                 {
                     "name": "bobby-5.2.11+mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
