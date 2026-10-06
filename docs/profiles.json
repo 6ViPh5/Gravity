@@ -6190,22 +6190,6 @@
             "exclusive_group": "overlay"
         },
         {
-            "name": "hudplus-1.21.11-26.1.2.jar",
-            "url": "https://cdn.modrinth.com/data/EqwpK4rm/versions/k83NIHbF/hudplus-1.21.11-26.1.2.jar",
-            "sha1": "c70f4ce2bdc08dcc833c62e436c0f44bb89bd0f9",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "HUD+",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "overlay"
-        },
-        {
             "name": "totembar-1.0.2.jar",
             "url": "https://cdn.modrinth.com/data/YchFfhr2/versions/BGlGXoHt/totembar-1.0.2.jar",
             "sha1": "B4D9F951E9C52D8DB1250508C9E84500AF88DA9F",
