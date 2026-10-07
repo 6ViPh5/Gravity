@@ -922,17 +922,6 @@
             },
             "mods": [
                 {
-                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
-                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fabric Language Kotlin",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "url": "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "sha1": "F4B319DCC20530496E7755FB925C5BABDEFE4E9F",
@@ -1512,15 +1501,18 @@
                     ]
                 },
                 {
-                    "name": "Marlow Crystal Optimizer.jar",
-                    "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/YKWJ63xQ/Marlow%20Crystal%20Optimizer.jar",
-                    "sha1": "5a0a64ca1eb7e2bed9bc6e7ad8e0bd639fbb8682",
+                    "name": "marlows-crystal-optimizer-2.0.0+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/ozpC8eDC/versions/Wzw6RsOc/marlows-crystal-optimizer-2.0.0%2Bmc1.21.11.jar",
+                    "sha1": "ff4b0bbfaca3ba35e473b1cc9a1ea5b52cb479f8",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Marlow's Crystal Optimizer",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "Marlow Crystal Optimizer.jar"
+                    ]
                 },
                 {
                     "name": "Controlling-fabric-1.21.11-29.0.1.jar",
@@ -4786,6 +4778,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -4932,6 +4925,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -4946,6 +4940,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -4989,6 +4984,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -5003,6 +4999,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -5017,6 +5014,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5049,6 +5047,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -5063,6 +5062,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5141,6 +5141,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -5155,6 +5156,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5173,8 +5175,7 @@
             "display_name": "FPS Overlay",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "overlay"
+            "allowed_users": null
         },
         {
             "name": "symbol-chat-1.21.11-1.3.13.jar",
@@ -5216,11 +5217,11 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
-            "allowed_users": null,
-            "exclusive_group": "gui"
+            "allowed_users": null
         },
         {
             "name": "nuit-fabric-1.0.0-beta.6+mc1.21.11.jar",
@@ -5247,6 +5248,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5270,7 +5272,9 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "tx_1",
+            "incompatible_with": [
+                "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a"
+            ],
             "replaces": [
                 "§4§lViPh Pack.zip"
             ]
@@ -5300,6 +5304,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5402,7 +5407,9 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "tx_1",
+            "incompatible_with": [
+                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
+            ],
             "replaces": [
                 "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
             ]
@@ -5562,8 +5569,7 @@
             "display_name": "HitBox+",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null,
-            "exclusive_group": "hitbox"
+            "allowed_users": null
         },
         {
             "name": "ExploitationTimer-fabric-1.0.2.jar",
@@ -5574,7 +5580,7 @@
             "target_profiles": [
                 "pvp1.9"
             ],
-            "display_name": "Exploitation Timer TNT",
+            "display_name": "Exploitation Timer",
             "req_user_type": null,
             "dependencies": [
                 {
@@ -5589,6 +5595,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5653,7 +5660,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "bugs_error_1",
             "replaces": [
                 "ViaFabricPlus-4.4.14.jar"
             ]
@@ -5671,7 +5677,9 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "animatium"
+            "incompatible_with": [
+                "ff8ce04f3295b838764c7196e12f390b62f1cdaf"
+            ]
         },
         {
             "name": "freelook-1.2.8.jar",
@@ -5717,7 +5725,10 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "animatium"
+            "incompatible_with": [
+                "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
+                "c43465586078db9df30a1b9f442b9958ed9278fa"
+            ]
         },
         {
             "name": "betterhurtcam-1.12.0+mc1.21.11.jar",
@@ -5732,7 +5743,9 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null,
-            "exclusive_group": "animatium"
+            "incompatible_with": [
+                "ff8ce04f3295b838764c7196e12f390b62f1cdaf"
+            ]
         },
         {
             "name": "bobby-5.2.11.1+mc1.21.11.jar",
@@ -5819,6 +5832,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5848,6 +5862,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -5883,91 +5898,6 @@
             "dependencies": null,
             "allowed_users": null,
             "exclusive_group": "effect"
-        },
-        {
-            "name": "NameTagPing-3.0.1.jar",
-            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
-            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "PingNameTags",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "modmenu-17.0.1.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/cLkYaVuL/modmenu-17.0.1.jar",
-                    "sha1": "d5612d70bda58e0179b177ca9990e57471e67d19",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fabric-api-0.141.6+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
-                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "placeholder-api-2.8.2+1.21.10.jar",
-                    "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/qxjzQ9xY/placeholder-api-2.8.2%2B1.21.10.jar",
-                    "sha1": "bbdc920ecff993148cd6e81a208536132245ce40",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "cloth-config-21.11.153-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
-                    "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fabric-api-0.141.6+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/6qAuTtLR/fabric-api-0.141.6%2B1.21.11.jar",
-                    "sha1": "c98467cbbaf4d197377266795ae015f4130d65b6",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -6007,6 +5937,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -6179,6 +6110,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -6193,6 +6125,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -6207,6 +6140,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -6221,6 +6155,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 },
                 {
@@ -6235,6 +6170,7 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
+                    "incompatible_with": null,
                     "replaces": null
                 }
             ],
@@ -6309,6 +6245,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "NameTagPing-3.0.1.jar",
+            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
+            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "PingNameTags"
         }
     ]
 }
