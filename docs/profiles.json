@@ -11,11 +11,12 @@
             },
             "req_user_type": null,
             "allowed_users": null,
-            "is_upcoming": null
+            "is_upcoming": null,
+            "group": "Vanilla"
         },
         {
             "id": "optimizado",
-            "name": "Opt Vanilla",
+            "name": "Optimizado",
             "version": "26.3",
             "loader": "fabric",
             "loader_version": "0.19.5",
@@ -418,61 +419,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "fzzy_config-0.7.7+fix3+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/YkOumqzV/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
-                    "sha1": "373b6365bb9f447d2810c151ec2f698ee789366f",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fzzy Config",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "Iceberg-26.3-fabric-1.4.3.1.jar",
-                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/zhVGUJyW/Iceberg-26.3-fabric-1.4.3.1.jar",
-                    "sha1": "e65d856fdfa925045b99283b60ba002dcca7e332",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Iceberg",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "MossyLib-1.6.0+26.3+fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/yMuPxSiE/MossyLib-1.6.0%2B26.3%2Bfabric.jar",
-                    "sha1": "48facdb59d1a9b924c88123885671bc7d64388ba",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "MossyLib",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "Prism-26.3-fabric-1.1.3.jar",
-                    "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/ETN2U7Rc/Prism-26.3-fabric-1.1.3.jar",
-                    "sha1": "91852e4f48ccc0bffe216ba000115c10a4afd84a",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Prism",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "tlib-fabric-1.5.0-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/sBn7rVvc/versions/4shvVPZP/tlib-fabric-1.5.0-26.3.jar",
-                    "sha1": "d648d0821cd875539d4ba25b181fca0ae827d986",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "TLib",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
@@ -500,11 +446,12 @@
             ],
             "req_user_type": null,
             "allowed_users": null,
-            "is_upcoming": null
+            "is_upcoming": null,
+            "group": "Vanilla"
         },
         {
             "id": "opt1.21",
-            "name": "Opt 1.21.11",
+            "name": "Optimizado",
             "version": "1.21.11",
             "loader": "fabric",
             "loader_version": "0.19.3",
@@ -519,17 +466,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric Language Kotlin",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "bobby-5.2.11+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
-                    "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
@@ -703,17 +639,6 @@
                     "name": "Resourcify (1.21.11-fabric)-1.8.3.jar",
                     "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/ijoZDewc/Resourcify%20%281.21.11-fabric%29-1.8.3.jar",
                     "sha1": "4A7BD6F117997FA4857D2CDAD65513AAE1CAC9B2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -905,11 +830,26 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ju27pK32/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "sha1": "e834feeca2246156f01df257da910d47dd9a5916",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ScalableLux",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
             "allowed_users": null,
-            "is_upcoming": null
+            "is_upcoming": null,
+            "group": "1.21.11"
         },
         {
             "id": "pvp1.9",
@@ -1098,17 +1038,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "F99CDA70903F16DD6927A276150B2762B4D5AB66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "norealmsbutton-3.0.4+1.21-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/H6bHeMyo/norealmsbutton-3.0.4%2B1.21-fabric.jar",
                     "sha1": "036b0b7a30a758a2c60719a2b8299a19a3bf4f8e",
@@ -1294,6 +1223,20 @@
                     "allowed_users": null
                 },
                 {
+                    "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ju27pK32/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+                    "sha1": "e834feeca2246156f01df257da910d47dd9a5916",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "ScalableLux",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "ScalableLux-0.1.6+fabric.c25518a-all.jar"
+                    ]
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1473,20 +1416,6 @@
                     ]
                 },
                 {
-                    "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
-                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/ju27pK32/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
-                    "sha1": "e834feeca2246156f01df257da910d47dd9a5916",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "ScalableLux",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "replaces": [
-                        "ScalableLux-0.1.6+fabric.c25518a-all.jar"
-                    ]
-                },
-                {
                     "name": "notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
                     "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/rs2DhiV9/notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
                     "sha1": "89baeec73c79a16539cfd341a307bcd3182b5b34",
@@ -1528,7 +1457,8 @@
             ],
             "req_user_type": null,
             "allowed_users": null,
-            "is_upcoming": null
+            "is_upcoming": null,
+            "group": "1.21.11"
         },
         {
             "id": "refhor",
@@ -4577,7 +4507,14 @@
             ],
             "display_name": "Effectual",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "tlib-fabric-1.5.0-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/sBn7rVvc/versions/4shvVPZP/tlib-fabric-1.5.0-26.3.jar",
+                    "sha1": "d648d0821cd875539d4ba25b181fca0ae827d986",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -4636,7 +4573,14 @@
             ],
             "display_name": "Item Highlighter",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/zhVGUJyW/Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "sha1": "e65d856fdfa925045b99283b60ba002dcca7e332",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -4664,7 +4608,14 @@
             ],
             "display_name": "Inventory Particles",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "MossyLib-1.6.0+26.3+fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/yMuPxSiE/MossyLib-1.6.0%2B26.3%2Bfabric.jar",
+                    "sha1": "48facdb59d1a9b924c88123885671bc7d64388ba",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -4678,7 +4629,20 @@
             ],
             "display_name": "Item Borders",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "Prism-26.3-fabric-1.1.3.jar",
+                    "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/ETN2U7Rc/Prism-26.3-fabric-1.1.3.jar",
+                    "sha1": "91852e4f48ccc0bffe216ba000115c10a4afd84a",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/zhVGUJyW/Iceberg-26.3-fabric-1.4.3.1.jar",
+                    "sha1": "e65d856fdfa925045b99283b60ba002dcca7e332",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -4870,7 +4834,14 @@
             ],
             "display_name": "Subtle Effects",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "fzzy_config-0.7.7+fix3+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/YkOumqzV/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
+                    "sha1": "373b6365bb9f447d2810c151ec2f698ee789366f",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -5087,6 +5058,20 @@
             "allowed_users": null
         },
         {
+            "name": "bobby-5.2.11+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
+            "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21"
+            ],
+            "display_name": null,
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "chat_heads-1.2.4-fabric-1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/dL4IyVTy/chat_heads-1.2.4-fabric-1.21.11.jar",
             "sha1": "DBB0D197A19BBE5DE43242595ADD638A2F6E2131",
@@ -5174,7 +5159,14 @@
             ],
             "display_name": "FPS Overlay",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -5426,7 +5418,14 @@
             ],
             "display_name": "Cirrus",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null,
             "exclusive_group": "sky",
             "replaces": [
@@ -5479,7 +5478,14 @@
             ],
             "display_name": "Immersive Hotbar",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -5524,7 +5530,14 @@
             ],
             "display_name": "Effect Timer Plus",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null,
             "exclusive_group": "effect"
         },
@@ -5568,7 +5581,14 @@
             ],
             "display_name": "HitBox+",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null
         },
         {
@@ -5723,7 +5743,14 @@
             ],
             "display_name": "Animatium",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null,
             "incompatible_with": [
                 "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
@@ -5802,7 +5829,14 @@
             ],
             "display_name": "Clean Keystrokes",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
+                }
+            ],
             "allowed_users": null,
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5864,6 +5898,12 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
@@ -5898,6 +5938,20 @@
             "dependencies": null,
             "allowed_users": null,
             "exclusive_group": "effect"
+        },
+        {
+            "name": "NameTagPing-3.0.1.jar",
+            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
+            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "PingNameTags",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -6245,16 +6299,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "NameTagPing-3.0.1.jar",
-            "url": "https://cdn.modrinth.com/data/NJdiPXs4/versions/FNiS07lt/NameTagPing-3.0.1.jar",
-            "sha1": "ad1fd9c6a86567f27dc3152428742e60bbf3f295",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "PingNameTags"
         }
     ]
 }
