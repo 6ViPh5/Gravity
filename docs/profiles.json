@@ -5503,6 +5503,34 @@
             ]
         },
         {
+            "name": "who-i-am-1.2.0.jar",
+            "url": "https://cdn.modrinth.com/data/HoI3dXYs/versions/qkVZCJQQ/who-i-am-1.2.0.jar",
+            "sha1": "841480588f34fd79a1c47a326e707e446f9aa803",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Who I Am",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "DidYouMentionMe-1.1.15.jar",
+            "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/qni16E8C/DidYouMentionMe-1.1.15.jar",
+            "sha1": "95ff7e1aa7a47cdd5aa4c5c9c56411f97238f5d5",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Did You Mention Me?",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "bobby-5.2.11+mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
             "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
@@ -5847,7 +5875,8 @@
             "install_path": null,
             "target_profiles": [
                 "opt1.21",
-                "pvp1.9"
+                "pvp1.9",
+                "optimizado"
             ],
             "display_name": "ViPh Pack",
             "req_user_type": null,
@@ -6933,26 +6962,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "who-i-am-1.2.0.jar",
-            "url": "https://cdn.modrinth.com/data/HoI3dXYs/versions/qkVZCJQQ/who-i-am-1.2.0.jar",
-            "sha1": "841480588f34fd79a1c47a326e707e446f9aa803",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Who I Am"
-        },
-        {
-            "name": "DidYouMentionMe-1.1.15.jar",
-            "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/qni16E8C/DidYouMentionMe-1.1.15.jar",
-            "sha1": "95ff7e1aa7a47cdd5aa4c5c9c56411f97238f5d5",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Did You Mention Me?"
         }
     ]
 }
