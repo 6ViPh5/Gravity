@@ -5531,6 +5531,28 @@
             "allowed_users": null
         },
         {
+            "name": "§4§lViPh Pack.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a",
+            "file_type": "resourcepack",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado",
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "ViPh Pack",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "incompatible_with": [
+                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
+            ],
+            "replaces": [
+                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
+            ]
+        },
+        {
             "name": "bobby-5.2.11+mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
             "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
@@ -5865,28 +5887,6 @@
             "allowed_users": null,
             "replaces": [
                 "voicechat-fabric-1.21.11-2.6.22.jar"
-            ]
-        },
-        {
-            "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9",
-                "optimizado"
-            ],
-            "display_name": "ViPh Pack",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
-            ],
-            "replaces": [
-                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
             ]
         },
         {
@@ -6962,6 +6962,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "symbol-chat-26.3-1.4.3.jar",
+            "url": "https://cdn.modrinth.com/data/NKvLVQMc/versions/Y9zsgkwF/symbol-chat-26.3-1.4.3.jar",
+            "sha1": "c0106f7fbed831d570b76bdb70a3fa1ce22aa8f7",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Symbol Chat"
         }
     ]
 }
