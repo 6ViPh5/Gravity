@@ -424,6 +424,13 @@
                     "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
                     "sha1": "60a95072fa946fa23eec1927b8370593e89d1fd8",
                     "file_type": "mod"
+                },
+                {
+                    "name": "optimizedcushions-fabric-mc26.3-1.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/c2nF5uKP/optimizedcushions-fabric-mc26.3-1.0.0.jar",
+                    "sha1": "1217f900d5c1ad123c4fa3cdb1247b4ddb2a9a05",
+                    "file_type": "mod",
+                    "display_name": "Optimized Cushions"
                 }
             ],
             "req_user_type": null,
@@ -6404,16 +6411,6 @@
                     "file_type": "mod"
                 }
             ]
-        },
-        {
-            "name": "optimizedcushions-fabric-mc26.3-1.0.0.jar",
-            "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/c2nF5uKP/optimizedcushions-fabric-mc26.3-1.0.0.jar",
-            "sha1": "1217f900d5c1ad123c4fa3cdb1247b4ddb2a9a05",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Optimized Cushions"
         }
     ]
 }
