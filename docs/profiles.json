@@ -439,19 +439,34 @@
                     "name": "skinrestorer-2.11.0+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/K7BFrFJD/skinrestorer-2.11.0%2B26.3-fabric.jar",
                     "sha1": "1da011465f62f631a95775aa9843a8b413a71db5",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "respackopts-26.3.0.jar",
                     "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/Whg3OJJA/respackopts-26.3.0.jar",
                     "sha1": "57aaafb29cac9fc0f17fed16124fa9e42fb7c65d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "libjf-26.3.1.jar",
                     "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/S0d8Wc3k/libjf-26.3.1.jar",
                     "sha1": "8da055eec23359d5654445d81fec3189888d9d90",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -813,7 +828,7 @@
             "loader": "fabric",
             "loader_version": "0.19.5",
             "visuals": {
-                "background": "https://images7.alphacoders.com/125/thumb-1920-1250158.png"
+                "background": "https://i.redd.it/gx9g92u17hr41.png"
             },
             "mods": [
                 {
@@ -4393,7 +4408,16 @@
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
@@ -4459,7 +4483,16 @@
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
@@ -4634,7 +4667,16 @@
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
@@ -5160,6 +5202,296 @@
                 "optimizado"
             ],
             "display_name": "Leggings Fix",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "betterf1-fabric-26.3-1.3.jar",
+            "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/e2QgfKVe/betterf1-fabric-26.3-1.3.jar",
+            "sha1": "3ab870e07e7757bd9ce1521fd8123f73e823518d",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Better F1 Reborn",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/A5X8OkYf/DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
+            "sha1": "eca7889240793fca4479b784e8461b8493239b67",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Detail Armor Bar Reconstructed",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "EclipseUI-fabric-1.0.5-fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/99cGtHRy/versions/OzaItfKs/EclipseUI-fabric-1.0.5-fabric-26.3.jar",
+                    "sha1": "1a1fb1dba40e50912684e0745e2363e4ca49d104",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "appleskin-fabric-mc26.3-3.0.10.jar",
+            "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar",
+            "sha1": "3d19e40c5f97186857db98e622c01c2cd0030497",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "AppleSkin",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "zoomify-2.17.0+mc26.3-universal.jar",
+            "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/RUBpNu00/zoomify-2.17.0%2Bmc26.3-universal.jar",
+            "sha1": "7f18090fea4a2ddae01e032d09629d14fa381d3f",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Zoomify (Zoom)",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+                    "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "shulkerboxtooltip-fabric-5.4.2+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/Cj9VEeGt/shulkerboxtooltip-fabric-5.4.2%2B26.3.jar",
+            "sha1": "2280c8ca8d77b4dcd5617daab3428b8115bef8d6",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Shulker Box Tooltip",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "particlerain-4.0.1+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/rQ8hQj4U/particlerain-4.0.1%2B26.3-fabric.jar",
+            "sha1": "d945b75d65a3bd1727a5e63d8d4a9d3c5e9ec64b",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Particle Rain",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "bobby-5.2.16+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/M08ruV16/versions/J7YnfCss/bobby-5.2.16%2Bmc26.3.jar",
+            "sha1": "0f4243dcc8298a109b5af511f959660b1a1a97db",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Bobby",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "sounds-2.6.0+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/QCFPBvDa/sounds-2.6.0%2B26.3-fabric.jar",
+            "sha1": "77a7f6a76045979687f60cdf3766767ff0d1a977",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Sounds",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "mru-1.0.43+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/wpEZ3KrZ/mru-1.0.43%2B26.3-fabric.jar",
+                    "sha1": "7e58e709188cc0648fe63bd5edf2372e2fc8c688",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+                    "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "Gamma-Utils-Fabric-3.2.0+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/b4sCL1Qe/Gamma-Utils-Fabric-3.2.0%2Bmc26.3.jar",
+            "sha1": "ab3537fc6630ed69e7835e786c6536aff34f1b36",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Gamma Utils (Fullbright)",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "ukus-armor-hud-fabric-0.14.0+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/wF189hn9/versions/URl1E7bP/ukus-armor-hud-fabric-0.14.0%2Bmc26.3.jar",
+            "sha1": "6abf9e3aadcd31f8330a249aa2dee8db575025c3",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "uku's Armor HUD",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "ukulib-fabric-2.2.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/whtjB9LL/ukulib-fabric-2.2.0%2B26.3.jar",
+                    "sha1": "7c355375064086913ee95fc1e3337108adbf8d5e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "coolrain-1.4.0-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/K9R06E1l/coolrain-1.4.0-26.3.jar",
+            "sha1": "07f9724c04e0e8050cff2d07e4503462b983184a",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Cool Rain",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "ViaFabricPlus-5.1.1.jar",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/vV9NPd0U/ViaFabricPlus-5.1.1.jar",
+            "sha1": "5198543345779fdd66db251cfe08c2905b7f3fe2",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "ViaFabricPlus",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "ParticleEffects-1.6.0+26.3+fabric.jar",
+            "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/QC0b0jJo/ParticleEffects-1.6.0%2B26.3%2Bfabric.jar",
+            "sha1": "3c4b4e119f8534e21e030ac4fee04c6f4e1d95ab",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Particle Effects",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "held-item-info-1.9.2.jar",
+            "url": "https://cdn.modrinth.com/data/tEcWzCZz/versions/bNAT9H23/held-item-info-1.9.2.jar",
+            "sha1": "bca147858d45f1bc91c09a3c30151fd53d5089cc",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Held Item Info",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
@@ -6595,190 +6927,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "betterf1-fabric-26.3-1.3.jar",
-            "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/e2QgfKVe/betterf1-fabric-26.3-1.3.jar",
-            "sha1": "3ab870e07e7757bd9ce1521fd8123f73e823518d",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Better F1 Reborn"
-        },
-        {
-            "name": "DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/A5X8OkYf/DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
-            "sha1": "eca7889240793fca4479b784e8461b8493239b67",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Detail Armor Bar Reconstructed",
-            "dependencies": [
-                {
-                    "name": "EclipseUI-fabric-1.0.5-fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/99cGtHRy/versions/OzaItfKs/EclipseUI-fabric-1.0.5-fabric-26.3.jar",
-                    "sha1": "1a1fb1dba40e50912684e0745e2363e4ca49d104",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "appleskin-fabric-mc26.3-3.0.10.jar",
-            "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/PHjDtQay/appleskin-fabric-mc26.3-3.0.10.jar",
-            "sha1": "3d19e40c5f97186857db98e622c01c2cd0030497",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "AppleSkin"
-        },
-        {
-            "name": "zoomify-2.17.0+mc26.3-universal.jar",
-            "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/RUBpNu00/zoomify-2.17.0%2Bmc26.3-universal.jar",
-            "sha1": "7f18090fea4a2ddae01e032d09629d14fa381d3f",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Zoomify (Zoom)",
-            "dependencies": [
-                {
-                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
-                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
-                    "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "shulkerboxtooltip-fabric-5.4.2+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/Cj9VEeGt/shulkerboxtooltip-fabric-5.4.2%2B26.3.jar",
-            "sha1": "2280c8ca8d77b4dcd5617daab3428b8115bef8d6",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Shulker Box Tooltip"
-        },
-        {
-            "name": "particlerain-4.0.1+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/rQ8hQj4U/particlerain-4.0.1%2B26.3-fabric.jar",
-            "sha1": "d945b75d65a3bd1727a5e63d8d4a9d3c5e9ec64b",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Particle Rain"
-        },
-        {
-            "name": "bobby-5.2.16+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/M08ruV16/versions/J7YnfCss/bobby-5.2.16%2Bmc26.3.jar",
-            "sha1": "0f4243dcc8298a109b5af511f959660b1a1a97db",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Bobby"
-        },
-        {
-            "name": "sounds-2.6.0+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/QCFPBvDa/sounds-2.6.0%2B26.3-fabric.jar",
-            "sha1": "77a7f6a76045979687f60cdf3766767ff0d1a977",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Sounds",
-            "dependencies": [
-                {
-                    "name": "mru-1.0.43+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/wpEZ3KrZ/mru-1.0.43%2B26.3-fabric.jar",
-                    "sha1": "7e58e709188cc0648fe63bd5edf2372e2fc8c688",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
-                    "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "Gamma-Utils-Fabric-3.2.0+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/b4sCL1Qe/Gamma-Utils-Fabric-3.2.0%2Bmc26.3.jar",
-            "sha1": "ab3537fc6630ed69e7835e786c6536aff34f1b36",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Gamma Utils (Fullbright)"
-        },
-        {
-            "name": "ukus-armor-hud-fabric-0.14.0+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/wF189hn9/versions/URl1E7bP/ukus-armor-hud-fabric-0.14.0%2Bmc26.3.jar",
-            "sha1": "6abf9e3aadcd31f8330a249aa2dee8db575025c3",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "uku's Armor HUD",
-            "dependencies": [
-                {
-                    "name": "ukulib-fabric-2.2.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/Y8uFrUil/versions/whtjB9LL/ukulib-fabric-2.2.0%2B26.3.jar",
-                    "sha1": "7c355375064086913ee95fc1e3337108adbf8d5e",
-                    "file_type": "mod"
-                }
-            ]
-        },
-        {
-            "name": "coolrain-1.4.0-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/K9R06E1l/coolrain-1.4.0-26.3.jar",
-            "sha1": "07f9724c04e0e8050cff2d07e4503462b983184a",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Cool Rain"
-        },
-        {
-            "name": "ViaFabricPlus-5.1.1.jar",
-            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/vV9NPd0U/ViaFabricPlus-5.1.1.jar",
-            "sha1": "5198543345779fdd66db251cfe08c2905b7f3fe2",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "ViaFabricPlus"
-        },
-        {
-            "name": "ParticleEffects-1.6.0+26.3+fabric.jar",
-            "url": "https://cdn.modrinth.com/data/PLAGcSFJ/versions/QC0b0jJo/ParticleEffects-1.6.0%2B26.3%2Bfabric.jar",
-            "sha1": "3c4b4e119f8534e21e030ac4fee04c6f4e1d95ab",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Particle Effects"
-        },
-        {
-            "name": "held-item-info-1.9.2.jar",
-            "url": "https://cdn.modrinth.com/data/tEcWzCZz/versions/bNAT9H23/held-item-info-1.9.2.jar",
-            "sha1": "bca147858d45f1bc91c09a3c30151fd53d5089cc",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Held Item Info"
         }
     ]
 }
