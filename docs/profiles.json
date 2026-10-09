@@ -833,6 +833,12 @@
                     "replaces": [
                         "ScalableLux-0.1.6+fabric.c25518a-all.jar"
                     ]
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -850,6 +856,17 @@
                 "background": "https://images7.alphacoders.com/125/thumb-1920-1250158.png"
             },
             "mods": [
+                {
+                    "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+                    "sha1": "62ae40a31b689b52fde399f2143d547a631e942c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
                 {
                     "name": "BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
                     "url": "https://cdn.modrinth.com/data/UIexcMP1/versions/tD2fz6dI/BorderlessFullscreen-v2.2.1-mc1.21.9.jar",
@@ -956,17 +973,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar",
-                    "sha1": "3F06271EA2C87634C23A37C97608B38FB78E015D",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Gamma Utils",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
@@ -1226,6 +1232,17 @@
                     ]
                 },
                 {
+                    "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar",
+                    "sha1": "3F06271EA2C87634C23A37C97608B38FB78E015D",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Gamma Utils",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
                     "name": "appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar",
                     "sha1": "441FDBF4E9C34FB61517CEB8E15618950DC4D314",
@@ -1442,6 +1459,12 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
+                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -5202,23 +5225,7 @@
             ],
             "display_name": "FPS Overlay",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null
         },
         {
@@ -5470,23 +5477,7 @@
             ],
             "display_name": "Cirrus",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null,
             "exclusive_group": "sky",
             "replaces": [
@@ -5539,23 +5530,7 @@
             ],
             "display_name": "Immersive Hotbar",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null
         },
         {
@@ -5600,23 +5575,7 @@
             ],
             "display_name": "Effect Timer Plus",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null,
             "exclusive_group": "effect"
         },
@@ -5631,6 +5590,20 @@
                 "pvp1.9"
             ],
             "display_name": "Clearer Slot Highlight",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar",
+            "sha1": "3f06271ea2c87634c23a37c97608b38fb78e015d",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21"
+            ],
+            "display_name": "Gamma Utils",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
@@ -5660,23 +5633,7 @@
             ],
             "display_name": "HitBox+",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null
         },
         {
@@ -5831,23 +5788,7 @@
             ],
             "display_name": "Animatium",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null,
             "incompatible_with": [
                 "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
@@ -5926,23 +5867,7 @@
             ],
             "display_name": "Clean Keystrokes",
             "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
+            "dependencies": [],
             "allowed_users": null,
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5998,21 +5923,6 @@
                     "install_path": null,
                     "target_profiles": null,
                     "display_name": "HUD Lib",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
-                    "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -6414,16 +6324,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
-            "display_name": "Gamma Utils",
-            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar",
-            "sha1": "3f06271ea2c87634c23a37c97608b38fb78e015d",
-            "file_type": "mod",
-            "target_profiles": [
-                "opt1.21"
-            ]
         }
     ]
 }
