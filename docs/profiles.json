@@ -4915,9 +4915,9 @@
             ]
         },
         {
-            "name": "smoothscroll-3.0.0.jar",
-            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/EhHH4Sfv/smoothscroll-3.0.0.jar",
-            "sha1": "853ab86683004562bda72e55409ef5e84f2c476a",
+            "name": "smoothscroll-3.0.1.jar",
+            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/bvDXfYZr/smoothscroll-3.0.1.jar",
+            "sha1": "4ff76e0c42aa1e7ad46e42de2902a429fef4c810",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4926,7 +4926,10 @@
             "display_name": "Smooth Scrolling",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "smoothscroll-3.0.0.jar"
+            ]
         },
         {
             "name": "smoothswapping-0.9.11-26.3-fabric.jar",
@@ -5483,9 +5486,9 @@
             "allowed_users": null
         },
         {
-            "name": "held-item-info-1.9.2.jar",
-            "url": "https://cdn.modrinth.com/data/tEcWzCZz/versions/bNAT9H23/held-item-info-1.9.2.jar",
-            "sha1": "bca147858d45f1bc91c09a3c30151fd53d5089cc",
+            "name": "held-item-info-1.9.3.jar",
+            "url": "https://cdn.modrinth.com/data/tEcWzCZz/versions/4rTrB3O6/held-item-info-1.9.3.jar",
+            "sha1": "190d00465d0445b901ff80a3396c7b775e047d1e",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5494,7 +5497,10 @@
             "display_name": "Held Item Info",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "held-item-info-1.9.2.jar"
+            ]
         },
         {
             "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -6927,6 +6933,26 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "who-i-am-1.2.0.jar",
+            "url": "https://cdn.modrinth.com/data/HoI3dXYs/versions/qkVZCJQQ/who-i-am-1.2.0.jar",
+            "sha1": "841480588f34fd79a1c47a326e707e446f9aa803",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Who I Am"
+        },
+        {
+            "name": "DidYouMentionMe-1.1.15.jar",
+            "url": "https://cdn.modrinth.com/data/AFnD7foe/versions/qni16E8C/DidYouMentionMe-1.1.15.jar",
+            "sha1": "95ff7e1aa7a47cdd5aa4c5c9c56411f97238f5d5",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Did You Mention Me?"
         }
     ]
 }
