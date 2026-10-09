@@ -5570,7 +5570,7 @@
                 "opt1.21",
                 "pvp1.9"
             ],
-            "display_name": "Key Overlay [HotBar]",
+            "display_name": "Key Overlay",
             "req_user_type": null,
             "dependencies": [],
             "allowed_users": null
@@ -5636,7 +5636,7 @@
             "target_profiles": [
                 "pvp1.9"
             ],
-            "display_name": "TotemBar",
+            "display_name": "Totem Bar",
             "req_user_type": null,
             "dependencies": [],
             "allowed_users": null
@@ -5715,7 +5715,7 @@
             "target_profiles": [
                 "pvp1.9"
             ],
-            "display_name": "Anti Invisibility",
+            "display_name": "AntiInvisibility",
             "req_user_type": "exclusive",
             "dependencies": null,
             "allowed_users": [
