@@ -5636,21 +5636,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "geckolib-neoforge-26.3-5.5.6.jar",
-                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/uGEFXLKA/geckolib-neoforge-26.3-5.5.6.jar",
-                    "sha1": "196231506b89da06925c087f9b8bc5fd12ebea16",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "MoogsGlowUp-fabric-26.3-2.2.1.jar",
                     "url": "https://cdn.modrinth.com/data/iLlwyhcZ/versions/XZ2CLdnb/MoogsGlowUp-fabric-26.3-2.2.1.jar",
                     "sha1": "2a69a83d67533021eb7cafb0a01cbe049f6069cd",
@@ -5679,6 +5664,13 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "geckolib-fabric-26.3-5.5.7.jar",
+                    "display_name": "Geckolib",
+                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
+                    "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": [
