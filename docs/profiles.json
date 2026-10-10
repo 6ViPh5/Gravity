@@ -4336,10 +4336,14 @@
                 },
                 {
                     "name": "viph-ideas-3.0+26.1.2.jar",
-                    "display_name": "viph-ideas-3.0+26.1.2.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-3.0+26.1.2.jar",
                     "sha1": "2547d264b885a93b2dc2799fd220ff933c99da21",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-3.0+26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -6997,9 +7001,9 @@
         },
         {
             "name": "viph-ideas-3.0+26.3.jar",
-            "display_name": "Mods Server Survival",
+            "display_name": "Mod's Server",
             "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server%20Survival/viph-ideas-3.0+26.3.jar",
-            "sha1": "9e907f7c99085894a8d9c578d40a837b36b1a874",
+            "sha1": "8766a599466341a0c62cd542b6952fcbffc11cf6",
             "file_type": "mod",
             "target_profiles": [
                 "optimizado"
@@ -7007,9 +7011,9 @@
             "req_user_type": "exclusive",
             "allowed_users": [
                 "6ViPh5",
+                "I_Flx",
                 "aluwjf",
                 "KelloGamer_LZ",
-                "I_Flx",
                 "_Ivana0711L"
             ]
         }
