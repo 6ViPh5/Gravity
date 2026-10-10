@@ -1404,17 +1404,25 @@
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
-                    "display_name": "YetAnotherConfigLib (YACL)",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/pHWDw3Vc/yet_another_config_lib_v3-3.8.2%2B1.21.11-fabric.jar",
                     "sha1": "f99cda70903f16dd6927a276150b2762b4d5ab66",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "YetAnotherConfigLib (YACL)",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
-                    "display_name": "Fabric Language Kotlin",
                     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
                     "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -4126,17 +4134,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-2.7.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-2.7.jar",
-                    "sha1": "91b3b57043ef0be550d8917245f1b72b22e62436",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-2.7.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "villagerconfig-fabric-4.6.0+26.1.2.jar",
                     "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/SNQutdno/villagerconfig-fabric-4.6.0%2B26.1.2.jar",
                     "sha1": "26aff1b13748f2c4cd669763c6f5debc4bf57100",
@@ -4336,6 +4333,13 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "viph-ideas-3.0+26.1.2.jar",
+                    "display_name": "viph-ideas-3.0+26.1.2.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-3.0+26.1.2.jar",
+                    "sha1": "2547d264b885a93b2dc2799fd220ff933c99da21",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -6990,6 +6994,24 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "viph-ideas-3.0+26.3.jar",
+            "display_name": "Mods Server Survival",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server%20Survival/viph-ideas-3.0+26.3.jar",
+            "sha1": "9e907f7c99085894a8d9c578d40a837b36b1a874",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "req_user_type": "exclusive",
+            "allowed_users": [
+                "6ViPh5",
+                "aluwjf",
+                "KelloGamer_LZ",
+                "I_Flx",
+                "_Ivana0711L"
+            ]
         }
     ]
 }
