@@ -7000,10 +7000,10 @@
             "allowed_users": null
         },
         {
-            "name": "viph-ideas-3.0+26.3.jar",
+            "name": "viph-ideas-3.2+26.3.jar",
             "display_name": "Mod's Server",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server%20Survival/viph-ideas-3.0+26.3.jar",
-            "sha1": "8766a599466341a0c62cd542b6952fcbffc11cf6",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server%20Survival/viph-ideas-3.2+26.3.jar",
+            "sha1": "0cacdfb4b0e9d50667701baa2d783b526bb472ed",
             "file_type": "mod",
             "target_profiles": [
                 "optimizado"
@@ -7011,10 +7011,10 @@
             "req_user_type": "exclusive",
             "allowed_users": [
                 "6ViPh5",
-                "I_Flx",
+                "_Ivana0711L",
                 "aluwjf",
                 "KelloGamer_LZ",
-                "_Ivana0711L"
+                "I_Flx"
             ]
         }
     ]
