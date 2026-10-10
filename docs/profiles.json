@@ -5609,79 +5609,6 @@
             "allowed_users": null
         },
         {
-            "name": "viph-ideas-3.5+26.3.jar",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.5+26.3.jar",
-            "sha1": "6829746d37775d9aca92446c2ef6047ac07dc6f0",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Mod's Server",
-            "req_user_type": "exclusive",
-            "dependencies": [
-                {
-                    "name": "mielon's-the-sift-1.1.2-mc26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/j0IfTxBq/versions/QK8RaspH/mielon%27s-the-sift-1.1.2-mc26.3-fabric.jar",
-                    "sha1": "af383e317add95b0692a0be9dadf6eeb7796263b",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "MoogsGlowUp-fabric-26.3-2.2.1.jar",
-                    "url": "https://cdn.modrinth.com/data/iLlwyhcZ/versions/XZ2CLdnb/MoogsGlowUp-fabric-26.3-2.2.1.jar",
-                    "sha1": "2a69a83d67533021eb7cafb0a01cbe049f6069cd",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "fancytoasts-1.5.1-fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/wG7aMfVG/fancytoasts-1.5.1-fabric-26.3.jar",
-                    "sha1": "0f33f315af8c29f53aca1d92eaa13343170a16cb",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "geckolib-fabric-26.3-5.5.7.jar",
-                    "display_name": "Geckolib",
-                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
-                    "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
-                    "file_type": "mod"
-                }
-            ],
-            "allowed_users": [
-                "6ViPh5",
-                "_Ivana0711L",
-                "I_Flx",
-                "aluwjf",
-                "KelloGamer_LZ"
-            ]
-        },
-        {
             "name": "spatial-gui-1.7.2+26.3-fabric.jar",
             "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/iVwhRkQc/spatial-gui-1.7.2%2B26.3-fabric.jar",
             "sha1": "8a67bd2fb9962176a2ef2f463af4b73748aa76d8",
@@ -7119,6 +7046,44 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "mielon's-the-sift-1.1.2-mc26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/j0IfTxBq/versions/QK8RaspH/mielon%27s-the-sift-1.1.2-mc26.3-fabric.jar",
+            "sha1": "af383e317add95b0692a0be9dadf6eeb7796263b",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Mod's Server",
+            "dependencies": [
+                {
+                    "name": "viph-ideas-3.5+26.3.jar",
+                    "display_name": "viph-ideas-3.5+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.5+26.3.jar",
+                    "sha1": "6829746d37775d9aca92446c2ef6047ac07dc6f0",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fancytoasts-1.5.1-fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/wG7aMfVG/fancytoasts-1.5.1-fabric-26.3.jar",
+                    "sha1": "0f33f315af8c29f53aca1d92eaa13343170a16cb",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "MoogsGlowUp-fabric-26.3-2.2.1.jar",
+                    "url": "https://cdn.modrinth.com/data/iLlwyhcZ/versions/XZ2CLdnb/MoogsGlowUp-fabric-26.3-2.2.1.jar",
+                    "sha1": "2a69a83d67533021eb7cafb0a01cbe049f6069cd",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "geckolib-fabric-26.3-5.5.7.jar",
+                    "display_name": "Geckolib",
+                    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
+                    "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
