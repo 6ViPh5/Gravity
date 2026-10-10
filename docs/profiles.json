@@ -4336,15 +4336,27 @@
                 },
                 {
                     "name": "viph-ideas-3.5+26.1.2.jar",
-                    "display_name": "viph-ideas-3.5+26.1.2.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Refined%20Horizons/viph-ideas-3.5+26.1.2.jar",
                     "sha1": "0369bb57e718ccf8e5a9ef1c2c334b36706075bc",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-3.5+26.1.2.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
             "allowed_users": null,
             "is_upcoming": null
+        },
+        {
+            "id": "test",
+            "name": "test",
+            "version": "321312",
+            "visuals": {
+                "background": ""
+            }
         }
     ],
     "optional_mods": [
@@ -5583,6 +5595,26 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "viph-ideas-3.5+26.3.jar",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.5+26.3.jar",
+            "sha1": "6829746d37775d9aca92446c2ef6047ac07dc6f0",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Mod's Server",
+            "req_user_type": "exclusive",
+            "dependencies": null,
+            "allowed_users": [
+                "6ViPh5",
+                "_Ivana0711L",
+                "I_Flx",
+                "aluwjf",
+                "KelloGamer_LZ"
+            ]
         },
         {
             "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -6994,24 +7026,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "viph-ideas-3.5+26.3.jar",
-            "display_name": "Mod's Server",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.5+26.3.jar",
-            "sha1": "6829746d37775d9aca92446c2ef6047ac07dc6f0",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ],
-            "req_user_type": "exclusive",
-            "allowed_users": [
-                "6ViPh5",
-                "_Ivana0711L",
-                "I_Flx",
-                "aluwjf",
-                "KelloGamer_LZ"
-            ]
         }
     ]
 }
