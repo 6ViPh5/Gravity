@@ -4349,14 +4349,6 @@
             "req_user_type": null,
             "allowed_users": null,
             "is_upcoming": null
-        },
-        {
-            "id": "test",
-            "name": "test",
-            "version": "321312",
-            "visuals": {
-                "background": ""
-            }
         }
     ],
     "optional_mods": [
