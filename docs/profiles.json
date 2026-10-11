@@ -5839,13 +5839,13 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-3.8+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.8+26.3.jar",
-                    "sha1": "317cf5bbd4cb472856bafca197d5211a5c9561ab",
+                    "name": "faewulf_lib-fabric-26.3-1.4.0.jar",
+                    "url": "https://cdn.modrinth.com/data/q4N9H96q/versions/RvsgVlGl/faewulf_lib-fabric-26.3-1.4.0.jar",
+                    "sha1": "1c58f4e92425d9935ed617f77357c6b1e640c3e2",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
-                    "display_name": "viph-ideas-3.8+26.3.jar",
+                    "display_name": "Faewulf's Lib",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
@@ -5854,17 +5854,25 @@
                     "replaces": null
                 },
                 {
-                    "name": "faewulf_lib-fabric-26.3-1.4.0.jar",
-                    "display_name": "Faewulf's Lib",
-                    "url": "https://cdn.modrinth.com/data/q4N9H96q/versions/RvsgVlGl/faewulf_lib-fabric-26.3-1.4.0.jar",
-                    "sha1": "1c58f4e92425d9935ed617f77357c6b1e640c3e2",
-                    "file_type": "mod"
-                },
-                {
                     "name": "piggyback-fabric-26.3-1.1.1.jar",
-                    "display_name": "Piggyback",
                     "url": "https://cdn.modrinth.com/data/yP77bAiA/versions/Roj9Ntmi/piggyback-fabric-26.3-1.1.1.jar",
                     "sha1": "23d5db966029c71978a8acd424a2ed5b2e59a2bb",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Piggyback",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "viph-ideas-3.9+26.3.jar",
+                    "display_name": "viph-ideas-3.9+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.9+26.3.jar",
+                    "sha1": "3550815a4c73ad38e065158f0dbad623cf67a535",
                     "file_type": "mod"
                 }
             ],
