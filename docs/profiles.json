@@ -5755,6 +5755,41 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "inventorysorter-fabric-3.0.1+mc26.3.jar",
+                    "display_name": "Inventory Sorting",
+                    "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/SJkiyopK/inventorysorter-fabric-3.0.1%2Bmc26.3.jar",
+                    "sha1": "2b0f704848bcb5e6e807e49ce9c502af6fee9f72",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "bettercoppergolem-FABRIC-2.5.0-26.3.jar",
+                    "display_name": "Better Copper Golem",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/1RrtVyR7/bettercoppergolem-FABRIC-2.5.0-26.3.jar",
+                    "sha1": "86369ce7dfb56cde3603bdcd7e3de10cb49b8b75",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "underlay-1.0.5-fabric-mc26.3.jar",
+                    "display_name": "Underlay",
+                    "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
+                    "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "accelerated-decay-fabric-26.3.0.1.jar",
+                    "display_name": "Accelerated Decay",
+                    "url": "https://cdn.modrinth.com/data/laX5CckD/versions/ldDOlltu/accelerated-decay-fabric-26.3.0.1.jar",
+                    "sha1": "03fa4f7b834fc9d90b7fa76850f4457fe93d4ca3",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "camerapture-1.10.15+mc26.3.jar",
+                    "display_name": "Camerapture",
+                    "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/zo2icmIo/camerapture-1.10.15%2Bmc26.3.jar",
+                    "sha1": "48489e23ebd921c9dd95bbbc8eb713bf9b566a10",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
@@ -5762,6 +5797,22 @@
                 "287f670348124261bef5c7833715c49960e74dee",
                 "bd4f770d11370c6c60f8fb415392c60e4bba3b56"
             ]
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "2167f1085897673f2d04dc31107737155867f55c",
+            "file_type": "resourcepack",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado",
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "ViPh Pack",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -7152,18 +7203,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "§4§lViPh Pack.zip",
-            "display_name": "ViPh Pack",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "2167f1085897673f2d04dc31107737155867f55c",
-            "file_type": "resourcepack",
-            "target_profiles": [
-                "optimizado",
-                "opt1.21",
-                "pvp1.9"
-            ]
         }
     ]
 }
