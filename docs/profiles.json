@@ -5583,8 +5583,8 @@
         },
         {
             "name": "spatial-gui-1.7.2+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/iVwhRkQc/spatial-gui-1.7.2%2B26.3-fabric.jar",
-            "sha1": "8a67bd2fb9962176a2ef2f463af4b73748aa76d8",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/DPJNlhy4/spatial-gui-1.7.2%2B26.3-fabric.jar",
+            "sha1": "a40215c68ce6e1df4a186bd671c2ad33ffe6e0f0",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5963,27 +5963,6 @@
             "exclusive_group": "sky",
             "replaces": [
                 "nuit-fabric-1.0.0-beta.2+mc1.21.11.jar"
-            ]
-        },
-        {
-            "name": "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A76%C2%A7lLuc%C2%A7e%C2%A7lkyP%C2%A7c%C2%A7lack%20%C2%A76Universo%C2%A7bCraft.zip",
-            "sha1": "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0",
-            "file_type": "resourcepack",
-            "install_path": "",
-            "target_profiles": [
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "LuckyPack UniversoCraft",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "2167f1085897673f2d04dc31107737155867f55c"
-            ],
-            "replaces": [
-                "§4§lViPh Pack.zip"
             ]
         },
         {
@@ -7184,9 +7163,6 @@
                 "optimizado",
                 "opt1.21",
                 "pvp1.9"
-            ],
-            "incompatible_with": [
-                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
             ]
         }
     ]
