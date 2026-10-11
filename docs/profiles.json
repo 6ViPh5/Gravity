@@ -252,17 +252,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "fishingrodfix-26.3-v0.6.jar",
-                    "url": "https://cdn.modrinth.com/data/x9ISUf1U/versions/tBPcVWlJ/fishingrodfix-26.3-v0.6.jar",
-                    "sha1": "b09baced81af91899a86111c4798233f1aa1d802",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Fishing Rod Fix",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "ImmediatelyFast-Fabric-1.17.1+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
                     "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
@@ -5716,37 +5705,78 @@
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
-                    "display_name": "YetAnotherConfigLib (YACL)",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "YetAnotherConfigLib (YACL)",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "xaeroworldmap-fabric-26.3-1.47.0.jar",
-                    "display_name": "Xaero's World Map",
                     "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nz9xjzWi/xaeroworldmap-fabric-26.3-1.47.0.jar",
                     "sha1": "9ace0b064668929e3f1df6b7eb012ac713526e96",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Xaero's World Map",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "xaerominimap-fabric-26.3-26.6.0.jar",
-                    "display_name": "Xaero's Minimap",
                     "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/B2aG1aya/xaerominimap-fabric-26.3-26.6.0.jar",
                     "sha1": "287f670348124261bef5c7833715c49960e74dee",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Xaero's Minimap",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "xmmp-1.1.2+26.2-fabric.jar",
-                    "display_name": "Xaero's Maps: Multiplayer+",
                     "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/Vhw09bJ0/xmmp-1.1.2%2B26.2-fabric.jar",
                     "sha1": "a632de1bcbc4823e3b866211cba632f73e03376b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Xaero's Maps: Multiplayer+",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
                     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
                     "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
