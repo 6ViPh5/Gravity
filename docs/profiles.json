@@ -4396,9 +4396,9 @@
             "allowed_users": null
         },
         {
-            "name": "atmospherics-2.6.6-mc-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/ypMUWkFh/atmospherics-2.6.6-mc-26.3.jar",
-            "sha1": "bc4fcb49efc8027bc017a47750a3dbcc60f8fac8",
+            "name": "atmospherics-2.6.7-mc-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/DbHCSFGO/atmospherics-2.6.7-mc-26.3.jar",
+            "sha1": "26159970cb2bbf7f844f57cabb84040407343dc3",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4410,6 +4410,9 @@
             "allowed_users": null,
             "incompatible_with": [
                 "2070952d0f1a473cc2d06be961e894e23e90876b"
+            ],
+            "replaces": [
+                "atmospherics-2.6.6-mc-26.3.jar"
             ]
         },
         {
@@ -4520,7 +4523,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "bc4fcb49efc8027bc017a47750a3dbcc60f8fac8"
+                "26159970cb2bbf7f844f57cabb84040407343dc3"
             ]
         },
         {
@@ -5437,9 +5440,9 @@
             "allowed_users": null
         },
         {
-            "name": "Gamma-Utils-Fabric-3.2.0+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/b4sCL1Qe/Gamma-Utils-Fabric-3.2.0%2Bmc26.3.jar",
-            "sha1": "ab3537fc6630ed69e7835e786c6536aff34f1b36",
+            "name": "Gamma-Utils-Fabric-3.2.1+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/zO0x3GkS/Gamma-Utils-Fabric-3.2.1%2Bmc26.3.jar",
+            "sha1": "b4e53eaa2ae98c708274e90a05da0a7ecf82463a",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5448,7 +5451,10 @@
             "display_name": "Gamma Utils (Fullbright)",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "Gamma-Utils-Fabric-3.2.0+mc26.3.jar"
+            ]
         },
         {
             "name": "ukus-armor-hud-fabric-0.14.0+mc26.3.jar",
@@ -5832,10 +5838,10 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-3.7+26.3.jar",
-                    "display_name": "viph-ideas-3.7+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.7+26.3.jar",
-                    "sha1": "45d06ff858177cd517b7beb7c09dfa28535b6c0a",
+                    "name": "viph-ideas-3.8+26.3.jar",
+                    "display_name": "viph-ideas-3.8+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.8+26.3.jar",
+                    "sha1": "317cf5bbd4cb472856bafca197d5211a5c9561ab",
                     "file_type": "mod"
                 }
             ],
@@ -5859,6 +5865,66 @@
             "display_name": "ViPh Pack",
             "req_user_type": null,
             "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "bagofholding-v26.3.2-mc26.3.x+fabric.jar",
+            "url": "https://cdn.modrinth.com/data/qbqWvc0D/versions/lMiMPPqX/bagofholding-v26.3.2-mc26.3.x%2Bfabric.jar",
+            "sha1": "c26e5c88595259a339633b0af6825175524c46d0",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Bag Of Holding",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "puzzleslib-v26.3.13-mc26.3.x+fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/rINxzqi2/puzzleslib-v26.3.13-mc26.3.x%2Bfabric.jar",
+                    "sha1": "aba1acde6bfe6c7dde42612f89cde990d3c4557f",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
             "allowed_users": null
         },
         {
