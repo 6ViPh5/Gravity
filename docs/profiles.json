@@ -5758,37 +5758,84 @@
                 },
                 {
                     "name": "inventorysorter-fabric-3.0.1+mc26.3.jar",
-                    "display_name": "Inventory Sorting",
                     "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/SJkiyopK/inventorysorter-fabric-3.0.1%2Bmc26.3.jar",
                     "sha1": "2b0f704848bcb5e6e807e49ce9c502af6fee9f72",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Inventory Sorting",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "bettercoppergolem-FABRIC-2.5.0-26.3.jar",
-                    "display_name": "Better Copper Golem",
                     "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/1RrtVyR7/bettercoppergolem-FABRIC-2.5.0-26.3.jar",
                     "sha1": "86369ce7dfb56cde3603bdcd7e3de10cb49b8b75",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Better Copper Golem",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "underlay-1.0.5-fabric-mc26.3.jar",
-                    "display_name": "Underlay",
                     "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
                     "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Underlay",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "accelerated-decay-fabric-26.3.0.1.jar",
-                    "display_name": "Accelerated Decay",
                     "url": "https://cdn.modrinth.com/data/laX5CckD/versions/ldDOlltu/accelerated-decay-fabric-26.3.0.1.jar",
                     "sha1": "03fa4f7b834fc9d90b7fa76850f4457fe93d4ca3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Accelerated Decay",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "camerapture-1.10.15+mc26.3.jar",
-                    "display_name": "Camerapture",
                     "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/zo2icmIo/camerapture-1.10.15%2Bmc26.3.jar",
                     "sha1": "48489e23ebd921c9dd95bbbc8eb713bf9b566a10",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Camerapture",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "reconnect-fabric-1.1.2+26.3.jar",
+                    "display_name": "Reconnect",
+                    "url": "https://cdn.modrinth.com/data/B1rMmsA0/versions/Jy0FCTPq/reconnect-fabric-1.1.2%2B26.3.jar",
+                    "sha1": "0fb189d71ce1e8dacbc1a67c5b01ab7525bda341",
                     "file_type": "mod"
                 }
             ],
