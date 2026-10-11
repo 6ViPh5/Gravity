@@ -5568,28 +5568,6 @@
             "allowed_users": null
         },
         {
-            "name": "§4§lViPh Pack.zip",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
-            "sha1": "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado",
-                "opt1.21",
-                "pvp1.9"
-            ],
-            "display_name": "ViPh Pack",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
-            ],
-            "replaces": [
-                "§6§lLuc§e§lkyP§c§lack §6Universo§bCraft.zip"
-            ]
-        },
-        {
             "name": "symbol-chat-26.3-1.4.3.jar",
             "url": "https://cdn.modrinth.com/data/NKvLVQMc/versions/Y9zsgkwF/symbol-chat-26.3-1.4.3.jar",
             "sha1": "c0106f7fbed831d570b76bdb70a3fa1ce22aa8f7",
@@ -6002,7 +5980,7 @@
             "dependencies": null,
             "allowed_users": null,
             "incompatible_with": [
-                "41107ae145c0b96d7f8d76cfdf90fac9b6a4e00a"
+                "2167f1085897673f2d04dc31107737155867f55c"
             ],
             "replaces": [
                 "§4§lViPh Pack.zip"
@@ -7195,6 +7173,21 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "§4§lViPh Pack.zip",
+            "display_name": "ViPh Pack",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/resourcepacks/%C2%A74%C2%A7lViPh%20Pack.zip",
+            "sha1": "2167f1085897673f2d04dc31107737155867f55c",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "optimizado",
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "incompatible_with": [
+                "dc1fe3e346d5a6965cfd5a83f1091b9fb6d285d0"
+            ]
         }
     ]
 }
