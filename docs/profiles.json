@@ -5900,9 +5900,24 @@
                 },
                 {
                     "name": "chococraft-26.3-fabric-0.18.0.jar",
-                    "display_name": "chococraft-26.3-fabric-0.18.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.0.jar",
                     "sha1": "79e39a5d06649004c3613deffe313be36f398681",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "chococraft-26.3-fabric-0.18.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "display_name": "Forge Config API Port",
+                    "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+                    "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
                     "file_type": "mod"
                 }
             ],
