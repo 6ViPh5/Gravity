@@ -5897,6 +5897,13 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "chococraft-26.3-fabric-0.18.0.jar",
+                    "display_name": "chococraft-26.3-fabric-0.18.0.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.0.jar",
+                    "sha1": "79e39a5d06649004c3613deffe313be36f398681",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
