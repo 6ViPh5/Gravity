@@ -5937,6 +5937,22 @@
             "allowed_users": null
         },
         {
+            "name": "Flashback-0.43.6-for-MC26.3.jar",
+            "url": "https://cdn.modrinth.com/data/4das1Fjq/versions/cV1pa0YV/Flashback-0.43.6-for-MC26.3.jar",
+            "sha1": "4fd7d2d677332f58b00107b27615379eadc6cfcb",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Flashback",
+            "req_user_type": "exclusive",
+            "dependencies": null,
+            "allowed_users": [
+                "6ViPh5"
+            ]
+        },
+        {
             "name": "bobby-5.2.11+mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
             "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
