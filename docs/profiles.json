@@ -5907,6 +5907,22 @@
                     "name": "customskyboxes-mc26.3-1.0.4.jar",
                     "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
                     "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "HideYourArmor-1.7.0-universal.jar",
+                    "display_name": "Hide Your Armor",
+                    "url": "https://cdn.modrinth.com/data/htFd9eMF/versions/uD8BlPPH/HideYourArmor-1.7.0-universal.jar",
+                    "sha1": "fa190ab68124dd5ed2fd963ab9d4f94480730860",
                     "file_type": "mod"
                 }
             ],
