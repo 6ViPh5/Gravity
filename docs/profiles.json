@@ -5890,9 +5890,23 @@
                 },
                 {
                     "name": "viph-ideas-4.0+26.3.jar",
-                    "display_name": "viph-ideas-4.0+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.0+26.3.jar",
                     "sha1": "e09dc2a973ca68f2ae8e3d1ba469a7835a367c22",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "viph-ideas-4.0+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "customskyboxes-mc26.3-1.0.4.jar",
+                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
+                    "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
                     "file_type": "mod"
                 }
             ],
