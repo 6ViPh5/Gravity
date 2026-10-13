@@ -469,12 +469,6 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
-                },
-                {
-                    "name": "reeses-sodium-options-fabric-2.2.5+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/EfchygKx/reeses-sodium-options-fabric-2.2.5%2Bmc26.3.jar",
-                    "sha1": "305aa813172358eb5e95d0a7af02a44326261226",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
