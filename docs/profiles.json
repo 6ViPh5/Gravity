@@ -5932,6 +5932,13 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "beacon_tinted_glass-1.0.0.jar",
+                    "display_name": "Beacon Tinted Glass",
+                    "url": "https://cdn.modrinth.com/data/mYqUO7Hx/versions/SMozXXfP/beacon_tinted_glass-1.0.0.jar",
+                    "sha1": "0c53623eda5a9c3595cba82d1ad851c3b1d3cd9b",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
