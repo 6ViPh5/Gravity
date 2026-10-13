@@ -94,15 +94,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "animatica-0.6.2+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/q6u7sgZG/animatica-0.6.2%2B26.3.jar",
-                    "sha1": "65fbee1197fcd342d88b34c33856da5c04fa7fed",
+                    "name": "animatica-0.6.3+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/doj27VCh/animatica-0.6.3%2B26.3.jar",
+                    "sha1": "c24b269d5cb523800bce90920de13ce7f042ba80",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "animatica-0.6.2+26.3.jar"
+                    ]
                 },
                 {
                     "name": "anvianslib-fabric-26.1-1.5.0.jar",
@@ -4908,7 +4911,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "f548607aea509f2a731c44d623a7ccb4c6ede30b"
+                "ba5a0bf10e0a8625bcab57e9a0dec43118ec6e74"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
@@ -4994,9 +4997,9 @@
             "allowed_users": null
         },
         {
-            "name": "SubtleEffects-fabric-26.3-1.15.0-hotfix.1.jar",
-            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/P53h6JUz/SubtleEffects-fabric-26.3-1.15.0-hotfix.1.jar",
-            "sha1": "b91ae1d371e863c73ab23ee9e66681d255a93be6",
+            "name": "SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
+            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/kxxX36ei/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
+            "sha1": "ae6b7673be9b98c2c663794386d3fc339da9bd24",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5023,7 +5026,8 @@
             ],
             "allowed_users": null,
             "replaces": [
-                "SubtleEffects-fabric-26.3-1.14.3.jar"
+                "SubtleEffects-fabric-26.3-1.14.3.jar",
+                "SubtleEffects-fabric-26.3-1.15.0-hotfix.1.jar"
             ]
         },
         {
@@ -5180,9 +5184,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.10.0.63.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xx7kXPHL/jei-26.3-fabric-31.10.0.63.jar",
-            "sha1": "f548607aea509f2a731c44d623a7ccb4c6ede30b",
+            "name": "jei-26.3-fabric-31.12.0.65.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/csqmrfNS/jei-26.3-fabric-31.12.0.65.jar",
+            "sha1": "ba5a0bf10e0a8625bcab57e9a0dec43118ec6e74",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5230,7 +5234,8 @@
             "replaces": [
                 "jei-26.3-fabric-31.9.0.57.jar",
                 "jei-26.3-fabric-31.9.0.58.jar",
-                "jei-26.3-fabric-31.9.0.61.jar"
+                "jei-26.3-fabric-31.9.0.61.jar",
+                "jei-26.3-fabric-31.10.0.63.jar"
             ]
         },
         {
@@ -5854,21 +5859,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-3.9+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-3.9+26.3.jar",
-                    "sha1": "3550815a4c73ad38e065158f0dbad623cf67a535",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "viph-ideas-3.9+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
                     "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
                     "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
@@ -5885,9 +5875,24 @@
                 },
                 {
                     "name": "chococraft-26.3-fabric-0.18.1.jar",
-                    "display_name": "chococraft-26.3-fabric-0.18.1.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.1.jar",
                     "sha1": "aec504b213ee274046e4f88c5029982e60b03a41",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "chococraft-26.3-fabric-0.18.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "viph-ideas-4.0+26.3.jar",
+                    "display_name": "viph-ideas-4.0+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.0+26.3.jar",
+                    "sha1": "e09dc2a973ca68f2ae8e3d1ba469a7835a367c22",
                     "file_type": "mod"
                 }
             ],
@@ -5928,6 +5933,20 @@
             "allowed_users": [
                 "6ViPh5"
             ]
+        },
+        {
+            "name": "customskyboxes-mc26.3-1.0.4.jar",
+            "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
+            "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Custom Skyboxes",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "bobby-5.2.11+mc1.21.11.jar",
