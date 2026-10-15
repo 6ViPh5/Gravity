@@ -266,17 +266,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "iris-fabric-1.11.7+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
-                    "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Iris Shaders",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "krypton-0.3.2.jar",
                     "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/UugdIYJw/krypton-0.3.2.jar",
                     "sha1": "21b21cb88e412f0bce73b6609de6dd6aca958d7d",
@@ -4355,6 +4344,23 @@
     ],
     "optional_mods": [
         {
+            "name": "iris-fabric-1.11.7+mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+            "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Iris Shaders",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "incompatible_with": [
+                "4535f7b2d81efd1683961468d47236595b066043"
+            ]
+        },
+        {
             "name": "Resourcify (26.3-fabric)-1.8.7.jar",
             "url": "https://cdn.modrinth.com/data/RLzHAoZe/versions/fRxNdO2e/Resourcify%20%2826.3-fabric%29-1.8.7.jar",
             "sha1": "2bc181e1ccb4fedd13cb71da17eb7ede85c21378",
@@ -7390,6 +7396,19 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "vitrail-0.13.0-beta+mc26.3.jar",
+            "display_name": "Vitrail Shaders",
+            "url": "https://cdn.modrinth.com/data/oSIKhgz3/versions/Q3nKuPKJ/vitrail-0.13.0-beta%2Bmc26.3.jar",
+            "sha1": "4535f7b2d81efd1683961468d47236595b066043",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ],
+            "incompatible_with": [
+                "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c"
+            ]
         }
     ]
 }
