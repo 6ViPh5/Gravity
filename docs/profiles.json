@@ -5632,11 +5632,6 @@
             ],
             "display_name": "Mod's Server",
             "req_user_type": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "287f670348124261bef5c7833715c49960e74dee",
-                "bd4f770d11370c6c60f8fb415392c60e4bba3b56"
-            ],
             "dependencies": [
                 {
                     "name": "fancytoasts-1.5.1-fabric-26.3.jar",
@@ -5939,20 +5934,17 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-4.1+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.1+26.3.jar",
-                    "sha1": "ceb08e9a2e383229086f0c97ac459b650a6f9fa7",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "viph-ideas-4.1+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
+                    "name": "viph-ideas-4.2+26.3.jar",
+                    "display_name": "viph-ideas-4.2+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.2+26.3.jar",
+                    "sha1": "6f4f4e8be6cb2129e4246c655c1464eb95f5842c",
+                    "file_type": "mod"
                 }
+            ],
+            "allowed_users": null,
+            "incompatible_with": [
+                "287f670348124261bef5c7833715c49960e74dee",
+                "bd4f770d11370c6c60f8fb415392c60e4bba3b56"
             ]
         },
         {
@@ -6003,13 +5995,17 @@
         },
         {
             "name": "vitrail-0.13.0-beta+mc26.3.jar",
-            "display_name": "Vitrail Shaders",
             "url": "https://cdn.modrinth.com/data/oSIKhgz3/versions/Q3nKuPKJ/vitrail-0.13.0-beta%2Bmc26.3.jar",
             "sha1": "4535f7b2d81efd1683961468d47236595b066043",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "optimizado"
             ],
+            "display_name": "Vitrail Shaders",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "incompatible_with": [
                 "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c"
             ]
