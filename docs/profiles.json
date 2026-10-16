@@ -5119,9 +5119,9 @@
             "allowed_users": null
         },
         {
-            "name": "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/fofTJCem/AccurateBlockPlacement-Reborn-1.4.7%2Bmc-26.3.jar",
-            "sha1": "ca2714e1952ccdcd74b46dc1d834907954fcb0a2",
+            "name": "AccurateBlockPlacement-Reborn-1.4.8+mc-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kzwxhsjp/versions/bQR5qyoO/AccurateBlockPlacement-Reborn-1.4.8%2Bmc-26.3.jar",
+            "sha1": "dd0df07534ccc5220179c3dc2fcd9cf310e59e04",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5130,7 +5130,10 @@
             "display_name": "Accurate Block Placement Reborn",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "AccurateBlockPlacement-Reborn-1.4.7+mc-26.3.jar"
+            ]
         },
         {
             "name": "xaerominimap-fabric-26.3-26.6.0.jar",
@@ -5241,7 +5244,8 @@
             "allowed_users": null,
             "exclusive_group": "enoughitems",
             "incompatible_with": [
-                "b7bfe27288f68027fab7277f4cf84b9d243f8978"
+                "b7bfe27288f68027fab7277f4cf84b9d243f8978",
+                "bundle_mods_server"
             ],
             "replaces": [
                 "jei-26.3-fabric-31.9.0.57.jar",
@@ -5972,7 +5976,8 @@
             "allowed_users": null,
             "incompatible_with": [
                 "287f670348124261bef5c7833715c49960e74dee",
-                "f63bae5db59f1c6fad84da5530767c5df947521d"
+                "f63bae5db59f1c6fad84da5530767c5df947521d",
+                "df69bceb090a522d654888dca54420ef3cc2f4f7"
             ]
         },
         {
