@@ -5991,6 +5991,13 @@
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
                     "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
                     "file_type": "mod"
+                },
+                {
+                    "name": "streamcraft-pc-0.29.3+mc26.3.jar",
+                    "display_name": "StreamCraft Live",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/m699zWQx/streamcraft-pc-0.29.3%2Bmc26.3.jar",
+                    "sha1": "c2fe1a5ce26ad834bebe5e620040b663445dbb03",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
