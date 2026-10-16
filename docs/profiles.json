@@ -5961,21 +5961,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "viph-ideas-4.3+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.3+26.3.jar",
-                    "sha1": "b73c729abaee5be9110ae05cf3e3caeb694a92bc",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "viph-ideas-4.3+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "plushables-fabric-2.6.1+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/bpUgmHBo/versions/og0GBAcE/plushables-fabric-2.6.1%2B26.3.jar",
                     "sha1": "1036cfded1868c622ed8ebfaabe73ebf753b99c1",
@@ -5985,6 +5970,26 @@
                     "name": "khazodacore-fabric-1.0.4+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/336usnuE/versions/LwxfLb9l/khazodacore-fabric-1.0.4%2B26.3.jar",
                     "sha1": "f30a9f159ac880b8342bb5e79daf4187f00b66cb",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "catfighting-fabric-26.3-1.2.2.jar",
+                    "url": "https://cdn.modrinth.com/data/7cRQ1FCd/versions/AnmlQE62/catfighting-fabric-26.3-1.2.2.jar",
+                    "sha1": "ff3e12add3e1766971aad927d2e609d731269366",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "music_disc_maker-3.1.1+fabric-26.3.jar",
+                    "display_name": "Music Disc Maker",
+                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/kCSQk86B/music_disc_maker-3.1.1%2Bfabric-26.3.jar",
+                    "sha1": "2ee276bd418eec152f20e7abb2508033f94924e4",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "viph-ideas-4.4+26.3.jar",
+                    "display_name": "viph-ideas-4.4+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
+                    "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
                     "file_type": "mod"
                 }
             ],
