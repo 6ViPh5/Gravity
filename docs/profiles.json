@@ -6282,21 +6282,6 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
-                },
-                {
-                    "name": "playeremotes-fabric-2.0.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/bGl7pYQC/playeremotes-fabric-2.0.0%2B26.3.jar",
-                    "sha1": "4eebb0493d945cc87229ce0dcda6551741c728c3",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
                 }
             ],
             "allowed_users": null,
