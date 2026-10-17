@@ -4926,9 +4926,6 @@
                 }
             ],
             "allowed_users": null,
-            "incompatible_with": [
-                "7fdf21e3d04883b8930202b454e8cae0f89e9a6b"
-            ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
             ]
@@ -5198,64 +5195,6 @@
             "allowed_users": null,
             "replaces": [
                 "xaerominimap-fabric-26.3-26.5.3.jar"
-            ]
-        },
-        {
-            "name": "jei-26.3-fabric-31.14.0.72.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Zebwcvua/jei-26.3-fabric-31.14.0.72.jar",
-            "sha1": "7fdf21e3d04883b8930202b454e8cae0f89e9a6b",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Just Enough Items (JEI)",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "mezz_config-26.3-fabric-0.6.8.jar",
-                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar",
-                    "sha1": "7e7770093973e2ffb53ff9fb8d32304bf73744c4",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "MezzConfig",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "norecipebook-4.3+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
-                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "NoRecipeBook",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null,
-            "exclusive_group": "enoughitems",
-            "incompatible_with": [
-                "b7bfe27288f68027fab7277f4cf84b9d243f8978",
-                "bundle_mods_server"
-            ],
-            "replaces": [
-                "jei-26.3-fabric-31.9.0.57.jar",
-                "jei-26.3-fabric-31.9.0.58.jar",
-                "jei-26.3-fabric-31.9.0.61.jar",
-                "jei-26.3-fabric-31.10.0.63.jar",
-                "jei-26.3-fabric-31.12.0.65.jar",
-                "jei-26.3-fabric-31.13.0.68.jar"
             ]
         },
         {
@@ -6019,13 +5958,27 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "guaranteed_profit-2.2.7-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/WaRfx0FS/versions/3NpVNGpq/guaranteed_profit-2.2.7-26.3.jar",
+                    "sha1": "3ef0e1882286a89d538289238a2edaca64603d3e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Guaranteed Profit",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
             "incompatible_with": [
                 "287f670348124261bef5c7833715c49960e74dee",
-                "f63bae5db59f1c6fad84da5530767c5df947521d",
-                "7fdf21e3d04883b8930202b454e8cae0f89e9a6b"
+                "f63bae5db59f1c6fad84da5530767c5df947521d"
             ]
         },
         {
