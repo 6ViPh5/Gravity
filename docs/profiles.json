@@ -4607,7 +4607,16 @@
                     "name": "underlay-1.0.5-fabric-mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
                     "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": [
@@ -6657,9 +6666,9 @@
             ]
         },
         {
-            "name": "skinlayers3d-fabric-1.11.3-mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/TpZj1P0j/skinlayers3d-fabric-1.11.3-mc1.21.11.jar",
-            "sha1": "0380392a308dd3d0b52f713713f3b904405a57c0",
+            "name": "skinlayers3d-fabric-1.11.4-mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/DsBJ7HB2/skinlayers3d-fabric-1.11.4-mc1.21.11.jar",
+            "sha1": "38e389c21847593e447f3af341135ba0ca8829fc",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6671,7 +6680,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "skinlayers3d-fabric-1.11.2-mc1.21.11.jar"
+                "skinlayers3d-fabric-1.11.2-mc1.21.11.jar",
+                "skinlayers3d-fabric-1.11.3-mc1.21.11.jar"
             ]
         },
         {
