@@ -4669,18 +4669,11 @@
                 },
                 {
                     "name": "emotecraft.json",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
-                    "sha1": "a790c005f0bc468fa520961c7623b791fc385872",
-                    "file_type": "config",
-                    "install_path": "config/",
-                    "target_profiles": null,
                     "display_name": "emotecraft.json",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
+                    "sha1": "4657a6c753795c3614ab710ac4732d0d88c51f70",
+                    "file_type": "config",
+                    "install_path": "config/"
                 }
             ],
             "allowed_users": [
@@ -6413,7 +6406,7 @@
                     "name": "emotecraft.json",
                     "display_name": "emotecraft.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
-                    "sha1": "c8645d32e2af1b6a9ac0d5f7607bdebf9f30641c",
+                    "sha1": "4657a6c753795c3614ab710ac4732d0d88c51f70",
                     "file_type": "config",
                     "install_path": "config/"
                 }
