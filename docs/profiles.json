@@ -4577,23 +4577,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "playeremotes-fabric-2.0.1+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/fOutqD0U/playeremotes-fabric-2.0.1%2B26.3.jar",
-                    "sha1": "c1056efd7ce04b266ea87373f8c599191ffffb8b",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": [
-                        "playeremotes-fabric-2.0.0+26.3.jar"
-                    ]
-                },
-                {
                     "name": "music_disc_maker-3.1.1+fabric-26.3.jar",
                     "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/kCSQk86B/music_disc_maker-3.1.1%2Bfabric-26.3.jar",
                     "sha1": "2ee276bd418eec152f20e7abb2508033f94924e4",
@@ -4643,6 +4626,18 @@
                     "display_name": "viph-ideas-4.4+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
                     "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
+                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
+                    "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
+                    "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
                     "file_type": "mod"
                 }
             ],
