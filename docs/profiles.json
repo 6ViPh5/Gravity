@@ -6389,6 +6389,21 @@
                     "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
                     "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
                     "file_type": "mod"
+                },
+                {
+                    "name": "emotecraft.json",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
+                    "sha1": "a790c005f0bc468fa520961c7623b791fc385872",
+                    "file_type": "config",
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "emotecraft.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
