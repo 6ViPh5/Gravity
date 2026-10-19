@@ -4669,11 +4669,24 @@
                 },
                 {
                     "name": "emotecraft.json",
-                    "display_name": "emotecraft.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
                     "sha1": "4657a6c753795c3614ab710ac4732d0d88c51f70",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "emotecraft.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "BendableCuboidsMerged-2.1.0+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/OI3FlFon/versions/DbUl93Sa/BendableCuboidsMerged-2.1.0%2Bmc.26.3.jar",
+                    "sha1": "5f8037cadcbe6139dd3ad15e65b7a17aa38d54ea",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": [
@@ -6404,11 +6417,24 @@
                 },
                 {
                     "name": "emotecraft.json",
-                    "display_name": "emotecraft.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
                     "sha1": "4657a6c753795c3614ab710ac4732d0d88c51f70",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "emotecraft.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "BendableCuboidsMerged-2.1.0+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/OI3FlFon/versions/DbUl93Sa/BendableCuboidsMerged-2.1.0%2Bmc.26.3.jar",
+                    "sha1": "5f8037cadcbe6139dd3ad15e65b7a17aa38d54ea",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
