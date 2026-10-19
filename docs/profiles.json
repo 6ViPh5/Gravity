@@ -238,9 +238,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.163.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bq3SsNGk/fabric-api-0.163.0%2B26.3.jar",
-                    "sha1": "65ada8c72b61ffb256e956baf53df28155daa479",
+                    "name": "fabric-api-0.164.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/LEklt8GT/fabric-api-0.164.0%2B26.3.jar",
+                    "sha1": "7ec45ba92a286ed7d0c57bcd74cf9182789741ec",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -249,7 +249,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "fabric-api-0.161.0+26.3.jar",
-                        "fabric-api-0.162.0+26.3.jar"
+                        "fabric-api-0.162.0+26.3.jar",
+                        "fabric-api-0.163.0+26.3.jar"
                     ]
                 },
                 {
@@ -6382,28 +6383,39 @@
                     "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
                     "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
                     "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
-                    "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "emotecraft.json",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
-                    "sha1": "a790c005f0bc468fa520961c7623b791fc385872",
-                    "file_type": "config",
-                    "install_path": "config/",
+                    "file_type": "mod",
+                    "install_path": null,
                     "target_profiles": null,
-                    "display_name": "emotecraft.json",
+                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
+                    "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "emotecraft.json",
+                    "display_name": "emotecraft.json",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
+                    "sha1": "c8645d32e2af1b6a9ac0d5f7607bdebf9f30641c",
+                    "file_type": "config",
+                    "install_path": "config/"
                 }
             ],
             "allowed_users": null,
