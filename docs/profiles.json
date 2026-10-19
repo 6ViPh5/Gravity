@@ -122,9 +122,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "AsyncParticles-26.3.2.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/j1Ad4S3b/AsyncParticles-26.3.2.0%2B26.3.jar",
-                    "sha1": "a4213196063c22b7c0df03fd0cf4337d50451d1b",
+                    "name": "AsyncParticles-26.3.2.1+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/msLpUZAi/AsyncParticles-26.3.2.1%2B26.3.jar",
+                    "sha1": "1d3c4b461405355f3ec8f9e1d2d1db2a91f7b96e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "AsyncParticles",
@@ -132,7 +132,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "AsyncParticles-26.3.2.0-alpha.3+26.3.jar"
+                        "AsyncParticles-26.3.2.0-alpha.3+26.3.jar",
+                        "AsyncParticles-26.3.2.0+26.3.jar"
                     ]
                 },
                 {
@@ -4424,9 +4425,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.1.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/hG2TKkUd/dreamdisplays-fabric-26.3-1.10.1.jar",
-                    "sha1": "664dadd4002cebf9daf1c3e8d4e94294a5e565b2",
+                    "name": "dreamdisplays-fabric-26.3-1.10.2.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/zigN7ACN/dreamdisplays-fabric-26.3-1.10.2.jar",
+                    "sha1": "7ca1a64c610b22a75532645a474e1d7d4ea8f16f",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4436,7 +4437,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "dreamdisplays-fabric-26.3-1.10.1.jar"
+                    ]
                 },
                 {
                     "name": "walllanterns-3.3.jar",
@@ -4574,9 +4577,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "playeremotes-fabric-2.0.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/bGl7pYQC/playeremotes-fabric-2.0.0%2B26.3.jar",
-                    "sha1": "4eebb0493d945cc87229ce0dcda6551741c728c3",
+                    "name": "playeremotes-fabric-2.0.1+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/fOutqD0U/playeremotes-fabric-2.0.1%2B26.3.jar",
+                    "sha1": "c1056efd7ce04b266ea87373f8c599191ffffb8b",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4586,7 +4589,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "playeremotes-fabric-2.0.0+26.3.jar"
+                    ]
                 },
                 {
                     "name": "music_disc_maker-3.1.1+fabric-26.3.jar",
@@ -4617,6 +4622,12 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "streamcraft-pc-0.29.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/m699zWQx/streamcraft-pc-0.29.3%2Bmc26.3.jar",
+                    "sha1": "c2fe1a5ce26ad834bebe5e620040b663445dbb03",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": [
@@ -5142,9 +5153,9 @@
             "allowed_users": null
         },
         {
-            "name": "punchy-2.8f-hotfix-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/ZTKLyIXH/punchy-2.8f-hotfix-fabric-26.3.jar",
-            "sha1": "fc36567bc0354d5d2f4dc3ba2466959da4f66ad8",
+            "name": "punchy-2.8g-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/Fi951GUL/punchy-2.8g-fabric-26.3.jar",
+            "sha1": "70a910465e4b36f55f6193991fc0c47545f6cebf",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5156,7 +5167,8 @@
             "allowed_users": null,
             "replaces": [
                 "punchy-2.8d-fabric-26.3.jar",
-                "punchy-2.8e-fabric-26.3.jar"
+                "punchy-2.8e-fabric-26.3.jar",
+                "punchy-2.8f-hotfix-fabric-26.3.jar"
             ]
         },
         {
@@ -5204,16 +5216,16 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "759fbbd02391cdbfd0dc59220b76635445159ed0"
+                "15755374a18f4940e2b8b03f7861967de667ce8c"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
             ]
         },
         {
-            "name": "skinlayers3d-fabric-1.11.3-mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
-            "sha1": "31ee367d5900d20a77c9c610cdd6dc9361c26865",
+            "name": "skinlayers3d-fabric-1.11.4-mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/gjM2TO0L/skinlayers3d-fabric-1.11.4-mc26.3.jar",
+            "sha1": "1eef5b7a4b931c236c117def1c6b867be0443116",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5222,7 +5234,10 @@
             "display_name": "3D Skin Layers",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "skinlayers3d-fabric-1.11.3-mc26.3.jar"
+            ]
         },
         {
             "name": "smoothgui-fabric-2.1.0+mc26.3.jar",
@@ -5246,9 +5261,9 @@
             ]
         },
         {
-            "name": "smoothscroll-3.0.1.jar",
-            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/bvDXfYZr/smoothscroll-3.0.1.jar",
-            "sha1": "4ff76e0c42aa1e7ad46e42de2902a429fef4c810",
+            "name": "smoothscroll-3.0.2.jar",
+            "url": "https://cdn.modrinth.com/data/CllP7wW0/versions/fE9IISvs/smoothscroll-3.0.2.jar",
+            "sha1": "d223721f6d105599b08651f22551df8551fbf062",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5259,7 +5274,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "smoothscroll-3.0.0.jar"
+                "smoothscroll-3.0.0.jar",
+                "smoothscroll-3.0.1.jar"
             ]
         },
         {
@@ -5478,9 +5494,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.15.0.75.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rWIUh2x6/jei-26.3-fabric-31.15.0.75.jar",
-            "sha1": "759fbbd02391cdbfd0dc59220b76635445159ed0",
+            "name": "jei-26.3-fabric-31.16.0.84.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/G8Pw3LAj/jei-26.3-fabric-31.16.0.84.jar",
+            "sha1": "15755374a18f4940e2b8b03f7861967de667ce8c",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5533,7 +5549,8 @@
                 "jei-26.3-fabric-31.10.0.63.jar",
                 "jei-26.3-fabric-31.12.0.65.jar",
                 "jei-26.3-fabric-31.13.0.68.jar",
-                "jei-26.3-fabric-31.14.0.72.jar"
+                "jei-26.3-fabric-31.14.0.72.jar",
+                "jei-26.3-fabric-31.15.0.75.jar"
             ]
         },
         {
@@ -5893,9 +5910,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.7.2+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/DPJNlhy4/spatial-gui-1.7.2%2B26.3-fabric.jar",
-            "sha1": "a40215c68ce6e1df4a186bd671c2ad33ffe6e0f0",
+            "name": "spatial-gui-1.8+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/8y9LJEzb/spatial-gui-1.8%2B26.3-fabric.jar",
+            "sha1": "39260a0d56a5a49bee4c533e1a7f0e9d7c2542d8",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5904,7 +5921,10 @@
             "display_name": "Spatial GUI",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "spatial-gui-1.7.2+26.3-fabric.jar"
+            ]
         },
         {
             "name": "enchanted_fishing_line-1.0.1-fabric-26.3.jar",
@@ -6072,9 +6092,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.6.0-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/60v0SxqX/bettercoppergolem-FABRIC-2.6.0-26.3.jar",
-                    "sha1": "dc8bb5d4ffac0466c48ab6062bc34a270e326ba4",
+                    "name": "bettercoppergolem-FABRIC-2.7.1-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/z34ORuoy/bettercoppergolem-FABRIC-2.7.1-26.3.jar",
+                    "sha1": "ebccde9584d3d221cd1017aff3628726b32b9a58",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6085,7 +6105,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "bettercoppergolem-FABRIC-2.5.0-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.5.0-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.6.0-26.3.jar"
                     ]
                 },
                 {
@@ -6284,9 +6305,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.1.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/hG2TKkUd/dreamdisplays-fabric-26.3-1.10.1.jar",
-                    "sha1": "664dadd4002cebf9daf1c3e8d4e94294a5e565b2",
+                    "name": "dreamdisplays-fabric-26.3-1.10.2.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/zigN7ACN/dreamdisplays-fabric-26.3-1.10.2.jar",
+                    "sha1": "7ca1a64c610b22a75532645a474e1d7d4ea8f16f",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6296,12 +6317,14 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "dreamdisplays-fabric-26.3-1.10.1.jar"
+                    ]
                 },
                 {
-                    "name": "playeremotes-fabric-2.0.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/bGl7pYQC/playeremotes-fabric-2.0.0%2B26.3.jar",
-                    "sha1": "4eebb0493d945cc87229ce0dcda6551741c728c3",
+                    "name": "playeremotes-fabric-2.0.1+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/TfUCUpDy/versions/fOutqD0U/playeremotes-fabric-2.0.1%2B26.3.jar",
+                    "sha1": "c1056efd7ce04b266ea87373f8c599191ffffb8b",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6311,14 +6334,16 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "playeremotes-fabric-2.0.0+26.3.jar"
+                    ]
                 }
             ],
             "allowed_users": null,
             "incompatible_with": [
                 "287f670348124261bef5c7833715c49960e74dee",
                 "f63bae5db59f1c6fad84da5530767c5df947521d",
-                "759fbbd02391cdbfd0dc59220b76635445159ed0",
+                "15755374a18f4940e2b8b03f7861967de667ce8c",
                 "bundle_mvbyll4kjbl"
             ]
         },
@@ -6459,11 +6484,18 @@
                 },
                 {
                     "name": "config.jsonc",
-                    "display_name": "config.jsonc",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/1.21.11/config/customscoreboard/config.jsonc",
                     "sha1": "d1c02eafa37eba7302d8e308a2a2c8d5c009fed9",
                     "file_type": "mod",
-                    "install_path": "config/customscoreboard/"
+                    "install_path": "config/customscoreboard/",
+                    "target_profiles": null,
+                    "display_name": "config.jsonc",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
