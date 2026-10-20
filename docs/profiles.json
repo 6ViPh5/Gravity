@@ -4744,10 +4744,18 @@
                 },
                 {
                     "name": "emotecapefix-1.0.0.jar",
-                    "display_name": "emotecapefix-1.0.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "emotecapefix-1.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": [
@@ -6536,10 +6544,18 @@
                 },
                 {
                     "name": "emotecapefix-1.0.0.jar",
-                    "display_name": "emotecapefix-1.0.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "emotecapefix-1.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
@@ -7562,6 +7578,9 @@
                 }
             ],
             "allowed_users": null,
+            "incompatible_with": [
+                "f23748f80ccb8d534b44c73dc55c186578ec97d9"
+            ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
             ]
@@ -8032,6 +8051,19 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "bettercps-1.0.0+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/YTem7M7w/versions/pZ3KPDGp/bettercps-1.0.0%2B1.21.11.jar",
+            "sha1": "f23748f80ccb8d534b44c73dc55c186578ec97d9",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Better CPS",
+            "incompatible_with": [
+                "9e1ef68e21ac70d41430f9241778681a194af510"
+            ]
         }
     ]
 }
