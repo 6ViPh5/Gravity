@@ -4684,11 +4684,18 @@
                 },
                 {
                     "name": "emotecraft.json",
-                    "display_name": "emotecraft.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
                     "sha1": "479c4fe4cef7734f36b5f3e4b26bd3851e96d65e",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "emotecraft.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": [
@@ -6434,11 +6441,18 @@
                 },
                 {
                     "name": "emotecraft.json",
-                    "display_name": "emotecraft.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
                     "sha1": "479c4fe4cef7734f36b5f3e4b26bd3851e96d65e",
                     "file_type": "config",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "target_profiles": null,
+                    "display_name": "emotecraft.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
@@ -7903,6 +7917,26 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "diorama-0.2.0+26.3.jar",
+            "display_name": "Diorama",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/JwJEsvTQ/diorama-0.2.0%2B26.3.jar",
+            "sha1": "7ccc7f988f41383cf5cab8ba1a71541e541fdf81",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
+        },
+        {
+            "name": "CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
+            "display_name": "CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
+            "sha1": "c73a1172bbc83da14da8ea616eca374cab8b25ad",
+            "file_type": "mod",
+            "target_profiles": [
+                "optimizado"
+            ]
         }
     ]
 }
