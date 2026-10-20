@@ -7582,8 +7582,8 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "d761c452667619e5c042bded9d8930cae685cc49",
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
+                "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
+                "d761c452667619e5c042bded9d8930cae685cc49"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -7708,6 +7708,56 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "evergreenhud-3.9.10+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/pqGRid4x/evergreenhud-3.9.10%2B1.21.11.jar",
+            "sha1": "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "EvergreenHUD (FPS / CPS / Keystrokes HUD)",
+            "req_user_type": null,
+            "dependencies": [
+                {
+                    "name": "OneConfig-1.21.11-fabric-1.4.4.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/2IR2TbjE/OneConfig-1.21.11-fabric-1.4.4.jar",
+                    "sha1": "3482cd854703f08891306fd38c91a415f67a6f0f",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                },
+                {
+                    "name": "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/2P056ND6/compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
+                    "sha1": "13277d0018a0a3a811c704f9e82fb970bec127ce",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
+                }
+            ],
+            "allowed_users": null,
+            "incompatible_with": [
+                "9e1ef68e21ac70d41430f9241778681a194af510",
+                "50df73810034c4ce95cca95e7005b76ea8ceb4dd",
+                "d761c452667619e5c042bded9d8930cae685cc49"
+            ]
         },
         {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
@@ -8058,45 +8108,16 @@
         },
         {
             "name": "cpsplus-1.0.0+mc1.21.jar",
+            "display_name": "CPS+ | cps counter",
             "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/hiFpRr7Q/cpsplus-1.0.0%2Bmc1.21.jar",
             "sha1": "d761c452667619e5c042bded9d8930cae685cc49",
             "file_type": "mod",
             "target_profiles": [
                 "pvp1.9"
             ],
-            "display_name": "CPS+ | cps counter",
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
                 "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
-            ]
-        },
-        {
-            "name": "evergreenhud-3.9.10+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/pqGRid4x/evergreenhud-3.9.10%2B1.21.11.jar",
-            "sha1": "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "EvergreenHUD (FPS / CPS / Keystrokes HUD)",
-            "dependencies": [
-                {
-                    "name": "OneConfig-1.21.11-fabric-1.4.4.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/2IR2TbjE/OneConfig-1.21.11-fabric-1.4.4.jar",
-                    "sha1": "3482cd854703f08891306fd38c91a415f67a6f0f",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/2P056ND6/compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
-                    "sha1": "13277d0018a0a3a811c704f9e82fb970bec127ce",
-                    "file_type": "mod"
-                }
-            ],
-            "incompatible_with": [
-                "9e1ef68e21ac70d41430f9241778681a194af510",
-                "d761c452667619e5c042bded9d8930cae685cc49",
-                "50df73810034c4ce95cca95e7005b76ea8ceb4dd"
             ]
         }
     ]
