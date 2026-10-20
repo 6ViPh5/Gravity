@@ -4696,6 +4696,27 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "bloctube-1.0.2.jar",
+                    "display_name": "bloctube-1.0.2.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.2.jar",
+                    "sha1": "0f62c2adca051518fd155773def353fa367a7ba5",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia-3.0.0.24.jar",
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
+                    "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia_binaries-3.0.0.6.jar",
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
+                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": [
@@ -6378,23 +6399,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.2.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/zigN7ACN/dreamdisplays-fabric-26.3-1.10.2.jar",
-                    "sha1": "7ca1a64c610b22a75532645a474e1d7d4ea8f16f",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": [
-                        "dreamdisplays-fabric-26.3-1.10.1.jar"
-                    ]
-                },
-                {
                     "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
                     "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
                     "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
@@ -6453,6 +6457,27 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "bloctube-1.0.2.jar",
+                    "display_name": "bloctube-1.0.2.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.2.jar",
+                    "sha1": "0f62c2adca051518fd155773def353fa367a7ba5",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia-3.0.0.24.jar",
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
+                    "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia_binaries-3.0.0.6.jar",
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
+                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
@@ -6525,6 +6550,34 @@
             "incompatible_with": [
                 "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c"
             ]
+        },
+        {
+            "name": "diorama-0.2.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/JwJEsvTQ/diorama-0.2.0%2B26.3.jar",
+            "sha1": "7ccc7f988f41383cf5cab8ba1a71541e541fdf81",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Diorama",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
+            "sha1": "c73a1172bbc83da14da8ea616eca374cab8b25ad",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado"
+            ],
+            "display_name": "Cinematic Interactions",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "bobby-5.2.11+mc1.21.11.jar",
@@ -7917,26 +7970,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "diorama-0.2.0+26.3.jar",
-            "display_name": "Diorama",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/JwJEsvTQ/diorama-0.2.0%2B26.3.jar",
-            "sha1": "7ccc7f988f41383cf5cab8ba1a71541e541fdf81",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
-        },
-        {
-            "name": "CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
-            "display_name": "Cinematic Interactions",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/CinematicInteractions-Beta-0.18.7-Fabric-26.3.jar",
-            "sha1": "c73a1172bbc83da14da8ea616eca374cab8b25ad",
-            "file_type": "mod",
-            "target_profiles": [
-                "optimizado"
-            ]
         }
     ]
 }
