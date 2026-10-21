@@ -4426,9 +4426,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.2.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/zigN7ACN/dreamdisplays-fabric-26.3-1.10.2.jar",
-                    "sha1": "7ca1a64c610b22a75532645a474e1d7d4ea8f16f",
+                    "name": "dreamdisplays-fabric-26.3-1.10.3.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/RgWGwoB1/dreamdisplays-fabric-26.3-1.10.3.jar",
+                    "sha1": "1bdb2354615c8262046686799be7ebe5c5830d16",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4439,7 +4439,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "dreamdisplays-fabric-26.3-1.10.1.jar"
+                        "dreamdisplays-fabric-26.3-1.10.1.jar",
+                        "dreamdisplays-fabric-26.3-1.10.2.jar"
                     ]
                 },
                 {
@@ -4488,9 +4489,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "customskyboxes-mc26.3-1.0.4.jar",
-                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
-                    "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
+                    "name": "customskyboxes-mc26.3-1.0.4.1.jar",
+                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
+                    "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4500,7 +4501,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "customskyboxes-mc26.3-1.0.4.jar"
+                    ]
                 },
                 {
                     "name": "pehkui-rebuilt-fabric-3.8.7+26.3.jar",
@@ -4698,21 +4701,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "bloctube-1.0.2.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.2.jar",
-                    "sha1": "0f62c2adca051518fd155773def353fa367a7ba5",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "bloctube-1.0.2.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "watermedia-3.0.0.24.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
@@ -4756,6 +4744,13 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "bloctube-1.0.3.jar",
+                    "display_name": "bloctube-1.0.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.3.jar",
+                    "sha1": "fd4cb3a74537cf2389ce8a12cbddeb107a7be353",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": [
@@ -5347,7 +5342,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "385ae2cc369e09ee6af0454132bb1bffc2dee620"
+                "79c124eca69ef659de4056b5aba73e8324893d11"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
@@ -5424,9 +5419,9 @@
             "allowed_users": null
         },
         {
-            "name": "sound-physics-remastered-fabric-1.5.1+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/9loJgQlO/sound-physics-remastered-fabric-1.5.1%2B26.3.jar",
-            "sha1": "6259b275cda55f802cdb898729e88fd33f437310",
+            "name": "sound-physics-remastered-fabric-1.5.2+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/gA7nKz5g/sound-physics-remastered-fabric-1.5.2%2B26.3.jar",
+            "sha1": "71bd05396d44481fd48171c6d24e047285a93781",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5435,7 +5430,10 @@
             "display_name": "Sound Physics Remastered",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "sound-physics-remastered-fabric-1.5.1+26.3.jar"
+            ]
         },
         {
             "name": "SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
@@ -5562,9 +5560,9 @@
             ]
         },
         {
-            "name": "xaerominimap-fabric-26.3-26.6.0.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/B2aG1aya/xaerominimap-fabric-26.3-26.6.0.jar",
-            "sha1": "287f670348124261bef5c7833715c49960e74dee",
+            "name": "xaerominimap-fabric-26.3-26.6.1.jar",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eUEhnw8G/xaerominimap-fabric-26.3-26.6.1.jar",
+            "sha1": "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5621,13 +5619,14 @@
             ],
             "allowed_users": null,
             "replaces": [
-                "xaerominimap-fabric-26.3-26.5.3.jar"
+                "xaerominimap-fabric-26.3-26.5.3.jar",
+                "xaerominimap-fabric-26.3-26.6.0.jar"
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.16.0.86.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/FZo1k4Vx/jei-26.3-fabric-31.16.0.86.jar",
-            "sha1": "385ae2cc369e09ee6af0454132bb1bffc2dee620",
+            "name": "jei-26.3-fabric-31.16.0.87.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YO1qWjF9/jei-26.3-fabric-31.16.0.87.jar",
+            "sha1": "79c124eca69ef659de4056b5aba73e8324893d11",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5682,7 +5681,8 @@
                 "jei-26.3-fabric-31.13.0.68.jar",
                 "jei-26.3-fabric-31.14.0.72.jar",
                 "jei-26.3-fabric-31.15.0.75.jar",
-                "jei-26.3-fabric-31.16.0.84.jar"
+                "jei-26.3-fabric-31.16.0.84.jar",
+                "jei-26.3-fabric-31.16.0.86.jar"
             ]
         },
         {
@@ -5955,9 +5955,9 @@
             "allowed_users": null
         },
         {
-            "name": "ViaFabricPlus-5.1.1.jar",
-            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/vV9NPd0U/ViaFabricPlus-5.1.1.jar",
-            "sha1": "5198543345779fdd66db251cfe08c2905b7f3fe2",
+            "name": "ViaFabricPlus-5.1.2.jar",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/USbdQnMN/ViaFabricPlus-5.1.2.jar",
+            "sha1": "3d9aa76fbfdd519c597c267bc3fd0fb600703894",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5966,7 +5966,10 @@
             "display_name": "ViaFabricPlus",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "ViaFabricPlus-5.1.1.jar"
+            ]
         },
         {
             "name": "ParticleEffects-1.6.0+26.3+fabric.jar",
@@ -6147,9 +6150,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "xaeroworldmap-fabric-26.3-1.47.0.jar",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/nz9xjzWi/xaeroworldmap-fabric-26.3-1.47.0.jar",
-                    "sha1": "9ace0b064668929e3f1df6b7eb012ac713526e96",
+                    "name": "xaeroworldmap-fabric-26.3-1.47.1.jar",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IEtfiHVq/xaeroworldmap-fabric-26.3-1.47.1.jar",
+                    "sha1": "363e802d0f8e18af729cbd2707e3dc6d0e9e7071",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6159,12 +6162,14 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "xaeroworldmap-fabric-26.3-1.47.0.jar"
+                    ]
                 },
                 {
-                    "name": "xaerominimap-fabric-26.3-26.6.0.jar",
-                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/B2aG1aya/xaerominimap-fabric-26.3-26.6.0.jar",
-                    "sha1": "287f670348124261bef5c7833715c49960e74dee",
+                    "name": "xaerominimap-fabric-26.3-26.6.1.jar",
+                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eUEhnw8G/xaerominimap-fabric-26.3-26.6.1.jar",
+                    "sha1": "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6174,7 +6179,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "xaerominimap-fabric-26.3-26.6.0.jar"
+                    ]
                 },
                 {
                     "name": "xmmp-1.2.3+26.2-fabric.jar",
@@ -6348,9 +6355,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "customskyboxes-mc26.3-1.0.4.jar",
-                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
-                    "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
+                    "name": "customskyboxes-mc26.3-1.0.4.1.jar",
+                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
+                    "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6360,7 +6367,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "customskyboxes-mc26.3-1.0.4.jar"
+                    ]
                 },
                 {
                     "name": "HideYourArmor-1.7.0-universal.jar",
@@ -6498,21 +6507,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "bloctube-1.0.2.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.2.jar",
-                    "sha1": "0f62c2adca051518fd155773def353fa367a7ba5",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "bloctube-1.0.2.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "watermedia-3.0.0.24.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
@@ -6556,13 +6550,20 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "bloctube-1.0.3.jar",
+                    "display_name": "bloctube-1.0.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.3.jar",
+                    "sha1": "fd4cb3a74537cf2389ce8a12cbddeb107a7be353",
+                    "file_type": "mod"
                 }
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "287f670348124261bef5c7833715c49960e74dee",
+                "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
                 "f63bae5db59f1c6fad84da5530767c5df947521d",
-                "385ae2cc369e09ee6af0454132bb1bffc2dee620",
+                "79c124eca69ef659de4056b5aba73e8324893d11",
                 "bundle_mvbyll4kjbl"
             ]
         },
@@ -6599,9 +6600,9 @@
             ]
         },
         {
-            "name": "customskyboxes-mc26.3-1.0.4.jar",
-            "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/dw4IRBoj/customskyboxes-mc26.3-1.0.4.jar",
-            "sha1": "53a6ca2a74170ca2a360512baf824c9df0985b2f",
+            "name": "customskyboxes-mc26.3-1.0.4.1.jar",
+            "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
+            "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6610,7 +6611,10 @@
             "display_name": "Custom Skyboxes",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "customskyboxes-mc26.3-1.0.4.jar"
+            ]
         },
         {
             "name": "vitrail-0.13.0-beta+mc26.3.jar",
@@ -7760,6 +7764,24 @@
             ]
         },
         {
+            "name": "cpsplus-1.0.0+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/Jlm7h5oM/cpsplus-1.0.0%2Bmc1.21.11.jar",
+            "sha1": "6d6c6a401538067acdce158fe30426e71544a6e2",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "CPS+ | cps counter",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
+            "incompatible_with": [
+                "9e1ef68e21ac70d41430f9241778681a194af510",
+                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
+            ]
+        },
+        {
             "name": "Essential_1-5-0-1_fabric_26-1-2.jar",
             "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/CDJqeuBJ/Essential_1-5-0-1_fabric_26-1-2.jar",
             "sha1": "7d6975d27132b291e6f66b9b94ae66849d6d74b1",
@@ -8105,20 +8127,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "cpsplus-1.0.0+mc1.21.11.jar",
-            "display_name": "CPS+ | cps counter",
-            "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/Jlm7h5oM/cpsplus-1.0.0%2Bmc1.21.11.jar",
-            "sha1": "6d6c6a401538067acdce158fe30426e71544a6e2",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "incompatible_with": [
-                "9e1ef68e21ac70d41430f9241778681a194af510",
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
-            ]
         }
     ]
 }
