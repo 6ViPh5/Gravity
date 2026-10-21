@@ -7587,7 +7587,7 @@
             "allowed_users": null,
             "incompatible_with": [
                 "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
-                "6d6c6a401538067acdce158fe30426e71544a6e2"
+                "d761c452667619e5c042bded9d8930cae685cc49"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -7760,13 +7760,13 @@
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
                 "50df73810034c4ce95cca95e7005b76ea8ceb4dd",
-                "6d6c6a401538067acdce158fe30426e71544a6e2"
+                "d761c452667619e5c042bded9d8930cae685cc49"
             ]
         },
         {
-            "name": "cpsplus-1.0.0+mc1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/Jlm7h5oM/cpsplus-1.0.0%2Bmc1.21.11.jar",
-            "sha1": "6d6c6a401538067acdce158fe30426e71544a6e2",
+            "name": "cpsplus-1.0.0+mc1.21.jar",
+            "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/hiFpRr7Q/cpsplus-1.0.0%2Bmc1.21.jar",
+            "sha1": "d761c452667619e5c042bded9d8930cae685cc49",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -7779,6 +7779,9 @@
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
                 "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
+            ],
+            "replaces": [
+                "cpsplus-1.0.0+mc1.21.11.jar"
             ]
         },
         {
