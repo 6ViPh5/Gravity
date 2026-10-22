@@ -184,15 +184,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "enhancedblockentities-0.13.1+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/vhH2bwq7/enhancedblockentities-0.13.1%2B26.3-fabric.jar",
-                    "sha1": "8f55da0f2db4da8dcd3d0a55d49bf423f7638199",
+                    "name": "enhancedblockentities-0.13.3+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/tj4Apu60/enhancedblockentities-0.13.3%2B26.3-fabric.jar",
+                    "sha1": "4196ee4da3295aa7cdd85f29b188265be1173b78",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "enhancedblockentities-0.13.1+26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "entity_model_features-3.3.12-26.3-fabric.jar",
@@ -792,15 +795,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
-                    "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
+                    "name": "enhancedblockentities-0.13.3+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/r3LpmqtV/enhancedblockentities-0.13.3%2B1.21.11-fabric.jar",
+                    "sha1": "40edd5e60642730a3669a86b63a2e20b18b136f4",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "enhancedblockentities-0.13.1+1.21.11-fabric.jar"
+                    ]
                 },
                 {
                     "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
@@ -1139,15 +1145,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "enhancedblockentities-0.13.1+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/AxBqstiE/enhancedblockentities-0.13.1%2B1.21.11-fabric.jar",
-                    "sha1": "f890a2869f859b21eeb872ef866001aa4d21a69d",
+                    "name": "enhancedblockentities-0.13.3+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/vpenrdOI/versions/r3LpmqtV/enhancedblockentities-0.13.3%2B1.21.11-fabric.jar",
+                    "sha1": "40edd5e60642730a3669a86b63a2e20b18b136f4",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Enhanced Block Entities Reloaded",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "enhancedblockentities-0.13.1+1.21.11-fabric.jar"
+                    ]
                 },
                 {
                     "name": "ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
@@ -4581,9 +4590,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "music_disc_maker-3.1.1+fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/kCSQk86B/music_disc_maker-3.1.1%2Bfabric-26.3.jar",
-                    "sha1": "2ee276bd418eec152f20e7abb2508033f94924e4",
+                    "name": "music_disc_maker-3.1.2+fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar",
+                    "sha1": "16faf2ab71a0fc77892a3e89f6635e744c8f3370",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4593,7 +4602,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "music_disc_maker-3.1.1+fabric-26.3.jar"
+                    ]
                 },
                 {
                     "name": "underlay-1.0.5-fabric-mc26.3.jar",
@@ -4717,24 +4728,48 @@
                 },
                 {
                     "name": "watermedia-3.0.0.24.jar",
-                    "display_name": "watermedia-3.0.0.24.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "watermedia_binaries-3.0.0.6.jar",
-                    "display_name": "watermedia_binaries-3.0.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
                     "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "bloctube-1.0.6.jar",
-                    "display_name": "bloctube-1.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
                     "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "bloctube-1.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": [
@@ -4808,9 +4843,9 @@
             "allowed_users": null
         },
         {
-            "name": "atmospherics-2.6.7-mc-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/DbHCSFGO/atmospherics-2.6.7-mc-26.3.jar",
-            "sha1": "26159970cb2bbf7f844f57cabb84040407343dc3",
+            "name": "atmospherics-2.6.8-mc-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/ft2cYBpB/versions/nptxMreF/atmospherics-2.6.8-mc-26.3.jar",
+            "sha1": "63327837ebd9bf782b3169e8cd789804d660757f",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4824,7 +4859,8 @@
                 "2070952d0f1a473cc2d06be961e894e23e90876b"
             ],
             "replaces": [
-                "atmospherics-2.6.6-mc-26.3.jar"
+                "atmospherics-2.6.6-mc-26.3.jar",
+                "atmospherics-2.6.7-mc-26.3.jar"
             ]
         },
         {
@@ -4862,9 +4898,9 @@
             ]
         },
         {
-            "name": "boatiview-fabric-0.0.10-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/ZlP1ROUh/boatiview-fabric-0.0.10-26.3.jar",
-            "sha1": "cd6a1dce4b938253f04eab8e96f207b3d28d751c",
+            "name": "boatiview-fabric-0.0.11-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/BdKIyOLe/versions/IBhsOJlh/boatiview-fabric-0.0.11-26.3.jar",
+            "sha1": "230bac67e9283f3f11d5dcf63dfcf5719e9b0afc",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4873,7 +4909,10 @@
             "display_name": "Boat Item View",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "boatiview-fabric-0.0.10-26.3.jar"
+            ]
         },
         {
             "name": "chat_heads-1.3.2-fabric-26.3.jar",
@@ -4937,7 +4976,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "26159970cb2bbf7f844f57cabb84040407343dc3"
+                "63327837ebd9bf782b3169e8cd789804d660757f"
             ]
         },
         {
@@ -5326,7 +5365,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "79c124eca69ef659de4056b5aba73e8324893d11"
+                "6c07ff44e09c6c9196ab0afe575adf5a638dfbac"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
@@ -5482,9 +5521,9 @@
             "allowed_users": null
         },
         {
-            "name": "voicechat-fabric-2.6.24+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
-            "sha1": "2ac4bb844e3b23b6e0a729edcf521ba1198ec5d2",
+            "name": "voicechat-fabric-2.6.25+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/yuPrCKIE/voicechat-fabric-2.6.25%2B26.3.jar",
+            "sha1": "4ce5f1d6d6606351fc31b9f6e7768dd5d843b632",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5524,7 +5563,10 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "voicechat-fabric-2.6.24+26.3.jar"
+            ]
         },
         {
             "name": "AccurateBlockPlacement-Reborn-1.4.8+mc-26.3.jar",
@@ -5608,9 +5650,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.16.0.87.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YO1qWjF9/jei-26.3-fabric-31.16.0.87.jar",
-            "sha1": "79c124eca69ef659de4056b5aba73e8324893d11",
+            "name": "jei-26.3-fabric-31.16.0.89.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Nfv71T5d/jei-26.3-fabric-31.16.0.89.jar",
+            "sha1": "6c07ff44e09c6c9196ab0afe575adf5a638dfbac",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5666,7 +5708,8 @@
                 "jei-26.3-fabric-31.14.0.72.jar",
                 "jei-26.3-fabric-31.15.0.75.jar",
                 "jei-26.3-fabric-31.16.0.84.jar",
-                "jei-26.3-fabric-31.16.0.86.jar"
+                "jei-26.3-fabric-31.16.0.86.jar",
+                "jei-26.3-fabric-31.16.0.87.jar"
             ]
         },
         {
@@ -6216,9 +6259,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.7.1-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/z34ORuoy/bettercoppergolem-FABRIC-2.7.1-26.3.jar",
-                    "sha1": "ebccde9584d3d221cd1017aff3628726b32b9a58",
+                    "name": "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/f20PXwSI/bettercoppergolem-FABRIC-2.7.2-26.3.jar",
+                    "sha1": "4c96b3f0b98437d929b52a67ab20c5272e40be8f",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6230,7 +6273,8 @@
                     "incompatible_with": null,
                     "replaces": [
                         "bettercoppergolem-FABRIC-2.5.0-26.3.jar",
-                        "bettercoppergolem-FABRIC-2.6.0-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.6.0-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.7.1-26.3.jar"
                     ]
                 },
                 {
@@ -6401,9 +6445,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "music_disc_maker-3.1.1+fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/kCSQk86B/music_disc_maker-3.1.1%2Bfabric-26.3.jar",
-                    "sha1": "2ee276bd418eec152f20e7abb2508033f94924e4",
+                    "name": "music_disc_maker-3.1.2+fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar",
+                    "sha1": "16faf2ab71a0fc77892a3e89f6635e744c8f3370",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -6413,7 +6457,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "music_disc_maker-3.1.1+fabric-26.3.jar"
+                    ]
                 },
                 {
                     "name": "viph-ideas-4.4+26.3.jar",
@@ -6507,31 +6553,55 @@
                 },
                 {
                     "name": "watermedia_binaries-3.0.0.6.jar",
-                    "display_name": "watermedia_binaries-3.0.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
                     "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "watermedia-3.0.0.24.jar",
-                    "display_name": "watermedia-3.0.0.24.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "bloctube-1.0.6.jar",
-                    "display_name": "bloctube-1.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
                     "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "bloctube-1.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
             "incompatible_with": [
                 "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
                 "f63bae5db59f1c6fad84da5530767c5df947521d",
-                "79c124eca69ef659de4056b5aba73e8324893d11",
+                "6c07ff44e09c6c9196ab0afe575adf5a638dfbac",
                 "bundle_mvbyll4kjbl"
             ]
         },
@@ -6932,9 +7002,9 @@
             ]
         },
         {
-            "name": "voicechat-fabric-1.21.11-2.6.24.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/MLNG868g/voicechat-fabric-1.21.11-2.6.24.jar",
-            "sha1": "5892ae4658614f18ccdc8a9762cebbb83136ae34",
+            "name": "voicechat-fabric-1.21.11-2.6.25.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/LZF24v4l/voicechat-fabric-1.21.11-2.6.25.jar",
+            "sha1": "bbe36c343c664596a105c6ab34a4b59462bd994c",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -6946,7 +7016,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "voicechat-fabric-1.21.11-2.6.22.jar"
+                "voicechat-fabric-1.21.11-2.6.22.jar",
+                "voicechat-fabric-1.21.11-2.6.24.jar"
             ]
         },
         {
@@ -7554,8 +7625,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
-                "d761c452667619e5c042bded9d8930cae685cc49"
+                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -7727,29 +7797,7 @@
             "allowed_users": null,
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
-                "50df73810034c4ce95cca95e7005b76ea8ceb4dd",
-                "d761c452667619e5c042bded9d8930cae685cc49"
-            ]
-        },
-        {
-            "name": "cpsplus-1.0.0+mc1.21.jar",
-            "url": "https://cdn.modrinth.com/data/cEJ28DQF/versions/hiFpRr7Q/cpsplus-1.0.0%2Bmc1.21.jar",
-            "sha1": "d761c452667619e5c042bded9d8930cae685cc49",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "pvp1.9"
-            ],
-            "display_name": "CPS+ | cps counter",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "9e1ef68e21ac70d41430f9241778681a194af510",
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
-            ],
-            "replaces": [
-                "cpsplus-1.0.0+mc1.21.11.jar"
+                "50df73810034c4ce95cca95e7005b76ea8ceb4dd"
             ]
         },
         {
