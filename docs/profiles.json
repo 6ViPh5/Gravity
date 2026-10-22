@@ -821,6 +821,12 @@
                     "replaces": [
                         "ScalableLux-0.1.6+fabric.c25518a-all.jar"
                     ]
+                },
+                {
+                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
+                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -1433,6 +1439,12 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
+                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
