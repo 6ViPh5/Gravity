@@ -4701,36 +4701,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "watermedia-3.0.0.24.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
-                    "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "watermedia-3.0.0.24.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "watermedia_binaries-3.0.0.6.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
-                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "watermedia_binaries-3.0.0.6.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "emotecapefix-1.0.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
@@ -4746,10 +4716,24 @@
                     "replaces": null
                 },
                 {
-                    "name": "bloctube-1.0.3.jar",
-                    "display_name": "bloctube-1.0.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.3.jar",
-                    "sha1": "fd4cb3a74537cf2389ce8a12cbddeb107a7be353",
+                    "name": "watermedia-3.0.0.24.jar",
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
+                    "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia_binaries-3.0.0.6.jar",
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
+                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "bloctube-1.0.6.jar",
+                    "display_name": "bloctube-1.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
+                    "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
                     "file_type": "mod"
                 }
             ],
@@ -6507,36 +6491,6 @@
                     "replaces": null
                 },
                 {
-                    "name": "watermedia-3.0.0.24.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
-                    "sha1": "05e190e139d36809b4f0327b547b00a1b346fa47",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "watermedia-3.0.0.24.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "watermedia_binaries-3.0.0.6.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
-                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "watermedia_binaries-3.0.0.6.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
                     "name": "emotecapefix-1.0.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
@@ -6552,10 +6506,24 @@
                     "replaces": null
                 },
                 {
-                    "name": "bloctube-1.0.3.jar",
-                    "display_name": "bloctube-1.0.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.3.jar",
-                    "sha1": "fd4cb3a74537cf2389ce8a12cbddeb107a7be353",
+                    "name": "watermedia_binaries-3.0.0.6.jar",
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
+                    "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "watermedia-3.0.0.24.jar",
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
+                    "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "bloctube-1.0.6.jar",
+                    "display_name": "bloctube-1.0.6.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
+                    "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
                     "file_type": "mod"
                 }
             ],
