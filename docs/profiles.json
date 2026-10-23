@@ -241,9 +241,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.164.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/LEklt8GT/fabric-api-0.164.0%2B26.3.jar",
-                    "sha1": "7ec45ba92a286ed7d0c57bcd74cf9182789741ec",
+                    "name": "fabric-api-0.165.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
+                    "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -253,7 +253,8 @@
                     "replaces": [
                         "fabric-api-0.161.0+26.3.jar",
                         "fabric-api-0.162.0+26.3.jar",
-                        "fabric-api-0.163.0+26.3.jar"
+                        "fabric-api-0.163.0+26.3.jar",
+                        "fabric-api-0.164.0+26.3.jar"
                     ]
                 },
                 {
@@ -471,6 +472,12 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "matlib-0.7.1+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/z7TTfxc1/matlib-0.7.1%2B26.3-fabric.jar",
+                    "sha1": "e04a6dacdc757ab6f8afc95baf275d6ceb7f52f3",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -826,7 +833,12 @@
                     "name": "matlib-0.7.1+1.21.11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
                     "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -1179,6 +1191,17 @@
                     ]
                 },
                 {
+                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
+                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/yn6fzG3B/DetailArmorBarReconstructed-5.2.1%2B1.21.9_11-fabric.jar",
                     "sha1": "05649C01702CECE55C4583C667E0752C32A88C16",
@@ -1439,12 +1462,6 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
-                },
-                {
-                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
-                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
