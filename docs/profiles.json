@@ -2275,6 +2275,17 @@
                     "replaces": [
                         "diorama-0.2.0+26.3.jar"
                     ]
+                },
+                {
+                    "name": "lambdynamiclights-4.13.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
+                    "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "LambDynamicLights - Dynamic Lights",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -3196,8 +3207,7 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "optimizado",
-                "srvsurv"
+                "optimizado"
             ],
             "display_name": "LambDynamicLights - Dynamic Lights",
             "req_user_type": null,
@@ -4113,7 +4123,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "optimizado"
+                "optimizado",
+                "srvsurv"
             ],
             "display_name": "Flashback",
             "req_user_type": "exclusive",
@@ -5264,6 +5275,42 @@
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
                 "50df73810034c4ce95cca95e7005b76ea8ceb4dd"
+            ]
+        },
+        {
+            "name": "bedrock-hotbar-1.11.3-fabric+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/X1OsYLs1/versions/tFloAmgy/bedrock-hotbar-1.11.3-fabric%2B26.3.jar",
+            "sha1": "c6a7b4b9a0d2c9ff0c285c36d509bdb65f8b2026",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Bedrock Hotbar"
+        },
+        {
+            "name": "hotbar-keys-1.0.0+mc26.2-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kXs8LCSd/versions/3FUDYT8E/hotbar-keys-1.0.0%2Bmc26.2-26.3.jar",
+            "sha1": "0314f0a4a6f4124e977d93426c5d00bfa4a5450d",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Hotbar Keybinds",
+            "incompatible_with": [
+                "6ccd7543937d252b4c3eb0fbcd314bf93ea4ad01"
+            ]
+        },
+        {
+            "name": "KeyOverlay-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/Upv1bw1P/versions/mms4BnWK/KeyOverlay-26.3.jar",
+            "sha1": "6ccd7543937d252b4c3eb0fbcd314bf93ea4ad01",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Key Overlay",
+            "incompatible_with": [
+                "0314f0a4a6f4124e977d93426c5d00bfa4a5450d"
             ]
         }
     ]
