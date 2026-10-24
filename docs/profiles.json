@@ -1969,200 +1969,327 @@
                     "name": "xaerominimap-fabric-26.3-26.6.1.jar",
                     "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eUEhnw8G/xaerominimap-fabric-26.3-26.6.1.jar",
                     "sha1": "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "xaeroworldmap-fabric-26.3-1.47.1.jar",
                     "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IEtfiHVq/xaeroworldmap-fabric-26.3-1.47.1.jar",
                     "sha1": "363e802d0f8e18af729cbd2707e3dc6d0e9e7071",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "bloctube-1.0.6.jar",
-                    "display_name": "bloctube-1.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
                     "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "bloctube-1.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "camerapture-1.10.15+mc26.3.jar",
-                    "display_name": "Camerapture",
                     "url": "https://cdn.modrinth.com/data/9dzLWnmZ/versions/zo2icmIo/camerapture-1.10.15%2Bmc26.3.jar",
                     "sha1": "48489e23ebd921c9dd95bbbc8eb713bf9b566a10",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Camerapture",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "catfighting-fabric-26.3-1.2.2.jar",
-                    "display_name": "Cat Fighting",
                     "url": "https://cdn.modrinth.com/data/7cRQ1FCd/versions/AnmlQE62/catfighting-fabric-26.3-1.2.2.jar",
                     "sha1": "ff3e12add3e1766971aad927d2e609d731269366",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Cat Fighting",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "chococraft-26.3-fabric-0.18.1.jar",
-                    "display_name": "chococraft-26.3-fabric-0.18.1.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.1.jar",
                     "sha1": "aec504b213ee274046e4f88c5029982e60b03a41",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "chococraft-26.3-fabric-0.18.1.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "customskyboxes-mc26.3-1.0.4.1.jar",
-                    "display_name": "Custom Skyboxes",
                     "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
                     "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Custom Skyboxes",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "emotecapefix-1.0.0.jar",
-                    "display_name": "emotecapefix-1.0.0.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "emotecapefix-1.0.0.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-                    "display_name": "Emotecraft",
                     "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
                     "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Emotecraft",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
                     "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
                     "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "faewulf_lib-fabric-26.3-1.4.0.jar",
-                    "display_name": "Faewulf's Lib",
                     "url": "https://cdn.modrinth.com/data/q4N9H96q/versions/RvsgVlGl/faewulf_lib-fabric-26.3-1.4.0.jar",
                     "sha1": "1c58f4e92425d9935ed617f77357c6b1e640c3e2",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Faewulf's Lib",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fancytoasts-1.5.1-fabric-26.3.jar",
-                    "display_name": "Fancy Toasts | Better Advancements",
                     "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/wG7aMfVG/fancytoasts-1.5.1-fabric-26.3.jar",
                     "sha1": "0f33f315af8c29f53aca1d92eaa13343170a16cb",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Fancy Toasts | Better Advancements",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
-                    "display_name": "Forge Config API Port",
                     "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
                     "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Forge Config API Port",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "geckolib-fabric-26.3-5.5.7.jar",
-                    "display_name": "Geckolib",
                     "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
                     "sha1": "064ad66ea62bcf3fd0e89a719843b1a06c81925c",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Geckolib",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "HideYourArmor-1.7.1+mc26.3-universal.jar",
-                    "display_name": "Hide Your Armor",
                     "url": "https://cdn.modrinth.com/data/htFd9eMF/versions/JA8k1Tf0/HideYourArmor-1.7.1%2Bmc26.3-universal.jar",
                     "sha1": "13ef63ca1a997c397fd061533a884e9cafee9e56",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Hide Your Armor",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "inventorysorter-fabric-3.0.1+mc26.3.jar",
-                    "display_name": "Inventory Sorting",
                     "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/SJkiyopK/inventorysorter-fabric-3.0.1%2Bmc26.3.jar",
                     "sha1": "2b0f704848bcb5e6e807e49ce9c502af6fee9f72",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Inventory Sorting",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "MoogsGlowUp-fabric-26.3-2.3.0.jar",
-                    "display_name": "Moog's Glow Up",
                     "url": "https://cdn.modrinth.com/data/iLlwyhcZ/versions/OIZ4ZBTL/MoogsGlowUp-fabric-26.3-2.3.0.jar",
                     "sha1": "4ba521d179fc7c983435549ee0646709d705511e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Moog's Glow Up",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "music_disc_maker-3.1.2+fabric-26.3.jar",
-                    "display_name": "Music Disc Maker",
                     "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar",
                     "sha1": "16faf2ab71a0fc77892a3e89f6635e744c8f3370",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Music Disc Maker",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "reconnect-fabric-1.1.2+26.3.jar",
-                    "display_name": "Reconnect",
                     "url": "https://cdn.modrinth.com/data/B1rMmsA0/versions/Jy0FCTPq/reconnect-fabric-1.1.2%2B26.3.jar",
                     "sha1": "0fb189d71ce1e8dacbc1a67c5b01ab7525bda341",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Reconnect",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "underlay-1.0.5-fabric-mc26.3.jar",
-                    "display_name": "Underlay",
                     "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
                     "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Underlay",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "viph-ideas-4.4+26.3.jar",
-                    "display_name": "viph-ideas-4.4+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
                     "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-4.4+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "watermedia_binaries-3.0.0.6.jar",
-                    "display_name": "watermedia_binaries-3.0.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
                     "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "watermedia_binaries-3.0.0.6.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "watermedia-3.0.0.24.jar",
-                    "display_name": "watermedia-3.0.0.24.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "watermedia-3.0.0.24.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "xmmp-1.2.3+26.2-fabric.jar",
-                    "display_name": "Xaero's Maps: Multiplayer+",
                     "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/b3lREphO/xmmp-1.2.3%2B26.2-fabric.jar",
                     "sha1": "c3fdd732a6069f6049e761531ecacdba3db10d11",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Xaero's Maps: Multiplayer+",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "accelerated-decay-fabric-26.3.0.1.jar",
-                    "display_name": "Accelerated Decay",
                     "url": "https://cdn.modrinth.com/data/laX5CckD/versions/ldDOlltu/accelerated-decay-fabric-26.3.0.1.jar",
                     "sha1": "03fa4f7b834fc9d90b7fa76850f4457fe93d4ca3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Accelerated Decay",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "beacon_tinted_glass-1.0.0.jar",
-                    "display_name": "Beacon Tinted Glass",
                     "url": "https://cdn.modrinth.com/data/mYqUO7Hx/versions/SMozXXfP/beacon_tinted_glass-1.0.0.jar",
                     "sha1": "0c53623eda5a9c3595cba82d1ad851c3b1d3cd9b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Beacon Tinted Glass",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "BendableCuboidsMerged-2.1.0+mc.26.3.jar",
-                    "display_name": "Bendable Cuboids",
                     "url": "https://cdn.modrinth.com/data/OI3FlFon/versions/DbUl93Sa/BendableCuboidsMerged-2.1.0%2Bmc.26.3.jar",
                     "sha1": "5f8037cadcbe6139dd3ad15e65b7a17aa38d54ea",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Bendable Cuboids",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
-                    "display_name": "Better Copper Golem",
                     "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/f20PXwSI/bettercoppergolem-FABRIC-2.7.2-26.3.jar",
                     "sha1": "4c96b3f0b98437d929b52a67ab20c5272e40be8f",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better Copper Golem",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "emotecraft.json",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/emotecraft.json",
+                    "sha1": "479c4fe4cef7734f36b5f3e4b26bd3851e96d65e",
+                    "file_type": "config",
+                    "install_path": "config/"
                 }
             ],
             "req_user_type": "exclusive",
