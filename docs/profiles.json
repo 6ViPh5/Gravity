@@ -4288,7 +4288,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
+                "3703def019a8c773e8df3306390b04af2ebacc16"
             ]
         },
         {
@@ -4621,7 +4621,10 @@
             "display_name": "Key Overlay",
             "req_user_type": null,
             "dependencies": [],
-            "allowed_users": null
+            "allowed_users": null,
+            "incompatible_with": [
+                "bdce884a74289aa5b9d2d162dbf21f02ab368857"
+            ]
         },
         {
             "name": "effecttimerplus-fabric-2.2.7+1.21.11.jar",
@@ -5102,7 +5105,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "07eb380746c7783ea91c0438ae0526a50b6d9f7b"
+                "3703def019a8c773e8df3306390b04af2ebacc16"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5229,9 +5232,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.10+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/pqGRid4x/evergreenhud-3.9.10%2B1.21.11.jar",
-            "sha1": "07eb380746c7783ea91c0438ae0526a50b6d9f7b",
+            "name": "evergreenhud-3.9.11+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/Tl2GmPU2/evergreenhud-3.9.11%2B1.21.11.jar",
+            "sha1": "3703def019a8c773e8df3306390b04af2ebacc16",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5241,9 +5244,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.4.4.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/2IR2TbjE/OneConfig-1.21.11-fabric-1.4.4.jar",
-                    "sha1": "3482cd854703f08891306fd38c91a415f67a6f0f",
+                    "name": "OneConfig-1.21.11-fabric-1.5.0.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/1xyUWpLn/OneConfig-1.21.11-fabric-1.5.0.jar",
+                    "sha1": "8fce67cfb0b7b367cd22cd40007b343ddc526dcb",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5253,7 +5256,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "OneConfig-1.21.11-fabric-1.4.4.jar"
+                    ]
                 },
                 {
                     "name": "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
@@ -5275,6 +5280,9 @@
             "incompatible_with": [
                 "9e1ef68e21ac70d41430f9241778681a194af510",
                 "50df73810034c4ce95cca95e7005b76ea8ceb4dd"
+            ],
+            "replaces": [
+                "evergreenhud-3.9.10+1.21.11.jar"
             ]
         },
         {
@@ -5330,17 +5338,42 @@
             "url": "https://cdn.modrinth.com/data/P8STLvzB/versions/VlbpnX5m/Perception-FABRIC-0.1.6.1%2B26.3.jar",
             "sha1": "4e0aa2a34e0aed4e59a5db6213f7e04db981f08f",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "Perception",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "shatterlib-fabric-0.7.0-beta.4+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar",
                     "sha1": "0ae1e0a0b293e53413068bf6581fa3d9dfd5463e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
+            ],
+            "allowed_users": null
+        },
+        {
+            "name": "hotbar-keys-1.0.2+mc1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/kXs8LCSd/versions/lebivQyA/hotbar-keys-1.0.2%2Bmc1.21.11.jar",
+            "sha1": "bdce884a74289aa5b9d2d162dbf21f02ab368857",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9"
+            ],
+            "display_name": "Hotbar Keybinds",
+            "incompatible_with": [
+                "BEDB628F9102357A55E0B0B0393B50A4BB714F3E"
             ]
         }
     ]
