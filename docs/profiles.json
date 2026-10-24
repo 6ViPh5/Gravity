@@ -1966,28 +1966,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "xaerominimap-fabric-26.3-26.6.1.jar",
-                    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eUEhnw8G/xaerominimap-fabric-26.3-26.6.1.jar",
-                    "sha1": "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "xaeroworldmap-fabric-26.3-1.47.1.jar",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IEtfiHVq/xaeroworldmap-fabric-26.3-1.47.1.jar",
-                    "sha1": "363e802d0f8e18af729cbd2707e3dc6d0e9e7071",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "bloctube-1.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
                     "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
@@ -2219,17 +2197,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "xmmp-1.2.3+26.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/b3lREphO/xmmp-1.2.3%2B26.2-fabric.jar",
-                    "sha1": "c3fdd732a6069f6049e761531ecacdba3db10d11",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Xaero's Maps: Multiplayer+",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
                     "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
@@ -2294,6 +2261,20 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "diorama-0.3.1+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/bjx0GmDl/diorama-0.3.1%2B26.3.jar",
+                    "sha1": "fafacc13e5849bf8f2d53cfddf0a37cc48a41e31",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Diorama",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "diorama-0.2.0+26.3.jar"
+                    ]
                 }
             ],
             "req_user_type": "exclusive",
@@ -4165,8 +4146,7 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "optimizado",
-                "srvsurv"
+                "optimizado"
             ],
             "display_name": "Diorama",
             "req_user_type": null,
