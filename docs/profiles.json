@@ -1980,7 +1980,7 @@
                 {
                     "name": "bloctube-1.0.6.jar",
                     "display_name": "bloctube-1.0.6.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bloctube-1.0.6.jar",
                     "sha1": "8fb442736dd4f10cbdd045c91d53db6acb978881",
                     "file_type": "mod"
                 },
@@ -2001,7 +2001,7 @@
                 {
                     "name": "chococraft-26.3-fabric-0.18.1.jar",
                     "display_name": "chococraft-26.3-fabric-0.18.1.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.1.jar",
                     "sha1": "aec504b213ee274046e4f88c5029982e60b03a41",
                     "file_type": "mod"
                 },
@@ -2015,7 +2015,7 @@
                 {
                     "name": "emotecapefix-1.0.0.jar",
                     "display_name": "emotecapefix-1.0.0.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/emotecapefix-1.0.0.jar",
                     "sha1": "4237ff09de8dda790d1c4b833514df6f0962b8ea",
                     "file_type": "mod"
                 },
@@ -2105,21 +2105,21 @@
                 {
                     "name": "viph-ideas-4.4+26.3.jar",
                     "display_name": "viph-ideas-4.4+26.3.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
                     "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
                     "file_type": "mod"
                 },
                 {
                     "name": "watermedia_binaries-3.0.0.6.jar",
                     "display_name": "watermedia_binaries-3.0.0.6.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
                     "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
                     "file_type": "mod"
                 },
                 {
                     "name": "watermedia-3.0.0.24.jar",
                     "display_name": "watermedia-3.0.0.24.jar",
-                    "url": null,
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/watermedia-3.0.0.24.jar",
                     "sha1": "8e347c31d4391f8a132f50729aa47d05108558ff",
                     "file_type": "mod"
                 },
