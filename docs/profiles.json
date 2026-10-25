@@ -4731,7 +4731,8 @@
             "install_path": null,
             "target_profiles": [
                 "opt1.21",
-                "pvp1.9"
+                "pvp1.9",
+                "srvsurv"
             ],
             "display_name": "Clearer Slot Highlight",
             "req_user_type": null,
@@ -5476,6 +5477,80 @@
                     "file_type": "mod"
                 }
             ]
+        },
+        {
+            "name": "Faithful 32x - 26.3.zip",
+            "display_name": "Faithful 32x",
+            "url": "https://cdn.modrinth.com/data/w0TnApzs/versions/lDYpMiqk/Faithful%2032x%20-%2026.3.zip",
+            "sha1": "0f20dfdff314da4da3bdf365f66718e8c344075b",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ]
+        },
+        {
+            "name": "Faithful 64x - Release 15.zip",
+            "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/6QfM0mZq/Faithful%2064x%20-%20Release%2015.zip",
+            "sha1": "b0e02f10d2e45151832360557fc84ddcc2b052e9",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Faithful 64x"
+        },
+        {
+            "name": "Redstone Tweaks 2.5.6.zip",
+            "url": "https://cdn.modrinth.com/data/RvfAlf4Z/versions/A19pA3wb/Redstone%20Tweaks%202.5.6.zip",
+            "sha1": "8963f38860e9c19753e543d096a9a0cb262a9dfd",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Redstone Tweaks"
+        },
+        {
+            "name": "Enhanced Audio r7.zip",
+            "url": "https://cdn.modrinth.com/data/UinPYBF7/versions/6qVu8iKs/Enhanced%20Audio%20r7.zip",
+            "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Enhanced Audio (Sound Pack)",
+            "dependencies": [
+                {
+                    "name": "Enhanced Audio Ambience r2.zip",
+                    "url": "https://cdn.modrinth.com/data/aMC0BRSF/versions/hrMUh4pK/Enhanced%20Audio%20Ambience%20r2.zip",
+                    "sha1": "48197034431ec37e00f08b018e4d01afd03214e1",
+                    "file_type": "resourcepack"
+                }
+            ]
+        },
+        {
+            "name": "Better_Expressions.zip",
+            "url": "https://cdn.modrinth.com/data/nvcRMEKh/versions/butm7qbW/Better_Expressions.zip",
+            "sha1": "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "incompatible_with": [
+                "4485a851140d337fa8ecca25939db3be50a3ba59"
+            ],
+            "display_name": "Better Expressions"
+        },
+        {
+            "name": "JustExpressions_v1.2.1.zip",
+            "url": "https://cdn.modrinth.com/data/vPaHlT2U/versions/ZNXAMRW4/JustExpressions_v1.2.1.zip",
+            "sha1": "4485a851140d337fa8ecca25939db3be50a3ba59",
+            "file_type": "resourcepack",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "incompatible_with": [
+                "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f"
+            ],
+            "display_name": "Just Expressions"
         }
     ]
 }
