@@ -58,15 +58,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-extra-fabric-0.9.4+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar",
-                    "sha1": "ff2056f222b751fe161123e71e55afd5b2f41da4",
+                    "name": "sodium-extra-fabric-0.9.6-beta.1+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/SachDQow/sodium-extra-fabric-0.9.6-beta.1%2Bmc26.3.jar",
+                    "sha1": "71c63d9af92ce960bf8fefb55b1ba31f89307bde",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "sodium-extra-fabric-0.9.4+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "SodiumExtraInformation-fabric-2.9.1.jar",
@@ -97,9 +100,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.1+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/WCOXPbj9/animatica-0.7.0%2Bbeta.1%2B26.3.jar",
-                    "sha1": "7293c875ac640b15d6f0cbb9d57111dc5c060b39",
+                    "name": "animatica-0.7.0+beta.2+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/kt5KoQuf/animatica-0.7.0%2Bbeta.2%2B26.3.jar",
+                    "sha1": "5894a7a978c6c8e4d42c02acdb142ff7ab4a3718",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -108,7 +111,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "animatica-0.6.2+26.3.jar",
-                        "animatica-0.6.3+26.3.jar"
+                        "animatica-0.6.3+26.3.jar",
+                        "animatica-0.7.0+beta.1+26.3.jar"
                     ]
                 },
                 {
@@ -475,15 +479,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-0.7.1+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/z7TTfxc1/matlib-0.7.1%2B26.3-fabric.jar",
-                    "sha1": "e04a6dacdc757ab6f8afc95baf275d6ceb7f52f3",
+                    "name": "matlib-0.7.3+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/zno3RRXg/matlib-0.7.3%2B26.3-fabric.jar",
+                    "sha1": "41f7d50ecd196f1698e94ded64ec13b8d6ad17de",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "matlib-0.7.1+26.3-fabric.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
@@ -840,15 +847,18 @@
                     ]
                 },
                 {
-                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
-                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
+                    "name": "matlib-0.7.3+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/ygDAcNfE/matlib-0.7.3%2B1.21.11-fabric.jar",
+                    "sha1": "ab919804068696c5802fdb0bf02277223306cb2c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "matlib-0.7.1+1.21.11-fabric.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
@@ -1205,15 +1215,18 @@
                     ]
                 },
                 {
-                    "name": "matlib-0.7.1+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/x8sboYh8/matlib-0.7.1%2B1.21.11-fabric.jar",
-                    "sha1": "dab25480e1bc391b284b0708a66d8f36b868f738",
+                    "name": "matlib-0.7.3+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/ygDAcNfE/matlib-0.7.3%2B1.21.11-fabric.jar",
+                    "sha1": "ab919804068696c5802fdb0bf02277223306cb2c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "matlib-0.7.1+1.21.11-fabric.jar"
+                    ]
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -1527,15 +1540,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-extra-fabric-0.9.4+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar",
-                    "sha1": "ff2056f222b751fe161123e71e55afd5b2f41da4",
+                    "name": "sodium-extra-fabric-0.9.6-beta.1+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/SachDQow/sodium-extra-fabric-0.9.6-beta.1%2Bmc26.3.jar",
+                    "sha1": "71c63d9af92ce960bf8fefb55b1ba31f89307bde",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "sodium-extra-fabric-0.9.4+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "SodiumExtraInformation-fabric-2.9.1.jar",
@@ -1566,9 +1582,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.1+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/WCOXPbj9/animatica-0.7.0%2Bbeta.1%2B26.3.jar",
-                    "sha1": "7293c875ac640b15d6f0cbb9d57111dc5c060b39",
+                    "name": "animatica-0.7.0+beta.2+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/kt5KoQuf/animatica-0.7.0%2Bbeta.2%2B26.3.jar",
+                    "sha1": "5894a7a978c6c8e4d42c02acdb142ff7ab4a3718",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -1577,7 +1593,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "animatica-0.6.2+26.3.jar",
-                        "animatica-0.6.3+26.3.jar"
+                        "animatica-0.6.3+26.3.jar",
+                        "animatica-0.7.0+beta.1+26.3.jar"
                     ]
                 },
                 {
@@ -1944,15 +1961,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-0.7.1+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/z7TTfxc1/matlib-0.7.1%2B26.3-fabric.jar",
-                    "sha1": "e04a6dacdc757ab6f8afc95baf275d6ceb7f52f3",
+                    "name": "matlib-0.7.3+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/zno3RRXg/matlib-0.7.3%2B26.3-fabric.jar",
+                    "sha1": "41f7d50ecd196f1698e94ded64ec13b8d6ad17de",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "matlib-0.7.1+26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
@@ -2263,9 +2283,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.3.1+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/bjx0GmDl/diorama-0.3.1%2B26.3.jar",
-                    "sha1": "fafacc13e5849bf8f2d53cfddf0a37cc48a41e31",
+                    "name": "diorama-0.4.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/3tTq15pR/diorama-0.4.0%2B26.3.jar",
+                    "sha1": "179c89ddc32d72e4b5507b4fb53ca680da437714",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2273,7 +2293,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "diorama-0.2.0+26.3.jar"
+                        "diorama-0.2.0+26.3.jar",
+                        "diorama-0.3.1+26.3.jar"
                     ]
                 },
                 {
@@ -2295,6 +2316,7 @@
                     "install_path": null,
                     "display_name": "Zoomify (Zoom)",
                     "req_user_type": null,
+                    "dependencies": null,
                     "allowed_users": null
                 }
             ],
@@ -2383,9 +2405,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.3.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/RgWGwoB1/dreamdisplays-fabric-26.3-1.10.3.jar",
-                    "sha1": "1bdb2354615c8262046686799be7ebe5c5830d16",
+                    "name": "dreamdisplays-fabric-26.3-1.10.4.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/siUKU04U/dreamdisplays-fabric-26.3-1.10.4.jar",
+                    "sha1": "2517c819d2fd803b0428df48e384d2d23af6c398",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2397,7 +2419,8 @@
                     "incompatible_with": null,
                     "replaces": [
                         "dreamdisplays-fabric-26.3-1.10.1.jar",
-                        "dreamdisplays-fabric-26.3-1.10.2.jar"
+                        "dreamdisplays-fabric-26.3-1.10.2.jar",
+                        "dreamdisplays-fabric-26.3-1.10.3.jar"
                     ]
                 },
                 {
@@ -3281,7 +3304,33 @@
             ],
             "display_name": "Punchy!",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "HyperPunchy-v2.5+.zip",
+                    "url": "https://cdn.modrinth.com/data/NVBMhec4/versions/nJiwz3lJ/HyperPunchy-v2.5%2B.zip",
+                    "sha1": "244f180a03bdcbe4333e3535cadf4e83762d0c47",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Punchy refined.zip",
+                    "display_name": "Punchy refined",
+                    "url": "https://cdn.modrinth.com/data/v104xIl2/versions/WG9axHLQ/Punchy%20refined.zip",
+                    "sha1": "112b8fdf8d6b8bdad2e3495b206b11b49571234b",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "Karambit Vault x Punchy.zip",
+                    "url": "https://cdn.modrinth.com/data/N057ny4D/versions/m3SH1mtm/Karambit%20Vault%20x%20Punchy.zip",
+                    "sha1": "e52b1d34192db225bfbabb5a0c652ca89c74a359",
+                    "file_type": "resourcepack"
+                },
+                {
+                    "name": "§2p1kl's 3D Items§r§0.zip",
+                    "url": "https://cdn.modrinth.com/data/GkQMxGSm/versions/GaCryZnJ/%C2%A72p1kl%27s%203D%20Items%C2%A7r%C2%A70.zip",
+                    "sha1": "ed4d64a8aa929236973e66bf6dd3b3b41123db90",
+                    "file_type": "resourcepack"
+                }
+            ],
             "allowed_users": null,
             "replaces": [
                 "punchy-2.8d-fabric-26.3.jar",
@@ -3337,7 +3386,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "3c312d7ce5bcb31dd12a3d1afd3fcf2a4d4e4232"
+                "de9f340eb0551a8a0cc404bcaf222441f2cad15b"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
@@ -3567,9 +3616,9 @@
             ]
         },
         {
-            "name": "xaerominimap-fabric-26.3-26.6.1.jar",
-            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/eUEhnw8G/xaerominimap-fabric-26.3-26.6.1.jar",
-            "sha1": "e35962b19b5ce966ae2ed051ffddedc90084cdb4",
+            "name": "xaerominimap-fabric-26.3-26.6.2.jar",
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/MfxfgXaO/xaerominimap-fabric-26.3-26.6.2.jar",
+            "sha1": "9b44e5718f9258ed32283a391e19a1d46464188a",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3579,9 +3628,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "xaeroworldmap-fabric-26.3-1.47.1.jar",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/IEtfiHVq/xaeroworldmap-fabric-26.3-1.47.1.jar",
-                    "sha1": "363e802d0f8e18af729cbd2707e3dc6d0e9e7071",
+                    "name": "xaeroworldmap-fabric-26.3-1.47.2.jar",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/VM8lNSSM/xaeroworldmap-fabric-26.3-1.47.2.jar",
+                    "sha1": "1282302b6c92050cfab7c1db45cf3d92d9a331c5",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3592,7 +3641,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "xaeroworldmap-fabric-26.3-1.46.4.jar"
+                        "xaeroworldmap-fabric-26.3-1.46.4.jar",
+                        "xaeroworldmap-fabric-26.3-1.47.1.jar"
                     ]
                 },
                 {
@@ -3633,13 +3683,14 @@
             "allowed_users": null,
             "replaces": [
                 "xaerominimap-fabric-26.3-26.5.3.jar",
-                "xaerominimap-fabric-26.3-26.6.0.jar"
+                "xaerominimap-fabric-26.3-26.6.0.jar",
+                "xaerominimap-fabric-26.3-26.6.1.jar"
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.16.0.90.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/aSjVJwgD/jei-26.3-fabric-31.16.0.90.jar",
-            "sha1": "3c312d7ce5bcb31dd12a3d1afd3fcf2a4d4e4232",
+            "name": "jei-26.3-fabric-31.17.0.93.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/b6JCG7a3/jei-26.3-fabric-31.17.0.93.jar",
+            "sha1": "de9f340eb0551a8a0cc404bcaf222441f2cad15b",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3649,9 +3700,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "mezz_config-26.3-fabric-0.6.8.jar",
-                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/GKiA7PV4/mezz_config-26.3-fabric-0.6.8.jar",
-                    "sha1": "7e7770093973e2ffb53ff9fb8d32304bf73744c4",
+                    "name": "mezz_config-26.3-fabric-0.6.9.jar",
+                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/7KlSXRjC/mezz_config-26.3-fabric-0.6.9.jar",
+                    "sha1": "d705a5ce116c9f23e136d2b25c9d3722258a37c7",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3661,7 +3712,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "mezz_config-26.3-fabric-0.6.8.jar"
+                    ]
                 },
                 {
                     "name": "norecipebook-4.3+26.3.jar",
@@ -3696,7 +3749,8 @@
                 "jei-26.3-fabric-31.16.0.84.jar",
                 "jei-26.3-fabric-31.16.0.86.jar",
                 "jei-26.3-fabric-31.16.0.87.jar",
-                "jei-26.3-fabric-31.16.0.89.jar"
+                "jei-26.3-fabric-31.16.0.89.jar",
+                "jei-26.3-fabric-31.16.0.90.jar"
             ]
         },
         {
@@ -4078,9 +4132,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.8+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/8y9LJEzb/spatial-gui-1.8%2B26.3-fabric.jar",
-            "sha1": "39260a0d56a5a49bee4c533e1a7f0e9d7c2542d8",
+            "name": "spatial-gui-1.9+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/1MiEDyFq/spatial-gui-1.9%2B26.3-fabric.jar",
+            "sha1": "86a67e8c3d3683e6217a29aae074ca00245138c2",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4091,7 +4145,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "spatial-gui-1.7.2+26.3-fabric.jar"
+                "spatial-gui-1.7.2+26.3-fabric.jar",
+                "spatial-gui-1.8+26.3-fabric.jar"
             ]
         },
         {
@@ -4160,9 +4215,9 @@
             ]
         },
         {
-            "name": "diorama-0.3.1+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/bjx0GmDl/diorama-0.3.1%2B26.3.jar",
-            "sha1": "fafacc13e5849bf8f2d53cfddf0a37cc48a41e31",
+            "name": "diorama-0.4.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/3tTq15pR/diorama-0.4.0%2B26.3.jar",
+            "sha1": "179c89ddc32d72e4b5507b4fb53ca680da437714",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4173,7 +4228,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "diorama-0.2.0+26.3.jar"
+                "diorama-0.2.0+26.3.jar",
+                "diorama-0.3.1+26.3.jar"
             ]
         },
         {
@@ -5394,10 +5450,32 @@
             "url": "https://cdn.modrinth.com/data/yjvKidNM/versions/37cxXiE9/lighty-fabric-4.0.1%2B26.3.jar",
             "sha1": "38ac9924f72a4344d9c7e6aa98c69df5def6d857",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Lighty"
+            "display_name": "Lighty",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "voxy-0.2.20-beta.jar",
+            "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/iIrM8ZKQ/voxy-0.2.20-beta.jar",
+            "sha1": "a0efa54716b0fcbf4075cc18f4dbfbdc3b0cf305",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "voxy",
+            "dependencies": [
+                {
+                    "name": "voxygen-26.3-3.0.0.jar",
+                    "url": "https://cdn.modrinth.com/data/xT0lnNE9/versions/FZLopf8z/voxygen-26.3-3.0.0.jar",
+                    "sha1": "03c0e63b7c89512a01cf8aa2ba227501589acb1e",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
