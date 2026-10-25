@@ -1501,7 +1501,7 @@
             "name": "Server Survival",
             "version": "26.3",
             "loader": "fabric",
-            "loader_version": "0.19.5",
+            "loader_version": "0.20.1",
             "visuals": {
                 "background": "https://livewallpapers4free.com/wp-content/uploads/2026/01/minecraft-night-at-the-village-HD-live_thumb1.jpg"
             },
@@ -2327,8 +2327,7 @@
                 "KelloGamer_LZ",
                 "flx",
                 "I_Flx"
-            ],
-            "is_upcoming": null
+            ]
         }
     ],
     "optional_mods": [
@@ -3309,26 +3308,61 @@
                     "name": "HyperPunchy-v2.5+.zip",
                     "url": "https://cdn.modrinth.com/data/NVBMhec4/versions/nJiwz3lJ/HyperPunchy-v2.5%2B.zip",
                     "sha1": "244f180a03bdcbe4333e3535cadf4e83762d0c47",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "Punchy refined.zip",
-                    "display_name": "Punchy refined",
                     "url": "https://cdn.modrinth.com/data/v104xIl2/versions/WG9axHLQ/Punchy%20refined.zip",
                     "sha1": "112b8fdf8d6b8bdad2e3495b206b11b49571234b",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "Punchy refined",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "Karambit Vault x Punchy.zip",
                     "url": "https://cdn.modrinth.com/data/N057ny4D/versions/m3SH1mtm/Karambit%20Vault%20x%20Punchy.zip",
                     "sha1": "e52b1d34192db225bfbabb5a0c652ca89c74a359",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 },
                 {
                     "name": "§2p1kl's 3D Items§r§0.zip",
                     "url": "https://cdn.modrinth.com/data/GkQMxGSm/versions/GaCryZnJ/%C2%A72p1kl%27s%203D%20Items%C2%A7r%C2%A70.zip",
                     "sha1": "ed4d64a8aa929236973e66bf6dd3b3b41123db90",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null,
@@ -5465,92 +5499,136 @@
             "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/iIrM8ZKQ/voxy-0.2.20-beta.jar",
             "sha1": "a0efa54716b0fcbf4075cc18f4dbfbdc3b0cf305",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "voxy",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "voxygen-26.3-3.0.0.jar",
                     "url": "https://cdn.modrinth.com/data/xT0lnNE9/versions/FZLopf8z/voxygen-26.3-3.0.0.jar",
                     "sha1": "03c0e63b7c89512a01cf8aa2ba227501589acb1e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "Faithful 32x - 26.3.zip",
-            "display_name": "Faithful 32x",
             "url": "https://cdn.modrinth.com/data/w0TnApzs/versions/lDYpMiqk/Faithful%2032x%20-%2026.3.zip",
             "sha1": "0f20dfdff314da4da3bdf365f66718e8c344075b",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
-            ]
+            ],
+            "display_name": "Faithful 32x",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Faithful 64x - Release 15.zip",
             "url": "https://cdn.modrinth.com/data/r4GILswZ/versions/6QfM0mZq/Faithful%2064x%20-%20Release%2015.zip",
             "sha1": "b0e02f10d2e45151832360557fc84ddcc2b052e9",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Faithful 64x"
+            "display_name": "Faithful 64x",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Redstone Tweaks 2.5.6.zip",
             "url": "https://cdn.modrinth.com/data/RvfAlf4Z/versions/A19pA3wb/Redstone%20Tweaks%202.5.6.zip",
             "sha1": "8963f38860e9c19753e543d096a9a0cb262a9dfd",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Redstone Tweaks"
+            "display_name": "Redstone Tweaks",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "Enhanced Audio r7.zip",
             "url": "https://cdn.modrinth.com/data/UinPYBF7/versions/6qVu8iKs/Enhanced%20Audio%20r7.zip",
             "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "Enhanced Audio (Sound Pack)",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "Enhanced Audio Ambience r2.zip",
                     "url": "https://cdn.modrinth.com/data/aMC0BRSF/versions/hrMUh4pK/Enhanced%20Audio%20Ambience%20r2.zip",
                     "sha1": "48197034431ec37e00f08b018e4d01afd03214e1",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         },
         {
             "name": "Better_Expressions.zip",
             "url": "https://cdn.modrinth.com/data/nvcRMEKh/versions/butm7qbW/Better_Expressions.zip",
             "sha1": "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
+            "display_name": "Better Expressions",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "incompatible_with": [
                 "4485a851140d337fa8ecca25939db3be50a3ba59"
-            ],
-            "display_name": "Better Expressions"
+            ]
         },
         {
             "name": "JustExpressions_v1.2.1.zip",
             "url": "https://cdn.modrinth.com/data/vPaHlT2U/versions/ZNXAMRW4/JustExpressions_v1.2.1.zip",
             "sha1": "4485a851140d337fa8ecca25939db3be50a3ba59",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
+            "display_name": "Just Expressions",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "incompatible_with": [
                 "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f"
-            ],
-            "display_name": "Just Expressions"
+            ]
         }
     ]
 }
