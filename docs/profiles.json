@@ -2325,14 +2325,10 @@
                 },
                 {
                     "name": "ServerTexture.zip",
-                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/ServerTexture.zip",
-                    "sha1": "94c0f80f498a3c303c31cec7de38fee95de3bb50",
-                    "file_type": "resourcepack",
-                    "install_path": null,
                     "display_name": "ServerTexture.zip",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/ServerTexture.zip",
+                    "sha1": "918d8576a9b1400c537d5c0040ec140a41b923ea",
+                    "file_type": "resourcepack",
                     "pack_mode": "forced",
                     "pack_order": 1
                 }
