@@ -493,6 +493,9 @@
                     ]
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null,
             "group": "Vanilla"
         },
         {
@@ -860,6 +863,9 @@
                     ]
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null,
             "group": "1.21.11"
         },
         {
@@ -1489,6 +1495,9 @@
                     "allowed_users": null
                 }
             ],
+            "req_user_type": null,
+            "allowed_users": null,
+            "is_upcoming": null,
             "group": "1.21.11"
         },
         {
@@ -2316,12 +2325,23 @@
                 },
                 {
                     "name": "ServerTexture.zip",
-                    "display_name": "ServerTexture.zip",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/ServerTexture.zip",
                     "sha1": "918d8576a9b1400c537d5c0040ec140a41b923ea",
                     "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "ServerTexture.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
                     "pack_mode": "forced",
                     "pack_order": 1
+                },
+                {
+                    "name": "dreamdisplays-fabric-26.3-1.10.1.jar",
+                    "display_name": "Dream Displays",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/hG2TKkUd/dreamdisplays-fabric-26.3-1.10.1.jar",
+                    "sha1": "664dadd4002cebf9daf1c3e8d4e94294a5e565b2",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
