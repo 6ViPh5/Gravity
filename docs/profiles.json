@@ -656,14 +656,16 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/aWUQvPXo/SodiumTranslations.zip",
-                    "sha1": "fa86f154c95a558e316ac99f0fb6aae53fcb4d17",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/r92PdHXE/SodiumTranslations.zip",
+                    "sha1": "4eefae716674ac5170ddcdf86f52e10e3009107f",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "pack_mode": "install",
+                    "pack_order": 3
                 },
                 {
                     "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
@@ -1024,14 +1026,16 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/aWUQvPXo/SodiumTranslations.zip",
-                    "sha1": "fa86f154c95a558e316ac99f0fb6aae53fcb4d17",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/r92PdHXE/SodiumTranslations.zip",
+                    "sha1": "4eefae716674ac5170ddcdf86f52e10e3009107f",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "pack_mode": "install",
+                    "pack_order": 3
                 },
                 {
                     "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
@@ -2321,10 +2325,14 @@
                 },
                 {
                     "name": "ServerTexture.zip",
-                    "display_name": "ServerTexture.zip",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/ServerTexture.zip",
                     "sha1": "94c0f80f498a3c303c31cec7de38fee95de3bb50",
                     "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": "ServerTexture.zip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
                     "pack_mode": "forced",
                     "pack_order": 1
                 }
@@ -3810,7 +3818,9 @@
             "display_name": "Leggings Fix",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "pack_mode": "install",
+            "pack_order": 3
         },
         {
             "name": "betterf1-fabric-26.3-1.3.jar",
@@ -3921,9 +3931,9 @@
             "allowed_users": null
         },
         {
-            "name": "shulkerboxtooltip-fabric-5.4.2+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/Cj9VEeGt/shulkerboxtooltip-fabric-5.4.2%2B26.3.jar",
-            "sha1": "2280c8ca8d77b4dcd5617daab3428b8115bef8d6",
+            "name": "shulkerboxtooltip-fabric-5.4.3+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/60krd8u8/shulkerboxtooltip-fabric-5.4.3%2B26.3.jar",
+            "sha1": "e81054001c0899e5c0689418f4272977fe6b0bf6",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3933,7 +3943,10 @@
             "display_name": "Shulker Box Tooltip",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "shulkerboxtooltip-fabric-5.4.2+26.3.jar"
+            ]
         },
         {
             "name": "particlerain-4.0.2+26.3-fabric.jar",
@@ -4239,9 +4252,6 @@
             "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
-            ],
-            "incompatible_with": [
-                "6e6cc19cb5b5a88c2c37dfe567c3d36685ba591b"
             ]
         },
         {
@@ -4784,7 +4794,9 @@
             "display_name": "Clearer Slot Highlight",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "pack_mode": "install",
+            "pack_order": 2
         },
         {
             "name": "Gamma-Utils-2.5.10+mc1.21.11.jar",
@@ -5508,36 +5520,6 @@
             "allowed_users": null
         },
         {
-            "name": "voxy-0.2.20-beta.jar",
-            "url": "https://cdn.modrinth.com/data/fxxUqruK/versions/iIrM8ZKQ/voxy-0.2.20-beta.jar",
-            "sha1": "a0efa54716b0fcbf4075cc18f4dbfbdc3b0cf305",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "voxy",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "voxygen-26.3-3.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/xT0lnNE9/versions/FZLopf8z/voxygen-26.3-3.0.0.jar",
-                    "sha1": "03c0e63b7c89512a01cf8aa2ba227501589acb1e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
-        },
-        {
             "name": "Faithful 32x - 26.3.zip",
             "url": "https://cdn.modrinth.com/data/w0TnApzs/versions/lDYpMiqk/Faithful%2032x%20-%2026.3.zip",
             "sha1": "0f20dfdff314da4da3bdf365f66718e8c344075b",
@@ -5580,53 +5562,6 @@
             "allowed_users": null
         },
         {
-            "name": "Enhanced Audio r7.zip",
-            "url": "https://cdn.modrinth.com/data/UinPYBF7/versions/6qVu8iKs/Enhanced%20Audio%20r7.zip",
-            "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "Enhanced Audio (Sound Pack)",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "Enhanced Audio Ambience r2.zip",
-                    "url": "https://cdn.modrinth.com/data/aMC0BRSF/versions/hrMUh4pK/Enhanced%20Audio%20Ambience%20r2.zip",
-                    "sha1": "48197034431ec37e00f08b018e4d01afd03214e1",
-                    "file_type": "resourcepack",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null
-        },
-        {
-            "name": "Better_Expressions.zip",
-            "url": "https://cdn.modrinth.com/data/nvcRMEKh/versions/butm7qbW/Better_Expressions.zip",
-            "sha1": "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "Better Expressions",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "4485a851140d337fa8ecca25939db3be50a3ba59"
-            ]
-        },
-        {
             "name": "JustExpressions_v1.2.1.zip",
             "url": "https://cdn.modrinth.com/data/vPaHlT2U/versions/ZNXAMRW4/JustExpressions_v1.2.1.zip",
             "sha1": "4485a851140d337fa8ecca25939db3be50a3ba59",
@@ -5638,29 +5573,7 @@
             "display_name": "Just Expressions",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null,
-            "incompatible_with": [
-                "9a9f8044cb258575b7d2fd64f4f377f1fc0bef6f"
-            ]
-        },
-        {
-            "name": "replaymod-26.3-2.6.28.jar",
-            "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/7c5mnPyr/replaymod-26.3-2.6.28.jar",
-            "sha1": "6e6cc19cb5b5a88c2c37dfe567c3d36685ba591b",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "ReplayMod",
-            "req_user_type": "exclusive",
-            "dependencies": null,
-            "allowed_users": [
-                "6ViPh5"
-            ],
-            "incompatible_with": [
-                "4fd7d2d677332f58b00107b27615379eadc6cfcb"
-            ]
+            "allowed_users": null
         }
     ]
 }
