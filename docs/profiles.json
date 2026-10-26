@@ -2354,9 +2354,40 @@
                 },
                 {
                     "name": "UnboundThirdPerson-mc26.3-v1.0.6-fabric.jar",
-                    "display_name": "Unbound Third Person",
                     "url": "https://cdn.modrinth.com/data/PdTZt0rA/versions/kfgiQpXv/UnboundThirdPerson-mc26.3-v1.0.6-fabric.jar",
                     "sha1": "603a64e8884a1cd53a406a46cc0d5621ad7e590a",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Unbound Third Person",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "HotVP-fabric-26.3.jar",
+                    "display_name": "Hero of the Village Plus - Better Villagers and Extra Trades",
+                    "url": "https://cdn.modrinth.com/data/Jcr6svMa/versions/G4ENL5a7/HotVP-fabric-26.3.jar",
+                    "sha1": "662a12f51e687f0caf487584115f468f57f0afe0",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "trek-B0.6.2.1.jar",
+                    "display_name": "Trek",
+                    "url": "https://cdn.modrinth.com/data/h2jngREY/versions/v6y24ZlJ/trek-B0.6.2.1.jar",
+                    "sha1": "929210eaf9b03768b9e23b3d491327bb7d7c8b55",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "JEB-1.1.1-26.3.jar",
+                    "display_name": "Just Enough Book",
+                    "url": "https://cdn.modrinth.com/data/vCHGW3kJ/versions/QciJ37J6/JEB-1.1.1-26.3.jar",
+                    "sha1": "2451f99ab85e07e884e42e9c9af43fe574b106c6",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "norealmsbutton-3.0.4+26.2-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MXWSaFmO/norealmsbutton-3.0.4%2B26.2-fabric.jar",
+                    "sha1": "97b760ee746ed5c2f20d233ee88661e8ecd208ca",
                     "file_type": "mod"
                 }
             ],
@@ -3416,60 +3447,6 @@
             ]
         },
         {
-            "name": "RoughlyEnoughItems-26.3.824.jar",
-            "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rKsAE6bX/RoughlyEnoughItems-26.3.824.jar",
-            "sha1": "b7bfe27288f68027fab7277f4cf84b9d243f8978",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado",
-                "srvsurv"
-            ],
-            "display_name": "Roughly Enough Items (REI)",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "norecipebook-4.3+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
-                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "NoRecipeBook",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "architectury-fabric-22.0.5.jar",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1pMaB6So/architectury-fabric-22.0.5.jar",
-                    "sha1": "8c5f566e32bd47fbb80be4932b9be1cfa97c4e3a",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": [
-                        "architectury-fabric-22.0.4.jar"
-                    ]
-                }
-            ],
-            "allowed_users": null,
-            "incompatible_with": [
-                "4170bd12adfb71070c4a52ec14125a486515ddac"
-            ],
-            "replaces": [
-                "RoughlyEnoughItems-26.3.823.jar"
-            ]
-        },
-        {
             "name": "skinlayers3d-fabric-1.11.4-mc26.3.jar",
             "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/gjM2TO0L/skinlayers3d-fabric-1.11.4-mc26.3.jar",
             "sha1": "1eef5b7a4b931c236c117def1c6b867be0443116",
@@ -3811,9 +3788,6 @@
             ],
             "allowed_users": null,
             "exclusive_group": "enoughitems",
-            "incompatible_with": [
-                "b7bfe27288f68027fab7277f4cf84b9d243f8978"
-            ],
             "replaces": [
                 "jei-26.3-fabric-31.9.0.57.jar",
                 "jei-26.3-fabric-31.9.0.58.jar",
