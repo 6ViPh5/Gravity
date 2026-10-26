@@ -19,7 +19,7 @@
             "name": "Optimizado",
             "version": "26.3",
             "loader": "fabric",
-            "loader_version": "0.19.5",
+            "loader_version": "0.20.1",
             "visuals": {
                 "background": "https://i.redd.it/ywzsvvxesrnh1.jpeg"
             },
@@ -493,9 +493,6 @@
                     ]
                 }
             ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null,
             "group": "Vanilla"
         },
         {
@@ -503,7 +500,7 @@
             "name": "Optimizado",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.3",
+            "loader_version": "0.20.1",
             "visuals": {
                 "background": "https://images.alphacoders.com/109/thumb-1920-1099436.png"
             },
@@ -863,9 +860,6 @@
                     ]
                 }
             ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null,
             "group": "1.21.11"
         },
         {
@@ -873,7 +867,7 @@
             "name": "PvP 1.9",
             "version": "1.21.11",
             "loader": "fabric",
-            "loader_version": "0.19.5",
+            "loader_version": "0.20.1",
             "visuals": {
                 "background": "https://i.redd.it/gx9g92u17hr41.png"
             },
@@ -1495,9 +1489,6 @@
                     "allowed_users": null
                 }
             ],
-            "req_user_type": null,
-            "allowed_users": null,
-            "is_upcoming": null,
             "group": "1.21.11"
         },
         {
