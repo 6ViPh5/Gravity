@@ -100,9 +100,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.2+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/kt5KoQuf/animatica-0.7.0%2Bbeta.2%2B26.3.jar",
-                    "sha1": "5894a7a978c6c8e4d42c02acdb142ff7ab4a3718",
+                    "name": "animatica-0.7.0+beta.3+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/6kPLR90Q/animatica-0.7.0%2Bbeta.3%2B26.3-fabric.jar",
+                    "sha1": "3079d66d03aa294b75d0ca236874b09b19422e96",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -112,7 +112,8 @@
                     "replaces": [
                         "animatica-0.6.2+26.3.jar",
                         "animatica-0.6.3+26.3.jar",
-                        "animatica-0.7.0+beta.1+26.3.jar"
+                        "animatica-0.7.0+beta.1+26.3.jar",
+                        "animatica-0.7.0+beta.2+26.3.jar"
                     ]
                 },
                 {
@@ -1586,9 +1587,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.2+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/kt5KoQuf/animatica-0.7.0%2Bbeta.2%2B26.3.jar",
-                    "sha1": "5894a7a978c6c8e4d42c02acdb142ff7ab4a3718",
+                    "name": "animatica-0.7.0+beta.3+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/6kPLR90Q/animatica-0.7.0%2Bbeta.3%2B26.3-fabric.jar",
+                    "sha1": "3079d66d03aa294b75d0ca236874b09b19422e96",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -1598,7 +1599,8 @@
                     "replaces": [
                         "animatica-0.6.2+26.3.jar",
                         "animatica-0.6.3+26.3.jar",
-                        "animatica-0.7.0+beta.1+26.3.jar"
+                        "animatica-0.7.0+beta.1+26.3.jar",
+                        "animatica-0.7.0+beta.2+26.3.jar"
                     ]
                 },
                 {
@@ -2337,10 +2339,24 @@
                     "pack_order": 1
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.1.jar",
+                    "name": "dreamdisplays-fabric-26.3-1.10.4.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/siUKU04U/dreamdisplays-fabric-26.3-1.10.4.jar",
+                    "sha1": "2517c819d2fd803b0428df48e384d2d23af6c398",
+                    "file_type": "mod",
+                    "install_path": null,
                     "display_name": "Dream Displays",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/hG2TKkUd/dreamdisplays-fabric-26.3-1.10.1.jar",
-                    "sha1": "664dadd4002cebf9daf1c3e8d4e94294a5e565b2",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "dreamdisplays-fabric-26.3-1.10.1.jar"
+                    ]
+                },
+                {
+                    "name": "UnboundThirdPerson-mc26.3-v1.0.6-fabric.jar",
+                    "display_name": "Unbound Third Person",
+                    "url": "https://cdn.modrinth.com/data/PdTZt0rA/versions/kfgiQpXv/UnboundThirdPerson-mc26.3-v1.0.6-fabric.jar",
+                    "sha1": "603a64e8884a1cd53a406a46cc0d5621ad7e590a",
                     "file_type": "mod"
                 }
             ],
@@ -2617,9 +2633,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "streamcraft-pc-0.29.3+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/m699zWQx/streamcraft-pc-0.29.3%2Bmc26.3.jar",
-                    "sha1": "c2fe1a5ce26ad834bebe5e620040b663445dbb03",
+                    "name": "streamcraft-pc-0.31.0+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/OXzJgbsk/streamcraft-pc-0.31.0%2Bmc26.3.jar",
+                    "sha1": "0f742b221dfb5331c7176273e98bb1909e800cff",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2629,7 +2645,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "streamcraft-pc-0.29.3+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "viph-ideas-4.4+26.3.jar",
@@ -3445,7 +3463,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "de9f340eb0551a8a0cc404bcaf222441f2cad15b"
+                "4170bd12adfb71070c4a52ec14125a486515ddac"
             ],
             "replaces": [
                 "RoughlyEnoughItems-26.3.823.jar"
@@ -3747,9 +3765,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.17.0.93.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/b6JCG7a3/jei-26.3-fabric-31.17.0.93.jar",
-            "sha1": "de9f340eb0551a8a0cc404bcaf222441f2cad15b",
+            "name": "jei-26.3-fabric-31.17.0.94.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/BHDdN3A7/jei-26.3-fabric-31.17.0.94.jar",
+            "sha1": "4170bd12adfb71070c4a52ec14125a486515ddac",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3809,7 +3827,8 @@
                 "jei-26.3-fabric-31.16.0.86.jar",
                 "jei-26.3-fabric-31.16.0.87.jar",
                 "jei-26.3-fabric-31.16.0.89.jar",
-                "jei-26.3-fabric-31.16.0.90.jar"
+                "jei-26.3-fabric-31.16.0.90.jar",
+                "jei-26.3-fabric-31.17.0.93.jar"
             ]
         },
         {
@@ -4196,9 +4215,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.9+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/1MiEDyFq/spatial-gui-1.9%2B26.3-fabric.jar",
-            "sha1": "86a67e8c3d3683e6217a29aae074ca00245138c2",
+            "name": "spatial-gui-1.9.1+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/GKKVgCMp/spatial-gui-1.9.1%2B26.3-fabric.jar",
+            "sha1": "faa9cf16842e6c4ed02c37960bf2121fe1709b48",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4210,7 +4229,8 @@
             "allowed_users": null,
             "replaces": [
                 "spatial-gui-1.7.2+26.3-fabric.jar",
-                "spatial-gui-1.8+26.3-fabric.jar"
+                "spatial-gui-1.8+26.3-fabric.jar",
+                "spatial-gui-1.9+26.3-fabric.jar"
             ]
         },
         {
