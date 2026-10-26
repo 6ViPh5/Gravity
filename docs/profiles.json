@@ -2318,6 +2318,15 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "ServerTexture.zip",
+                    "display_name": "ServerTexture.zip",
+                    "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/ServerTexture.zip",
+                    "sha1": "94c0f80f498a3c303c31cec7de38fee95de3bb50",
+                    "file_type": "resourcepack",
+                    "pack_mode": "forced",
+                    "pack_order": 1
                 }
             ],
             "req_user_type": "exclusive",
@@ -5639,11 +5648,13 @@
             "url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/7c5mnPyr/replaymod-26.3-2.6.28.jar",
             "sha1": "6e6cc19cb5b5a88c2c37dfe567c3d36685ba591b",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "ReplayMod",
             "req_user_type": "exclusive",
+            "dependencies": null,
             "allowed_users": [
                 "6ViPh5"
             ],
