@@ -100,9 +100,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.3+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/6kPLR90Q/animatica-0.7.0%2Bbeta.3%2B26.3-fabric.jar",
-                    "sha1": "3079d66d03aa294b75d0ca236874b09b19422e96",
+                    "name": "animatica-0.7.0+beta.4+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/pNFpFu4g/animatica-0.7.0%2Bbeta.4%2B26.3-fabric.jar",
+                    "sha1": "433c6b79e0d416c6c126e573531cd671836e40d0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -113,7 +113,8 @@
                         "animatica-0.6.2+26.3.jar",
                         "animatica-0.6.3+26.3.jar",
                         "animatica-0.7.0+beta.1+26.3.jar",
-                        "animatica-0.7.0+beta.2+26.3.jar"
+                        "animatica-0.7.0+beta.2+26.3.jar",
+                        "animatica-0.7.0+beta.3+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -1587,9 +1588,9 @@
                     ]
                 },
                 {
-                    "name": "animatica-0.7.0+beta.3+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/6kPLR90Q/animatica-0.7.0%2Bbeta.3%2B26.3-fabric.jar",
-                    "sha1": "3079d66d03aa294b75d0ca236874b09b19422e96",
+                    "name": "animatica-0.7.0+beta.4+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/xEyZuswh/versions/pNFpFu4g/animatica-0.7.0%2Bbeta.4%2B26.3-fabric.jar",
+                    "sha1": "433c6b79e0d416c6c126e573531cd671836e40d0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Animatica Refabricated",
@@ -1600,7 +1601,8 @@
                         "animatica-0.6.2+26.3.jar",
                         "animatica-0.6.3+26.3.jar",
                         "animatica-0.7.0+beta.1+26.3.jar",
-                        "animatica-0.7.0+beta.2+26.3.jar"
+                        "animatica-0.7.0+beta.2+26.3.jar",
+                        "animatica-0.7.0+beta.3+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -2289,9 +2291,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.4.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/3tTq15pR/diorama-0.4.0%2B26.3.jar",
-                    "sha1": "179c89ddc32d72e4b5507b4fb53ca680da437714",
+                    "name": "diorama-0.5.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/DLGO9iRw/diorama-0.5.0%2B26.3.jar",
+                    "sha1": "3427f3025c1e8e0e9fae67f93281ba2e49c15217",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2300,7 +2302,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "diorama-0.2.0+26.3.jar",
-                        "diorama-0.3.1+26.3.jar"
+                        "diorama-0.3.1+26.3.jar",
+                        "diorama-0.4.0+26.3.jar"
                     ]
                 },
                 {
@@ -2339,9 +2342,9 @@
                     "pack_order": 1
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.4.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/siUKU04U/dreamdisplays-fabric-26.3-1.10.4.jar",
-                    "sha1": "2517c819d2fd803b0428df48e384d2d23af6c398",
+                    "name": "dreamdisplays-fabric-26.3-1.10.6.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/PJM7zO6S/dreamdisplays-fabric-26.3-1.10.6.jar",
+                    "sha1": "c7159042b8cf5f8b7baa8ac405bb7f2b92c3906c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Dream Displays",
@@ -2349,7 +2352,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "dreamdisplays-fabric-26.3-1.10.1.jar"
+                        "dreamdisplays-fabric-26.3-1.10.1.jar",
+                        "dreamdisplays-fabric-26.3-1.10.4.jar"
                     ]
                 },
                 {
@@ -2365,29 +2369,85 @@
                 },
                 {
                     "name": "HotVP-fabric-26.3.jar",
-                    "display_name": "Hero of the Village Plus - Better Villagers and Extra Trades",
                     "url": "https://cdn.modrinth.com/data/Jcr6svMa/versions/G4ENL5a7/HotVP-fabric-26.3.jar",
                     "sha1": "662a12f51e687f0caf487584115f468f57f0afe0",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Hero of the Village Plus - Better Villagers and Extra Trades",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "trek-B0.6.2.1.jar",
-                    "display_name": "Trek",
                     "url": "https://cdn.modrinth.com/data/h2jngREY/versions/v6y24ZlJ/trek-B0.6.2.1.jar",
                     "sha1": "929210eaf9b03768b9e23b3d491327bb7d7c8b55",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Trek",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
-                    "name": "JEB-1.1.1-26.3.jar",
+                    "name": "JEB-1.1.2-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/vCHGW3kJ/versions/efF7FkrA/JEB-1.1.2-26.3.jar",
+                    "sha1": "b69e204adfc2e4b9a2a342f165a5e807c3e10f28",
+                    "file_type": "mod",
+                    "install_path": null,
                     "display_name": "Just Enough Book",
-                    "url": "https://cdn.modrinth.com/data/vCHGW3kJ/versions/QciJ37J6/JEB-1.1.1-26.3.jar",
-                    "sha1": "2451f99ab85e07e884e42e9c9af43fe574b106c6",
-                    "file_type": "mod"
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "JEB-1.1.1-26.3.jar"
+                    ]
                 },
                 {
                     "name": "norealmsbutton-3.0.4+26.2-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/AMMUyCdF/versions/MXWSaFmO/norealmsbutton-3.0.4%2B26.2-fabric.jar",
                     "sha1": "97b760ee746ed5c2f20d233ee88661e8ecd208ca",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "last-world-panorama-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/F1KVNatg/versions/XkXkj2N1/last-world-panorama-26.3.jar",
+                    "sha1": "23324ecd900db17e14623392a5adeadf721e536e",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "scribble-2.1.0+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/aXAUZoEb/scribble-2.1.0%2Bmc26.3.jar",
+                    "sha1": "cac789e572d205e933f597a03e9e03b5a089d1f6",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "Reactions-fabric-0.9.1+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/8HLtNhbi/versions/PClBOHEN/Reactions-fabric-0.9.1%2B26.3.jar",
+                    "sha1": "8a742eadf43ac46cae3070fe980524e5d4fcd8f9",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "enderscape-fabric-3.0.5+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/btCrWvHr/versions/1VZBnRYm/enderscape-fabric-3.0.5%2Bmc26.3.jar",
+                    "sha1": "d6e080075cd91e868e45cc6394f3e3271ef36e5b",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "lithostitched-2.0.6-fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pZgI6b2t/lithostitched-2.0.6-fabric-26.3.jar",
+                    "sha1": "c1b73f95795985bbede0b6d43513304448bc5603",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "naturalist-2.0.7-fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/4SzCjLeS/naturalist-2.0.7-fabric-26.3.jar",
+                    "sha1": "1ede21ba19e6458c1f8c335b3425fdd07d055ccd",
                     "file_type": "mod"
                 }
             ],
@@ -2476,9 +2536,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.4.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/siUKU04U/dreamdisplays-fabric-26.3-1.10.4.jar",
-                    "sha1": "2517c819d2fd803b0428df48e384d2d23af6c398",
+                    "name": "dreamdisplays-fabric-26.3-1.10.6.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/PJM7zO6S/dreamdisplays-fabric-26.3-1.10.6.jar",
+                    "sha1": "c7159042b8cf5f8b7baa8ac405bb7f2b92c3906c",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2491,7 +2551,8 @@
                     "replaces": [
                         "dreamdisplays-fabric-26.3-1.10.1.jar",
                         "dreamdisplays-fabric-26.3-1.10.2.jar",
-                        "dreamdisplays-fabric-26.3-1.10.3.jar"
+                        "dreamdisplays-fabric-26.3-1.10.3.jar",
+                        "dreamdisplays-fabric-26.3-1.10.4.jar"
                     ]
                 },
                 {
@@ -4273,9 +4334,9 @@
             ]
         },
         {
-            "name": "diorama-0.4.0+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/3tTq15pR/diorama-0.4.0%2B26.3.jar",
-            "sha1": "179c89ddc32d72e4b5507b4fb53ca680da437714",
+            "name": "diorama-0.5.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/DLGO9iRw/diorama-0.5.0%2B26.3.jar",
+            "sha1": "3427f3025c1e8e0e9fae67f93281ba2e49c15217",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4287,7 +4348,8 @@
             "allowed_users": null,
             "replaces": [
                 "diorama-0.2.0+26.3.jar",
-                "diorama-0.3.1+26.3.jar"
+                "diorama-0.3.1+26.3.jar",
+                "diorama-0.4.0+26.3.jar"
             ]
         },
         {
@@ -5558,20 +5620,6 @@
                 "srvsurv"
             ],
             "display_name": "Redstone Tweaks",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "JustExpressions_v1.2.1.zip",
-            "url": "https://cdn.modrinth.com/data/vPaHlT2U/versions/ZNXAMRW4/JustExpressions_v1.2.1.zip",
-            "sha1": "4485a851140d337fa8ecca25939db3be50a3ba59",
-            "file_type": "resourcepack",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "Just Expressions",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
