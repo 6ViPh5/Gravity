@@ -2971,9 +2971,9 @@
             ]
         },
         {
-            "name": "better-clouds-1.15.0-beta.6+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/OUAWBlxh/better-clouds-1.15.0-beta.6%2B26.3-fabric.jar",
-            "sha1": "2237c01bd94a6998bc4af0b8f7f1658ae811df47",
+            "name": "better-clouds-1.15.0-beta.7+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/mo1L4rI7/better-clouds-1.15.0-beta.7%2B26.3-fabric.jar",
+            "sha1": "ae7771308dd9d2c0e0b03c9ad073262e2b36e9b4",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3001,7 +3001,8 @@
             "allowed_users": null,
             "replaces": [
                 "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
-                "better-clouds-1.15.0-beta.5+26.3-fabric.jar"
+                "better-clouds-1.15.0-beta.5+26.3-fabric.jar",
+                "better-clouds-1.15.0-beta.6+26.3-fabric.jar"
             ]
         },
         {
@@ -3803,9 +3804,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.17.0.94.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/BHDdN3A7/jei-26.3-fabric-31.17.0.94.jar",
-            "sha1": "4170bd12adfb71070c4a52ec14125a486515ddac",
+            "name": "jei-26.3-fabric-31.17.0.95.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/8F0DZdvW/jei-26.3-fabric-31.17.0.95.jar",
+            "sha1": "91ee50ae3f8152c2c67c188d11b2f8d2cf8a29f0",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3863,7 +3864,8 @@
                 "jei-26.3-fabric-31.16.0.87.jar",
                 "jei-26.3-fabric-31.16.0.89.jar",
                 "jei-26.3-fabric-31.16.0.90.jar",
-                "jei-26.3-fabric-31.17.0.93.jar"
+                "jei-26.3-fabric-31.17.0.93.jar",
+                "jei-26.3-fabric-31.17.0.94.jar"
             ]
         },
         {
@@ -4473,7 +4475,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "3703def019a8c773e8df3306390b04af2ebacc16"
+                "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e"
             ]
         },
         {
@@ -5293,7 +5295,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "3703def019a8c773e8df3306390b04af2ebacc16"
+                "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5420,9 +5422,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.11+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/Tl2GmPU2/evergreenhud-3.9.11%2B1.21.11.jar",
-            "sha1": "3703def019a8c773e8df3306390b04af2ebacc16",
+            "name": "evergreenhud-3.9.12+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/Y9F0iNwF/evergreenhud-3.9.12%2B1.21.11.jar",
+            "sha1": "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5432,9 +5434,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.5.0.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/1xyUWpLn/OneConfig-1.21.11-fabric-1.5.0.jar",
-                    "sha1": "8fce67cfb0b7b367cd22cd40007b343ddc526dcb",
+                    "name": "OneConfig-1.21.11-fabric-1.5.2.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/iUd8wpKt/OneConfig-1.21.11-fabric-1.5.2.jar",
+                    "sha1": "116134d0ba80931edc448581401d262bf31b5731",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5445,7 +5447,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "OneConfig-1.21.11-fabric-1.4.4.jar"
+                        "OneConfig-1.21.11-fabric-1.4.4.jar",
+                        "OneConfig-1.21.11-fabric-1.5.0.jar"
                     ]
                 },
                 {
@@ -5470,7 +5473,8 @@
                 "50df73810034c4ce95cca95e7005b76ea8ceb4dd"
             ],
             "replaces": [
-                "evergreenhud-3.9.10+1.21.11.jar"
+                "evergreenhud-3.9.10+1.21.11.jar",
+                "evergreenhud-3.9.11+1.21.11.jar"
             ]
         },
         {
