@@ -2533,6 +2533,13 @@
                     "replaces": [
                         "shulkerboxtooltip-fabric-5.4.2+26.3.jar"
                     ]
+                },
+                {
+                    "name": "shulkerboxtooltip.json5",
+                    "display_name": "shulkerboxtooltip.json5",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/shulkerboxtooltip.json5",
+                    "sha1": "98a26a192c76d9dc9bf3291b95549b5d1761c127",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
