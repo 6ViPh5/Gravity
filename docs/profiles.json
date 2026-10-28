@@ -3809,9 +3809,9 @@
                     ]
                 },
                 {
-                    "name": "xmmp-1.2.3+26.2-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/b3lREphO/xmmp-1.2.3%2B26.2-fabric.jar",
-                    "sha1": "c3fdd732a6069f6049e761531ecacdba3db10d11",
+                    "name": "xmmp-1.2.4+26.2-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/stTaMuWa/versions/Nt0Yoefe/xmmp-1.2.4%2B26.2-fabric.jar",
+                    "sha1": "89a95519e4adc698690d350cda98e1072b907e7f",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3822,7 +3822,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "xmmp-1.1.1+26.2-fabric.jar"
+                        "xmmp-1.1.1+26.2-fabric.jar",
+                        "xmmp-1.2.3+26.2-fabric.jar"
                     ]
                 }
             ],
@@ -5663,10 +5664,25 @@
             "url": "https://cdn.modrinth.com/data/3iFwlaWN/versions/8aiSjBxW/smooththirdpersoncamera-mc26.3-fabric-2.0.0.jar",
             "sha1": "3107078b29bcc7be339e45e8b4765345c565ea7d",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Smooth Third Person Camera (STPC)"
+            "display_name": "Smooth Third Person Camera (STPC)",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
+            "name": "spark-1.10.170-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
+            "sha1": "2a3745baa44e11672c4befe3beeccef758581f80",
+            "file_type": "mod",
+            "target_profiles": [
+                "pvp1.9",
+                "opt1.21"
+            ],
+            "display_name": "spark"
         }
     ]
 }
