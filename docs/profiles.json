@@ -493,6 +493,12 @@
                     "replaces": [
                         "matlib-0.7.1+26.3-fabric.jar"
                     ]
+                },
+                {
+                    "name": "Ixeris-4.6.10+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/sjqczBmY/Ixeris-4.6.10%2B26.3-fabric.jar",
+                    "sha1": "4b1491b45a962616d7abb6bd87a5a312aead1e7e",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": null,
@@ -863,6 +869,17 @@
                     "replaces": [
                         "matlib-0.7.1+1.21.11-fabric.jar"
                     ]
+                },
+                {
+                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
+                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -1492,6 +1509,17 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric Language Kotlin",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
+                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
@@ -4970,6 +4998,21 @@
             "allowed_users": null
         },
         {
+            "name": "spark-1.10.170-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
+            "sha1": "2a3745baa44e11672c4befe3beeccef758581f80",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "opt1.21",
+                "pvp1.9"
+            ],
+            "display_name": "spark",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "numeralping-1.2.8.jar",
             "url": "https://cdn.modrinth.com/data/XLd8Sh64/versions/7f1YbMYB/numeralping-1.2.8.jar",
             "sha1": "086E555C9A995C0BEBAF9A72CE1FB3ACBE0CB4E4",
@@ -5672,17 +5715,6 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
-        },
-        {
-            "name": "spark-1.10.170-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/gonLOAU1/spark-1.10.170-fabric.jar",
-            "sha1": "2a3745baa44e11672c4befe3beeccef758581f80",
-            "file_type": "mod",
-            "target_profiles": [
-                "pvp1.9",
-                "opt1.21"
-            ],
-            "display_name": "spark"
         }
     ]
 }
