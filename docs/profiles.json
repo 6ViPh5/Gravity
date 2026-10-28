@@ -481,9 +481,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-0.7.3+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/zno3RRXg/matlib-0.7.3%2B26.3-fabric.jar",
-                    "sha1": "41f7d50ecd196f1698e94ded64ec13b8d6ad17de",
+                    "name": "matlib-1.0.0+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/VIhnl3tD/matlib-1.0.0%2B26.3-fabric.jar",
+                    "sha1": "52f6306eb4df8b95923fef2ee416807794072b56",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -491,14 +491,20 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "matlib-0.7.1+26.3-fabric.jar"
+                        "matlib-0.7.1+26.3-fabric.jar",
+                        "matlib-0.7.3+26.3-fabric.jar"
                     ]
                 },
                 {
                     "name": "Ixeris-4.6.10+26.3-fabric.jar",
                     "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/sjqczBmY/Ixeris-4.6.10%2B26.3-fabric.jar",
                     "sha1": "4b1491b45a962616d7abb6bd87a5a312aead1e7e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": null,
@@ -857,9 +863,9 @@
                     ]
                 },
                 {
-                    "name": "matlib-0.7.3+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/ygDAcNfE/matlib-0.7.3%2B1.21.11-fabric.jar",
-                    "sha1": "ab919804068696c5802fdb0bf02277223306cb2c",
+                    "name": "matlib-1.0.0+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/Tv6nhhre/matlib-1.0.0%2B1.21.11-fabric.jar",
+                    "sha1": "2835205186d39cd2e34df83aa2640bd9b374aff0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -867,7 +873,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "matlib-0.7.1+1.21.11-fabric.jar"
+                        "matlib-0.7.1+1.21.11-fabric.jar",
+                        "matlib-0.7.3+1.21.11-fabric.jar"
                     ]
                 },
                 {
@@ -1238,9 +1245,9 @@
                     ]
                 },
                 {
-                    "name": "matlib-0.7.3+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/ygDAcNfE/matlib-0.7.3%2B1.21.11-fabric.jar",
-                    "sha1": "ab919804068696c5802fdb0bf02277223306cb2c",
+                    "name": "matlib-1.0.0+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/Tv6nhhre/matlib-1.0.0%2B1.21.11-fabric.jar",
+                    "sha1": "2835205186d39cd2e34df83aa2640bd9b374aff0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1248,8 +1255,20 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "matlib-0.7.1+1.21.11-fabric.jar"
+                        "matlib-0.7.1+1.21.11-fabric.jar",
+                        "matlib-0.7.3+1.21.11-fabric.jar"
                     ]
+                },
+                {
+                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
+                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -1509,17 +1528,6 @@
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric Language Kotlin",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
-                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
-                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
@@ -1997,9 +2005,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-0.7.3+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/zno3RRXg/matlib-0.7.3%2B26.3-fabric.jar",
-                    "sha1": "41f7d50ecd196f1698e94ded64ec13b8d6ad17de",
+                    "name": "matlib-1.0.0+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/VIhnl3tD/matlib-1.0.0%2B26.3-fabric.jar",
+                    "sha1": "52f6306eb4df8b95923fef2ee416807794072b56",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2007,7 +2015,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "matlib-0.7.1+26.3-fabric.jar"
+                        "matlib-0.7.1+26.3-fabric.jar",
+                        "matlib-0.7.3+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -2297,15 +2306,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/f20PXwSI/bettercoppergolem-FABRIC-2.7.2-26.3.jar",
-                    "sha1": "4c96b3f0b98437d929b52a67ab20c5272e40be8f",
+                    "name": "bettercoppergolem-FABRIC-2.7.3-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/MFBZKUri/bettercoppergolem-FABRIC-2.7.3-26.3.jar",
+                    "sha1": "d7d81d91c350270dffd5e1b0974b70699a1445de",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Better Copper Golem",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "bettercoppergolem-FABRIC-2.7.2-26.3.jar"
+                    ]
                 },
                 {
                     "name": "emotecraft.json",
@@ -2507,6 +2519,20 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "shulkerboxtooltip-fabric-5.4.3+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/60krd8u8/shulkerboxtooltip-fabric-5.4.3%2B26.3.jar",
+                    "sha1": "e81054001c0899e5c0689418f4272977fe6b0bf6",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Shulker Box Tooltip",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "shulkerboxtooltip-fabric-5.4.2+26.3.jar"
+                    ]
                 }
             ],
             "req_user_type": "exclusive",
@@ -2515,9 +2541,9 @@
                 "aluwjf",
                 "KelloGamer_LZ",
                 "flx",
-                "I_Flx"
-            ],
-            "is_upcoming": null
+                "I_Flx",
+                "_Ivana0711L"
+            ]
         }
     ],
     "optional_mods": [
@@ -2676,9 +2702,9 @@
                     ]
                 },
                 {
-                    "name": "pehkui-rebuilt-fabric-3.8.7+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/cxwMAgWQ/versions/gyV813Az/pehkui-rebuilt-fabric-3.8.7%2B26.3.jar",
-                    "sha1": "bcd25182c8d08d9ee1068f8ca64c2aa43f98a315",
+                    "name": "pehkui-rebuilt-fabric-3.9.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/cxwMAgWQ/versions/jC24bGUG/pehkui-rebuilt-fabric-3.9.0%2B26.3.jar",
+                    "sha1": "fbaca5e93e9017f7dafed46f31cc77c77390a3ff",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2688,7 +2714,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "pehkui-rebuilt-fabric-3.8.7+26.3.jar"
+                    ]
                 },
                 {
                     "name": "AccurateBlockPlacement-Reborn-1.4.8+mc-26.3.jar",
@@ -3029,9 +3057,9 @@
             ]
         },
         {
-            "name": "better-clouds-1.15.0-beta.7+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/mo1L4rI7/better-clouds-1.15.0-beta.7%2B26.3-fabric.jar",
-            "sha1": "ae7771308dd9d2c0e0b03c9ad073262e2b36e9b4",
+            "name": "better-clouds-1.15.0-beta.8+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/gd9idieP/better-clouds-1.15.0-beta.8%2B26.3-fabric.jar",
+            "sha1": "29b6d7e8801986c093ffca5b279ad8e854608833",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3060,7 +3088,8 @@
             "replaces": [
                 "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
                 "better-clouds-1.15.0-beta.5+26.3-fabric.jar",
-                "better-clouds-1.15.0-beta.6+26.3-fabric.jar"
+                "better-clouds-1.15.0-beta.6+26.3-fabric.jar",
+                "better-clouds-1.15.0-beta.7+26.3-fabric.jar"
             ]
         },
         {
@@ -3316,9 +3345,9 @@
             "allowed_users": null
         },
         {
-            "name": "immersive-hotbar-1.2.2-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/5p5svVAS/immersive-hotbar-1.2.2-26.3.jar",
-            "sha1": "f820ea7ed80cc248855371fb512da894ac8747dc",
+            "name": "immersive-hotbar-1.3.0-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/K8iMHaiW/immersive-hotbar-1.3.0-26.3.jar",
+            "sha1": "fcaa80cae83babbcaa49c7176806358ebf6a5122",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3344,7 +3373,10 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "immersive-hotbar-1.2.2-26.3.jar"
+            ]
         },
         {
             "name": "InventoryParticles-3.3.0+26.3+fabric.jar",
@@ -3724,9 +3756,9 @@
             "allowed_users": null
         },
         {
-            "name": "voicechat-fabric-2.6.26+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/cZm965sW/voicechat-fabric-2.6.26%2B26.3.jar",
-            "sha1": "b11edf2591c2f325786544a94dcded4a9656a55b",
+            "name": "voicechat-fabric-2.6.27+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar",
+            "sha1": "23442735927fe3839650196c0656eb82b0322d87",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3769,7 +3801,8 @@
             "allowed_users": null,
             "replaces": [
                 "voicechat-fabric-2.6.24+26.3.jar",
-                "voicechat-fabric-2.6.25+26.3.jar"
+                "voicechat-fabric-2.6.25+26.3.jar",
+                "voicechat-fabric-2.6.26+26.3.jar"
             ]
         },
         {
@@ -3863,9 +3896,9 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.17.0.95.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/8F0DZdvW/jei-26.3-fabric-31.17.0.95.jar",
-            "sha1": "91ee50ae3f8152c2c67c188d11b2f8d2cf8a29f0",
+            "name": "jei-26.3-fabric-31.17.0.98.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xdRCAhOr/jei-26.3-fabric-31.17.0.98.jar",
+            "sha1": "2ef54c781f1e04d29af962598527e0f7fd0b3c2d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3924,7 +3957,8 @@
                 "jei-26.3-fabric-31.16.0.89.jar",
                 "jei-26.3-fabric-31.16.0.90.jar",
                 "jei-26.3-fabric-31.17.0.93.jar",
-                "jei-26.3-fabric-31.17.0.94.jar"
+                "jei-26.3-fabric-31.17.0.94.jar",
+                "jei-26.3-fabric-31.17.0.95.jar"
             ]
         },
         {
@@ -4059,8 +4093,7 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "optimizado",
-                "srvsurv"
+                "optimizado"
             ],
             "display_name": "Shulker Box Tooltip",
             "req_user_type": null,
