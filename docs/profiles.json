@@ -2418,37 +2418,67 @@
                     "name": "last-world-panorama-26.3.jar",
                     "url": "https://cdn.modrinth.com/data/F1KVNatg/versions/XkXkj2N1/last-world-panorama-26.3.jar",
                     "sha1": "23324ecd900db17e14623392a5adeadf721e536e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "scribble-2.1.0+mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/aXAUZoEb/scribble-2.1.0%2Bmc26.3.jar",
                     "sha1": "cac789e572d205e933f597a03e9e03b5a089d1f6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Reactions-fabric-0.9.1+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/8HLtNhbi/versions/PClBOHEN/Reactions-fabric-0.9.1%2B26.3.jar",
                     "sha1": "8a742eadf43ac46cae3070fe980524e5d4fcd8f9",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "enderscape-fabric-3.0.5+mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/btCrWvHr/versions/1VZBnRYm/enderscape-fabric-3.0.5%2Bmc26.3.jar",
                     "sha1": "d6e080075cd91e868e45cc6394f3e3271ef36e5b",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "lithostitched-2.0.6-fabric-26.3.jar",
                     "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pZgI6b2t/lithostitched-2.0.6-fabric-26.3.jar",
                     "sha1": "c1b73f95795985bbede0b6d43513304448bc5603",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "naturalist-2.0.7-fabric-26.3.jar",
                     "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/4SzCjLeS/naturalist-2.0.7-fabric-26.3.jar",
                     "sha1": "1ede21ba19e6458c1f8c335b3425fdd07d055ccd",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -5627,6 +5657,16 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "smooththirdpersoncamera-mc26.3-fabric-2.0.0.jar",
+            "url": "https://cdn.modrinth.com/data/3iFwlaWN/versions/8aiSjBxW/smooththirdpersoncamera-mc26.3-fabric-2.0.0.jar",
+            "sha1": "3107078b29bcc7be339e45e8b4765345c565ea7d",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Smooth Third Person Camera (STPC)"
         }
     ]
 }
