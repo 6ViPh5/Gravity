@@ -2229,17 +2229,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-4.4+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.4+26.3.jar",
-                    "sha1": "b41954086ab2c4add4c53aa038c0965e6af08259",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-4.4+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "watermedia_binaries-3.0.0.6.jar",
                     "url": "https://github.com/6ViPh5/Gravity/releases/download/extras/watermedia_binaries-3.0.0.6.jar",
                     "sha1": "093394ee29b9b818da335dd1d14ab15762a82d76",
@@ -2536,9 +2525,20 @@
                 },
                 {
                     "name": "shulkerboxtooltip.json5",
-                    "display_name": "shulkerboxtooltip.json5",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/shulkerboxtooltip.json5",
                     "sha1": "98a26a192c76d9dc9bf3291b95549b5d1761c127",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "shulkerboxtooltip.json5",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "viph-ideas-4.6+26.3.jar",
+                    "display_name": "viph-ideas-4.6+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.6+26.3.jar",
+                    "sha1": "91ab103caec45fea6b2b980370f9e7bc47f143e5",
                     "file_type": "mod"
                 }
             ],
@@ -2550,7 +2550,8 @@
                 "flx",
                 "I_Flx",
                 "_Ivana0711L"
-            ]
+            ],
+            "is_upcoming": null
         }
     ],
     "optional_mods": [
