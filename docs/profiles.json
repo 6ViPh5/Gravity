@@ -309,15 +309,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "lithium-fabric-0.26.2+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar",
-                    "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+                    "name": "lithium-fabric-0.26.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
+                    "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "lithium-fabric-0.26.2+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "modernfix-5.27.20-build.2.jar",
@@ -1833,15 +1836,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "lithium-fabric-0.26.2+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xS0Q8LSi/lithium-fabric-0.26.2%2Bmc26.3.jar",
-                    "sha1": "dd5a4ec2c68d7601d8bce9076f789c55a5f8bef3",
+                    "name": "lithium-fabric-0.26.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
+                    "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Lithium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "lithium-fabric-0.26.2+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "modernfix-5.27.20-build.2.jar",
@@ -2536,10 +2542,14 @@
                 },
                 {
                     "name": "viph-ideas-4.6+26.3.jar",
-                    "display_name": "viph-ideas-4.6+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.6+26.3.jar",
                     "sha1": "f80890832323563e9149243c86480b48dd60a0ce",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-4.6+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -3526,9 +3536,9 @@
             "allowed_users": null
         },
         {
-            "name": "punchy-2.8g-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/Fi951GUL/punchy-2.8g-fabric-26.3.jar",
-            "sha1": "70a910465e4b36f55f6193991fc0c47545f6cebf",
+            "name": "punchy-3.0-fabric-26.3-birthday.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/7zs7xlXx/punchy-3.0-fabric-26.3-birthday.jar",
+            "sha1": "ad9019c34cac323f8f8579b562460ba2f80505e6",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3603,7 +3613,8 @@
             "replaces": [
                 "punchy-2.8d-fabric-26.3.jar",
                 "punchy-2.8e-fabric-26.3.jar",
-                "punchy-2.8f-hotfix-fabric-26.3.jar"
+                "punchy-2.8f-hotfix-fabric-26.3.jar",
+                "punchy-2.8g-fabric-26.3.jar"
             ]
         },
         {
@@ -5756,6 +5767,55 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "fwa+26.3-1.3.2.jar",
+            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/RZotXRfW/fwa%2B26.3-1.3.2.jar",
+            "sha1": "63da2a7546f1be9abaa69464b8bc55941fcb87a7",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Fancy World Animations [FWA]"
+        },
+        {
+            "name": "bettersmoke-0.1.2+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/Effrh3ze/versions/DSzD6WsI/bettersmoke-0.1.2%2B26.3.jar",
+            "sha1": "e63765d142db2779ea55a1cdd28c1d6e92fe9d87",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Better Smoke"
+        },
+        {
+            "name": "eg_particle_interactions-0.10.5+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/wdwSEgcr/eg_particle_interactions-0.10.5%2B26.3-fabric.jar",
+            "sha1": "360c432a7f0c295f10a4e0530b6900bb85558aee",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Particle Interactions"
+        },
+        {
+            "name": "touch_n_motion_fabric_26.3_1.0.4.jar",
+            "display_name": "touch_n_motion_fabric_26.3_1.0.4.jar",
+            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/touch_n_motion_fabric_26.3_1.0.4.jar",
+            "sha1": "22064c9c06a1311a42faccec2430279b8e52d3f0",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "dependencies": [
+                {
+                    "name": "emf_compat_core_fabric_26.3_2.3.2.jar",
+                    "display_name": "EMF Compat: Core",
+                    "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/oOuwcnpx/emf_compat_core_fabric_26.3_2.3.2.jar",
+                    "sha1": "73a1ca31addbe24823f0494f0f26ab74d4102664",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
