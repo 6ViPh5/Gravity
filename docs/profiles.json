@@ -2551,6 +2551,12 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "trial-spawner-timer-fabric-1.1.2+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/KROCl9s2/versions/GbvUH2bm/trial-spawner-timer-fabric-1.1.2%2Bmc26.3.jar",
+                    "sha1": "62e75973d82e7b4b28321e40c2d8bd71f9b77c5c",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -5844,7 +5850,16 @@
                     "name": "FA+Player-v1.1.zip",
                     "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
                     "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
-                    "file_type": "resourcepack"
+                    "file_type": "resourcepack",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
             ],
             "allowed_users": null
