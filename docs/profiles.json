@@ -2301,9 +2301,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.7.3-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/MFBZKUri/bettercoppergolem-FABRIC-2.7.3-26.3.jar",
-                    "sha1": "d7d81d91c350270dffd5e1b0974b70699a1445de",
+                    "name": "bettercoppergolem-FABRIC-2.7.4-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/DgRJKJBK/bettercoppergolem-FABRIC-2.7.4-26.3.jar",
+                    "sha1": "46789380d9adbea8494487a56579aca1b1434b4c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Better Copper Golem",
@@ -2311,7 +2311,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "bettercoppergolem-FABRIC-2.7.2-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.7.3-26.3.jar"
                     ]
                 },
                 {
@@ -3549,9 +3550,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "HyperPunchy-v2.5+.zip",
-                    "url": "https://cdn.modrinth.com/data/NVBMhec4/versions/nJiwz3lJ/HyperPunchy-v2.5%2B.zip",
-                    "sha1": "244f180a03bdcbe4333e3535cadf4e83762d0c47",
+                    "name": "HyperPunchy-v2.8.zip",
+                    "url": "https://cdn.modrinth.com/data/NVBMhec4/versions/kZtBCHN5/HyperPunchy-v2.8.zip",
+                    "sha1": "13086519e82092678ef150513ac55f3e72a19a68",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "target_profiles": null,
@@ -3561,7 +3562,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "HyperPunchy-v2.5+.zip"
+                    ]
                 },
                 {
                     "name": "Punchy refined.zip",
@@ -5836,6 +5839,12 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": null
+                },
+                {
+                    "name": "FA+Player-v1.1.zip",
+                    "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
+                    "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
+                    "file_type": "resourcepack"
                 }
             ],
             "allowed_users": null
