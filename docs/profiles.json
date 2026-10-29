@@ -5773,49 +5773,72 @@
             "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/RZotXRfW/fwa%2B26.3-1.3.2.jar",
             "sha1": "63da2a7546f1be9abaa69464b8bc55941fcb87a7",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Fancy World Animations [FWA]"
+            "display_name": "Fancy World Animations [FWA]",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "bettersmoke-0.1.2+26.3.jar",
             "url": "https://cdn.modrinth.com/data/Effrh3ze/versions/DSzD6WsI/bettersmoke-0.1.2%2B26.3.jar",
             "sha1": "e63765d142db2779ea55a1cdd28c1d6e92fe9d87",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Better Smoke"
+            "display_name": "Better Smoke",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "eg_particle_interactions-0.10.5+26.3-fabric.jar",
             "url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/wdwSEgcr/eg_particle_interactions-0.10.5%2B26.3-fabric.jar",
             "sha1": "360c432a7f0c295f10a4e0530b6900bb85558aee",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Particle Interactions"
+            "display_name": "Particle Interactions",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "touch_n_motion_fabric_26.3_1.0.4.jar",
-            "display_name": "touch_n_motion_fabric_26.3_1.0.4.jar",
             "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/touch_n_motion_fabric_26.3_1.0.4.jar",
             "sha1": "22064c9c06a1311a42faccec2430279b8e52d3f0",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
+            "display_name": "Touch'n Motion",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "emf_compat_core_fabric_26.3_2.3.2.jar",
-                    "display_name": "EMF Compat: Core",
                     "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/oOuwcnpx/emf_compat_core_fabric_26.3_2.3.2.jar",
                     "sha1": "73a1ca31addbe24823f0494f0f26ab74d4102664",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": "EMF Compat: Core",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         }
     ]
 }
