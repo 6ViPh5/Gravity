@@ -2224,15 +2224,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "underlay-1.0.5-fabric-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
-                    "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
+                    "name": "underlay-1.0.5-hotfix.1-fabric-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/cgd6spwv/underlay-1.0.5-hotfix.1-fabric-mc26.3.jar",
+                    "sha1": "41916b6e5e004f3ba83751c8b00f1ee22e6e839d",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Underlay",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "underlay-1.0.5-fabric-mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "watermedia_binaries-3.0.0.6.jar",
@@ -2301,9 +2304,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.7.4-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/DgRJKJBK/bettercoppergolem-FABRIC-2.7.4-26.3.jar",
-                    "sha1": "46789380d9adbea8494487a56579aca1b1434b4c",
+                    "name": "bettercoppergolem-FABRIC-2.8.0-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/yYIYGVo7/bettercoppergolem-FABRIC-2.8.0-26.3.jar",
+                    "sha1": "e7110e103cbf438811a6c778a6c33ca44404e675",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Better Copper Golem",
@@ -2312,7 +2315,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
-                        "bettercoppergolem-FABRIC-2.7.3-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.7.3-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.7.4-26.3.jar"
                     ]
                 },
                 {
@@ -2379,9 +2383,9 @@
                     "pack_order": 1
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.6.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/PJM7zO6S/dreamdisplays-fabric-26.3-1.10.6.jar",
-                    "sha1": "c7159042b8cf5f8b7baa8ac405bb7f2b92c3906c",
+                    "name": "dreamdisplays-fabric-26.3-1.10.7.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/w36UheiD/dreamdisplays-fabric-26.3-1.10.7.jar",
+                    "sha1": "c8b706bf22773b46350afc4667f3e46f6b86e7bc",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Dream Displays",
@@ -2390,7 +2394,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "dreamdisplays-fabric-26.3-1.10.1.jar",
-                        "dreamdisplays-fabric-26.3-1.10.4.jar"
+                        "dreamdisplays-fabric-26.3-1.10.4.jar",
+                        "dreamdisplays-fabric-26.3-1.10.6.jar"
                     ]
                 },
                 {
@@ -2590,10 +2595,14 @@
                 },
                 {
                     "name": "viph-ideas-4.8+26.3.jar",
-                    "display_name": "viph-ideas-4.8+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.8+26.3.jar",
                     "sha1": "39e747d9f51b1080be6838b83fd7e93ae2474957",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-4.8+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2682,9 +2691,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.6.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/PJM7zO6S/dreamdisplays-fabric-26.3-1.10.6.jar",
-                    "sha1": "c7159042b8cf5f8b7baa8ac405bb7f2b92c3906c",
+                    "name": "dreamdisplays-fabric-26.3-1.10.7.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/w36UheiD/dreamdisplays-fabric-26.3-1.10.7.jar",
+                    "sha1": "c8b706bf22773b46350afc4667f3e46f6b86e7bc",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2698,7 +2707,8 @@
                         "dreamdisplays-fabric-26.3-1.10.1.jar",
                         "dreamdisplays-fabric-26.3-1.10.2.jar",
                         "dreamdisplays-fabric-26.3-1.10.3.jar",
-                        "dreamdisplays-fabric-26.3-1.10.4.jar"
+                        "dreamdisplays-fabric-26.3-1.10.4.jar",
+                        "dreamdisplays-fabric-26.3-1.10.6.jar"
                     ]
                 },
                 {
@@ -2858,9 +2868,9 @@
                     ]
                 },
                 {
-                    "name": "underlay-1.0.5-fabric-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/wEYYod1v/underlay-1.0.5-fabric-mc26.3.jar",
-                    "sha1": "6ace74c4e21d530e301a393cca007c5acefe74a0",
+                    "name": "underlay-1.0.5-hotfix.1-fabric-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/iltKD9qU/versions/cgd6spwv/underlay-1.0.5-hotfix.1-fabric-mc26.3.jar",
+                    "sha1": "41916b6e5e004f3ba83751c8b00f1ee22e6e839d",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2870,7 +2880,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "underlay-1.0.5-fabric-mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "streamcraft-pc-0.31.1+mc26.3.jar",
