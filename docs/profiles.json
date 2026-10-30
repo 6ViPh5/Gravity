@@ -2608,13 +2608,23 @@
                     "name": "beautifiedchatclient-26.3.0-3.0.jar",
                     "url": "https://cdn.modrinth.com/data/mtIxmNw5/versions/LBJrFQDp/beautifiedchatclient-26.3.0-3.0.jar",
                     "sha1": "ff95d92989c903f3b8ecd43d195e191caa24eaba",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "collective-26.3.0-8.71.jar",
                     "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/zYbNyYyB/collective-26.3.0-8.71.jar",
                     "sha1": "afca0c9600ece43453a5b5b325f5963262a57438",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -5849,6 +5859,16 @@
                 }
             ],
             "allowed_users": null
+        },
+        {
+            "name": "DurabilityNotifier-fabric-26.3-5.0.0.jar",
+            "url": "https://cdn.modrinth.com/data/yGpT1GvE/versions/GSQVt0oT/DurabilityNotifier-fabric-26.3-5.0.0.jar",
+            "sha1": "2648d396db08536003411b81c410e02d1b86d1b3",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Durability Notifier"
         }
     ]
 }
