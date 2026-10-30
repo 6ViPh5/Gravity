@@ -2594,17 +2594,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-4.8+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.8+26.3.jar",
-                    "sha1": "39e747d9f51b1080be6838b83fd7e93ae2474957",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-4.8+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "beautifiedchatclient-26.3.0-3.0.jar",
                     "url": "https://cdn.modrinth.com/data/mtIxmNw5/versions/LBJrFQDp/beautifiedchatclient-26.3.0-3.0.jar",
                     "sha1": "ff95d92989c903f3b8ecd43d195e191caa24eaba",
@@ -2628,12 +2617,22 @@
                 },
                 {
                     "name": "unbound_third_person.json",
-                    "display_name": "unbound_third_person.json",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/unbound_third_person.json",
                     "sha1": "99a2470c067fa5575c4b624ab6f6e49976aea782",
                     "file_type": "config",
-                    "pack_mode": "install",
-                    "install_path": "config/"
+                    "install_path": "config/",
+                    "display_name": "unbound_third_person.json",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "pack_mode": "install"
+                },
+                {
+                    "name": "viph-ideas-4.9+26.3.jar",
+                    "display_name": "viph-ideas-4.9+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.9+26.3.jar",
+                    "sha1": "e399babe1848d8e4e97d7e3b864fd24da6435cbc",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
