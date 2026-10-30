@@ -2625,6 +2625,15 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "unbound_third_person.json",
+                    "display_name": "unbound_third_person.json",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/extras/config/server/unbound_third_person.json",
+                    "sha1": "99a2470c067fa5575c4b624ab6f6e49976aea782",
+                    "file_type": "config",
+                    "pack_mode": "install",
+                    "install_path": "config/"
                 }
             ],
             "req_user_type": "exclusive",
@@ -5855,7 +5864,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": null,
+                    "pack_mode": "install",
+                    "pack_order": 4
                 }
             ],
             "allowed_users": null
@@ -5865,10 +5876,14 @@
             "url": "https://cdn.modrinth.com/data/yGpT1GvE/versions/GSQVt0oT/DurabilityNotifier-fabric-26.3-5.0.0.jar",
             "sha1": "2648d396db08536003411b81c410e02d1b86d1b3",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Durability Notifier"
+            "display_name": "Durability Notifier",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
