@@ -2327,9 +2327,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.5.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/DLGO9iRw/diorama-0.5.0%2B26.3.jar",
-                    "sha1": "3427f3025c1e8e0e9fae67f93281ba2e49c15217",
+                    "name": "diorama-0.6.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/Foww2W8P/diorama-0.6.0%2B26.3.jar",
+                    "sha1": "3b139d604c8f29c663a27b15b78d1be61bf01945",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2339,7 +2339,8 @@
                     "replaces": [
                         "diorama-0.2.0+26.3.jar",
                         "diorama-0.3.1+26.3.jar",
-                        "diorama-0.4.0+26.3.jar"
+                        "diorama-0.4.0+26.3.jar",
+                        "diorama-0.5.0+26.3.jar"
                     ]
                 },
                 {
@@ -2542,20 +2543,21 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-4.6+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.6+26.3.jar",
-                    "sha1": "f80890832323563e9149243c86480b48dd60a0ce",
+                    "name": "trial-spawner-timer-fabric-1.1.2+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/KROCl9s2/versions/GbvUH2bm/trial-spawner-timer-fabric-1.1.2%2Bmc26.3.jar",
+                    "sha1": "62e75973d82e7b4b28321e40c2d8bd71f9b77c5c",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": "viph-ideas-4.6+26.3.jar",
+                    "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
                 },
                 {
-                    "name": "trial-spawner-timer-fabric-1.1.2+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/KROCl9s2/versions/GbvUH2bm/trial-spawner-timer-fabric-1.1.2%2Bmc26.3.jar",
-                    "sha1": "62e75973d82e7b4b28321e40c2d8bd71f9b77c5c",
+                    "name": "viph-ideas-4.7+26.3.jar",
+                    "display_name": "viph-ideas-4.7+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.7+26.3.jar",
+                    "sha1": "c16acc3123c8628d366dd3f98f00eae15614e221",
                     "file_type": "mod"
                 }
             ],
@@ -2836,9 +2838,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "streamcraft-pc-0.31.0+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/OXzJgbsk/streamcraft-pc-0.31.0%2Bmc26.3.jar",
-                    "sha1": "0f742b221dfb5331c7176273e98bb1909e800cff",
+                    "name": "streamcraft-pc-0.31.1+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/FVrqfZWb/streamcraft-pc-0.31.1%2Bmc26.3.jar",
+                    "sha1": "809ba1671867e8d23dbcd723f76a646325dd6098",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2849,7 +2851,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "streamcraft-pc-0.29.3+mc26.3.jar"
+                        "streamcraft-pc-0.29.3+mc26.3.jar",
+                        "streamcraft-pc-0.31.0+mc26.3.jar"
                     ]
                 },
                 {
@@ -3924,72 +3927,6 @@
             ]
         },
         {
-            "name": "jei-26.3-fabric-31.17.0.98.jar",
-            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/xdRCAhOr/jei-26.3-fabric-31.17.0.98.jar",
-            "sha1": "2ef54c781f1e04d29af962598527e0f7fd0b3c2d",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado"
-            ],
-            "display_name": "Just Enough Items (JEI)",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "mezz_config-26.3-fabric-0.6.9.jar",
-                    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/7KlSXRjC/mezz_config-26.3-fabric-0.6.9.jar",
-                    "sha1": "d705a5ce116c9f23e136d2b25c9d3722258a37c7",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "MezzConfig",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": [
-                        "mezz_config-26.3-fabric-0.6.8.jar"
-                    ]
-                },
-                {
-                    "name": "norecipebook-4.3+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/TvL1V8O5/versions/dggkD7q4/norecipebook-4.3%2B26.3.jar",
-                    "sha1": "977dc543f05eb3129355a587db1ff08c1f99ce1e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "NoRecipeBook",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                }
-            ],
-            "allowed_users": null,
-            "exclusive_group": "enoughitems",
-            "replaces": [
-                "jei-26.3-fabric-31.9.0.57.jar",
-                "jei-26.3-fabric-31.9.0.58.jar",
-                "jei-26.3-fabric-31.9.0.61.jar",
-                "jei-26.3-fabric-31.10.0.63.jar",
-                "jei-26.3-fabric-31.12.0.65.jar",
-                "jei-26.3-fabric-31.13.0.68.jar",
-                "jei-26.3-fabric-31.14.0.72.jar",
-                "jei-26.3-fabric-31.15.0.75.jar",
-                "jei-26.3-fabric-31.16.0.84.jar",
-                "jei-26.3-fabric-31.16.0.86.jar",
-                "jei-26.3-fabric-31.16.0.87.jar",
-                "jei-26.3-fabric-31.16.0.89.jar",
-                "jei-26.3-fabric-31.16.0.90.jar",
-                "jei-26.3-fabric-31.17.0.93.jar",
-                "jei-26.3-fabric-31.17.0.94.jar",
-                "jei-26.3-fabric-31.17.0.95.jar"
-            ]
-        },
-        {
             "name": "Leggings Fix 1.21.2-1.21.x.zip",
             "url": "https://cdn.modrinth.com/data/9kKRfUOA/versions/GN2Elksf/Leggings%20Fix%201.21.2-1.21.x.zip",
             "sha1": "e9991029ad8c082d33cfaebbbefa3da2f365b24f",
@@ -4456,9 +4393,9 @@
             ]
         },
         {
-            "name": "diorama-0.5.0+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/DLGO9iRw/diorama-0.5.0%2B26.3.jar",
-            "sha1": "3427f3025c1e8e0e9fae67f93281ba2e49c15217",
+            "name": "diorama-0.6.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/Foww2W8P/diorama-0.6.0%2B26.3.jar",
+            "sha1": "3b139d604c8f29c663a27b15b78d1be61bf01945",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4471,7 +4408,8 @@
             "replaces": [
                 "diorama-0.2.0+26.3.jar",
                 "diorama-0.3.1+26.3.jar",
-                "diorama-0.4.0+26.3.jar"
+                "diorama-0.4.0+26.3.jar",
+                "diorama-0.5.0+26.3.jar"
             ]
         },
         {
@@ -4781,9 +4719,9 @@
             ]
         },
         {
-            "name": "voicechat-fabric-1.21.11-2.6.26.jar",
-            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/hBnJeESK/voicechat-fabric-1.21.11-2.6.26.jar",
-            "sha1": "b969593528872d42178cbdac705ef2b4b672b2c3",
+            "name": "voicechat-fabric-1.21.11-2.6.27.jar",
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/arpQQSyx/voicechat-fabric-1.21.11-2.6.27.jar",
+            "sha1": "44f9697b0cbbd66201dba295093cdb758cffc029",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4797,7 +4735,8 @@
             "replaces": [
                 "voicechat-fabric-1.21.11-2.6.22.jar",
                 "voicechat-fabric-1.21.11-2.6.24.jar",
-                "voicechat-fabric-1.21.11-2.6.25.jar"
+                "voicechat-fabric-1.21.11-2.6.25.jar",
+                "voicechat-fabric-1.21.11-2.6.26.jar"
             ]
         },
         {
@@ -4870,9 +4809,9 @@
             "exclusive_group": "sky"
         },
         {
-            "name": "immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/vSH3zm1L/immersive-hotbar-1.2.2-1.21.9-1.21.11.jar",
-            "sha1": "7e95f707ef14b004ec5dd8c910ab6d82436e65f3",
+            "name": "immersive-hotbar-1.3.0-1.21.9-1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/qhLcylHb/immersive-hotbar-1.3.0-1.21.9-1.21.11.jar",
+            "sha1": "9c79db3e8d38a3bfae900de58cd5c3cd29d8c9ce",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4898,7 +4837,10 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "immersive-hotbar-1.2.2-1.21.9-1.21.11.jar"
+            ]
         },
         {
             "name": "MouseTweaks-fabric-mc1.21.11-2.30.jar",
