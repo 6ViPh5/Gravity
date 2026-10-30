@@ -4398,7 +4398,8 @@
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
-                "optimizado"
+                "optimizado",
+                "srvsurv"
             ],
             "display_name": "Vitrail Shaders (Vulkan)",
             "req_user_type": null,
