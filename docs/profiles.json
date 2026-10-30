@@ -2568,15 +2568,32 @@
                     "name": "fusion-1.3.16-fabric-mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/wRjdAbXf/fusion-1.3.16-fabric-mc26.3.jar",
                     "sha1": "5e000a3c7990d0e1d130f11278de062d60beb8c6",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
                     "url": "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
                     "sha1": "48210e165b4df035509c2cdaba654afdb0ad27b3",
                     "file_type": "resourcepack",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
                     "pack_mode": "install",
                     "pack_order": 2
+                },
+                {
+                    "name": "illuminated-1.3.1+26.3.jar",
+                    "display_name": "Illuminated",
+                    "url": "https://cdn.modrinth.com/data/y1Yc8XYq/versions/p6rqHbPR/illuminated-1.3.1%2B26.3.jar",
+                    "sha1": "98b1ae39c01b81fe85de75aae6c1301ee5f9f398",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -4166,25 +4183,6 @@
                 }
             ],
             "allowed_users": null
-        },
-        {
-            "name": "Gamma-Utils-Fabric-3.2.2+mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/wdLuzzEP/versions/k6ywOirE/Gamma-Utils-Fabric-3.2.2%2Bmc26.3.jar",
-            "sha1": "98c1ca5bfd1ec3b2ab992323bd3f8fd957b4066d",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "optimizado",
-                "srvsurv"
-            ],
-            "display_name": "Gamma Utils (Fullbright)",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null,
-            "replaces": [
-                "Gamma-Utils-Fabric-3.2.0+mc26.3.jar",
-                "Gamma-Utils-Fabric-3.2.1+mc26.3.jar"
-            ]
         },
         {
             "name": "ukus-armor-hud-fabric-0.14.0+mc26.3.jar",
