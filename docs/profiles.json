@@ -2603,6 +2603,18 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "beautifiedchatclient-26.3.0-3.0.jar",
+                    "url": "https://cdn.modrinth.com/data/mtIxmNw5/versions/LBJrFQDp/beautifiedchatclient-26.3.0-3.0.jar",
+                    "sha1": "ff95d92989c903f3b8ecd43d195e191caa24eaba",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "collective-26.3.0-8.71.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/zYbNyYyB/collective-26.3.0-8.71.jar",
+                    "sha1": "afca0c9600ece43453a5b5b325f5963262a57438",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -5749,9 +5761,9 @@
             "allowed_users": null
         },
         {
-            "name": "fwa+26.3-1.3.2.jar",
-            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/RZotXRfW/fwa%2B26.3-1.3.2.jar",
-            "sha1": "63da2a7546f1be9abaa69464b8bc55941fcb87a7",
+            "name": "fwa+26.3-1.3.4.jar",
+            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/oFnm3FIX/fwa%2B26.3-1.3.4.jar",
+            "sha1": "7ffbd3b0e9105a777f33127d61107fdb1ed8d514",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5760,7 +5772,10 @@
             "display_name": "Fancy World Animations [FWA]",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "fwa+26.3-1.3.2.jar"
+            ]
         },
         {
             "name": "bettersmoke-0.1.2+26.3.jar",
