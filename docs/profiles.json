@@ -2651,10 +2651,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-5.0+26.3.jar",
-                    "display_name": "viph-ideas-5.0+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.0+26.3.jar",
-                    "sha1": "46481306172891161fa34d4bb44258b2ca7fbaf9",
+                    "name": "viph-ideas-5.1+26.3.jar",
+                    "display_name": "viph-ideas-5.1+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.1+26.3.jar",
+                    "sha1": "707f6866cdea688eb9977608b2af5593dfae9404",
                     "file_type": "mod"
                 }
             ],
@@ -4062,9 +4062,9 @@
             "allowed_users": null
         },
         {
-            "name": "DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/A5X8OkYf/DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar",
-            "sha1": "eca7889240793fca4479b784e8461b8493239b67",
+            "name": "DetailArmorBarReconstructed-5.3.3-beta.1-26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/Si9Uim4y/versions/kKis7mrk/DetailArmorBarReconstructed-5.3.3-beta.1-26.3-fabric.jar",
+            "sha1": "3349a4b6fcd93b1ead982383b6ef6fe5ca3f0fe1",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4090,7 +4090,10 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "DetailArmorBarReconstructed-5.3.2-26.3-fabric.jar"
+            ]
         },
         {
             "name": "appleskin-fabric-mc26.3-3.0.10.jar",
