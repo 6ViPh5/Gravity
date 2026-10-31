@@ -2104,15 +2104,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "customskyboxes-mc26.3-1.0.4.1.jar",
-                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
-                    "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
+                    "name": "customskyboxes-mc26.3-1.0.4.2.jar",
+                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/PCVYubAY/customskyboxes-mc26.3-1.0.4.2.jar",
+                    "sha1": "06fd2e97defa2ba72856687588b43272387af32d",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Custom Skyboxes",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "customskyboxes-mc26.3-1.0.4.1.jar"
+                    ]
                 },
                 {
                     "name": "emotecapefix-1.0.0.jar",
@@ -2678,10 +2681,14 @@
                 },
                 {
                     "name": "viph-ideas-5.2+26.3.jar",
-                    "display_name": "viph-ideas-5.2+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.2+26.3.jar",
                     "sha1": "8d669f47598f87c4ed1ce34c8eacebc6196e7dc7",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-5.2+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2839,9 +2846,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "customskyboxes-mc26.3-1.0.4.1.jar",
-                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/rVh94KvR/customskyboxes-mc26.3-1.0.4.1.jar",
-                    "sha1": "5ad26fc5f1c7350bc91fa46d6d7292e419afcc0b",
+                    "name": "customskyboxes-mc26.3-1.0.4.2.jar",
+                    "url": "https://cdn.modrinth.com/data/PJflrYWw/versions/PCVYubAY/customskyboxes-mc26.3-1.0.4.2.jar",
+                    "sha1": "06fd2e97defa2ba72856687588b43272387af32d",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2852,7 +2859,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "customskyboxes-mc26.3-1.0.4.jar"
+                        "customskyboxes-mc26.3-1.0.4.jar",
+                        "customskyboxes-mc26.3-1.0.4.1.jar"
                     ]
                 },
                 {
