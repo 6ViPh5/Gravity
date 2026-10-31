@@ -2629,17 +2629,6 @@
                     "pack_mode": "install"
                 },
                 {
-                    "name": "viph-ideas-4.9+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.9+26.3.jar",
-                    "sha1": "e399babe1848d8e4e97d7e3b864fd24da6435cbc",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-4.9+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "skyhunters_buried_halls-26.3-fabric-1.6.1.jar",
                     "url": "https://cdn.modrinth.com/data/eYQydfuk/versions/cPhhHAaJ/skyhunters_buried_halls-26.3-fabric-1.6.1.jar",
                     "sha1": "5de1212157e646cb921045fc06c07f0eea1cbf53",
@@ -2660,6 +2649,13 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "viph-ideas-5.0+26.3.jar",
+                    "display_name": "viph-ideas-5.0+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.0+26.3.jar",
+                    "sha1": "46481306172891161fa34d4bb44258b2ca7fbaf9",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -5921,18 +5917,30 @@
             "url": "https://cdn.modrinth.com/data/9wv7LuMc/versions/DSzQfCJh/immersiveui-fabric-26.3-0.3.7%2B26.3.jar",
             "sha1": "c6c8fec12b19fa8bea3258dfd8ba3d5bf1ad4b3c",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "Immersive UI",
+            "req_user_type": null,
             "dependencies": [
                 {
                     "name": "shatterlib-fabric-0.7.0-beta.4+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar",
                     "sha1": "0ae1e0a0b293e53413068bf6581fa3d9dfd5463e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "target_profiles": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "exclusive_group": null,
+                    "incompatible_with": null,
+                    "replaces": null
                 }
-            ]
+            ],
+            "allowed_users": null
         }
     ]
 }
