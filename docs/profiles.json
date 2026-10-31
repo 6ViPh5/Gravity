@@ -499,15 +499,18 @@
                     ]
                 },
                 {
-                    "name": "Ixeris-4.6.10+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/sjqczBmY/Ixeris-4.6.10%2B26.3-fabric.jar",
-                    "sha1": "4b1491b45a962616d7abb6bd87a5a312aead1e7e",
+                    "name": "Ixeris-4.6.11+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/mj30lAl8/Ixeris-4.6.11%2B26.3-fabric.jar",
+                    "sha1": "c45c38e918fa8565abe03904d366faac7ec6b229",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "Ixeris-4.6.10+26.3-fabric.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
@@ -673,8 +676,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/r92PdHXE/SodiumTranslations.zip",
-                    "sha1": "4eefae716674ac5170ddcdf86f52e10e3009107f",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/bo4O33l6/SodiumTranslations.zip",
+                    "sha1": "3741e7e5f02f554a20f40d2a12a0d6ddfa2e0198",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -881,15 +884,18 @@
                     ]
                 },
                 {
-                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
-                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
+                    "name": "Ixeris-4.6.11+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/RZsBMOEB/Ixeris-4.6.11%2B1.21.11-fabric.jar",
+                    "sha1": "821da405050266e18618f92b7493f590d4c3dbf5",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "Ixeris-4.6.10+1.21.11-fabric.jar"
+                    ]
                 }
             ],
             "req_user_type": null,
@@ -1055,8 +1061,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/r92PdHXE/SodiumTranslations.zip",
-                    "sha1": "4eefae716674ac5170ddcdf86f52e10e3009107f",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/bo4O33l6/SodiumTranslations.zip",
+                    "sha1": "3741e7e5f02f554a20f40d2a12a0d6ddfa2e0198",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -1263,15 +1269,18 @@
                     ]
                 },
                 {
-                    "name": "Ixeris-4.6.10+1.21.11-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/8rVRHBcq/Ixeris-4.6.10%2B1.21.11-fabric.jar",
-                    "sha1": "c4311d4149e47285f80d351fc48d4499a76eb85c",
+                    "name": "Ixeris-4.6.11+1.21.11-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/RZsBMOEB/Ixeris-4.6.11%2B1.21.11-fabric.jar",
+                    "sha1": "821da405050266e18618f92b7493f590d4c3dbf5",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "Ixeris-4.6.10+1.21.11-fabric.jar"
+                    ]
                 },
                 {
                     "name": "DetailArmorBarReconstructed-5.2.1+1.21.9_11-fabric.jar",
@@ -2026,6 +2035,20 @@
                     ]
                 },
                 {
+                    "name": "Ixeris-4.6.11+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/p8RJPJIC/versions/mj30lAl8/Ixeris-4.6.11%2B26.3-fabric.jar",
+                    "sha1": "c45c38e918fa8565abe03904d366faac7ec6b229",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "replaces": [
+                        "Ixeris-4.6.10+26.3-fabric.jar"
+                    ]
+                },
+                {
                     "name": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
                     "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
                     "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
@@ -2606,15 +2629,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "collective-26.3.0-8.71.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/zYbNyYyB/collective-26.3.0-8.71.jar",
-                    "sha1": "afca0c9600ece43453a5b5b325f5963262a57438",
+                    "name": "collective-26.3.0-8.72.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/6QxC3Axy/collective-26.3.0-8.72.jar",
+                    "sha1": "bc0395315052eb58540c3afa5fdb222e270426b0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "collective-26.3.0-8.71.jar"
+                    ]
                 },
                 {
                     "name": "unbound_third_person.json",
@@ -2651,10 +2677,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-5.1+26.3.jar",
-                    "display_name": "viph-ideas-5.1+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.1+26.3.jar",
-                    "sha1": "707f6866cdea688eb9977608b2af5593dfae9404",
+                    "name": "viph-ideas-5.2+26.3.jar",
+                    "display_name": "viph-ideas-5.2+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.2+26.3.jar",
+                    "sha1": "8d669f47598f87c4ed1ce34c8eacebc6196e7dc7",
                     "file_type": "mod"
                 }
             ],
@@ -3649,9 +3675,9 @@
             "allowed_users": null
         },
         {
-            "name": "punchy-3.0-fabric-26.3-birthday.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/7zs7xlXx/punchy-3.0-fabric-26.3-birthday.jar",
-            "sha1": "ad9019c34cac323f8f8579b562460ba2f80505e6",
+            "name": "punchy-3.0a-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/UTWhiFCE/punchy-3.0a-fabric-26.3.jar",
+            "sha1": "a120d3bbe7ccd64cf1aef826cc59abc47876f15f",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3729,7 +3755,8 @@
                 "punchy-2.8d-fabric-26.3.jar",
                 "punchy-2.8e-fabric-26.3.jar",
                 "punchy-2.8f-hotfix-fabric-26.3.jar",
-                "punchy-2.8g-fabric-26.3.jar"
+                "punchy-2.8g-fabric-26.3.jar",
+                "punchy-3.0-fabric-26.3-birthday.jar"
             ]
         },
         {
@@ -4623,7 +4650,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e"
+                "7759642053802bf3505e5bf3e113c40c40eacfbd"
             ]
         },
         {
@@ -5289,9 +5316,9 @@
             ]
         },
         {
-            "name": "HitColorX-1.1.0.jar",
-            "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/wLExinSw/HitColorX-1.1.0.jar",
-            "sha1": "c43465586078db9df30a1b9f442b9958ed9278fa",
+            "name": "HitColorX-1.2.0.jar",
+            "url": "https://cdn.modrinth.com/data/A6iVd0QT/versions/m6gq8FBG/HitColorX-1.2.0.jar",
+            "sha1": "11015ba4ae01c60ec30b7a181331cf4059d61b99",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5303,6 +5330,9 @@
             "allowed_users": null,
             "incompatible_with": [
                 "ff8ce04f3295b838764c7196e12f390b62f1cdaf"
+            ],
+            "replaces": [
+                "HitColorX-1.1.0.jar"
             ]
         },
         {
@@ -5368,7 +5398,7 @@
             "allowed_users": null,
             "incompatible_with": [
                 "acc66405fbcc7e293ccd39d7db27ac2301b1e8fd",
-                "c43465586078db9df30a1b9f442b9958ed9278fa"
+                "11015ba4ae01c60ec30b7a181331cf4059d61b99"
             ]
         },
         {
@@ -5462,7 +5492,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e"
+                "7759642053802bf3505e5bf3e113c40c40eacfbd"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5589,9 +5619,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.12+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/Y9F0iNwF/evergreenhud-3.9.12%2B1.21.11.jar",
-            "sha1": "b1e42c1d22ce2690b9672f4cbf47ead88a25aa0e",
+            "name": "evergreenhud-3.9.13+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/SOBMMSQ6/evergreenhud-3.9.13%2B1.21.11.jar",
+            "sha1": "7759642053802bf3505e5bf3e113c40c40eacfbd",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5601,9 +5631,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.5.2.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/iUd8wpKt/OneConfig-1.21.11-fabric-1.5.2.jar",
-                    "sha1": "116134d0ba80931edc448581401d262bf31b5731",
+                    "name": "OneConfig-1.21.11-fabric-1.6.0.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/cfjiQh9t/OneConfig-1.21.11-fabric-1.6.0.jar",
+                    "sha1": "dfb96e424508311b9f6ced9c4258c0bb4668584e",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5615,13 +5645,14 @@
                     "incompatible_with": null,
                     "replaces": [
                         "OneConfig-1.21.11-fabric-1.4.4.jar",
-                        "OneConfig-1.21.11-fabric-1.5.0.jar"
+                        "OneConfig-1.21.11-fabric-1.5.0.jar",
+                        "OneConfig-1.21.11-fabric-1.5.2.jar"
                     ]
                 },
                 {
-                    "name": "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/2P056ND6/compose-bundle-1.0.6%2Bcompose.1.13.0-alpha02.jar",
-                    "sha1": "13277d0018a0a3a811c704f9e82fb970bec127ce",
+                    "name": "compose-bundle-2.1.0+compose.1.13.0-alpha02.jar",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/bMhjbdhu/compose-bundle-2.1.0%2Bcompose.1.13.0-alpha02.jar",
+                    "sha1": "fb1e085a6227995961a604605eaa8ed352fe4d01",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5631,7 +5662,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar"
+                    ]
                 }
             ],
             "allowed_users": null,
@@ -5641,7 +5674,8 @@
             ],
             "replaces": [
                 "evergreenhud-3.9.10+1.21.11.jar",
-                "evergreenhud-3.9.11+1.21.11.jar"
+                "evergreenhud-3.9.11+1.21.11.jar",
+                "evergreenhud-3.9.12+1.21.11.jar"
             ]
         },
         {
