@@ -5915,6 +5915,24 @@
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
+        },
+        {
+            "name": "immersiveui-fabric-26.3-0.3.7+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/9wv7LuMc/versions/DSzQfCJh/immersiveui-fabric-26.3-0.3.7%2B26.3.jar",
+            "sha1": "c6c8fec12b19fa8bea3258dfd8ba3d5bf1ad4b3c",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Immersive UI",
+            "dependencies": [
+                {
+                    "name": "shatterlib-fabric-0.7.0-beta.4+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar",
+                    "sha1": "0ae1e0a0b293e53413068bf6581fa3d9dfd5463e",
+                    "file_type": "mod"
+                }
+            ]
         }
     ]
 }
