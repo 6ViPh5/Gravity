@@ -2383,9 +2383,9 @@
                     "pack_order": 1
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.7.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/w36UheiD/dreamdisplays-fabric-26.3-1.10.7.jar",
-                    "sha1": "c8b706bf22773b46350afc4667f3e46f6b86e7bc",
+                    "name": "dreamdisplays-fabric-26.3-1.10.8.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/pzbbj86T/dreamdisplays-fabric-26.3-1.10.8.jar",
+                    "sha1": "60ffd5361386d32e89cd39787eb8a12d9a49a6b7",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Dream Displays",
@@ -2395,7 +2395,8 @@
                     "replaces": [
                         "dreamdisplays-fabric-26.3-1.10.1.jar",
                         "dreamdisplays-fabric-26.3-1.10.4.jar",
-                        "dreamdisplays-fabric-26.3-1.10.6.jar"
+                        "dreamdisplays-fabric-26.3-1.10.6.jar",
+                        "dreamdisplays-fabric-26.3-1.10.7.jar"
                     ]
                 },
                 {
@@ -2629,9 +2630,26 @@
                 },
                 {
                     "name": "viph-ideas-4.9+26.3.jar",
-                    "display_name": "viph-ideas-4.9+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-4.9+26.3.jar",
                     "sha1": "e399babe1848d8e4e97d7e3b864fd24da6435cbc",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-4.9+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "skyhunters_buried_halls-26.3-fabric-1.6.1.jar",
+                    "display_name": "SH: Buried Halls | Underground Dungeon Structures",
+                    "url": "https://cdn.modrinth.com/data/eYQydfuk/versions/cPhhHAaJ/skyhunters_buried_halls-26.3-fabric-1.6.1.jar",
+                    "sha1": "5de1212157e646cb921045fc06c07f0eea1cbf53",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "clickthrough-plus-3.6.5+26.3-pre-3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/fJi8nm80/versions/CikLy3hd/clickthrough-plus-3.6.5%2B26.3-pre-3-fabric.jar",
+                    "sha1": "4ff1ed224b65e06a5c4f7f86c3e493f519c42a4b",
                     "file_type": "mod"
                 }
             ],
@@ -2721,9 +2739,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "dreamdisplays-fabric-26.3-1.10.7.jar",
-                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/w36UheiD/dreamdisplays-fabric-26.3-1.10.7.jar",
-                    "sha1": "c8b706bf22773b46350afc4667f3e46f6b86e7bc",
+                    "name": "dreamdisplays-fabric-26.3-1.10.8.jar",
+                    "url": "https://cdn.modrinth.com/data/4IIKQyBu/versions/pzbbj86T/dreamdisplays-fabric-26.3-1.10.8.jar",
+                    "sha1": "60ffd5361386d32e89cd39787eb8a12d9a49a6b7",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2738,7 +2756,8 @@
                         "dreamdisplays-fabric-26.3-1.10.2.jar",
                         "dreamdisplays-fabric-26.3-1.10.3.jar",
                         "dreamdisplays-fabric-26.3-1.10.4.jar",
-                        "dreamdisplays-fabric-26.3-1.10.6.jar"
+                        "dreamdisplays-fabric-26.3-1.10.6.jar",
+                        "dreamdisplays-fabric-26.3-1.10.7.jar"
                     ]
                 },
                 {
