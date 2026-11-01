@@ -345,15 +345,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "moreculling-fabric-26.3-1.9.0.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/t7vAlfgO/moreculling-fabric-26.3-1.9.0.jar",
-                    "sha1": "7308b0b0b6fffb0e076cabf97db7fc889d9ada68",
+                    "name": "moreculling-fabric-26.3-1.9.1.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/5jIORlSK/moreculling-fabric-26.3-1.9.1.jar",
+                    "sha1": "2c768b910eb1cb3fcb880bcacc7dbf9c0678ce06",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "More Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "moreculling-fabric-26.3-1.9.0.jar"
+                    ]
                 },
                 {
                     "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
@@ -1484,9 +1487,9 @@
                     ]
                 },
                 {
-                    "name": "notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/rs2DhiV9/notenoughanimations-fabric-1.12.6-mc1.21.11.jar",
-                    "sha1": "89baeec73c79a16539cfd341a307bcd3182b5b34",
+                    "name": "notenoughanimations-fabric-1.12.7-mc1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/qr1Bu9qK/notenoughanimations-fabric-1.12.7-mc1.21.11.jar",
+                    "sha1": "6af0c07e9963a45a5d4673b1f7f519437fa21fb7",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Not Enough Animations",
@@ -1494,7 +1497,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "notenoughanimations-fabric-1.12.4-mc1.21.11.jar"
+                        "notenoughanimations-fabric-1.12.4-mc1.21.11.jar",
+                        "notenoughanimations-fabric-1.12.6-mc1.21.11.jar"
                     ]
                 },
                 {
@@ -1881,15 +1885,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "moreculling-fabric-26.3-1.9.0.jar",
-                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/t7vAlfgO/moreculling-fabric-26.3-1.9.0.jar",
-                    "sha1": "7308b0b0b6fffb0e076cabf97db7fc889d9ada68",
+                    "name": "moreculling-fabric-26.3-1.9.1.jar",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/5jIORlSK/moreculling-fabric-26.3-1.9.1.jar",
+                    "sha1": "2c768b910eb1cb3fcb880bcacc7dbf9c0678ce06",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "More Culling",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "moreculling-fabric-26.3-1.9.0.jar"
+                    ]
                 },
                 {
                     "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
@@ -2357,9 +2364,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.6.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/Foww2W8P/diorama-0.6.0%2B26.3.jar",
-                    "sha1": "3b139d604c8f29c663a27b15b78d1be61bf01945",
+                    "name": "diorama-0.7.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/XnjUcMvZ/diorama-0.7.0%2B26.3.jar",
+                    "sha1": "aa7e881256b99682a4abbe27892dac0280788df7",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2370,7 +2377,8 @@
                         "diorama-0.2.0+26.3.jar",
                         "diorama-0.3.1+26.3.jar",
                         "diorama-0.4.0+26.3.jar",
-                        "diorama-0.5.0+26.3.jar"
+                        "diorama-0.5.0+26.3.jar",
+                        "diorama-0.6.0+26.3.jar"
                     ]
                 },
                 {
@@ -2632,9 +2640,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "collective-26.3.0-8.72.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/6QxC3Axy/collective-26.3.0-8.72.jar",
-                    "sha1": "bc0395315052eb58540c3afa5fdb222e270426b0",
+                    "name": "collective-26.3.0-8.73.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/vsRFdH1j/collective-26.3.0-8.73.jar",
+                    "sha1": "04057fca685e695ce5308b731348e7491875f2bd",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2642,7 +2650,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "collective-26.3.0-8.71.jar"
+                        "collective-26.3.0-8.71.jar",
+                        "collective-26.3.0-8.72.jar"
                     ]
                 },
                 {
@@ -2689,6 +2698,13 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "stks-tool-trims-1.3.0+26.3.jar",
+                    "display_name": "STK's Tool Trims",
+                    "url": "https://cdn.modrinth.com/data/fcJsw206/versions/MEquEg2o/stks-tool-trims-1.3.0%2B26.3.jar",
+                    "sha1": "8609b866fd0f33ef3604a59e41e201ef7846cf2a",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -2975,9 +2991,9 @@
                     ]
                 },
                 {
-                    "name": "streamcraft-pc-0.31.1+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/FVrqfZWb/streamcraft-pc-0.31.1%2Bmc26.3.jar",
-                    "sha1": "809ba1671867e8d23dbcd723f76a646325dd6098",
+                    "name": "streamcraft-pc-0.32.0+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/KVqS0MVb/streamcraft-pc-0.32.0%2Bmc26.3.jar",
+                    "sha1": "87176204569a2af49b28142756bee2568dc91a8d",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2989,7 +3005,8 @@
                     "incompatible_with": null,
                     "replaces": [
                         "streamcraft-pc-0.29.3+mc26.3.jar",
-                        "streamcraft-pc-0.31.0+mc26.3.jar"
+                        "streamcraft-pc-0.31.0+mc26.3.jar",
+                        "streamcraft-pc-0.31.1+mc26.3.jar"
                     ]
                 },
                 {
@@ -3214,7 +3231,7 @@
             "dependencies": null,
             "allowed_users": null,
             "incompatible_with": [
-                "2070952d0f1a473cc2d06be961e894e23e90876b"
+                "9186df0205cb95a873277b1ed674b53d2b5beae7"
             ],
             "replaces": [
                 "atmospherics-2.6.6-mc-26.3.jar",
@@ -3310,9 +3327,9 @@
             ]
         },
         {
-            "name": "cirrus-fabric-26.3-1.4.1.jar",
-            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/2erYeKg1/cirrus-fabric-26.3-1.4.1.jar",
-            "sha1": "2070952d0f1a473cc2d06be961e894e23e90876b",
+            "name": "cirrus-fabric-26.3-1.4.2.jar",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/eYWl8ES1/cirrus-fabric-26.3-1.4.2.jar",
+            "sha1": "9186df0205cb95a873277b1ed674b53d2b5beae7",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3340,6 +3357,9 @@
             "allowed_users": null,
             "incompatible_with": [
                 "63327837ebd9bf782b3169e8cd789804d660757f"
+            ],
+            "replaces": [
+                "cirrus-fabric-26.3-1.4.1.jar"
             ]
         },
         {
@@ -3668,9 +3688,9 @@
             "allowed_users": null
         },
         {
-            "name": "notenoughanimations-fabric-1.12.6-mc26.3.jar",
-            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
-            "sha1": "6554509fc89187c5b6d63f586edfc35b8e41158c",
+            "name": "notenoughanimations-fabric-1.12.7-mc26.3.jar",
+            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/bznXVEiI/notenoughanimations-fabric-1.12.7-mc26.3.jar",
+            "sha1": "34c07d208e1b7e35b9723322266eb415fd60f1bf",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3680,12 +3700,15 @@
             "display_name": "Not Enough Animations",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "notenoughanimations-fabric-1.12.6-mc26.3.jar"
+            ]
         },
         {
-            "name": "punchy-3.0a-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/UTWhiFCE/punchy-3.0a-fabric-26.3.jar",
-            "sha1": "a120d3bbe7ccd64cf1aef826cc59abc47876f15f",
+            "name": "punchy-3.1a-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/5xVDd7h0/punchy-3.1a-fabric-26.3.jar",
+            "sha1": "3be1ab2ee44101f0471a3f13def1393f706c2cc3",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3764,7 +3787,8 @@
                 "punchy-2.8e-fabric-26.3.jar",
                 "punchy-2.8f-hotfix-fabric-26.3.jar",
                 "punchy-2.8g-fabric-26.3.jar",
-                "punchy-3.0-fabric-26.3-birthday.jar"
+                "punchy-3.0-fabric-26.3-birthday.jar",
+                "punchy-3.0a-fabric-26.3.jar"
             ]
         },
         {
@@ -4338,9 +4362,9 @@
             "allowed_users": null
         },
         {
-            "name": "ViaFabricPlus-5.1.2.jar",
-            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/USbdQnMN/ViaFabricPlus-5.1.2.jar",
-            "sha1": "3d9aa76fbfdd519c597c267bc3fd0fb600703894",
+            "name": "ViaFabricPlus-5.1.3.jar",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/DACOoCin/ViaFabricPlus-5.1.3.jar",
+            "sha1": "75a2411f9ffd21cbcc06652b3b8b899a685e02fe",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4351,7 +4375,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "ViaFabricPlus-5.1.1.jar"
+                "ViaFabricPlus-5.1.1.jar",
+                "ViaFabricPlus-5.1.2.jar"
             ]
         },
         {
@@ -4518,9 +4543,9 @@
             ]
         },
         {
-            "name": "diorama-0.6.0+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/Foww2W8P/diorama-0.6.0%2B26.3.jar",
-            "sha1": "3b139d604c8f29c663a27b15b78d1be61bf01945",
+            "name": "diorama-0.7.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/XnjUcMvZ/diorama-0.7.0%2B26.3.jar",
+            "sha1": "aa7e881256b99682a4abbe27892dac0280788df7",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4534,7 +4559,8 @@
                 "diorama-0.2.0+26.3.jar",
                 "diorama-0.3.1+26.3.jar",
                 "diorama-0.4.0+26.3.jar",
-                "diorama-0.5.0+26.3.jar"
+                "diorama-0.5.0+26.3.jar",
+                "diorama-0.6.0+26.3.jar"
             ]
         },
         {
@@ -4865,9 +4891,9 @@
             ]
         },
         {
-            "name": "cirrus-fabric-1.21.11-1.4.1.jar",
-            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/Be40VqOz/cirrus-fabric-1.21.11-1.4.1.jar",
-            "sha1": "bd5f913ca7eb4d87a13036018a0419a01683239d",
+            "name": "cirrus-fabric-1.21.11-1.4.2.jar",
+            "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/aBq02wPt/cirrus-fabric-1.21.11-1.4.2.jar",
+            "sha1": "3ba96347b8c6a0c021850e55fccc2d38da8dc1ce",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4896,13 +4922,14 @@
             "allowed_users": null,
             "exclusive_group": "sky",
             "replaces": [
-                "cirrus-fabric-1.21.11-1.2.1.jar"
+                "cirrus-fabric-1.21.11-1.2.1.jar",
+                "cirrus-fabric-1.21.11-1.4.1.jar"
             ]
         },
         {
-            "name": "ji-afk-cinematic-1.21.11-2.3.1.jar",
-            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/ViJLxeFd/ji-afk-cinematic-1.21.11-2.3.1.jar",
-            "sha1": "3166c10bafb144ff8ba9b263cbb736316e8d22c4",
+            "name": "ji-afk-cinematic-fabric-1.21.9-1.21.11-2.4.0.jar",
+            "url": "https://cdn.modrinth.com/data/NYveE6yC/versions/GJnHoY2G/ji-afk-cinematic-fabric-1.21.9-1.21.11-2.4.0.jar",
+            "sha1": "6e63d83a7c35e26d722f1dece7339eaf8f9bfe3e",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4914,7 +4941,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "ji-afk-cinematic-1.21.11-2.3.0.jar"
+                "ji-afk-cinematic-1.21.11-2.3.0.jar",
+                "ji-afk-cinematic-1.21.11-2.3.1.jar"
             ]
         },
         {
@@ -5639,9 +5667,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.6.0.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/cfjiQh9t/OneConfig-1.21.11-fabric-1.6.0.jar",
-                    "sha1": "dfb96e424508311b9f6ced9c4258c0bb4668584e",
+                    "name": "OneConfig-1.21.11-fabric-1.6.1.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/UPkgJbdE/OneConfig-1.21.11-fabric-1.6.1.jar",
+                    "sha1": "6aebc630fe8c42b4492dc13816ae95b12cc8118c",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5654,7 +5682,8 @@
                     "replaces": [
                         "OneConfig-1.21.11-fabric-1.4.4.jar",
                         "OneConfig-1.21.11-fabric-1.5.0.jar",
-                        "OneConfig-1.21.11-fabric-1.5.2.jar"
+                        "OneConfig-1.21.11-fabric-1.5.2.jar",
+                        "OneConfig-1.21.11-fabric-1.6.0.jar"
                     ]
                 },
                 {
