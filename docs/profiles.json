@@ -2689,12 +2689,6 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
-                },
-                {
-                    "name": "From-The-Fog-Forge-Fabric-26.3-v1.11.3.jar",
-                    "url": "https://cdn.modrinth.com/data/p1WH6sHr/versions/BqldNVyW/From-The-Fog-Forge-Fabric-26.3-v1.11.3.jar",
-                    "sha1": "ade406f3ebfec4f43c1787012be3003c876d073c",
-                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
