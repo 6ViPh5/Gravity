@@ -220,9 +220,9 @@
                     ]
                 },
                 {
-                    "name": "entity_texture_features-7.2.6-26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOEycXyN/entity_texture_features-7.2.6-26.3-fabric.jar",
-                    "sha1": "40fd33455e0543a5716f8cb7100d0d3c7abde3d8",
+                    "name": "entity_texture_features-7.2.7-26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/svwZ2o4d/entity_texture_features-7.2.7-26.3-fabric.jar",
+                    "sha1": "29f48f42d72007ce13b4678fac5b2ef5986879e4",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "[ETF] Entity Texture Features",
@@ -230,7 +230,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "entity_texture_features-7.2.5-26.3-fabric.jar"
+                        "entity_texture_features-7.2.5-26.3-fabric.jar",
+                        "entity_texture_features-7.2.6-26.3-fabric.jar"
                     ]
                 },
                 {
@@ -248,9 +249,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.165.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
-                    "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2",
+                    "name": "fabric-api-0.165.2+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar",
+                    "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -261,7 +262,8 @@
                         "fabric-api-0.161.0+26.3.jar",
                         "fabric-api-0.162.0+26.3.jar",
                         "fabric-api-0.163.0+26.3.jar",
-                        "fabric-api-0.164.0+26.3.jar"
+                        "fabric-api-0.164.0+26.3.jar",
+                        "fabric-api-0.165.0+26.3.jar"
                     ]
                 },
                 {
@@ -1760,9 +1762,9 @@
                     ]
                 },
                 {
-                    "name": "entity_texture_features-7.2.6-26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOEycXyN/entity_texture_features-7.2.6-26.3-fabric.jar",
-                    "sha1": "40fd33455e0543a5716f8cb7100d0d3c7abde3d8",
+                    "name": "entity_texture_features-7.2.7-26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/svwZ2o4d/entity_texture_features-7.2.7-26.3-fabric.jar",
+                    "sha1": "29f48f42d72007ce13b4678fac5b2ef5986879e4",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "[ETF] Entity Texture Features",
@@ -1770,7 +1772,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "entity_texture_features-7.2.5-26.3-fabric.jar"
+                        "entity_texture_features-7.2.5-26.3-fabric.jar",
+                        "entity_texture_features-7.2.6-26.3-fabric.jar"
                     ]
                 },
                 {
@@ -1788,9 +1791,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.165.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar",
-                    "sha1": "8f8a23d6c9fbf7b075b31b4fb0a1007b0488d1d2",
+                    "name": "fabric-api-0.165.2+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar",
+                    "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -1801,7 +1804,8 @@
                         "fabric-api-0.161.0+26.3.jar",
                         "fabric-api-0.162.0+26.3.jar",
                         "fabric-api-0.163.0+26.3.jar",
-                        "fabric-api-0.164.0+26.3.jar"
+                        "fabric-api-0.164.0+26.3.jar",
+                        "fabric-api-0.165.0+26.3.jar"
                     ]
                 },
                 {
@@ -2337,9 +2341,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.8.0-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/yYIYGVo7/bettercoppergolem-FABRIC-2.8.0-26.3.jar",
-                    "sha1": "e7110e103cbf438811a6c778a6c33ca44404e675",
+                    "name": "bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/csFWIklG/bettercoppergolem-FABRIC-2.8.1-26.3.jar",
+                    "sha1": "3a7901ba8ca7075da56c7f21cdcd09056faf6927",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Better Copper Golem",
@@ -2349,7 +2353,8 @@
                     "replaces": [
                         "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
                         "bettercoppergolem-FABRIC-2.7.3-26.3.jar",
-                        "bettercoppergolem-FABRIC-2.7.4-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.7.4-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.8.0-26.3.jar"
                     ]
                 },
                 {
@@ -2629,20 +2634,23 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "beautifiedchatclient-26.3.0-3.0.jar",
-                    "url": "https://cdn.modrinth.com/data/mtIxmNw5/versions/LBJrFQDp/beautifiedchatclient-26.3.0-3.0.jar",
-                    "sha1": "ff95d92989c903f3b8ecd43d195e191caa24eaba",
+                    "name": "beautifiedchatclient-26.3.0-4.0.jar",
+                    "url": "https://cdn.modrinth.com/data/mtIxmNw5/versions/ZoMRtsXT/beautifiedchatclient-26.3.0-4.0.jar",
+                    "sha1": "ea4fa1445aefba69063ed71c136e1b81a75629da",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "beautifiedchatclient-26.3.0-3.0.jar"
+                    ]
                 },
                 {
-                    "name": "collective-26.3.0-8.73.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/vsRFdH1j/collective-26.3.0-8.73.jar",
-                    "sha1": "04057fca685e695ce5308b731348e7491875f2bd",
+                    "name": "collective-26.3.0-8.77.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/V4alyXhW/collective-26.3.0-8.77.jar",
+                    "sha1": "63f3f80a054f1a1d267fcbd40727c6859738fe37",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2651,7 +2659,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "collective-26.3.0-8.71.jar",
-                        "collective-26.3.0-8.72.jar"
+                        "collective-26.3.0-8.72.jar",
+                        "collective-26.3.0-8.73.jar"
                     ]
                 },
                 {
@@ -2689,21 +2698,21 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-5.2+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.2+26.3.jar",
-                    "sha1": "8d669f47598f87c4ed1ce34c8eacebc6196e7dc7",
+                    "name": "stks-tool-trims-1.3.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/fcJsw206/versions/MEquEg2o/stks-tool-trims-1.3.0%2B26.3.jar",
+                    "sha1": "8609b866fd0f33ef3604a59e41e201ef7846cf2a",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": "viph-ideas-5.2+26.3.jar",
+                    "display_name": "STK's Tool Trims",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
                 },
                 {
-                    "name": "stks-tool-trims-1.3.0+26.3.jar",
-                    "display_name": "STK's Tool Trims",
-                    "url": "https://cdn.modrinth.com/data/fcJsw206/versions/MEquEg2o/stks-tool-trims-1.3.0%2B26.3.jar",
-                    "sha1": "8609b866fd0f33ef3604a59e41e201ef7846cf2a",
+                    "name": "viph-ideas-5.4+26.3.jar",
+                    "display_name": "viph-ideas-5.4+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.4+26.3.jar",
+                    "sha1": "1ec6ce691f7f15a53bf0a65095d4a460953c58d1",
                     "file_type": "mod"
                 }
             ],
@@ -2991,9 +3000,9 @@
                     ]
                 },
                 {
-                    "name": "streamcraft-pc-0.32.0+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/KVqS0MVb/streamcraft-pc-0.32.0%2Bmc26.3.jar",
-                    "sha1": "87176204569a2af49b28142756bee2568dc91a8d",
+                    "name": "streamcraft-pc-0.32.2+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/IkxW7OKr/streamcraft-pc-0.32.2%2Bmc26.3.jar",
+                    "sha1": "4ff1fd9384c1b3e62981b44e988e11fb4de61189",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3006,7 +3015,8 @@
                     "replaces": [
                         "streamcraft-pc-0.29.3+mc26.3.jar",
                         "streamcraft-pc-0.31.0+mc26.3.jar",
-                        "streamcraft-pc-0.31.1+mc26.3.jar"
+                        "streamcraft-pc-0.31.1+mc26.3.jar",
+                        "streamcraft-pc-0.32.0+mc26.3.jar"
                     ]
                 },
                 {
@@ -3239,9 +3249,9 @@
             ]
         },
         {
-            "name": "better-clouds-1.15.0-beta.8+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/gd9idieP/better-clouds-1.15.0-beta.8%2B26.3-fabric.jar",
-            "sha1": "29b6d7e8801986c093ffca5b279ad8e854608833",
+            "name": "better-clouds-1.15.0+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/3CZjRo4I/better-clouds-1.15.0%2B26.3-fabric.jar",
+            "sha1": "b75fff9b6466e100c07ef2d94ad78d79b5d0cb61",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3271,7 +3281,8 @@
                 "better-clouds-1.15.0-beta.4+26.3-fabric.jar",
                 "better-clouds-1.15.0-beta.5+26.3-fabric.jar",
                 "better-clouds-1.15.0-beta.6+26.3-fabric.jar",
-                "better-clouds-1.15.0-beta.7+26.3-fabric.jar"
+                "better-clouds-1.15.0-beta.7+26.3-fabric.jar",
+                "better-clouds-1.15.0-beta.8+26.3-fabric.jar"
             ]
         },
         {
@@ -3467,9 +3478,9 @@
             ]
         },
         {
-            "name": "Essential_1-5-1_fabric_26-3.jar",
-            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/WO270Fne/Essential_1-5-1_fabric_26-3.jar",
-            "sha1": "f63bae5db59f1c6fad84da5530767c5df947521d",
+            "name": "Essential_1-5-2_fabric_26-3.jar",
+            "url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/zwAMiQ2J/Essential_1-5-2_fabric_26-3.jar",
+            "sha1": "237dfb76c44d98a2adc163e2fce3c48b491da31f",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3480,7 +3491,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "Essential_1-5-0-1_fabric_26-3.jar"
+                "Essential_1-5-0-1_fabric_26-3.jar",
+                "Essential_1-5-1_fabric_26-3.jar"
             ]
         },
         {
@@ -3706,9 +3718,9 @@
             ]
         },
         {
-            "name": "punchy-3.1a-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/5xVDd7h0/punchy-3.1a-fabric-26.3.jar",
-            "sha1": "3be1ab2ee44101f0471a3f13def1393f706c2cc3",
+            "name": "punchy-3.1b-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/eSkuD0LS/punchy-3.1b-fabric-26.3.jar",
+            "sha1": "6f8d04aa8225ce7921380547256cb080afd6d469",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3788,7 +3800,8 @@
                 "punchy-2.8f-hotfix-fabric-26.3.jar",
                 "punchy-2.8g-fabric-26.3.jar",
                 "punchy-3.0-fabric-26.3-birthday.jar",
-                "punchy-3.0a-fabric-26.3.jar"
+                "punchy-3.0a-fabric-26.3.jar",
+                "punchy-3.1a-fabric-26.3.jar"
             ]
         },
         {
@@ -4234,9 +4247,9 @@
             ]
         },
         {
-            "name": "particlerain-4.0.2+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/ecVAaY1R/particlerain-4.0.2%2B26.3-fabric.jar",
-            "sha1": "e6737febb57e31837d74bede3ce788783b381e23",
+            "name": "particlerain-4.0.3+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/ddleyxF8/particlerain-4.0.3%2B26.3-fabric.jar",
+            "sha1": "7b77b734bc5cbfc48307a2876d5c4e1cb193444b",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4248,7 +4261,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "particlerain-4.0.1+26.3-fabric.jar"
+                "particlerain-4.0.1+26.3-fabric.jar",
+                "particlerain-4.0.2+26.3-fabric.jar"
             ]
         },
         {
@@ -4280,9 +4294,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "mru-1.0.44+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/fHDvIf3d/mru-1.0.44%2B26.3-fabric.jar",
-                    "sha1": "036e98236f811655cfa859fd3ec2711ba4f762bf",
+                    "name": "mru-1.0.45+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/22Tvjurn/mru-1.0.45%2B26.3-fabric.jar",
+                    "sha1": "16e1a68a934919e4d2f94fec33cad9b5f44e2d42",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -4293,7 +4307,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "mru-1.0.43+26.3-fabric.jar"
+                        "mru-1.0.43+26.3-fabric.jar",
+                        "mru-1.0.44+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -4458,9 +4473,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.9.1+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/GKKVgCMp/spatial-gui-1.9.1%2B26.3-fabric.jar",
-            "sha1": "faa9cf16842e6c4ed02c37960bf2121fe1709b48",
+            "name": "spatial-gui-1.10.1+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/BHRhXSau/spatial-gui-1.10.1%2B26.3-fabric.jar",
+            "sha1": "ba80b327d851a7de20d1f7cf460f14fac08a4fc1",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4473,7 +4488,8 @@
             "replaces": [
                 "spatial-gui-1.7.2+26.3-fabric.jar",
                 "spatial-gui-1.8+26.3-fabric.jar",
-                "spatial-gui-1.9+26.3-fabric.jar"
+                "spatial-gui-1.9+26.3-fabric.jar",
+                "spatial-gui-1.9.1+26.3-fabric.jar"
             ]
         },
         {
@@ -4684,7 +4700,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "7759642053802bf3505e5bf3e113c40c40eacfbd"
+                "b4aecc2c20f3424fd2034412d24945b2dfccb74c"
             ]
         },
         {
@@ -5528,7 +5544,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "7759642053802bf3505e5bf3e113c40c40eacfbd"
+                "b4aecc2c20f3424fd2034412d24945b2dfccb74c"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5655,9 +5671,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.13+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/SOBMMSQ6/evergreenhud-3.9.13%2B1.21.11.jar",
-            "sha1": "7759642053802bf3505e5bf3e113c40c40eacfbd",
+            "name": "evergreenhud-3.9.14+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/rR2nuREN/evergreenhud-3.9.14%2B1.21.11.jar",
+            "sha1": "b4aecc2c20f3424fd2034412d24945b2dfccb74c",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5712,7 +5728,8 @@
             "replaces": [
                 "evergreenhud-3.9.10+1.21.11.jar",
                 "evergreenhud-3.9.11+1.21.11.jar",
-                "evergreenhud-3.9.12+1.21.11.jar"
+                "evergreenhud-3.9.12+1.21.11.jar",
+                "evergreenhud-3.9.13+1.21.11.jar"
             ]
         },
         {
