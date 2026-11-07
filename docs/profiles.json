@@ -86,9 +86,9 @@
                     ]
                 },
                 {
-                    "name": "sodium-fabric-0.9.3-beta.1+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/g6ju16VJ/sodium-fabric-0.9.3-beta.1%2Bmc26.3.jar",
-                    "sha1": "1e6aec741b4134258ba1d7d458bae96a2e8e187e",
+                    "name": "sodium-fabric-0.9.3-beta.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar",
+                    "sha1": "1dc84ee484a14dec042fb771843c28ea48cac508",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
@@ -96,7 +96,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "sodium-fabric-0.9.3-alpha.1+mc26.3.jar"
+                        "sodium-fabric-0.9.3-alpha.1+mc26.3.jar",
+                        "sodium-fabric-0.9.3-beta.1+mc26.3.jar"
                     ]
                 },
                 {
@@ -456,15 +457,18 @@
                     ]
                 },
                 {
-                    "name": "skinrestorer-2.11.0+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/K7BFrFJD/skinrestorer-2.11.0%2B26.3-fabric.jar",
-                    "sha1": "1da011465f62f631a95775aa9843a8b413a71db5",
+                    "name": "skinrestorer-2.11.1+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/uPYFkQMi/skinrestorer-2.11.1%2B26.3-fabric.jar",
+                    "sha1": "452e7c5cf7686986edfb3339e5439ac971908080",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "skinrestorer-2.11.0+26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "respackopts-26.3.0.jar",
@@ -681,8 +685,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/bo4O33l6/SodiumTranslations.zip",
-                    "sha1": "3741e7e5f02f554a20f40d2a12a0d6ddfa2e0198",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/fgDarc1B/SodiumTranslations.zip",
+                    "sha1": "ad9631dfbf5b23ad80604110e4a00215a7f44f1d",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -1066,8 +1070,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/bo4O33l6/SodiumTranslations.zip",
-                    "sha1": "3741e7e5f02f554a20f40d2a12a0d6ddfa2e0198",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/fgDarc1B/SodiumTranslations.zip",
+                    "sha1": "ad9631dfbf5b23ad80604110e4a00215a7f44f1d",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -1628,9 +1632,9 @@
                     ]
                 },
                 {
-                    "name": "sodium-fabric-0.9.3-beta.1+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/g6ju16VJ/sodium-fabric-0.9.3-beta.1%2Bmc26.3.jar",
-                    "sha1": "1e6aec741b4134258ba1d7d458bae96a2e8e187e",
+                    "name": "sodium-fabric-0.9.3-beta.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar",
+                    "sha1": "1dc84ee484a14dec042fb771843c28ea48cac508",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
@@ -1638,7 +1642,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "sodium-fabric-0.9.3-alpha.1+mc26.3.jar"
+                        "sodium-fabric-0.9.3-alpha.1+mc26.3.jar",
+                        "sodium-fabric-0.9.3-beta.1+mc26.3.jar"
                     ]
                 },
                 {
@@ -1998,15 +2003,18 @@
                     ]
                 },
                 {
-                    "name": "skinrestorer-2.11.0+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/K7BFrFJD/skinrestorer-2.11.0%2B26.3-fabric.jar",
-                    "sha1": "1da011465f62f631a95775aa9843a8b413a71db5",
+                    "name": "skinrestorer-2.11.1+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/uPYFkQMi/skinrestorer-2.11.1%2B26.3-fabric.jar",
+                    "sha1": "452e7c5cf7686986edfb3339e5439ac971908080",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "skinrestorer-2.11.0+26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "respackopts-26.3.0.jar",
@@ -2140,26 +2148,32 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-                    "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
+                    "name": "emotecraft-for-MC26.3-3.5.0-b.build.179.jar",
+                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/TYkuVa5C/emotecraft-for-MC26.3-3.5.0-b.build.179.jar",
+                    "sha1": "286a800d23d7f00898146974aa914c5175b66de7",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Emotecraft",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "emotecraft-for-MC26.3-3.5.0-a.build.171.jar"
+                    ]
                 },
                 {
-                    "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
-                    "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
+                    "name": "PlayerAnimationLibMerged-1.2.9+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/lQIjpkZc/PlayerAnimationLibMerged-1.2.9%2Bmc.26.3.jar",
+                    "sha1": "15cba53655e1c71b67e6b04a3b2756e012cea0b5",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar"
+                    ]
                 },
                 {
                     "name": "faewulf_lib-fabric-26.3-1.4.0.jar",
@@ -2239,15 +2253,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "music_disc_maker-3.1.2+fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar",
-                    "sha1": "16faf2ab71a0fc77892a3e89f6635e744c8f3370",
+                    "name": "music_disc_maker-3.1.3+fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/tYLFaTAy/music_disc_maker-3.1.3%2Bfabric-26.3.jar",
+                    "sha1": "2533007dae63e02ace12693d87e2ec91dd51acac",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Music Disc Maker",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "music_disc_maker-3.1.2+fabric-26.3.jar"
+                    ]
                 },
                 {
                     "name": "reconnect-fabric-1.1.2+26.3.jar",
@@ -2341,9 +2358,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bettercoppergolem-FABRIC-2.8.1-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/csFWIklG/bettercoppergolem-FABRIC-2.8.1-26.3.jar",
-                    "sha1": "3a7901ba8ca7075da56c7f21cdcd09056faf6927",
+                    "name": "bettercoppergolem-FABRIC-2.8.2-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FD3rofvj/versions/451mh8nk/bettercoppergolem-FABRIC-2.8.2-26.3.jar",
+                    "sha1": "18c38716e430abe836d3448a669a051c755dd55e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Better Copper Golem",
@@ -2354,7 +2371,8 @@
                         "bettercoppergolem-FABRIC-2.7.2-26.3.jar",
                         "bettercoppergolem-FABRIC-2.7.3-26.3.jar",
                         "bettercoppergolem-FABRIC-2.7.4-26.3.jar",
-                        "bettercoppergolem-FABRIC-2.8.0-26.3.jar"
+                        "bettercoppergolem-FABRIC-2.8.0-26.3.jar",
+                        "bettercoppergolem-FABRIC-2.8.1-26.3.jar"
                     ]
                 },
                 {
@@ -2648,9 +2666,9 @@
                     ]
                 },
                 {
-                    "name": "collective-26.3.0-8.77.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/V4alyXhW/collective-26.3.0-8.77.jar",
-                    "sha1": "63f3f80a054f1a1d267fcbd40727c6859738fe37",
+                    "name": "collective-26.3.0-8.83.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/Uw7X71pA/collective-26.3.0-8.83.jar",
+                    "sha1": "893319f676d787ac6d9734677de8e74d69528d1e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2660,7 +2678,8 @@
                     "replaces": [
                         "collective-26.3.0-8.71.jar",
                         "collective-26.3.0-8.72.jar",
-                        "collective-26.3.0-8.73.jar"
+                        "collective-26.3.0-8.73.jar",
+                        "collective-26.3.0-8.77.jar"
                     ]
                 },
                 {
@@ -2710,10 +2729,14 @@
                 },
                 {
                     "name": "viph-ideas-5.4+26.3.jar",
-                    "display_name": "viph-ideas-5.4+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.4+26.3.jar",
                     "sha1": "1ec6ce691f7f15a53bf0a65095d4a460953c58d1",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-5.4+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2824,9 +2847,9 @@
                     ]
                 },
                 {
-                    "name": "walllanterns-3.3.1.jar",
-                    "url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/az9lailz/walllanterns-3.3.1.jar",
-                    "sha1": "f6eb01626ee63aa94f27f1c2b62424546a0da0ab",
+                    "name": "walllanterns-3.4.0.jar",
+                    "url": "https://cdn.modrinth.com/data/V1CFwy2A/versions/Zo0bzWeq/walllanterns-3.4.0.jar",
+                    "sha1": "c3b05279318d318d36f062116875c3dbe220f03a",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2837,7 +2860,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "walllanterns-3.3.jar"
+                        "walllanterns-3.3.jar",
+                        "walllanterns-3.3.1.jar"
                     ]
                 },
                 {
@@ -2966,9 +2990,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "music_disc_maker-3.1.2+fabric-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar",
-                    "sha1": "16faf2ab71a0fc77892a3e89f6635e744c8f3370",
+                    "name": "music_disc_maker-3.1.3+fabric-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/tYLFaTAy/music_disc_maker-3.1.3%2Bfabric-26.3.jar",
+                    "sha1": "2533007dae63e02ace12693d87e2ec91dd51acac",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2979,7 +3003,8 @@
                     "exclusive_group": null,
                     "incompatible_with": null,
                     "replaces": [
-                        "music_disc_maker-3.1.1+fabric-26.3.jar"
+                        "music_disc_maker-3.1.1+fabric-26.3.jar",
+                        "music_disc_maker-3.1.2+fabric-26.3.jar"
                     ]
                 },
                 {
@@ -3000,9 +3025,9 @@
                     ]
                 },
                 {
-                    "name": "streamcraft-pc-0.32.2+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/IkxW7OKr/streamcraft-pc-0.32.2%2Bmc26.3.jar",
-                    "sha1": "4ff1fd9384c1b3e62981b44e988e11fb4de61189",
+                    "name": "streamcraft-pc-0.33.0+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/UUUunIAe/versions/RoSfkhXN/streamcraft-pc-0.33.0%2Bmc26.3.jar",
+                    "sha1": "b8c3830ff268f9a640ba8d5a175d51dc0f4d5983",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3016,7 +3041,8 @@
                         "streamcraft-pc-0.29.3+mc26.3.jar",
                         "streamcraft-pc-0.31.0+mc26.3.jar",
                         "streamcraft-pc-0.31.1+mc26.3.jar",
-                        "streamcraft-pc-0.32.0+mc26.3.jar"
+                        "streamcraft-pc-0.32.0+mc26.3.jar",
+                        "streamcraft-pc-0.32.2+mc26.3.jar"
                     ]
                 },
                 {
@@ -3035,9 +3061,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/M17ZQBUj/emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
-                    "sha1": "92815a8e4c85d7d81bba9ae50458a3f1d962e242",
+                    "name": "emotecraft-for-MC26.3-3.5.0-b.build.179.jar",
+                    "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/TYkuVa5C/emotecraft-for-MC26.3-3.5.0-b.build.179.jar",
+                    "sha1": "286a800d23d7f00898146974aa914c5175b66de7",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3047,12 +3073,14 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "emotecraft-for-MC26.3-3.5.0-a.build.171.jar"
+                    ]
                 },
                 {
-                    "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/xJ30QmpE/PlayerAnimationLibMerged-1.2.8%2Bmc.26.3.jar",
-                    "sha1": "e878fad023249fb2e039ddc6ce67821e1ba22960",
+                    "name": "PlayerAnimationLibMerged-1.2.9+mc.26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/lQIjpkZc/PlayerAnimationLibMerged-1.2.9%2Bmc.26.3.jar",
+                    "sha1": "15cba53655e1c71b67e6b04a3b2756e012cea0b5",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3062,7 +3090,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar"
+                    ]
                 },
                 {
                     "name": "BendableCuboidsMerged-2.1.0+mc.26.3.jar",
@@ -4473,9 +4503,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.10.1+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/BHRhXSau/spatial-gui-1.10.1%2B26.3-fabric.jar",
-            "sha1": "ba80b327d851a7de20d1f7cf460f14fac08a4fc1",
+            "name": "spatial-gui-1.11.0+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/Z4kxGJvI/spatial-gui-1.11.0%2B26.3-fabric.jar",
+            "sha1": "1b56341807fb27033aad417ef00850b859fe40d0",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4489,7 +4519,8 @@
                 "spatial-gui-1.7.2+26.3-fabric.jar",
                 "spatial-gui-1.8+26.3-fabric.jar",
                 "spatial-gui-1.9+26.3-fabric.jar",
-                "spatial-gui-1.9.1+26.3-fabric.jar"
+                "spatial-gui-1.9.1+26.3-fabric.jar",
+                "spatial-gui-1.10.1+26.3-fabric.jar"
             ]
         },
         {
@@ -4700,7 +4731,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "b4aecc2c20f3424fd2034412d24945b2dfccb74c"
+                "055088877b5d81d6333bd84c64794fa8ffec511a"
             ]
         },
         {
@@ -5544,7 +5575,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "b4aecc2c20f3424fd2034412d24945b2dfccb74c"
+                "055088877b5d81d6333bd84c64794fa8ffec511a"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5671,9 +5702,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.14+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/rR2nuREN/evergreenhud-3.9.14%2B1.21.11.jar",
-            "sha1": "b4aecc2c20f3424fd2034412d24945b2dfccb74c",
+            "name": "evergreenhud-3.9.16+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/1Zb9G7pX/evergreenhud-3.9.16%2B1.21.11.jar",
+            "sha1": "055088877b5d81d6333bd84c64794fa8ffec511a",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5683,9 +5714,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.6.1.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/UPkgJbdE/OneConfig-1.21.11-fabric-1.6.1.jar",
-                    "sha1": "6aebc630fe8c42b4492dc13816ae95b12cc8118c",
+                    "name": "OneConfig-1.21.11-fabric-1.6.2.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/6AuGXqDS/OneConfig-1.21.11-fabric-1.6.2.jar",
+                    "sha1": "283269d20850f122fcf6d0c796f5238085d85552",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5699,7 +5730,8 @@
                         "OneConfig-1.21.11-fabric-1.4.4.jar",
                         "OneConfig-1.21.11-fabric-1.5.0.jar",
                         "OneConfig-1.21.11-fabric-1.5.2.jar",
-                        "OneConfig-1.21.11-fabric-1.6.0.jar"
+                        "OneConfig-1.21.11-fabric-1.6.0.jar",
+                        "OneConfig-1.21.11-fabric-1.6.1.jar"
                     ]
                 },
                 {
@@ -5729,7 +5761,8 @@
                 "evergreenhud-3.9.10+1.21.11.jar",
                 "evergreenhud-3.9.11+1.21.11.jar",
                 "evergreenhud-3.9.12+1.21.11.jar",
-                "evergreenhud-3.9.13+1.21.11.jar"
+                "evergreenhud-3.9.13+1.21.11.jar",
+                "evergreenhud-3.9.14+1.21.11.jar"
             ]
         },
         {
