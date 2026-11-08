@@ -2698,21 +2698,22 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-5.4+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.4+26.3.jar",
-                    "sha1": "1ec6ce691f7f15a53bf0a65095d4a460953c58d1",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-5.4+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "sodium-fabric-0.9.3-beta.1+mc26.3.jar",
-                    "display_name": "Sodium",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/g6ju16VJ/sodium-fabric-0.9.3-beta.1%2Bmc26.3.jar",
                     "sha1": "1e6aec741b4134258ba1d7d458bae96a2e8e187e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "locked": true
+                },
+                {
+                    "name": "viph-ideas-5.6+26.3.jar",
+                    "display_name": "viph-ideas-5.6+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.6+26.3.jar",
+                    "sha1": "70edf6782889ecb0987e9a110345d69f43500769",
                     "file_type": "mod"
                 }
             ],
@@ -3725,9 +3726,9 @@
             ]
         },
         {
-            "name": "punchy-3.1b-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/eSkuD0LS/punchy-3.1b-fabric-26.3.jar",
-            "sha1": "6f8d04aa8225ce7921380547256cb080afd6d469",
+            "name": "punchy-3.2-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/hkTwScfi/punchy-3.2-fabric-26.3.jar",
+            "sha1": "4e86a618be58060a3c2c9c85f7ff7947abce3c89",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3808,7 +3809,8 @@
                 "punchy-2.8g-fabric-26.3.jar",
                 "punchy-3.0-fabric-26.3-birthday.jar",
                 "punchy-3.0a-fabric-26.3.jar",
-                "punchy-3.1a-fabric-26.3.jar"
+                "punchy-3.1a-fabric-26.3.jar",
+                "punchy-3.1b-fabric-26.3.jar"
             ]
         },
         {
