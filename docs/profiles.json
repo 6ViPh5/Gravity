@@ -2485,17 +2485,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "last-world-panorama-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/F1KVNatg/versions/XkXkj2N1/last-world-panorama-26.3.jar",
-                    "sha1": "23324ecd900db17e14623392a5adeadf721e536e",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "scribble-2.1.0+mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/yXAvIk0x/versions/aXAUZoEb/scribble-2.1.0%2Bmc26.3.jar",
                     "sha1": "cac789e572d205e933f597a03e9e03b5a089d1f6",
@@ -2587,15 +2576,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "fusion-1.3.16-fabric-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/wRjdAbXf/fusion-1.3.16-fabric-mc26.3.jar",
-                    "sha1": "5e000a3c7990d0e1d130f11278de062d60beb8c6",
+                    "name": "fusion-1.3.16a-fabric-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/sEYDlGfG/fusion-1.3.16a-fabric-mc26.3.jar",
+                    "sha1": "51e0212277a25c9bd7ceb2bf97d741083a1fd342",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "fusion-1.3.16-fabric-mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
@@ -2711,10 +2703,14 @@
                 },
                 {
                     "name": "viph-ideas-5.8+26.3.jar",
-                    "display_name": "viph-ideas-5.8+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.8+26.3.jar",
                     "sha1": "c7961ef13a55cf4c4f1e4b6774c710d8db96202a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-5.8+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
