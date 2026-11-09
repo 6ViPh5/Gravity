@@ -236,9 +236,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.165.2+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar",
-                    "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
+                    "name": "fabric-api-0.166.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/998R2rNP/fabric-api-0.166.0%2B26.3.jar",
+                    "sha1": "7f16cfcd4ef3d225a21417907634957787b31a5f",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -250,7 +250,8 @@
                         "fabric-api-0.162.0+26.3.jar",
                         "fabric-api-0.163.0+26.3.jar",
                         "fabric-api-0.164.0+26.3.jar",
-                        "fabric-api-0.165.0+26.3.jar"
+                        "fabric-api-0.165.0+26.3.jar",
+                        "fabric-api-0.165.2+26.3.jar"
                     ]
                 },
                 {
@@ -1769,9 +1770,9 @@
                     ]
                 },
                 {
-                    "name": "fabric-api-0.165.2+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar",
-                    "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
+                    "name": "fabric-api-0.166.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/998R2rNP/fabric-api-0.166.0%2B26.3.jar",
+                    "sha1": "7f16cfcd4ef3d225a21417907634957787b31a5f",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Fabric API",
@@ -1783,7 +1784,8 @@
                         "fabric-api-0.162.0+26.3.jar",
                         "fabric-api-0.163.0+26.3.jar",
                         "fabric-api-0.164.0+26.3.jar",
-                        "fabric-api-0.165.0+26.3.jar"
+                        "fabric-api-0.165.0+26.3.jar",
+                        "fabric-api-0.165.2+26.3.jar"
                     ]
                 },
                 {
@@ -2604,9 +2606,9 @@
                     ]
                 },
                 {
-                    "name": "collective-26.3.0-8.84.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/Idpxp15h/collective-26.3.0-8.84.jar",
-                    "sha1": "462a9df24a81a468ccd6c6e2f545d484222af4b3",
+                    "name": "collective-26.3.0-8.85.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/Jl348nuI/collective-26.3.0-8.85.jar",
+                    "sha1": "045608f49a49d4baa395afc9a4212ac190db894b",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2618,7 +2620,8 @@
                         "collective-26.3.0-8.72.jar",
                         "collective-26.3.0-8.73.jar",
                         "collective-26.3.0-8.77.jar",
-                        "collective-26.3.0-8.83.jar"
+                        "collective-26.3.0-8.83.jar",
+                        "collective-26.3.0-8.84.jar"
                     ]
                 },
                 {
@@ -2667,16 +2670,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-fabric-0.9.3-beta.1+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/g6ju16VJ/sodium-fabric-0.9.3-beta.1%2Bmc26.3.jar",
-                    "sha1": "1e6aec741b4134258ba1d7d458bae96a2e8e187e",
+                    "name": "sodium-fabric-0.9.3-beta.4+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2MZWfUts/sodium-fabric-0.9.3-beta.4%2Bmc26.3.jar",
+                    "sha1": "4c14da0cc83490269c3759b64329adba112c9a01",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null,
-                    "locked": true
+                    "replaces": [
+                        "sodium-fabric-0.9.3-beta.1+mc26.3.jar"
+                    ]
                 },
                 {
                     "name": "viph-ideas-5.9+26.3.jar",
@@ -2917,9 +2922,9 @@
             ]
         },
         {
-            "name": "clientcommands-2.16.3.jar",
-            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/QkoqRvm6/clientcommands-2.16.3.jar",
-            "sha1": "b1b136006dd5a65d6e0061b9d5d287830ef69b02",
+            "name": "clientcommands-2.16.4.jar",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/PciJjRRE/clientcommands-2.16.4.jar",
+            "sha1": "3d3f9899e12c7a7f7860c87945c06d1827402056",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -2931,7 +2936,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "clientcommands-2.16.2.jar"
+                "clientcommands-2.16.2.jar",
+                "clientcommands-2.16.3.jar"
             ]
         },
         {
@@ -5489,53 +5495,6 @@
             "display_name": "Particle Interactions",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
-        },
-        {
-            "name": "touch_n_motion_fabric_26.3_1.0.4.jar",
-            "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/touch_n_motion_fabric_26.3_1.0.4.jar",
-            "sha1": "22064c9c06a1311a42faccec2430279b8e52d3f0",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "Touch'n Motion",
-            "req_user_type": null,
-            "dependencies": [
-                {
-                    "name": "emf_compat_core_fabric_26.3_2.3.2.jar",
-                    "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/oOuwcnpx/emf_compat_core_fabric_26.3_2.3.2.jar",
-                    "sha1": "73a1ca31addbe24823f0494f0f26ab74d4102664",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": "EMF Compat: Core",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null
-                },
-                {
-                    "name": "FA+Player-v1.1.zip",
-                    "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip",
-                    "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
-                    "file_type": "resourcepack",
-                    "install_path": null,
-                    "target_profiles": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "exclusive_group": null,
-                    "incompatible_with": null,
-                    "replaces": null,
-                    "pack_mode": "install",
-                    "pack_order": 4
-                }
-            ],
             "allowed_users": null
         },
         {
