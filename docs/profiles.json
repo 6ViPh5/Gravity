@@ -58,21 +58,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-extra-fabric-0.9.6-beta.3+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/FNQGqNhl/sodium-extra-fabric-0.9.6-beta.3%2Bmc26.3.jar",
-                    "sha1": "272ee2d0c23133b9c4183a609e88c1892d326c42",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Sodium Extra",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "replaces": [
-                        "sodium-extra-fabric-0.9.4+mc26.3.jar",
-                        "sodium-extra-fabric-0.9.6-beta.1+mc26.3.jar"
-                    ]
-                },
-                {
                     "name": "SodiumExtraInformation-fabric-2.9.1.jar",
                     "url": "https://cdn.modrinth.com/data/696WgnvT/versions/XM8gMY5X/SodiumExtraInformation-fabric-2.9.1.jar",
                     "sha1": "582efb3e821ed87417cb6b0ee4b62b22dae273b1",
@@ -1592,21 +1577,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-extra-fabric-0.9.6-beta.3+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/FNQGqNhl/sodium-extra-fabric-0.9.6-beta.3%2Bmc26.3.jar",
-                    "sha1": "272ee2d0c23133b9c4183a609e88c1892d326c42",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Sodium Extra",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "replaces": [
-                        "sodium-extra-fabric-0.9.4+mc26.3.jar",
-                        "sodium-extra-fabric-0.9.6-beta.1+mc26.3.jar"
-                    ]
-                },
-                {
                     "name": "SodiumExtraInformation-fabric-2.9.1.jar",
                     "url": "https://cdn.modrinth.com/data/696WgnvT/versions/XM8gMY5X/SodiumExtraInformation-fabric-2.9.1.jar",
                     "sha1": "582efb3e821ed87417cb6b0ee4b62b22dae273b1",
@@ -2670,20 +2640,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "sodium-fabric-0.9.3-beta.4+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/2MZWfUts/sodium-fabric-0.9.3-beta.4%2Bmc26.3.jar",
-                    "sha1": "4c14da0cc83490269c3759b64329adba112c9a01",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Sodium",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "replaces": [
-                        "sodium-fabric-0.9.3-beta.1+mc26.3.jar"
-                    ]
-                },
-                {
                     "name": "viph-ideas-5.9+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.9+26.3.jar",
                     "sha1": "86023dd625a8ab8baf34e16fdaebab42ae1e8c31",
@@ -2693,6 +2649,30 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "sodium-fabric-0.9.3-beta.3+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar",
+                    "sha1": "1dc84ee484a14dec042fb771843c28ea48cac508",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "locked": true
+                },
+                {
+                    "name": "sodium-extra-fabric-0.9.6-beta.2+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/d2cvejhx/sodium-extra-fabric-0.9.6-beta.2%2Bmc26.3.jar",
+                    "sha1": "39c380ba71723d9d4303fd1a4c7354aa39f8268e",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Sodium Extra",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null,
+                    "locked": true
                 }
             ],
             "req_user_type": "exclusive",
