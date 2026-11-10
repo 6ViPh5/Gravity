@@ -123,8 +123,9 @@ ol.steps p{color:var(--muted);font-size:.95rem}
 .tour:hover .tab.on::after{animation-play-state:paused}
 .tour.manual .tab.on::after{animation:none}
 @keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-.slide{display:none}
-.slide.on{display:block;animation:in .35s ease both}
+.stage{display:grid}
+.slide{grid-area:1/1;visibility:hidden;opacity:0;pointer-events:none}
+.slide.on{visibility:visible;opacity:1;pointer-events:auto;animation:in .35s ease both}
 .slide h3{font-size:1.5rem;margin:22px 0 8px}
 .slide p{color:var(--muted);max-width:62ch}
 .slide ul{margin:12px 0 0;padding-left:20px;color:var(--muted)}
