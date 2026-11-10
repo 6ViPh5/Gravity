@@ -55,7 +55,13 @@ nav .btn:hover{color:#0f0f0f}
 .hero p.sub{color:var(--muted);max-width:56ch;margin:0 auto 30px;font-size:1.1rem;animation:in .8s .1s ease both}
 .cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;animation:in .8s .2s ease both}
 .meta{color:var(--muted);font-size:.9rem;margin-top:16px;animation:in .8s .3s ease both}
-.hero figure{margin:56px auto 0;max-width:900px;animation:in .9s .35s ease both}
+.stack{position:relative;margin:64px auto 0;max-width:900px;animation:in .9s .35s ease both}
+.stack figure{margin:0}
+.stack .main{position:relative;z-index:1;box-shadow:0 40px 90px rgba(0,0,0,.7)}
+.stack .side{position:absolute;z-index:0;width:58%;top:10%;opacity:.5;filter:brightness(.75)}
+.stack .l{left:-12%;transform:rotate(-5deg)}
+.stack .r{right:-12%;transform:rotate(5deg)}
+.hero::before{content:"";position:absolute;inset:0;pointer-events:none;background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:56px 56px;-webkit-mask-image:radial-gradient(70% 60% at 50% 20%,#000,transparent 75%);mask-image:radial-gradient(70% 60% at 50% 20%,#000,transparent 75%)}
 @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 
 /* Capturas (con respaldo si la imagen aún no existe) */
@@ -64,7 +70,10 @@ figure.shot img{cursor:zoom-in;width:100%;height:100%;object-fit:cover;display:b
 figure.shot::before{content:attr(data-name);position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);font-size:.9rem}
 
 /* Funciones: filas alternas */
-.feature{display:grid;grid-template-columns:1fr 1.1fr;gap:48px;align-items:center;margin-bottom:72px}
+.feature{display:grid;grid-template-columns:1fr 1.15fr;gap:48px;align-items:center;margin-bottom:32px;padding:40px;border:1px solid var(--line);border-radius:22px;background:var(--panel);box-shadow:0 1px 0 rgba(255,255,255,.04) inset,0 30px 60px rgba(0,0,0,.35)}
+.feature:nth-of-type(odd){background:radial-gradient(70% 90% at 0% 0%,rgba(76,175,80,.09),transparent 60%),var(--panel)}
+.feature:nth-of-type(even){background:radial-gradient(70% 90% at 100% 0%,rgba(76,175,80,.09),transparent 60%),var(--panel)}
+.feature figure.shot{box-shadow:0 20px 50px rgba(0,0,0,.6)}
 .feature:nth-child(even) figure{order:-1}
 .feature h3{font-size:1.65rem;margin-bottom:12px}
 .feature p{color:var(--muted)}
@@ -79,7 +88,7 @@ figure.shot::before{content:attr(data-name);position:absolute;inset:0;display:gr
 
 /* Pasos (sí es una secuencia) */
 ol.steps{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:28px;counter-reset:s}
-ol.steps li{counter-increment:s;border-top:2px solid var(--accent);padding-top:16px}
+ol.steps li{counter-increment:s;background:var(--panel);border:1px solid var(--line);border-top:2px solid var(--accent);border-radius:12px;padding:20px}
 ol.steps li::before{content:counter(s);font:700 .9rem Sora,sans-serif;color:var(--accent)}
 ol.steps h3{font-size:1.1rem;margin:4px 0 6px}
 ol.steps p{color:var(--muted);font-size:.95rem}
@@ -109,7 +118,7 @@ summary::after{content:"+";color:var(--accent);font-size:1.3rem;line-height:1}
 details[open] summary::after{content:"–"}
 details p{color:var(--muted);margin-top:10px;max-width:70ch}
 
-#capturas,#faq{background:#121212;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+#como-empezar,#faq{background:#121212;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted);font-size:.9rem}
 footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 footer a{text-decoration:none}
@@ -122,11 +131,13 @@ footer a:hover{color:var(--text)}
   .feature,.dl{grid-template-columns:1fr}
   .feature:nth-child(even) figure{order:0}
   .dl{padding:28px}
+  .feature{padding:22px;gap:24px}
+  .stack .side{display:none}
   section{padding:64px 0}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
-  .hero h1,.hero p.sub,.cta,.hero .chips,.hero figure{animation:none}
+  .hero h1,.hero p.sub,.cta,.hero .chips,.stack{animation:none}
   #fx{display:none}
 }
 </style>
@@ -138,7 +149,6 @@ footer a:hover{color:var(--text)}
     <a class="logo" href="#top"><img src="assets/logo.png" alt="" onerror="this.remove()">GRAVITY</a>
     <nav>
       <a href="#funciones">Funciones</a>
-      <a href="#capturas">Capturas</a>
       <a href="#como-empezar">Cómo empezar</a>
       <a href="#faq">Preguntas</a>
       <a class="btn" href="#descargar">Descargar</a>
@@ -159,9 +169,13 @@ footer a:hover{color:var(--text)}
       <a class="btn ghost" href="#funciones">Ver qué hace</a>
     </div>
     <ul class="chips"><li>Gratis</li><li>Para Windows</li><li>Se actualiza solo</li><li>Con o sin cuenta premium</li></ul>
-    <figure class="shot" data-name="Captura: pantalla principal">
-      <img src="assets/captura-inicio.webp" alt="Pantalla principal de Gravity con la lista de perfiles y el botón Jugar" onerror="this.remove()">
-    </figure>
+    <div class="stack">
+      <figure class="shot side l" data-name=""><img src="assets/captura-mods.webp" alt="" onerror="this.remove()"></figure>
+      <figure class="shot side r" data-name=""><img src="assets/captura-skins.webp" alt="" onerror="this.remove()"></figure>
+      <figure class="shot main" data-name="Captura: pantalla principal">
+        <img src="assets/captura-inicio.webp" alt="Pantalla principal de Gravity con la lista de perfiles" onerror="this.remove()">
+      </figure>
+    </div>
   </div>
 </section>
 
@@ -211,10 +225,42 @@ footer a:hover{color:var(--text)}
     <div class="feature">
       <div>
         <h3>Skins con vestidor y editor</h3>
-        <p>Guarda tu biblioteca de skins, pruébalas en un modelo 3D que giras con el ratón y aplícalas a tu cuenta. Para crearlas o retocarlas, el Gravity Editor tiene lápiz, bote, capas, simetría y rueda de color, en una ventana aparte que funciona a la par del launcher.</p>
+        <p>Guarda tu biblioteca de skins, mira cada una en un modelo 3D que giras con el ratón y elige entre brazos anchos o delgados. Puedes importar y exportar toda tu biblioteca, y abrir el Gravity Editor con un clic.</p>
       </div>
       <figure class="shot" data-name="Captura: skins y editor">
         <img src="assets/captura-skins.webp" alt="Vestidor con la biblioteca de skins y el botón para abrir Gravity Editor" onerror="this.remove()">
+      </figure>
+    </div>
+
+    <div class="feature">
+      <div>
+        <h3>Gravity Editor, tu editor de skins</h3>
+        <p>Crea o retoca skins sobre un modelo 3D, con guardado automático. Se abre en su propia ventana y funciona a la par del launcher.</p>
+        <ul>
+          <li>Lápiz, borrador, bote, cuentagotas, sombra y textura</li>
+          <li>Simetría, cuadrícula y brazos delgados</li>
+          <li>Capas con opacidad y rueda de color o paleta clásica</li>
+          <li>Guarda en tu biblioteca, exporta en .png o aplica la skin</li>
+        </ul>
+      </div>
+      <figure class="shot" data-name="Gravity Editor">
+        <img src="assets/galeria-1.webp" alt="Gravity Editor: editor de skins con vista 3D, capas y rueda de color" loading="lazy" onerror="this.remove()">
+      </figure>
+    </div>
+
+    <div class="feature">
+      <div>
+        <h3>Ajustes a tu medida</h3>
+        <p>Lo importante, a un clic y sin menús escondidos.</p>
+        <ul>
+          <li>Memoria RAM de Java con un deslizador, hasta lo que permita tu PC</li>
+          <li>Elige si Gravity se oculta al jugar o se cierra por completo</li>
+          <li>Estado del servidor en el perfil (no todas las IPs son compatibles)</li>
+          <li>Abrir carpeta, limpiar caché o restablecer todo si algo sale mal</li>
+        </ul>
+      </div>
+      <figure class="shot" data-name="Ajustes">
+        <img src="assets/galeria-2.webp" alt="Ajustes de Gravity: memoria RAM, ocultar el launcher al jugar y mantenimiento" loading="lazy" onerror="this.remove()">
       </figure>
     </div>
 
@@ -228,17 +274,6 @@ footer a:hover{color:var(--text)}
 </section>
 
 <!-- ===== Capturas ===== -->
-<section id="capturas">
-  <div class="wrap">
-    <h2>Gravity por dentro</h2>
-    <p class="lead">El editor de skins y los ajustes de memoria y mantenimiento.</p>
-    <div class="gallery">
-      <figure class="shot" data-name="Gravity Editor"><img src="assets/galeria-1.webp" alt="Gravity Editor: editor de skins con vista 3D, capas y rueda de color" loading="lazy" onerror="this.remove()"></figure>
-      <figure class="shot" data-name="Ajustes"><img src="assets/galeria-2.webp" alt="Ajustes de Gravity: memoria RAM, ocultar el launcher al jugar y mantenimiento" loading="lazy" onerror="this.remove()"></figure>
-      
-    </div>
-  </div>
-</section>
 
 <!-- ===== Cómo empezar ===== -->
 <section id="como-empezar">
