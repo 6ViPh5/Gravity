@@ -2300,9 +2300,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.8.1+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/LMwkMy7V/diorama-0.8.1%2B26.3.jar",
-                    "sha1": "5627714a359e51c18992cb63e6b70b92c1795c13",
+                    "name": "diorama-0.9.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/uFc7jXls/diorama-0.9.0%2B26.3.jar",
+                    "sha1": "f908729d09364d375ea63307ce8d2255ba364fd9",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2315,7 +2315,8 @@
                         "diorama-0.4.0+26.3.jar",
                         "diorama-0.5.0+26.3.jar",
                         "diorama-0.6.0+26.3.jar",
-                        "diorama-0.7.0+26.3.jar"
+                        "diorama-0.7.0+26.3.jar",
+                        "diorama-0.8.1+26.3.jar"
                     ]
                 },
                 {
@@ -2576,9 +2577,9 @@
                     ]
                 },
                 {
-                    "name": "collective-26.3.0-8.85.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/Jl348nuI/collective-26.3.0-8.85.jar",
-                    "sha1": "045608f49a49d4baa395afc9a4212ac190db894b",
+                    "name": "collective-26.3.0-8.86.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/jfxbozAD/collective-26.3.0-8.86.jar",
+                    "sha1": "1329f158487009c5c348b619888c1aa0c556834d",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2591,7 +2592,8 @@
                         "collective-26.3.0-8.73.jar",
                         "collective-26.3.0-8.77.jar",
                         "collective-26.3.0-8.83.jar",
-                        "collective-26.3.0-8.84.jar"
+                        "collective-26.3.0-8.84.jar",
+                        "collective-26.3.0-8.85.jar"
                     ]
                 },
                 {
@@ -2640,17 +2642,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-5.9+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-5.9+26.3.jar",
-                    "sha1": "86023dd625a8ab8baf34e16fdaebab42ae1e8c31",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-5.9+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "sodium-fabric-0.9.3-beta.3+mc26.3.jar",
                     "url": "https://cdn.modrinth.com/data/AANobbMI/versions/aFVpk3tG/sodium-fabric-0.9.3-beta.3%2Bmc26.3.jar",
                     "sha1": "1dc84ee484a14dec042fb771843c28ea48cac508",
@@ -2673,6 +2664,13 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "locked": true
+                },
+                {
+                    "name": "viph-ideas-6.0+26.3.jar",
+                    "display_name": "viph-ideas-6.0+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.0+26.3.jar",
+                    "sha1": "7314a7ffd6b94a25ff027c129fe0ca308f5dba36",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -3247,9 +3245,9 @@
             ]
         },
         {
-            "name": "punchy-3.2-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/hkTwScfi/punchy-3.2-fabric-26.3.jar",
-            "sha1": "4e86a618be58060a3c2c9c85f7ff7947abce3c89",
+            "name": "punchy-3.2a-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/3CzwZob9/punchy-3.2a-fabric-26.3.jar",
+            "sha1": "88b1c00d2bacfbe2dcd0e2badbd1a1785c26ba6d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3331,7 +3329,8 @@
                 "punchy-3.0-fabric-26.3-birthday.jar",
                 "punchy-3.0a-fabric-26.3.jar",
                 "punchy-3.1a-fabric-26.3.jar",
-                "punchy-3.1b-fabric-26.3.jar"
+                "punchy-3.1b-fabric-26.3.jar",
+                "punchy-3.2-fabric-26.3.jar"
             ]
         },
         {
@@ -4090,9 +4089,9 @@
             ]
         },
         {
-            "name": "diorama-0.8.1+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/LMwkMy7V/diorama-0.8.1%2B26.3.jar",
-            "sha1": "5627714a359e51c18992cb63e6b70b92c1795c13",
+            "name": "diorama-0.9.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/uFc7jXls/diorama-0.9.0%2B26.3.jar",
+            "sha1": "f908729d09364d375ea63307ce8d2255ba364fd9",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4108,7 +4107,8 @@
                 "diorama-0.4.0+26.3.jar",
                 "diorama-0.5.0+26.3.jar",
                 "diorama-0.6.0+26.3.jar",
-                "diorama-0.7.0+26.3.jar"
+                "diorama-0.7.0+26.3.jar",
+                "diorama-0.8.1+26.3.jar"
             ]
         },
         {
