@@ -9,10 +9,10 @@
 <meta property="og:description" content="Un launcher de Minecraft con perfiles, mods, skins, texturas y galería de capturas.">
 <meta property="og:image" content="assets/captura-inicio.webp">
 <meta name="theme-color" content="#0f0f0f">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%234CAF50'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%230f0f0f'/%3E%3C/svg%3E">
+<link rel="icon" href="assets/logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&family=Inter:wght@800&display=swap" rel="stylesheet">
 <style>
 /* ===== Colores tomados de tu launcher (fondo #0f0f0f, acento verde #4CAF50) ===== */
 :root{
@@ -34,9 +34,8 @@ h2{font-size:clamp(1.7rem,3.5vw,2.4rem);margin-bottom:14px}
 /* Barra superior */
 header{position:sticky;top:0;z-index:20;background:rgba(15,15,15,.88);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
 header .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
-.logo{font:700 1.1rem Sora,sans-serif;text-decoration:none;display:flex;gap:10px;align-items:center}
-.logo i{width:22px;height:22px;border-radius:6px;background:var(--accent);display:grid;place-items:center}
-.logo i::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--bg)}
+.logo{font:800 1.35rem Inter,system-ui,sans-serif;letter-spacing:-.01em;text-decoration:none;display:flex;gap:10px;align-items:center}
+.logo img{height:28px;width:auto;display:block}
 nav{display:flex;gap:22px;align-items:center}
 nav a{text-decoration:none;color:var(--muted);font-size:.95rem}
 nav a:hover{color:var(--text)}
@@ -107,6 +106,8 @@ details p{color:var(--muted);margin-top:10px;max-width:70ch}
 footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted);font-size:.9rem}
 footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 footer a{text-decoration:none}
+.by{display:flex;align-items:center;gap:10px;font-weight:600;color:var(--text)}
+.by img{height:26px;width:auto;display:block}
 footer a:hover{color:var(--text)}
 
 @media (max-width:820px){
@@ -127,7 +128,7 @@ footer a:hover{color:var(--text)}
 
 <header>
   <div class="wrap">
-    <a class="logo" href="#top"><i></i>Gravity</a>
+    <a class="logo" href="#top"><img src="assets/logo.png" alt="" onerror="this.remove()">GRAVITY</a>
     <nav>
       <a href="#funciones">Funciones</a>
       <a href="#capturas">Capturas</a>
@@ -150,7 +151,7 @@ footer a:hover{color:var(--text)}
       <a class="btn" href="#descargar">Descargar para Windows</a>
       <a class="btn ghost" href="#funciones">Ver qué hace</a>
     </div>
-    <p class="meta">Gratis · Para Windows · Se actualiza solo · Inicio de sesión con Microsoft</p>
+    <p class="meta">Gratis · Para Windows · Se actualiza solo · Con o sin cuenta premium</p>
     <figure class="shot" data-name="Captura: pantalla principal">
       <img src="assets/captura-inicio.webp" alt="Pantalla principal de Gravity con la lista de perfiles y el botón Jugar" onerror="this.remove()">
     </figure>
@@ -166,7 +167,7 @@ footer a:hover{color:var(--text)}
     <div class="feature">
       <div>
         <h3>Perfiles listos para jugar</h3>
-        <p>Cada perfil trae su versión de Minecraft, su cargador y sus mods. Los perfiles se ordenan en la barra lateral, los que comparten grupo se juntan en uno solo con varios modos, y siempre ves cuáles estás jugando en este momento. Cuando hay cambios, el perfil se actualiza solo.</p>
+        <p>Cada perfil trae su versión de Minecraft, su cargador y sus mods. Los perfiles se ordenan en la barra lateral, los que comparten grupo se juntan en uno solo con varios modos, y siempre ves cuáles estás jugando en este momento. Los perfiles los prepara y mantiene el creador de Gravity, y se actualizan solos cuando hay cambios.</p>
       </div>
       <figure class="shot" data-name="Captura: perfiles">
         <img src="assets/captura-perfiles.webp" alt="Lista de perfiles organizada por grupos" onerror="this.remove()">
@@ -176,7 +177,7 @@ footer a:hover{color:var(--text)}
     <div class="feature">
       <div>
         <h3>Mods obligatorios y opcionales</h3>
-        <p>Los mods necesarios ya vienen activados. Los opcionales los enciendes o apagas a tu gusto, y se reconocen fácil:</p>
+        <p>Los mods que cada perfil necesita ya vienen activados. Los opcionales los elige y mantiene el creador de Gravity, y tú enciendes o apagas los que quieras:</p>
         <ul>
           <li>Icono de cada mod, tomado de Modrinth</li>
           <li>Categorías para distinguirlos (efectos, interfaz y más)</li>
@@ -213,7 +214,7 @@ footer a:hover{color:var(--text)}
     <div class="extras">
       <div><h3>Texturas y shaders</h3><p>Se gestionan junto a los mods, con su propio filtro y sus interruptores.</p></div>
       <div><h3>Migrar</h3><p>Pasa entre perfiles tus ajustes y controles, servidores, configs de mods, resourcepacks, shaderpacks, minimapas y capturas.</p></div>
-      <div><h3>Cuenta de Microsoft</h3><p>Inicia sesión con tu cuenta oficial y juega con tu propio nombre y skin. Puedes abrir varias instancias a la vez.</p></div>
+      <div><h3>Premium o no premium</h3><p>Entra con tu cuenta de Microsoft o en modo offline con el nombre que quieras. Puedes abrir varias instancias a la vez.</p></div>
       <div><h3>Java incluido</h3><p>Gravity descarga el Java que necesita cada versión, así que no tienes que instalarlo tú. Una barra te muestra el progreso.</p></div>
     </div>
   </div>
@@ -240,7 +241,7 @@ footer a:hover{color:var(--text)}
     <ol class="steps">
       <li><h3>Descarga</h3><p>Baja el instalador desde esta página.</p></li>
       <li><h3>Instala</h3><p>Ábrelo y sigue el instalador en español. No pide permisos de administrador.</p></li>
-      <li><h3>Inicia sesión</h3><p>Entra con tu cuenta de Microsoft.</p></li>
+      <li><h3>Entra</h3><p>Inicia sesión con Microsoft o elige el modo offline y escribe tu nombre.</p></li>
       <li><h3>Elige y juega</h3><p>Elige un perfil en la barra lateral y pulsa Jugar. Gravity descarga lo que falte.</p></li>
     </ol>
   </div>
@@ -259,7 +260,7 @@ footer a:hover{color:var(--text)}
       </div>
       <ul>
         <li>Windows 10 u 11, 64 bits</li>
-        <li>Cuenta de Minecraft Java (Microsoft)</li>
+        <li>No necesitas cuenta: hay modo offline (no premium)</li>
         <li>Conexión a internet para la primera descarga</li>
         <li id="ver">Instalación solo para tu usuario</li>
       </ul>
@@ -274,7 +275,8 @@ footer a:hover{color:var(--text)}
     <h2>Preguntas frecuentes</h2>
     <p class="lead">Respuestas cortas a lo más común.</p>
     <details><summary>¿Es gratis?</summary><p>Sí. Descargarlo y usarlo no cuesta nada.</p></details>
-    <details><summary>¿Necesito una cuenta de Minecraft?</summary><p>Sí, una cuenta de Minecraft Java con tu cuenta de Microsoft. Gravity no incluye el juego.</p></details>
+    <details><summary>¿Necesito una cuenta de Minecraft?</summary><p>No. Puedes entrar en modo offline (no premium) con el nombre que quieras. Si tienes cuenta premium, también puedes iniciar sesión con Microsoft.</p></details>
+    <details><summary>¿Puedo agregar mis propios perfiles o mods?</summary><p>Por ahora no. Los perfiles y los mods opcionales los prepara y mantiene el creador de Gravity. Tú eliges el perfil y enciendes o apagas los opcionales que quieras.</p></details>
     <details><summary>¿Por qué Windows me muestra un aviso al instalarlo?</summary><p>SmartScreen avisa con cualquier programa nuevo que no está firmado digitalmente. Pulsa «Más información» y «Ejecutar de todas formas».</p></details>
     <details><summary>¿Se actualiza solo?</summary><p>Sí. Gravity busca versiones nuevas y te avisa para actualizarse. Los perfiles y sus mods también se actualizan solos.</p></details>
     <details><summary>¿Qué es el Gravity Editor?</summary><p>Es el editor de skins de Gravity, con vista 3D. Se abre en su propia ventana y puedes usarlo mientras el launcher sigue abierto.</p></details>
@@ -286,7 +288,7 @@ footer a:hover{color:var(--text)}
 
 <footer>
   <div class="wrap">
-    <span>Gravity · Proyecto independiente</span>
+    <span class="by"><img src="assets/vp65.png" alt="VP65">Hecho por 6ViPh5</span>
     <span><a href="https://github.com/6ViPh5/Gravity/releases">Versiones</a></span>
     <span>No está afiliado, autorizado ni respaldado por Mojang Studios o Microsoft. Minecraft es una marca de Mojang Studios.</span>
   </div>
