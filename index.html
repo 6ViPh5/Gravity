@@ -24,6 +24,9 @@
 html{scroll-behavior:smooth;scroll-padding-top:72px}
 body{background:var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 h1,h2,h3{font-family:Sora,system-ui,sans-serif;line-height:1.2}
+h1 em,h2 em{font-style:normal;color:var(--accent)}
+.eyebrow{font:600 .8rem/1 ui-monospace,Consolas,monospace;color:var(--accent);margin-bottom:14px;letter-spacing:.04em}
+.eyebrow::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent);margin-right:8px}
 a{color:inherit}
 :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:6px}
 .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
@@ -48,7 +51,8 @@ nav .btn:hover{color:#0f0f0f}
 
 /* Hero */
 .hero{padding:104px 0 80px;overflow:hidden;background:radial-gradient(60% 55% at 50% 0%,rgba(76,175,80,.10),transparent 72%)}
-#fx{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+#fx{position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:0}
+#bar{position:fixed;top:0;left:0;height:2px;width:0;z-index:30;background:linear-gradient(90deg,var(--accent-2),var(--accent),#9ad59d)}
 .hero .wrap{position:relative;text-align:center}
 .hero .chips{animation:in .8s .3s ease both}
 .hero h1{font-size:clamp(2.4rem,7vw,4.6rem);max-width:14ch;letter-spacing:-.02em;margin:0 auto 18px;animation:in .8s ease both}
@@ -81,8 +85,9 @@ figure.shot::before{content:attr(data-name);position:absolute;inset:0;display:gr
 .feature li{margin-bottom:4px}
 
 /* Lista corta de extras */
-.extras{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0;border:1px solid var(--line);border-radius:14px;overflow:hidden}
-.extras div{padding:22px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);margin:-1px -1px 0 0}
+.extras{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:56px}
+.extras div{padding:24px;background:var(--panel);border:1px solid var(--line);border-radius:16px}
+.extras div::before{content:"";display:block;width:36px;height:36px;border-radius:10px;margin-bottom:16px;border:1px solid rgba(76,175,80,.35);background:radial-gradient(circle,var(--accent) 0 4px,transparent 5px),rgba(76,175,80,.12)}
 .extras h3{font-size:1.05rem;margin-bottom:6px}
 .extras p{color:var(--muted);font-size:.95rem}
 
@@ -97,13 +102,38 @@ ol.steps p{color:var(--muted);font-size:.95rem}
 .gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
 
 /* Descarga */
-.dl{background:linear-gradient(180deg,#1e1e1e,var(--panel));border:1px solid var(--line);border-radius:20px;padding:56px 28px;text-align:center;display:flex;flex-direction:column;align-items:center}
+.dl{background:linear-gradient(180deg,#1e1e1e,var(--panel));border:1px solid rgba(76,175,80,.4);box-shadow:0 40px 90px rgba(0,0,0,.5);border-radius:20px;padding:56px 28px;text-align:center;display:flex;flex-direction:column;align-items:center}
 .dl-logo{height:76px;width:auto;margin-bottom:18px}
 .dl .lead{margin:0 auto 28px}
 .btn.big{font-size:1.15rem;padding:16px 38px;border-radius:12px}
 .ver{color:var(--muted);font-size:.9rem;margin-top:14px}
 .chips{list-style:none;padding:0;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:24px}
 .chips li{border:1px solid var(--line);border-radius:999px;padding:6px 14px;color:var(--muted);font-size:.9rem}
+.marq{overflow:hidden;border-block:1px solid var(--line);background:rgba(18,18,18,.78);padding:14px 0;position:relative}
+.track{display:flex;gap:44px;width:max-content;animation:mq 45s linear infinite}
+.track span{color:var(--muted);white-space:nowrap;font-size:.95rem}
+@keyframes mq{to{transform:translateX(-50%)}}
+.tour{display:grid;grid-template-columns:280px 1fr;gap:32px;align-items:start}
+.tabs{display:flex;flex-direction:column;gap:6px}
+.tab{position:relative;overflow:hidden;text-align:left;width:100%;background:none;border:1px solid transparent;color:var(--muted);padding:14px 16px;border-radius:12px;font:inherit;cursor:pointer;transition:background .2s,border-color .2s}
+.tab b{display:block;color:var(--text);font-family:Sora,system-ui,sans-serif;font-weight:500}
+.tab span{font-size:.85rem}
+.tab:hover{background:rgba(255,255,255,.03)}
+.tab.on{background:var(--panel);border-color:var(--line)}
+.tab.on::after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:var(--accent);transform-origin:left;animation:prog 7s linear both}
+.tour:hover .tab.on::after{animation-play-state:paused}
+.tour.manual .tab.on::after{animation:none}
+@keyframes prog{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.slide{display:none}
+.slide.on{display:block;animation:in .35s ease both}
+.slide h3{font-size:1.5rem;margin:22px 0 8px}
+.slide p{color:var(--muted);max-width:62ch}
+.slide ul{margin:12px 0 0;padding-left:20px;color:var(--muted)}
+.slide li{margin-bottom:4px}
+.faq{display:grid;grid-template-columns:1fr 1.7fr;gap:56px;align-items:start}
+.faq .lead{margin-bottom:0}
+.cta-end{text-align:center;padding:110px 0}
+.cta-end .lead{margin:0 auto 28px}
 #lb{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.9);display:none;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
 #lb.on{display:flex;animation:in .2s ease both}
 #lb img{max-width:100%;max-height:100%;border-radius:10px}
@@ -118,7 +148,7 @@ summary::after{content:"+";color:var(--accent);font-size:1.3rem;line-height:1}
 details[open] summary::after{content:"–"}
 details p{color:var(--muted);margin-top:10px;max-width:70ch}
 
-#como-empezar,#faq{background:#121212;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+#como-empezar,#faq{background:rgba(18,18,18,.78);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted);font-size:.9rem}
 footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 footer a{text-decoration:none}
@@ -133,17 +163,22 @@ footer a:hover{color:var(--text)}
   .dl{padding:28px}
   .feature{padding:22px;gap:24px}
   .stack .side{display:none}
+  .tour,.faq{grid-template-columns:1fr;gap:24px}
+  .tabs{flex-direction:row;overflow-x:auto}
+  .tab{min-width:170px}
   section{padding:64px 0}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
-  .hero h1,.hero p.sub,.cta,.hero .chips,.stack{animation:none}
+  .hero h1,.hero p.sub,.cta,.hero .chips,.stack,.slide.on,.track{animation:none}
+  .tab.on::after{animation:none}
   #fx{display:none}
 }
 </style>
 </head>
 <body>
 
+<div id="bar"></div>
 <header>
   <div class="wrap">
     <a class="logo" href="#top"><img src="assets/logo.png" alt="" onerror="this.remove()">GRAVITY</a>
@@ -162,7 +197,7 @@ footer a:hover{color:var(--text)}
 <section class="hero">
   <canvas id="fx" aria-hidden="true"></canvas>
   <div class="wrap">
-    <h1>Todo tu Minecraft en un solo launcher</h1>
+    <h1>Todo tu Minecraft en <em>un solo launcher</em></h1>
     <p class="sub">Perfiles, mods, texturas, skins y capturas en un mismo lugar. Eliges tu perfil, pulsas Jugar y Gravity se encarga del resto.</p>
     <div class="cta">
       <a class="btn" href="#descargar">Descargar para Windows</a>
@@ -179,90 +214,16 @@ footer a:hover{color:var(--text)}
   </div>
 </section>
 
+<div class="marq" aria-hidden="true"><div class="track"><span>Perfiles listos para jugar</span><span>Mods opcionales con iconos</span><span>Galería de capturas</span><span>Skins en 3D</span><span>Gravity Editor</span><span>Texturas y shaders</span><span>Migrar entre perfiles</span><span>Java incluido</span><span>Modo offline y premium</span><span>Se actualiza solo</span><span>Perfiles listos para jugar</span><span>Mods opcionales con iconos</span><span>Galería de capturas</span><span>Skins en 3D</span><span>Gravity Editor</span><span>Texturas y shaders</span><span>Migrar entre perfiles</span><span>Java incluido</span><span>Modo offline y premium</span><span>Se actualiza solo</span></div></div>
+
 <!-- ===== Funciones ===== -->
 <section id="funciones">
   <div class="wrap">
-    <h2>Lo que hace Gravity</h2>
+    <p class="eyebrow">Funciones</p>
+    <h2>Lo que hace <em>Gravity</em></h2>
     <p class="lead">Un launcher pensado para que no te pierdas entre versiones, mods y carpetas.</p>
 
-    <div class="feature">
-      <div>
-        <h3>Perfiles listos para jugar</h3>
-        <p>Cada perfil trae su versión de Minecraft, su cargador y sus mods. Los perfiles se ordenan en la barra lateral, los que comparten grupo se juntan en uno solo con varios modos, y siempre ves cuáles estás jugando en este momento. Los perfiles los prepara y mantiene el creador de Gravity, y se actualizan solos cuando hay cambios.</p>
-      </div>
-      <figure class="shot" data-name="Captura: perfiles">
-        <img src="assets/captura-perfiles.webp" alt="Lista de perfiles organizada por grupos" onerror="this.remove()">
-      </figure>
-    </div>
-
-    <div class="feature">
-      <div>
-        <h3>Mods obligatorios y opcionales</h3>
-        <p>Los mods que cada perfil necesita ya vienen activados. Los opcionales los elige y mantiene el creador de Gravity, y tú enciendes o apagas los que quieras:</p>
-        <ul>
-          <li>Icono de cada mod, tomado de Modrinth</li>
-          <li>Categorías para distinguirlos (efectos, interfaz y más)</li>
-          <li>Buscador y filtros de mods, shaders y texturas</li>
-          <li>Opción para dejar los activados al final de la lista</li>
-          <li>Aviso cuando un mod es incompatible con otro</li>
-        </ul>
-      </div>
-      <figure class="shot" data-name="Captura: mods opcionales">
-        <img src="assets/captura-mods.webp" alt="Mods opcionales con icono, categorías, buscador y filtros de mods, shaders y texturas" onerror="this.remove()">
-      </figure>
-    </div>
-
-    <div class="feature">
-      <div>
-        <h3>Galería de capturas</h3>
-        <p>Todas tus screenshots en un solo lugar, de la más reciente a la más antigua y separadas por perfil. Abre una en grande y pasa a la siguiente sin salir de la vista ampliada.</p>
-      </div>
-      <figure class="shot" data-name="Captura: galería">
-        <img src="assets/captura-galeria.webp" alt="Galería de capturas de pantalla de Minecraft" onerror="this.remove()">
-      </figure>
-    </div>
-
-    <div class="feature">
-      <div>
-        <h3>Skins con vestidor y editor</h3>
-        <p>Guarda tu biblioteca de skins, mira cada una en un modelo 3D que giras con el ratón y elige entre brazos anchos o delgados. Puedes importar y exportar toda tu biblioteca, y abrir el Gravity Editor con un clic.</p>
-      </div>
-      <figure class="shot" data-name="Captura: skins y editor">
-        <img src="assets/captura-skins.webp" alt="Vestidor con la biblioteca de skins y el botón para abrir Gravity Editor" onerror="this.remove()">
-      </figure>
-    </div>
-
-    <div class="feature">
-      <div>
-        <h3>Gravity Editor, tu editor de skins</h3>
-        <p>Crea o retoca skins sobre un modelo 3D, con guardado automático. Se abre en su propia ventana y funciona a la par del launcher.</p>
-        <ul>
-          <li>Lápiz, borrador, bote, cuentagotas, sombra y textura</li>
-          <li>Simetría, cuadrícula y brazos delgados</li>
-          <li>Capas con opacidad y rueda de color o paleta clásica</li>
-          <li>Guarda en tu biblioteca, exporta en .png o aplica la skin</li>
-        </ul>
-      </div>
-      <figure class="shot" data-name="Gravity Editor">
-        <img src="assets/galeria-1.webp" alt="Gravity Editor: editor de skins con vista 3D, capas y rueda de color" loading="lazy" onerror="this.remove()">
-      </figure>
-    </div>
-
-    <div class="feature">
-      <div>
-        <h3>Ajustes a tu medida</h3>
-        <p>Lo importante, a un clic y sin menús escondidos.</p>
-        <ul>
-          <li>Memoria RAM de Java con un deslizador, hasta lo que permita tu PC</li>
-          <li>Elige si Gravity se oculta al jugar o se cierra por completo</li>
-          <li>Estado del servidor en el perfil (no todas las IPs son compatibles)</li>
-          <li>Abrir carpeta, limpiar caché o restablecer todo si algo sale mal</li>
-        </ul>
-      </div>
-      <figure class="shot" data-name="Ajustes">
-        <img src="assets/galeria-2.webp" alt="Ajustes de Gravity: memoria RAM, ocultar el launcher al jugar y mantenimiento" loading="lazy" onerror="this.remove()">
-      </figure>
-    </div>
+    <div class="tour"><div class="tabs" role="tablist"><button class="tab on" role="tab" aria-selected="true"><b>Perfiles</b><span>Elige y juega</span></button><button class="tab" role="tab" aria-selected="false"><b>Mods opcionales</b><span>Iconos y categorías</span></button><button class="tab" role="tab" aria-selected="false"><b>Capturas</b><span>Tu galería ordenada</span></button><button class="tab" role="tab" aria-selected="false"><b>Skins</b><span>Vestidor y biblioteca</span></button><button class="tab" role="tab" aria-selected="false"><b>Gravity Editor</b><span>Edita skins en 3D</span></button><button class="tab" role="tab" aria-selected="false"><b>Ajustes</b><span>RAM, caché y más</span></button></div><div class="stage"><div class="slide on"><figure class="shot" data-name="Perfiles"><img src="assets/captura-perfiles.webp" alt="Perfiles listos para jugar" onerror="this.remove()"></figure><h3>Perfiles listos para jugar</h3><p>Cada perfil trae su versión de Minecraft, su cargador y sus mods. En la barra lateral los perfiles se ordenan, los que comparten grupo se juntan con varios modos y ves cuáles estás jugando en este momento. Los prepara y mantiene el creador de Gravity, y se actualizan solos cuando hay cambios.</p></div><div class="slide"><figure class="shot" data-name="Mods opcionales"><img src="assets/captura-mods.webp" alt="Mods obligatorios y opcionales" onerror="this.remove()"></figure><h3>Mods obligatorios y opcionales</h3><p>Los mods que cada perfil necesita ya vienen activados. Los opcionales los elige y mantiene el creador de Gravity, y tú enciendes o apagas los que quieras:</p><ul><li>Icono de cada mod, tomado de Modrinth</li><li>Categorías para distinguirlos (efectos, interfaz y más)</li><li>Buscador y filtros de mods, shaders y texturas</li><li>Opción para dejar los activados al final de la lista</li><li>Aviso cuando un mod es incompatible con otro</li></ul></div><div class="slide"><figure class="shot" data-name="Capturas"><img src="assets/captura-galeria.webp" alt="Galería de capturas" onerror="this.remove()"></figure><h3>Galería de capturas</h3><p>Todas tus screenshots en un solo lugar, de la más reciente a la más antigua y separadas por perfil. Abre una en grande y pasa a la siguiente sin salir de la vista ampliada.</p></div><div class="slide"><figure class="shot" data-name="Skins"><img src="assets/captura-skins.webp" alt="Skins con vestidor" onerror="this.remove()"></figure><h3>Skins con vestidor</h3><p>Guarda tu biblioteca de skins, mira cada una en un modelo 3D que giras con el ratón y elige entre brazos anchos o delgados. Puedes importar y exportar toda tu biblioteca, y abrir el Gravity Editor con un clic.</p></div><div class="slide"><figure class="shot" data-name="Gravity Editor"><img src="assets/galeria-1.webp" alt="Gravity Editor, tu editor de skins" onerror="this.remove()"></figure><h3>Gravity Editor, tu editor de skins</h3><p>Crea o retoca skins sobre un modelo 3D, con guardado automático. Se abre en su propia ventana y funciona a la par del launcher.</p><ul><li>Lápiz, borrador, bote, cuentagotas, sombra y textura</li><li>Simetría, cuadrícula y brazos delgados</li><li>Capas con opacidad y rueda de color o paleta clásica</li><li>Guarda en tu biblioteca, exporta en .png o aplica la skin</li></ul></div><div class="slide"><figure class="shot" data-name="Ajustes"><img src="assets/galeria-2.webp" alt="Ajustes a tu medida" onerror="this.remove()"></figure><h3>Ajustes a tu medida</h3><p>Lo importante, a un clic y sin menús escondidos.</p><ul><li>Memoria RAM de Java con un deslizador, hasta lo que permita tu PC</li><li>Elige si Gravity se oculta al jugar o se cierra por completo</li><li>Estado del servidor en el perfil (no todas las IPs son compatibles)</li><li>Abrir carpeta, limpiar caché o restablecer todo si algo sale mal</li></ul></div></div></div>
 
     <div class="extras">
       <div><h3>Texturas y shaders</h3><p>Se gestionan junto a los mods, con su propio filtro y sus interruptores.</p></div>
@@ -278,7 +239,8 @@ footer a:hover{color:var(--text)}
 <!-- ===== Cómo empezar ===== -->
 <section id="como-empezar">
   <div class="wrap">
-    <h2>De la descarga al juego</h2>
+    <p class="eyebrow">Cómo empezar</p>
+    <h2>De la descarga <em>al juego</em></h2>
     <p class="lead">Cuatro pasos y estás dentro.</p>
     <ol class="steps">
       <li><h3>Descarga</h3><p>Baja el instalador desde esta página.</p></li>
@@ -294,7 +256,7 @@ footer a:hover{color:var(--text)}
   <div class="wrap">
     <div class="dl">
       <img class="dl-logo" src="assets/logo.png" alt="" onerror="this.remove()">
-      <h2>Descarga Gravity</h2>
+      <h2>Descarga <em>Gravity</em></h2>
       <p class="lead">Un solo instalador para Windows. Gratis y siempre en su última versión.</p>
       <a class="btn big" id="dl-btn" href="https://github.com/6ViPh5/Gravity/releases/latest">Descargar para Windows</a>
       <p class="ver" id="ver">Instalación solo para tu usuario</p>
@@ -307,9 +269,9 @@ footer a:hover{color:var(--text)}
 
 <!-- ===== Preguntas ===== -->
 <section id="faq">
-  <div class="wrap">
-    <h2>Preguntas frecuentes</h2>
-    <p class="lead">Respuestas cortas a lo más común.</p>
+  <div class="wrap"><div class="faq"><div><p class="eyebrow">Preguntas</p><h2>Preguntas <em>frecuentes</em></h2>
+    <p class="lead">Respuestas cortas a lo más común.</p></div><div>
+    
     <details><summary>¿Es gratis?</summary><p>Sí. Descargarlo y usarlo no cuesta nada.</p></details>
     <details><summary>¿Necesito una cuenta de Minecraft?</summary><p>No. Puedes entrar en modo offline (no premium) con el nombre que quieras. Si tienes cuenta premium, también puedes iniciar sesión con Microsoft.</p></details>
     <details><summary>¿Puedo agregar mis propios perfiles o mods?</summary><p>Por ahora no. Los perfiles y los mods opcionales los prepara y mantiene el creador de Gravity. Tú eliges el perfil y enciendes o apagas los opcionales que quieras.</p></details>
@@ -317,8 +279,10 @@ footer a:hover{color:var(--text)}
     <details><summary>¿Se actualiza solo?</summary><p>Sí. Gravity busca versiones nuevas y te avisa para actualizarse. Los perfiles y sus mods también se actualizan solos.</p></details>
     <details><summary>¿Qué es el Gravity Editor?</summary><p>Es el editor de skins de Gravity, con vista 3D. Se abre en su propia ventana y puedes usarlo mientras el launcher sigue abierto.</p></details>
     <details><summary>Encontré un error, ¿dónde lo cuento?</summary><p>Abre una incidencia en la <a href="https://github.com/6ViPh5/Gravity/issues" style="color:var(--accent)">página del proyecto en GitHub</a>.</p></details>
-  </div>
+  </div></div></div>
 </section>
+
+<section class="cta-end"><div class="wrap"><h2>Listo para <em>jugar</em>.</h2><p class="lead">Descarga Gravity, elige un perfil y entra.</p><a class="btn big" href="#descargar">Descargar Gravity</a></div></section>
 
 </main>
 
@@ -343,6 +307,24 @@ footer a:hover{color:var(--text)}
       var v=document.getElementById('ver');
       if(v&&rel.tag_name)v.textContent='Última versión: '+rel.tag_name;
     }).catch(function(){});
+})();
+
+// Barra de progreso del scroll
+(function(){var b=document.getElementById('bar');function u(){var h=document.documentElement;var m=h.scrollHeight-h.clientHeight;b.style.width=(m>0?h.scrollTop/m*100:0)+'%'}addEventListener('scroll',u,{passive:true});u()})();
+
+// Recorrido de la app: avanza solo y se detiene si haces clic
+(function(){
+  var t=document.querySelector('.tour');if(!t)return;
+  var tabs=[].slice.call(t.querySelectorAll('.tab')),sl=[].slice.call(t.querySelectorAll('.slide'));
+  function go(i,manual){
+    tabs.forEach(function(b,k){b.classList.toggle('on',k===i);b.setAttribute('aria-selected',k===i?'true':'false')});
+    sl.forEach(function(x,k){x.classList.toggle('on',k===i)});
+    if(manual)t.classList.add('manual');
+  }
+  tabs.forEach(function(b,i){
+    b.addEventListener('click',function(){go(i,true)});
+    b.addEventListener('animationend',function(e){if(e.animationName==='prog')go((i+1)%tabs.length,false)});
+  });
 })();
 
 // Ampliar capturas al hacer clic
