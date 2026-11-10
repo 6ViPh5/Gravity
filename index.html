@@ -47,10 +47,11 @@ nav .btn{padding:8px 16px;color:#0f0f0f}
 nav .btn:hover{color:#0f0f0f}
 
 /* Hero */
-.hero{padding:96px 0 72px;overflow:hidden}
+.hero{padding:104px 0 80px;overflow:hidden;background:radial-gradient(60% 55% at 50% 0%,rgba(76,175,80,.10),transparent 72%)}
 #fx{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
 .hero .wrap{position:relative;text-align:center}
-.hero h1{font-size:clamp(2.2rem,6vw,4rem);max-width:16ch;margin:0 auto 18px;animation:in .8s ease both}
+.hero .chips{animation:in .8s .3s ease both}
+.hero h1{font-size:clamp(2.4rem,7vw,4.6rem);max-width:14ch;letter-spacing:-.02em;margin:0 auto 18px;animation:in .8s ease both}
 .hero p.sub{color:var(--muted);max-width:56ch;margin:0 auto 30px;font-size:1.1rem;animation:in .8s .1s ease both}
 .cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;animation:in .8s .2s ease both}
 .meta{color:var(--muted);font-size:.9rem;margin-top:16px;animation:in .8s .3s ease both}
@@ -58,14 +59,14 @@ nav .btn:hover{color:#0f0f0f}
 @keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
 
 /* Capturas (con respaldo si la imagen aún no existe) */
-figure.shot{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:linear-gradient(135deg,var(--panel),#222);aspect-ratio:16/10;position:relative}
-figure.shot img{width:100%;height:100%;object-fit:cover;display:block;position:relative}
+figure.shot{border:1px solid var(--line);border-radius:12px;box-shadow:0 24px 60px rgba(0,0,0,.55);overflow:hidden;background:linear-gradient(135deg,var(--panel),#222);aspect-ratio:16/10;position:relative}
+figure.shot img{cursor:zoom-in;width:100%;height:100%;object-fit:cover;display:block;position:relative}
 figure.shot::before{content:attr(data-name);position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);font-size:.9rem}
 
 /* Funciones: filas alternas */
 .feature{display:grid;grid-template-columns:1fr 1.1fr;gap:48px;align-items:center;margin-bottom:72px}
 .feature:nth-child(even) figure{order:-1}
-.feature h3{font-size:1.4rem;margin-bottom:10px}
+.feature h3{font-size:1.65rem;margin-bottom:12px}
 .feature p{color:var(--muted)}
 .feature ul{margin:14px 0 0;padding-left:20px;color:var(--muted)}
 .feature li{margin-bottom:4px}
@@ -87,11 +88,16 @@ ol.steps p{color:var(--muted);font-size:.95rem}
 .gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}
 
 /* Descarga */
-.dl{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:40px;display:grid;grid-template-columns:1.2fr 1fr;gap:36px;align-items:center}
-.dl h2{margin-bottom:8px}
-.dl ul{list-style:none;padding:0;color:var(--muted)}
-.dl li{padding:6px 0;border-bottom:1px solid var(--line)}
-.dl li:last-child{border:0}
+.dl{background:linear-gradient(180deg,#1e1e1e,var(--panel));border:1px solid var(--line);border-radius:20px;padding:56px 28px;text-align:center;display:flex;flex-direction:column;align-items:center}
+.dl-logo{height:76px;width:auto;margin-bottom:18px}
+.dl .lead{margin:0 auto 28px}
+.btn.big{font-size:1.15rem;padding:16px 38px;border-radius:12px}
+.ver{color:var(--muted);font-size:.9rem;margin-top:14px}
+.chips{list-style:none;padding:0;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-top:24px}
+.chips li{border:1px solid var(--line);border-radius:999px;padding:6px 14px;color:var(--muted);font-size:.9rem}
+#lb{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.9);display:none;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
+#lb.on{display:flex;animation:in .2s ease both}
+#lb img{max-width:100%;max-height:100%;border-radius:10px}
 .note{margin-top:22px;padding:16px 18px;border-left:3px solid var(--accent);background:rgba(76,175,80,.08);color:var(--muted);font-size:.95rem;border-radius:0 10px 10px 0}
 .note strong{color:var(--text)}
 #ok{display:none;margin-top:12px;color:var(--accent)}
@@ -103,6 +109,7 @@ summary::after{content:"+";color:var(--accent);font-size:1.3rem;line-height:1}
 details[open] summary::after{content:"–"}
 details p{color:var(--muted);margin-top:10px;max-width:70ch}
 
+#capturas,#faq{background:#121212;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted);font-size:.9rem}
 footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 footer a{text-decoration:none}
@@ -119,7 +126,7 @@ footer a:hover{color:var(--text)}
 }
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
-  .hero h1,.hero p.sub,.cta,.meta,.hero figure{animation:none}
+  .hero h1,.hero p.sub,.cta,.hero .chips,.hero figure{animation:none}
   #fx{display:none}
 }
 </style>
@@ -151,7 +158,7 @@ footer a:hover{color:var(--text)}
       <a class="btn" href="#descargar">Descargar para Windows</a>
       <a class="btn ghost" href="#funciones">Ver qué hace</a>
     </div>
-    <p class="meta">Gratis · Para Windows · Se actualiza solo · Con o sin cuenta premium</p>
+    <ul class="chips"><li>Gratis</li><li>Para Windows</li><li>Se actualiza solo</li><li>Con o sin cuenta premium</li></ul>
     <figure class="shot" data-name="Captura: pantalla principal">
       <img src="assets/captura-inicio.webp" alt="Pantalla principal de Gravity con la lista de perfiles y el botón Jugar" onerror="this.remove()">
     </figure>
@@ -251,19 +258,13 @@ footer a:hover{color:var(--text)}
 <section id="descargar">
   <div class="wrap">
     <div class="dl">
-      <div>
-        <h2>Descarga Gravity</h2>
-        <p class="lead" style="margin-bottom:22px">Instalador para Windows. Gratis.</p>
-        <a class="btn" id="dl-btn" href="https://github.com/6ViPh5/Gravity/releases/latest">Descargar para Windows</a>
-        <p id="ok">¡Gracias por descargar! Abre el archivo para instalar Gravity.</p>
-        <p class="meta" style="text-align:left"><a href="https://github.com/6ViPh5/Gravity/releases">Ver todas las versiones</a></p>
-      </div>
-      <ul>
-        <li>Windows 10 u 11, 64 bits</li>
-        <li>No necesitas cuenta: hay modo offline (no premium)</li>
-        <li>Conexión a internet para la primera descarga</li>
-        <li id="ver">Instalación solo para tu usuario</li>
-      </ul>
+      <img class="dl-logo" src="assets/logo.png" alt="" onerror="this.remove()">
+      <h2>Descarga Gravity</h2>
+      <p class="lead">Un solo instalador para Windows. Gratis y siempre en su última versión.</p>
+      <a class="btn big" id="dl-btn" href="https://github.com/6ViPh5/Gravity/releases/latest">Descargar para Windows</a>
+      <p class="ver" id="ver">Instalación solo para tu usuario</p>
+      <p id="ok">¡Gracias por descargar! Abre el archivo para instalar Gravity.</p>
+      <ul class="chips"><li>Windows 10 u 11, 64 bits</li><li>No necesitas cuenta: hay modo offline</li><li>Internet en la primera descarga</li></ul>
     </div>
     <p class="note"><strong>Si Windows muestra «Windows protegió su PC».</strong> Es normal con programas nuevos que no tienen firma de pago. Pulsa «Más información» y luego «Ejecutar de todas formas».</p>
   </div>
@@ -289,11 +290,11 @@ footer a:hover{color:var(--text)}
 <footer>
   <div class="wrap">
     <span class="by"><img src="assets/vp65.png" alt="VP65">Hecho por 6ViPh5</span>
-    <span><a href="https://github.com/6ViPh5/Gravity/releases">Versiones</a></span>
-    <span>No está afiliado, autorizado ni respaldado por Mojang Studios o Microsoft. Minecraft es una marca de Mojang Studios.</span>
+        <span>No está afiliado, autorizado ni respaldado por Mojang Studios o Microsoft. Minecraft es una marca de Mojang Studios.</span>
   </div>
 </footer>
 
+<div id="lb" aria-hidden="true"><img alt=""></div>
 <script>
 
 // Busca el instalador (.exe) del último release y lo enlaza directo
@@ -309,12 +310,22 @@ footer a:hover{color:var(--text)}
     }).catch(function(){});
 })();
 
+// Ampliar capturas al hacer clic
+(function(){
+  var lb=document.getElementById('lb'),im=lb.querySelector('img');
+  document.querySelectorAll('figure.shot img').forEach(function(i){
+    i.addEventListener('click',function(){im.src=i.src;im.alt=i.alt;lb.classList.add('on')});
+  });
+  lb.addEventListener('click',function(){lb.classList.remove('on')});
+  addEventListener('keydown',function(e){if(e.key==='Escape')lb.classList.remove('on')});
+})();
+
 // Mensaje de agradecimiento al pulsar descargar
 document.getElementById('dl-btn').addEventListener('click',function(){
   document.getElementById('ok').style.display='block';
 });
 
-//Partículas suaves que caen hacia el centro-abajo (gravedad), sin brillos
+// Partículas suaves que caen hacia el centro-abajo (gravedad), sin brillos
 (function(){
   var c=document.getElementById('fx');
   if(!c||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
