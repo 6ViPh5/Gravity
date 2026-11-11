@@ -2652,15 +2652,11 @@
                     "locked": true
                 },
                 {
-                    "name": "viph-ideas-6.0+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.0+26.3.jar",
-                    "sha1": "7314a7ffd6b94a25ff027c129fe0ca308f5dba36",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-6.0+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
+                    "name": "viph-ideas-6.2+26.3.jar",
+                    "display_name": "viph-ideas-6.2+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.2+26.3.jar",
+                    "sha1": "3000768b86c5447bf1eb2b7c5e36755ac20f26fb",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -2671,7 +2667,8 @@
                 "flx",
                 "_Ivana0711L",
                 "AdriFlow"
-            ]
+            ],
+            "is_upcoming": null
         }
     ],
     "optional_mods": [
