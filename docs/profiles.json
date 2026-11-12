@@ -310,15 +310,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "modmenu-21.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
-                    "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+                    "name": "modmenu-21.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/xckkBHD5/modmenu-21.0.1.jar",
+                    "sha1": "884ab621735264187ccbfc87017cf55bb54d47ee",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Mod Menu",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "modmenu-21.0.0.jar"
+                    ]
                 },
                 {
                     "name": "moreculling-fabric-26.3-1.9.2.jar",
@@ -1830,15 +1833,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "modmenu-21.0.0.jar",
-                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
-                    "sha1": "66ec40f1cd0c037ddca2b5fc6b4b976d479c18e8",
+                    "name": "modmenu-21.0.1.jar",
+                    "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/xckkBHD5/modmenu-21.0.1.jar",
+                    "sha1": "884ab621735264187ccbfc87017cf55bb54d47ee",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Mod Menu",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "modmenu-21.0.0.jar"
+                    ]
                 },
                 {
                     "name": "moreculling-fabric-26.3-1.9.2.jar",
@@ -2656,9 +2662,20 @@
                 },
                 {
                     "name": "viph-ideas-6.4+26.3.jar",
-                    "display_name": "viph-ideas-6.4+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.4+26.3.jar",
                     "sha1": "73c12b1b90f59e74c77ec397f99a9211b2a91a0d",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-6.4+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "vanilla_timber-2.0.0-26.3-fabric.jar",
+                    "display_name": "vanilla_timber-2.0.0-26.3-fabric.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/vanilla_timber-2.0.0-26.3-fabric.jar",
+                    "sha1": "b94a139a8f5241ad90d4df625a80fd086d4bce7b",
                     "file_type": "mod"
                 }
             ],
@@ -5338,9 +5355,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "shatterlib-fabric-0.7.0-beta.4+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar",
-                    "sha1": "0ae1e0a0b293e53413068bf6581fa3d9dfd5463e",
+                    "name": "shatterlib-fabric-0.7.0-beta.5+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yGChlg17/shatterlib-fabric-0.7.0-beta.5%2B26.3.jar",
+                    "sha1": "aa8f665090411c55be93d86af5ed87eba78d9771",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5350,7 +5367,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "shatterlib-fabric-0.7.0-beta.4+26.3.jar"
+                    ]
                 }
             ],
             "allowed_users": null
@@ -5497,9 +5516,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "shatterlib-fabric-0.7.0-beta.4+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/zujVCEvc/shatterlib-fabric-0.7.0-beta.4%2B26.3.jar",
-                    "sha1": "0ae1e0a0b293e53413068bf6581fa3d9dfd5463e",
+                    "name": "shatterlib-fabric-0.7.0-beta.5+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yGChlg17/shatterlib-fabric-0.7.0-beta.5%2B26.3.jar",
+                    "sha1": "aa8f665090411c55be93d86af5ed87eba78d9771",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5509,7 +5528,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "shatterlib-fabric-0.7.0-beta.4+26.3.jar"
+                    ]
                 }
             ],
             "allowed_users": null
