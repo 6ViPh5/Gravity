@@ -2661,21 +2661,21 @@
                     "locked": true
                 },
                 {
-                    "name": "viph-ideas-6.4+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.4+26.3.jar",
-                    "sha1": "73c12b1b90f59e74c77ec397f99a9211b2a91a0d",
+                    "name": "vanilla_timber-2.0.0-26.3-fabric.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/vanilla_timber-2.0.0-26.3-fabric.jar",
+                    "sha1": "b94a139a8f5241ad90d4df625a80fd086d4bce7b",
                     "file_type": "mod",
                     "install_path": null,
-                    "display_name": "viph-ideas-6.4+26.3.jar",
+                    "display_name": "vanilla_timber-2.0.0-26.3-fabric.jar",
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
                 },
                 {
-                    "name": "vanilla_timber-2.0.0-26.3-fabric.jar",
-                    "display_name": "vanilla_timber-2.0.0-26.3-fabric.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/vanilla_timber-2.0.0-26.3-fabric.jar",
-                    "sha1": "b94a139a8f5241ad90d4df625a80fd086d4bce7b",
+                    "name": "viph-ideas-6.4+26.3.jar",
+                    "display_name": "viph-ideas-6.4+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.4+26.3.jar",
+                    "sha1": "f5a563e77b1a3fa72e1a16947086c5b66a03fdb8",
                     "file_type": "mod"
                 }
             ],
@@ -5445,9 +5445,9 @@
             "allowed_users": null
         },
         {
-            "name": "fwa+26.3-1.3.4.jar",
-            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/oFnm3FIX/fwa%2B26.3-1.3.4.jar",
-            "sha1": "7ffbd3b0e9105a777f33127d61107fdb1ed8d514",
+            "name": "fwa+26.3-1.3.6.jar",
+            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/fDAYiNfL/fwa%2B26.3-1.3.6.jar",
+            "sha1": "5eccba8000b3af9a7474f0f308b506975b1acbe2",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5458,7 +5458,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "fwa+26.3-1.3.2.jar"
+                "fwa+26.3-1.3.2.jar",
+                "fwa+26.3-1.3.4.jar"
             ]
         },
         {
