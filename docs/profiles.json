@@ -2674,10 +2674,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-6.5+26.3.jar",
-                    "display_name": "viph-ideas-6.5+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.5+26.3.jar",
-                    "sha1": "cf7c0f12cfd312adebb69bceac620023a15a6a7f",
+                    "name": "viph-ideas-6.7+26.3.jar",
+                    "display_name": "viph-ideas-6.7+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.7+26.3.jar",
+                    "sha1": "bd4fcfbf245c8b22e88864bd1978b66b4fd117f9",
                     "file_type": "mod"
                 }
             ],
