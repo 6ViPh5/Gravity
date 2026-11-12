@@ -207,9 +207,9 @@
                     ]
                 },
                 {
-                    "name": "entityculling-fabric-1.11.3-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
-                    "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
+                    "name": "entityculling-fabric-1.12.0-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fD6iRzOi/entityculling-fabric-1.12.0-mc26.3.jar",
+                    "sha1": "316ca21e27d2b0af02ef82fcff3145256c7e284e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Entity Culling",
@@ -217,7 +217,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "entityculling-fabric-1.11.2-mc26.3.jar"
+                        "entityculling-fabric-1.11.2-mc26.3.jar",
+                        "entityculling-fabric-1.11.3-mc26.3.jar"
                     ]
                 },
                 {
@@ -1730,9 +1731,9 @@
                     ]
                 },
                 {
-                    "name": "entityculling-fabric-1.11.3-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
-                    "sha1": "45f47f7a067f5efd733a32767dc3d1d770678b2a",
+                    "name": "entityculling-fabric-1.12.0-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fD6iRzOi/entityculling-fabric-1.12.0-mc26.3.jar",
+                    "sha1": "316ca21e27d2b0af02ef82fcff3145256c7e284e",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Entity Culling",
@@ -1740,7 +1741,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "entityculling-fabric-1.11.2-mc26.3.jar"
+                        "entityculling-fabric-1.11.2-mc26.3.jar",
+                        "entityculling-fabric-1.11.3-mc26.3.jar"
                     ]
                 },
                 {
@@ -2672,10 +2674,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-6.4+26.3.jar",
-                    "display_name": "viph-ideas-6.4+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.4+26.3.jar",
-                    "sha1": "f5a563e77b1a3fa72e1a16947086c5b66a03fdb8",
+                    "name": "viph-ideas-6.5+26.3.jar",
+                    "display_name": "viph-ideas-6.5+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.5+26.3.jar",
+                    "sha1": "cf7c0f12cfd312adebb69bceac620023a15a6a7f",
                     "file_type": "mod"
                 }
             ],
@@ -3252,9 +3254,9 @@
             ]
         },
         {
-            "name": "punchy-3.2a-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/3CzwZob9/punchy-3.2a-fabric-26.3.jar",
-            "sha1": "88b1c00d2bacfbe2dcd0e2badbd1a1785c26ba6d",
+            "name": "punchy-3.2b-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/JRytS9VK/punchy-3.2b-fabric-26.3.jar",
+            "sha1": "0b2856ce0b550391a1ce04186cee4f08a90e32ed",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3337,7 +3339,8 @@
                 "punchy-3.0a-fabric-26.3.jar",
                 "punchy-3.1a-fabric-26.3.jar",
                 "punchy-3.1b-fabric-26.3.jar",
-                "punchy-3.2-fabric-26.3.jar"
+                "punchy-3.2-fabric-26.3.jar",
+                "punchy-3.2a-fabric-26.3.jar"
             ]
         },
         {
