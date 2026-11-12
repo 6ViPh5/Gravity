@@ -2655,10 +2655,10 @@
                     "locked": true
                 },
                 {
-                    "name": "viph-ideas-6.3+26.3.jar",
-                    "display_name": "viph-ideas-6.3+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.3+26.3.jar",
-                    "sha1": "4e009de38517405b520631917024f45575010248",
+                    "name": "viph-ideas-6.4+26.3.jar",
+                    "display_name": "viph-ideas-6.4+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.4+26.3.jar",
+                    "sha1": "73c12b1b90f59e74c77ec397f99a9211b2a91a0d",
                     "file_type": "mod"
                 }
             ],
@@ -2974,9 +2974,9 @@
             "allowed_users": null
         },
         {
-            "name": "elytratrails-1.6.9-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/C4wdFxQq/elytratrails-1.6.9-26.3.jar",
-            "sha1": "2bc8ea6094851951ce0aced326ebcbc43b09405b",
+            "name": "elytratrails-1.6.10-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/8dPqoJzO/elytratrails-1.6.10-26.3.jar",
+            "sha1": "0465210ba2392aec4f8c7697531644aff0aa59cd",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -2990,7 +2990,8 @@
             "replaces": [
                 "elytratrails-1.6.6-26.3.jar",
                 "elytratrails-1.6.7-26.3.jar",
-                "elytratrails-1.6.8-26.3.jar"
+                "elytratrails-1.6.8-26.3.jar",
+                "elytratrails-1.6.9-26.3.jar"
             ]
         },
         {
@@ -4222,7 +4223,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "f2aa583b311abe5779400c1757ca29da6c32c9b3"
+                "f9fedc8ae0da6b00edf011d6b45d7804a53217e0"
             ]
         },
         {
@@ -5066,7 +5067,7 @@
             ],
             "allowed_users": null,
             "incompatible_with": [
-                "f2aa583b311abe5779400c1757ca29da6c32c9b3"
+                "f9fedc8ae0da6b00edf011d6b45d7804a53217e0"
             ],
             "replaces": [
                 "clean-keystrokes-1.1.0+mc1.21.6-11.jar"
@@ -5193,9 +5194,9 @@
             "allowed_users": null
         },
         {
-            "name": "evergreenhud-3.9.17+1.21.11.jar",
-            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/YivqxxGT/evergreenhud-3.9.17%2B1.21.11.jar",
-            "sha1": "f2aa583b311abe5779400c1757ca29da6c32c9b3",
+            "name": "evergreenhud-3.9.18+1.21.11.jar",
+            "url": "https://cdn.modrinth.com/data/1yIQcc2b/versions/7xZd0xq8/evergreenhud-3.9.18%2B1.21.11.jar",
+            "sha1": "f9fedc8ae0da6b00edf011d6b45d7804a53217e0",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5205,9 +5206,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.6.2.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/6AuGXqDS/OneConfig-1.21.11-fabric-1.6.2.jar",
-                    "sha1": "283269d20850f122fcf6d0c796f5238085d85552",
+                    "name": "OneConfig-1.21.11-fabric-1.7.0.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/1xd3HhFf/OneConfig-1.21.11-fabric-1.7.0.jar",
+                    "sha1": "9685f570e03e146c7a2c682fbf1c2195e1cc30fe",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5222,7 +5223,8 @@
                         "OneConfig-1.21.11-fabric-1.5.0.jar",
                         "OneConfig-1.21.11-fabric-1.5.2.jar",
                         "OneConfig-1.21.11-fabric-1.6.0.jar",
-                        "OneConfig-1.21.11-fabric-1.6.1.jar"
+                        "OneConfig-1.21.11-fabric-1.6.1.jar",
+                        "OneConfig-1.21.11-fabric-1.6.2.jar"
                     ]
                 },
                 {
@@ -5254,7 +5256,8 @@
                 "evergreenhud-3.9.12+1.21.11.jar",
                 "evergreenhud-3.9.13+1.21.11.jar",
                 "evergreenhud-3.9.14+1.21.11.jar",
-                "evergreenhud-3.9.16+1.21.11.jar"
+                "evergreenhud-3.9.16+1.21.11.jar",
+                "evergreenhud-3.9.17+1.21.11.jar"
             ]
         },
         {
