@@ -2670,6 +2670,13 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "locked": true
+                },
+                {
+                    "name": "bosslike-ender-dragon-1.5.0-26.3-fabric.jar",
+                    "display_name": "bosslike-ender-dragon-1.5.0-26.3-fabric.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/bosslike-ender-dragon-1.5.0-26.3-fabric.jar",
+                    "sha1": "314de9440af5b8b71e1233c1dac256d886857132",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
@@ -2697,7 +2704,20 @@
             ],
             "display_name": "Iris Shaders (OpenGL)",
             "req_user_type": null,
-            "dependencies": null,
+            "dependencies": [
+                {
+                    "name": "Mellow v3.5.zip",
+                    "url": "https://cdn.modrinth.com/data/BUxf36AP/versions/DmXr7SxM/Mellow%20v3.5.zip",
+                    "sha1": "9c309a5170ae555990cf2adfde71c7ac755f560c",
+                    "file_type": "shader"
+                },
+                {
+                    "name": "miniature-shader-2.19.zip",
+                    "url": "https://cdn.modrinth.com/data/UaS8ROxa/versions/LWmZ94RG/miniature-shader-2.19.zip",
+                    "sha1": "f66501ebcc5197f72ef19065eb0fa851707d7f9f",
+                    "file_type": "shader"
+                }
+            ],
             "allowed_users": null,
             "incompatible_with": [
                 "4535f7b2d81efd1683961468d47236595b066043"
@@ -3427,9 +3447,9 @@
             ]
         },
         {
-            "name": "SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
-            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/kxxX36ei/SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar",
-            "sha1": "ae6b7673be9b98c2c663794386d3fc339da9bd24",
+            "name": "SubtleEffects-fabric-26.3-1.15.2.jar",
+            "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/BMMtEpDv/SubtleEffects-fabric-26.3-1.15.2.jar",
+            "sha1": "df154aeac7a39c70fea21ccbc1b2fe091cb4a2b9",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3458,7 +3478,8 @@
             "allowed_users": null,
             "replaces": [
                 "SubtleEffects-fabric-26.3-1.14.3.jar",
-                "SubtleEffects-fabric-26.3-1.15.0-hotfix.1.jar"
+                "SubtleEffects-fabric-26.3-1.15.0-hotfix.1.jar",
+                "SubtleEffects-fabric-26.3-1.15.1-hotfix.1.jar"
             ]
         },
         {
@@ -5540,10 +5561,14 @@
             "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
             "sha1": "96932a034fff4cd0cad08ba12db730450c4772da",
             "file_type": "resourcepack",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
             "display_name": "Low On Fire",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null,
             "pack_mode": "install",
             "pack_order": 4
         }
