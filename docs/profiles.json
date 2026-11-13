@@ -2650,8 +2650,7 @@
                     "display_name": "Sodium",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "locked": true
+                    "allowed_users": null
                 },
                 {
                     "name": "sodium-extra-fabric-0.9.6-beta.2+mc26.3.jar",
@@ -2662,8 +2661,7 @@
                     "display_name": "Sodium Extra",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null,
-                    "locked": true
+                    "allowed_users": null
                 },
                 {
                     "name": "vanilla_timber-2.0.0-26.3-fabric.jar",
