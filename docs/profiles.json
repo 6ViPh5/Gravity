@@ -2311,9 +2311,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "diorama-0.9.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/uFc7jXls/diorama-0.9.0%2B26.3.jar",
-                    "sha1": "f908729d09364d375ea63307ce8d2255ba364fd9",
+                    "name": "diorama-0.10.0+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/2lnsoih5/diorama-0.10.0%2B26.3.jar",
+                    "sha1": "aad9384f9de663962a5433eaaa0ab9d7595c23c3",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Diorama",
@@ -2327,7 +2327,8 @@
                         "diorama-0.5.0+26.3.jar",
                         "diorama-0.6.0+26.3.jar",
                         "diorama-0.7.0+26.3.jar",
-                        "diorama-0.8.1+26.3.jar"
+                        "diorama-0.8.1+26.3.jar",
+                        "diorama-0.9.0+26.3.jar"
                     ]
                 },
                 {
@@ -2674,10 +2675,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-6.7+26.3.jar",
-                    "display_name": "viph-ideas-6.7+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.7+26.3.jar",
-                    "sha1": "bd4fcfbf245c8b22e88864bd1978b66b4fd117f9",
+                    "name": "viph-ideas-6.8+26.3.jar",
+                    "display_name": "viph-ideas-6.8+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.8+26.3.jar",
+                    "sha1": "858a1cc77b32d99ec4a09d5d4e77135fd938a9ae",
                     "file_type": "mod"
                 }
             ],
@@ -3528,9 +3529,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "voicemessages-fabric-1.0.13-26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/ZYDCOCas/voicemessages-fabric-1.0.13-26.3.jar",
-                    "sha1": "8b29732ceccf6f565cc995c3408b4c21891b4fdf",
+                    "name": "voicemessages-fabric-1.0.14-26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/WWLeFuHa/versions/rmIJamSQ/voicemessages-fabric-1.0.14-26.3.jar",
+                    "sha1": "6c6754195a9df0a17beb5a7236834d01ba81519d",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3540,7 +3541,9 @@
                     "allowed_users": null,
                     "exclusive_group": null,
                     "incompatible_with": null,
-                    "replaces": null
+                    "replaces": [
+                        "voicemessages-fabric-1.0.13-26.3.jar"
+                    ]
                 }
             ],
             "allowed_users": null,
@@ -4100,9 +4103,9 @@
             ]
         },
         {
-            "name": "diorama-0.9.0+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/uFc7jXls/diorama-0.9.0%2B26.3.jar",
-            "sha1": "f908729d09364d375ea63307ce8d2255ba364fd9",
+            "name": "diorama-0.10.0+26.3.jar",
+            "url": "https://cdn.modrinth.com/data/kwpTgbCk/versions/2lnsoih5/diorama-0.10.0%2B26.3.jar",
+            "sha1": "aad9384f9de663962a5433eaaa0ab9d7595c23c3",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4119,7 +4122,8 @@
                 "diorama-0.5.0+26.3.jar",
                 "diorama-0.6.0+26.3.jar",
                 "diorama-0.7.0+26.3.jar",
-                "diorama-0.8.1+26.3.jar"
+                "diorama-0.8.1+26.3.jar",
+                "diorama-0.9.0+26.3.jar"
             ]
         },
         {
@@ -5226,9 +5230,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.7.0.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/1xd3HhFf/OneConfig-1.21.11-fabric-1.7.0.jar",
-                    "sha1": "9685f570e03e146c7a2c682fbf1c2195e1cc30fe",
+                    "name": "OneConfig-1.21.11-fabric-1.7.1.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/vjLeuLDZ/OneConfig-1.21.11-fabric-1.7.1.jar",
+                    "sha1": "ff5c38bef5c0d3933759226ba82113ed1920686f",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -5244,7 +5248,8 @@
                         "OneConfig-1.21.11-fabric-1.5.2.jar",
                         "OneConfig-1.21.11-fabric-1.6.0.jar",
                         "OneConfig-1.21.11-fabric-1.6.1.jar",
-                        "OneConfig-1.21.11-fabric-1.6.2.jar"
+                        "OneConfig-1.21.11-fabric-1.6.2.jar",
+                        "OneConfig-1.21.11-fabric-1.7.0.jar"
                     ]
                 },
                 {
