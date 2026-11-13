@@ -207,9 +207,9 @@
                     ]
                 },
                 {
-                    "name": "entityculling-fabric-1.12.0-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fD6iRzOi/entityculling-fabric-1.12.0-mc26.3.jar",
-                    "sha1": "316ca21e27d2b0af02ef82fcff3145256c7e284e",
+                    "name": "entityculling-fabric-1.12.1-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/UWpkLRV5/entityculling-fabric-1.12.1-mc26.3.jar",
+                    "sha1": "de9005580599906b55ff241bdf8cb27da999939a",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Entity Culling",
@@ -218,7 +218,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "entityculling-fabric-1.11.2-mc26.3.jar",
-                        "entityculling-fabric-1.11.3-mc26.3.jar"
+                        "entityculling-fabric-1.11.3-mc26.3.jar",
+                        "entityculling-fabric-1.12.0-mc26.3.jar"
                     ]
                 },
                 {
@@ -1731,9 +1732,9 @@
                     ]
                 },
                 {
-                    "name": "entityculling-fabric-1.12.0-mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fD6iRzOi/entityculling-fabric-1.12.0-mc26.3.jar",
-                    "sha1": "316ca21e27d2b0af02ef82fcff3145256c7e284e",
+                    "name": "entityculling-fabric-1.12.1-mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/UWpkLRV5/entityculling-fabric-1.12.1-mc26.3.jar",
+                    "sha1": "de9005580599906b55ff241bdf8cb27da999939a",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Entity Culling",
@@ -1742,7 +1743,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "entityculling-fabric-1.11.2-mc26.3.jar",
-                        "entityculling-fabric-1.11.3-mc26.3.jar"
+                        "entityculling-fabric-1.11.3-mc26.3.jar",
+                        "entityculling-fabric-1.12.0-mc26.3.jar"
                     ]
                 },
                 {
@@ -2676,10 +2678,14 @@
                 },
                 {
                     "name": "viph-ideas-6.9+26.3.jar",
-                    "display_name": "viph-ideas-6.9+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-6.9+26.3.jar",
                     "sha1": "b2189e13ebb0d3228373f03931f619274b40e597",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-6.9+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -5453,9 +5459,9 @@
             "allowed_users": null
         },
         {
-            "name": "fwa+26.3-1.3.6.jar",
-            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/fDAYiNfL/fwa%2B26.3-1.3.6.jar",
-            "sha1": "5eccba8000b3af9a7474f0f308b506975b1acbe2",
+            "name": "fwa+26.3-1.3.7.jar",
+            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/JRzSDvfy/fwa%2B26.3-1.3.7.jar",
+            "sha1": "6d090bdc105fef8c8192587a1935e21fd624abea",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5467,7 +5473,8 @@
             "allowed_users": null,
             "replaces": [
                 "fwa+26.3-1.3.2.jar",
-                "fwa+26.3-1.3.4.jar"
+                "fwa+26.3-1.3.4.jar",
+                "fwa+26.3-1.3.6.jar"
             ]
         },
         {
