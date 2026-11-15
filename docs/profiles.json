@@ -2541,9 +2541,9 @@
                     ]
                 },
                 {
-                    "name": "collective-26.3.0-8.86.jar",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/jfxbozAD/collective-26.3.0-8.86.jar",
-                    "sha1": "1329f158487009c5c348b619888c1aa0c556834d",
+                    "name": "collective-26.3.0-8.87.jar",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/27TLnjkk/collective-26.3.0-8.87.jar",
+                    "sha1": "9f67f1e2e3a13dcdeb62ea1f4935528124766a19",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2557,7 +2557,8 @@
                         "collective-26.3.0-8.77.jar",
                         "collective-26.3.0-8.83.jar",
                         "collective-26.3.0-8.84.jar",
-                        "collective-26.3.0-8.85.jar"
+                        "collective-26.3.0-8.85.jar",
+                        "collective-26.3.0-8.86.jar"
                     ]
                 },
                 {
@@ -2678,17 +2679,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-7.0+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.0+26.3.jar",
-                    "sha1": "6585d8cc97643484413e1a8d8295af436fc51ef7",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-7.0+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "piggyback-fabric-26.3-1.1.1.jar",
                     "url": "https://edge.forgecdn.net/files/9019/311/piggyback-fabric-26.3-1.1.1.jar",
                     "sha1": "23d5db966029c71978a8acd424a2ed5b2e59a2bb",
@@ -2709,6 +2699,13 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "viph-ideas-7.2+26.3.jar",
+                    "display_name": "viph-ideas-7.2+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.2+26.3.jar",
+                    "sha1": "46bfbce0999f8d867bd159f34249566f3f220c28",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
