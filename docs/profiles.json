@@ -661,9 +661,9 @@
                     "pack_order": 3
                 },
                 {
-                    "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/v6O6Avl5/packed_packs-fabric-2.3.1%2B1.21.11.jar",
-                    "sha1": "4c9dc31f9caf018565e081212d91d499db507261",
+                    "name": "packed_packs-fabric-2.4.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/GwXKCWQo/packed_packs-fabric-2.4.0%2B1.21.11.jar",
+                    "sha1": "8aa2720fabdf979f76dba1811d4fc352da3259ef",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
@@ -671,7 +671,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "packed_packs-fabric-2.2.1+1.21.11.jar"
+                        "packed_packs-fabric-2.2.1+1.21.11.jar",
+                        "packed_packs-fabric-2.3.1+1.21.11.jar"
                     ]
                 },
                 {
@@ -1046,9 +1047,9 @@
                     "pack_order": 3
                 },
                 {
-                    "name": "packed_packs-fabric-2.3.1+1.21.11.jar",
-                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/v6O6Avl5/packed_packs-fabric-2.3.1%2B1.21.11.jar",
-                    "sha1": "4c9dc31f9caf018565e081212d91d499db507261",
+                    "name": "packed_packs-fabric-2.4.0+1.21.11.jar",
+                    "url": "https://cdn.modrinth.com/data/8Pq6Exn2/versions/GwXKCWQo/packed_packs-fabric-2.4.0%2B1.21.11.jar",
+                    "sha1": "8aa2720fabdf979f76dba1811d4fc352da3259ef",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "packed_packs-fabric-2.2.1+1.21.11.jar",
@@ -1056,7 +1057,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "packed_packs-fabric-2.2.1+1.21.11.jar"
+                        "packed_packs-fabric-2.2.1+1.21.11.jar",
+                        "packed_packs-fabric-2.3.1+1.21.11.jar"
                     ]
                 },
                 {
@@ -4069,9 +4071,9 @@
             ]
         },
         {
-            "name": "enchanted_fishing_line-1.1-fabric-26.3.jar",
-            "url": "https://cdn.modrinth.com/data/FtXZNeim/versions/pZABzjmn/enchanted_fishing_line-1.1-fabric-26.3.jar",
-            "sha1": "e3a90fdb3367687dbc3739b10740c4e593888a59",
+            "name": "enchanted_fishing_line-1.1.1-fabric-26.3.jar",
+            "url": "https://cdn.modrinth.com/data/FtXZNeim/versions/uNEfZcEU/enchanted_fishing_line-1.1.1-fabric-26.3.jar",
+            "sha1": "bd52c669205a8e0635a6dc51a8615835d4a7b542",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4083,7 +4085,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "enchanted_fishing_line-1.0.1-fabric-26.3.jar"
+                "enchanted_fishing_line-1.0.1-fabric-26.3.jar",
+                "enchanted_fishing_line-1.1-fabric-26.3.jar"
             ]
         },
         {
