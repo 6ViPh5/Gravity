@@ -5635,7 +5635,7 @@
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "MinigamesMod",
+            "display_name": "MinigamesMod [TEST]",
             "dependencies": [
                 {
                     "name": "IconButtonsApi-1.0.2+mc-26.3.jar",
@@ -5643,6 +5643,22 @@
                     "sha1": "42888a9a722bf337a6eace42395471a1cda99d75",
                     "file_type": "mod"
                 }
+            ],
+            "incompatible_with": [
+                "ad6672a683fe8cfe24c7bd0d5fb7be2457abef30"
+            ]
+        },
+        {
+            "name": "snoblex-minigames-1.13.0-26.3.jar",
+            "url": "https://edge.forgecdn.net/files/9383/655/snoblex-minigames-1.13.0-26.3.jar",
+            "sha1": "ad6672a683fe8cfe24c7bd0d5fb7be2457abef30",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": "Game Night [TEST]",
+            "incompatible_with": [
+                "9f3ef83181d24d9b4c8127642fe7a49aedcbd179"
             ]
         }
     ]
