@@ -2663,20 +2663,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "bosslike-ender-dragon-1.6.0-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9614/36/bosslike-ender-dragon-1.6.0-26.3-fabric.jar",
-                    "sha1": "886d13f5b1b3b62bbef47c21ac381b4c03b925f2",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null,
-                    "replaces": [
-                        "bosslike-ender-dragon-1.5.0-26.3-fabric.jar"
-                    ]
-                },
-                {
                     "name": "vanilla_timber-2.1.5-26.3-fabric.jar",
                     "url": "https://edge.forgecdn.net/files/9588/100/vanilla_timber-2.1.5-26.3-fabric.jar",
                     "sha1": "49978b79426bbbfd91fd800e386feaf775c91d05",
