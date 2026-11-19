@@ -459,9 +459,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-1.0.0+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/VIhnl3tD/matlib-1.0.0%2B26.3-fabric.jar",
-                    "sha1": "52f6306eb4df8b95923fef2ee416807794072b56",
+                    "name": "matlib-1.0.1+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/X9Cckxx9/matlib-1.0.1%2B26.3-fabric.jar",
+                    "sha1": "812a877dbf5ea7a5e8fc0283f8671fda98716c27",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -470,7 +470,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "matlib-0.7.1+26.3-fabric.jar",
-                        "matlib-0.7.3+26.3-fabric.jar"
+                        "matlib-0.7.3+26.3-fabric.jar",
+                        "matlib-1.0.0+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -2029,9 +2030,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "matlib-1.0.0+26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/VIhnl3tD/matlib-1.0.0%2B26.3-fabric.jar",
-                    "sha1": "52f6306eb4df8b95923fef2ee416807794072b56",
+                    "name": "matlib-1.0.1+26.3-fabric.jar",
+                    "url": "https://cdn.modrinth.com/data/gnefBeV1/versions/X9Cckxx9/matlib-1.0.1%2B26.3-fabric.jar",
+                    "sha1": "812a877dbf5ea7a5e8fc0283f8671fda98716c27",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2040,7 +2041,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "matlib-0.7.1+26.3-fabric.jar",
-                        "matlib-0.7.3+26.3-fabric.jar"
+                        "matlib-0.7.3+26.3-fabric.jar",
+                        "matlib-1.0.0+26.3-fabric.jar"
                     ]
                 },
                 {
@@ -5633,6 +5635,17 @@
             "incompatible_with": [
                 "7d84bb5b1e3cd68b17973f845f64faa6309da81a"
             ]
+        },
+        {
+            "name": "showthelyrics-2.1.4-26.3.jar",
+            "url": "https://edge.forgecdn.net/files/9676/407/showthelyrics-2.1.4-26.3.jar",
+            "sha1": "5f38a89a8a282b420dd41217ac1d14652cbadc1b",
+            "file_type": "mod",
+            "target_profiles": [
+                "srvsurv",
+                "optimizado"
+            ],
+            "display_name": "Show the Lyrics"
         }
     ]
 }
