@@ -288,9 +288,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "lithium-fabric-0.26.3+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
-                    "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
+                    "name": "lithium-fabric-0.26.4+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Lal8mJGR/lithium-fabric-0.26.4%2Bmc26.3.jar",
+                    "sha1": "b87fcae581c1ff1b3aac8314004c9d7616f90827",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Lithium",
@@ -298,7 +298,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "lithium-fabric-0.26.2+mc26.3.jar"
+                        "lithium-fabric-0.26.2+mc26.3.jar",
+                        "lithium-fabric-0.26.3+mc26.3.jar"
                     ]
                 },
                 {
@@ -327,15 +328,18 @@
                     ]
                 },
                 {
-                    "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
-                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/6g96avt2/NoChatReports-FABRIC-26.3-v2.21.0.jar",
-                    "sha1": "ed49e6780f20fcad080a211f8163c9d130ebdd34",
+                    "name": "NoChatReports-FABRIC-MC26.3-v2.21.3.jar",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/e3GIS0Ep/NoChatReports-FABRIC-MC26.3-v2.21.3.jar",
+                    "sha1": "ff1da7f333f93dbe46db3f6784ea803e7baddcac",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "No Chat Reports",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "NoChatReports-FABRIC-26.3-v2.21.0.jar"
+                    ]
                 },
                 {
                     "name": "PacketFixer-fabric-3.3.6.jar",
@@ -396,15 +400,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "rsls-1.4.0.jar",
-                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
-                    "sha1": "60a95072fa946fa23eec1927b8370593e89d1fd8",
+                    "name": "rsls-1.4.1.jar",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/J12JO5WB/rsls-1.4.1.jar",
+                    "sha1": "dca6a82c641c4f03d4ec64b453fc730c8cde4315",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "rsls-1.4.0.jar"
+                    ]
                 },
                 {
                     "name": "optimizedcushions-fabric-mc26.3-1.3.0.jar",
@@ -1859,9 +1866,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "lithium-fabric-0.26.3+mc26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
-                    "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
+                    "name": "lithium-fabric-0.26.4+mc26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Lal8mJGR/lithium-fabric-0.26.4%2Bmc26.3.jar",
+                    "sha1": "b87fcae581c1ff1b3aac8314004c9d7616f90827",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Lithium",
@@ -1869,7 +1876,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "lithium-fabric-0.26.2+mc26.3.jar"
+                        "lithium-fabric-0.26.2+mc26.3.jar",
+                        "lithium-fabric-0.26.3+mc26.3.jar"
                     ]
                 },
                 {
@@ -1898,15 +1906,18 @@
                     ]
                 },
                 {
-                    "name": "NoChatReports-FABRIC-26.3-v2.21.0.jar",
-                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/6g96avt2/NoChatReports-FABRIC-26.3-v2.21.0.jar",
-                    "sha1": "ed49e6780f20fcad080a211f8163c9d130ebdd34",
+                    "name": "NoChatReports-FABRIC-MC26.3-v2.21.3.jar",
+                    "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/e3GIS0Ep/NoChatReports-FABRIC-MC26.3-v2.21.3.jar",
+                    "sha1": "ff1da7f333f93dbe46db3f6784ea803e7baddcac",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "No Chat Reports",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "NoChatReports-FABRIC-26.3-v2.21.0.jar"
+                    ]
                 },
                 {
                     "name": "PacketFixer-fabric-3.3.6.jar",
@@ -1967,15 +1978,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "rsls-1.4.0.jar",
-                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/2sa9UZP2/rsls-1.4.0.jar",
-                    "sha1": "60a95072fa946fa23eec1927b8370593e89d1fd8",
+                    "name": "rsls-1.4.1.jar",
+                    "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/J12JO5WB/rsls-1.4.1.jar",
+                    "sha1": "dca6a82c641c4f03d4ec64b453fc730c8cde4315",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "rsls-1.4.0.jar"
+                    ]
                 },
                 {
                     "name": "optimizedcushions-fabric-mc26.3-1.3.0.jar",
@@ -2778,7 +2792,8 @@
                 "_Ivana0711L",
                 "AdriFlow",
                 "joaco_mh_eli"
-            ]
+            ],
+            "is_upcoming": null
         }
     ],
     "optional_mods": [
