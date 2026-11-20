@@ -2776,9 +2776,9 @@
                 "KelloGamer_LZ",
                 "flx",
                 "_Ivana0711L",
-                "AdriFlow"
-            ],
-            "is_upcoming": null
+                "AdriFlow",
+                "joaco_mh_eli"
+            ]
         }
     ],
     "optional_mods": [
@@ -4256,6 +4256,21 @@
             ]
         },
         {
+            "name": "showthelyrics-2.1.4-26.3.jar",
+            "url": "https://edge.forgecdn.net/files/9676/407/showthelyrics-2.1.4-26.3.jar",
+            "sha1": "5f38a89a8a282b420dd41217ac1d14652cbadc1b",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "optimizado",
+                "srvsurv"
+            ],
+            "display_name": "Show the Lyrics",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
+        },
+        {
             "name": "bobby-5.2.11+mc1.21.11.jar",
             "url": "https://cdn.modrinth.com/data/M08ruV16/versions/y6wx9vV9/bobby-5.2.11%2Bmc1.21.11.jar",
             "sha1": "310D921EB31C11B7DC3596654C4ED345FF92BDD2",
@@ -5635,17 +5650,6 @@
             "incompatible_with": [
                 "7d84bb5b1e3cd68b17973f845f64faa6309da81a"
             ]
-        },
-        {
-            "name": "showthelyrics-2.1.4-26.3.jar",
-            "url": "https://edge.forgecdn.net/files/9676/407/showthelyrics-2.1.4-26.3.jar",
-            "sha1": "5f38a89a8a282b420dd41217ac1d14652cbadc1b",
-            "file_type": "mod",
-            "target_profiles": [
-                "srvsurv",
-                "optimizado"
-            ],
-            "display_name": "Show the Lyrics"
         }
     ]
 }
