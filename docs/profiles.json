@@ -659,8 +659,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/DrHzYylo/SodiumTranslations.zip",
-                    "sha1": "07a5359eee729d63d57cc645061400bfe8725b33",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/icQ18kbk/SodiumTranslations.zip",
+                    "sha1": "c973cee802af897ea24706791903ef57ca7759be",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -1049,8 +1049,8 @@
                 },
                 {
                     "name": "SodiumTranslations.zip",
-                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/DrHzYylo/SodiumTranslations.zip",
-                    "sha1": "07a5359eee729d63d57cc645061400bfe8725b33",
+                    "url": "https://cdn.modrinth.com/data/yfDziwn1/versions/icQ18kbk/SodiumTranslations.zip",
+                    "sha1": "c973cee802af897ea24706791903ef57ca7759be",
                     "file_type": "resourcepack",
                     "install_path": null,
                     "display_name": "Translations for Sodium",
@@ -1564,9 +1564,9 @@
                     ]
                 },
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.9.0.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/ZKapueiS/OneConfig-1.21.11-fabric-1.9.0.jar",
-                    "sha1": "b73174657541bb5c3825f99e9a7547a523eb3b7b",
+                    "name": "OneConfig-1.21.11-fabric-1.9.1.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/3EKdPSIB/OneConfig-1.21.11-fabric-1.9.1.jar",
+                    "sha1": "599a66e2eaa8909d8773c23c3602160895db769b",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1582,13 +1582,14 @@
                         "OneConfig-1.21.11-fabric-1.6.2.jar",
                         "OneConfig-1.21.11-fabric-1.7.0.jar",
                         "OneConfig-1.21.11-fabric-1.7.1.jar",
-                        "OneConfig-1.21.11-fabric-1.8.0.jar"
+                        "OneConfig-1.21.11-fabric-1.8.0.jar",
+                        "OneConfig-1.21.11-fabric-1.9.0.jar"
                     ]
                 },
                 {
-                    "name": "polycompose-1.21.11-fabric-3.0.1.jar",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/ePNZZmmv/polycompose-1.21.11-fabric-3.0.1.jar",
-                    "sha1": "51d46100d5bd66a700d57e39e183020062c355d9",
+                    "name": "polycompose-1.21.11-fabric-3.0.2.jar",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/KWeCsqBU/polycompose-1.21.11-fabric-3.0.2.jar",
+                    "sha1": "e26bb6b284eea53006fa61b69288d6b8bab0b645",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1597,7 +1598,8 @@
                     "allowed_users": null,
                     "replaces": [
                         "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
-                        "compose-bundle-2.1.0+compose.1.13.0-alpha02.jar"
+                        "compose-bundle-2.1.0+compose.1.13.0-alpha02.jar",
+                        "polycompose-1.21.11-fabric-3.0.1.jar"
                     ]
                 }
             ],
@@ -4182,9 +4184,9 @@
             "allowed_users": null
         },
         {
-            "name": "spatial-gui-1.11.1+26.3-fabric.jar",
-            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/amLgW5yt/spatial-gui-1.11.1%2B26.3-fabric.jar",
-            "sha1": "ca3f84a500295c007777e80be283c2b252e72ce7",
+            "name": "spatial-gui-1.12.0+26.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/YUfaC1Vg/spatial-gui-1.12.0%2B26.3-fabric.jar",
+            "sha1": "062e717945785e6fbe9d03e40025a37b1a713ac9",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4200,7 +4202,8 @@
                 "spatial-gui-1.9+26.3-fabric.jar",
                 "spatial-gui-1.9.1+26.3-fabric.jar",
                 "spatial-gui-1.10.1+26.3-fabric.jar",
-                "spatial-gui-1.11.0+26.3-fabric.jar"
+                "spatial-gui-1.11.0+26.3-fabric.jar",
+                "spatial-gui-1.11.1+26.3-fabric.jar"
             ]
         },
         {
