@@ -2240,17 +2240,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "HideYourArmor-1.7.1+mc26.3-universal.jar",
-                    "url": "https://cdn.modrinth.com/data/htFd9eMF/versions/JA8k1Tf0/HideYourArmor-1.7.1%2Bmc26.3-universal.jar",
-                    "sha1": "13ef63ca1a997c397fd061533a884e9cafee9e56",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Hide Your Armor",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "music_disc_maker-3.1.4+fabric-26.3.jar",
                     "url": "https://cdn.modrinth.com/data/mqnazM0E/versions/EFcYZ6GU/music_disc_maker-3.1.4%2Bfabric-26.3.jar",
                     "sha1": "03d24f4f30876b049bf5d86c25717c4b12b2469c",
@@ -2843,7 +2832,12 @@
                     "name": "Signs Faster (v1.0.3) - 26.3 (Fabric).jar",
                     "url": "https://cdn.modrinth.com/data/NqwetDY4/versions/MYK7Pk7F/Signs%20Faster%20%28v1.0.3%29%20-%2026.3%20%28Fabric%29.jar",
                     "sha1": "fd80ce5318200f43b7cfe18f6d0e8d38c2fdbffc",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
