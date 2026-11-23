@@ -2786,42 +2786,63 @@
                 },
                 {
                     "name": "snoblex-minigames-1_13_0-26_3-patched.jar",
-                    "display_name": "snoblex-minigames-1_13_0-26_3-patched.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/snoblex-minigames-1_13_0-26_3-patched.jar",
                     "sha1": "bee798ce10d8c7ce97ed6df57761ade2eb69ea1a",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "snoblex-minigames-1_13_0-26_3-patched.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "arcadedreams-fabric-1.1.1+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/8AA8VQsU/versions/YStTL7SM/arcadedreams-fabric-1.1.1%2B26.3.jar",
                     "sha1": "49b43424d1d310694b33dea728723d31197a4468",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "havingablast-0.2.9-26.3-fabric.jar",
                     "url": "https://edge.forgecdn.net/files/9578/522/havingablast-0.2.9-26.3-fabric.jar",
                     "sha1": "fb0f4fbf2fcc3a7391f887b24449984e9fb189b4",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "tidypockets-1.2.9-26.3-fabric.jar",
                     "url": "https://edge.forgecdn.net/files/9628/731/tidypockets-1.2.9-26.3-fabric.jar",
                     "sha1": "5f581b471ad0fb9eff9bba570d41263d9c32e155",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "fabric-api-0.167.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/lPHkrIVF/fabric-api-0.167.0%2B26.3.jar",
-                    "sha1": "5784ccebbac7ad1729da9c4f7207d2f2e96e73ee",
                     "file_type": "mod",
-                    "replaces": [
-                        "fabric-api-0.166.2-26.3.jar"
-                    ]
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "far_out_zoom-0.2.10-26.3-fabric.jar",
                     "url": "https://edge.forgecdn.net/files/9671/866/far_out_zoom-0.2.10-26.3-fabric.jar",
                     "sha1": "3d2a779a7961bf5101f51c93a130c1abe2774c28",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "Signs Faster (v1.0.3) - 26.3 (Fabric).jar",
+                    "url": "https://cdn.modrinth.com/data/NqwetDY4/versions/MYK7Pk7F/Signs%20Faster%20%28v1.0.3%29%20-%2026.3%20%28Fabric%29.jar",
+                    "sha1": "fd80ce5318200f43b7cfe18f6d0e8d38c2fdbffc",
                     "file_type": "mod"
                 }
             ],
@@ -5728,20 +5749,28 @@
             "url": "https://edge.forgecdn.net/files/9636/535/snappy_blocks-0.0.30-26.3-fabric.jar",
             "sha1": "1034b89d454acf32d3f326c43fc4e2ded2336e5a",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": "Snappy Blocks"
+            "display_name": "Snappy Blocks",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "mobreactions-0.10.8+26.3-fabric.jar",
-            "display_name": "Overreacting Mobs",
             "url": "https://edge.forgecdn.net/files/9019/774/mobreactions-0.10.8%2b26.3-fabric.jar",
             "sha1": "e380caabfe013f4f93eeac95f497b17b05175ee6",
             "file_type": "mod",
+            "install_path": null,
             "target_profiles": [
                 "srvsurv"
-            ]
+            ],
+            "display_name": "Overreacting Mobs",
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         }
     ]
 }
