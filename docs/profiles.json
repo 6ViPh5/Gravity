@@ -2827,17 +2827,6 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
-                },
-                {
-                    "name": "Signs Faster (v1.0.3) - 26.3 (Fabric).jar",
-                    "url": "https://cdn.modrinth.com/data/NqwetDY4/versions/MYK7Pk7F/Signs%20Faster%20%28v1.0.3%29%20-%2026.3%20%28Fabric%29.jar",
-                    "sha1": "fd80ce5318200f43b7cfe18f6d0e8d38c2fdbffc",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2850,7 +2839,8 @@
                 "AdriFlow",
                 "joaco_mh_eli",
                 "MisticoGalactico"
-            ]
+            ],
+            "is_upcoming": null
         }
     ],
     "optional_mods": [
@@ -5739,9 +5729,9 @@
             ]
         },
         {
-            "name": "snappy_blocks-0.0.30-26.3-fabric.jar",
-            "url": "https://edge.forgecdn.net/files/9636/535/snappy_blocks-0.0.30-26.3-fabric.jar",
-            "sha1": "1034b89d454acf32d3f326c43fc4e2ded2336e5a",
+            "name": "snappy_blocks-0.0.31-26.3-fabric.jar",
+            "url": "https://edge.forgecdn.net/files/9779/452/snappy_blocks-0.0.31-26.3-fabric.jar",
+            "sha1": "e101205b8cb707dbcd99aed541ea031dd02c1d7d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5750,7 +5740,10 @@
             "display_name": "Snappy Blocks",
             "req_user_type": null,
             "dependencies": null,
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "snappy_blocks-0.0.30-26.3-fabric.jar"
+            ]
         },
         {
             "name": "mobreactions-0.10.8+26.3-fabric.jar",
