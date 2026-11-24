@@ -2824,10 +2824,14 @@
                 },
                 {
                     "name": "gameboy-addon-1.0.5.jar",
-                    "display_name": "gameboy-addon-1.0.5.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/gameboy-addon-1.0.5.jar",
                     "sha1": "b5763cb399c50cc9ed617f41f80c70716e21cc4e",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "gameboy-addon-1.0.5.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -5460,7 +5464,7 @@
             "target_profiles": [
                 "srvsurv"
             ],
-            "display_name": null,
+            "display_name": "Having a Blast",
             "req_user_type": null,
             "dependencies": null,
             "allowed_users": null
