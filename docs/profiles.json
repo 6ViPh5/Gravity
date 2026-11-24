@@ -2736,9 +2736,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "vanilla_timber-2.2.8-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9771/657/vanilla_timber-2.2.8-26.3-fabric.jar",
-                    "sha1": "1aea46f9c0368ce12e655d8f03f0a9d1446fa551",
+                    "name": "vanilla_timber-2.2.10-26.3-fabric.jar",
+                    "url": "https://edge.forgecdn.net/files/9787/371/vanilla_timber-2.2.10-26.3-fabric.jar",
+                    "sha1": "84d2a043b6054c1f71e6c8d2323d9bd15c249664",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2748,7 +2748,8 @@
                     "replaces": [
                         "Timber-1.3.5-fabric.jar",
                         "vanilla_timber-2.1.5-26.3-fabric.jar",
-                        "vanilla_timber-2.2.0-26.3-fabric.jar"
+                        "vanilla_timber-2.2.0-26.3-fabric.jar",
+                        "vanilla_timber-2.2.8-26.3-fabric.jar"
                     ]
                 },
                 {
