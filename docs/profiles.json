@@ -2830,14 +2830,10 @@
                 },
                 {
                     "name": "gameboy-addon-1.0.0.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/gameboy-addon-1.0.0.jar",
-                    "sha1": "7f15fba51243a247a97b71c5cdbe7589568e16ac",
-                    "file_type": "mod",
-                    "install_path": null,
                     "display_name": "gameboy-addon-1.0.0.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/gameboy-addon-1.0.0.jar",
+                    "sha1": "f0c149dcd59d99fac7afb281e3b516f25f3aa7ae",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
