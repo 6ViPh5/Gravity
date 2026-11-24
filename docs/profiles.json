@@ -2832,6 +2832,12 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "hiddenarmour-2.4.0.jar",
+                    "url": "https://cdn.modrinth.com/data/uEVsHluG/versions/mpTWoAUf/hiddenarmour-2.4.0.jar",
+                    "sha1": "1a570005990fd26ed4a68f61e8983a0f11d8cc8b",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
