@@ -417,9 +417,9 @@
                     ]
                 },
                 {
-                    "name": "optimizedcushions-fabric-mc26.3-1.3.0.jar",
-                    "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/h1dpjOeO/optimizedcushions-fabric-mc26.3-1.3.0.jar",
-                    "sha1": "94e11032ea39d2bb5ec846b8b84553b6419bda27",
+                    "name": "optimizedcushions-fabric-mc26.3-1.3.1.jar",
+                    "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/yeQpfYSE/optimizedcushions-fabric-mc26.3-1.3.1.jar",
+                    "sha1": "2702532abc96f7f3adfdf9ea423b8dbbe1381a07",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Optimized Cushions",
@@ -429,7 +429,8 @@
                     "replaces": [
                         "optimizedcushions-fabric-mc26.3-1.0.0.jar",
                         "optimizedcushions-fabric-mc26.3-1.1.0.jar",
-                        "optimizedcushions-fabric-mc26.3-1.2.0.jar"
+                        "optimizedcushions-fabric-mc26.3-1.2.0.jar",
+                        "optimizedcushions-fabric-mc26.3-1.3.0.jar"
                     ]
                 },
                 {
@@ -1568,9 +1569,9 @@
                     ]
                 },
                 {
-                    "name": "OneConfig-1.21.11-fabric-1.9.3.jar",
-                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/eU3r05VG/OneConfig-1.21.11-fabric-1.9.3.jar",
-                    "sha1": "bfad71ebc8b9b46518c23632ea395c8bd8c81398",
+                    "name": "OneConfig-1.21.11-fabric-1.9.4.jar",
+                    "url": "https://cdn.modrinth.com/data/AibBIVmj/versions/z2N1yr9h/OneConfig-1.21.11-fabric-1.9.4.jar",
+                    "sha1": "02b22ab064239c15152dc7b7253a87e077b1e3b0",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1588,13 +1589,14 @@
                         "OneConfig-1.21.11-fabric-1.7.1.jar",
                         "OneConfig-1.21.11-fabric-1.8.0.jar",
                         "OneConfig-1.21.11-fabric-1.9.0.jar",
-                        "OneConfig-1.21.11-fabric-1.9.1.jar"
+                        "OneConfig-1.21.11-fabric-1.9.1.jar",
+                        "OneConfig-1.21.11-fabric-1.9.3.jar"
                     ]
                 },
                 {
-                    "name": "polycompose-1.21.11-fabric-3.0.6.jar",
-                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/8HFlyJnp/polycompose-1.21.11-fabric-3.0.6.jar",
-                    "sha1": "8a71e954194558f817110433d8f08961bc7d1376",
+                    "name": "polycompose-1.21.11-fabric-3.0.9.jar",
+                    "url": "https://cdn.modrinth.com/data/eHe8QhtD/versions/aaWGvSGa/polycompose-1.21.11-fabric-3.0.9.jar",
+                    "sha1": "71021f6a0195a4a233ba61d963c6ac309944f418",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -1605,7 +1607,8 @@
                         "compose-bundle-1.0.6+compose.1.13.0-alpha02.jar",
                         "compose-bundle-2.1.0+compose.1.13.0-alpha02.jar",
                         "polycompose-1.21.11-fabric-3.0.1.jar",
-                        "polycompose-1.21.11-fabric-3.0.2.jar"
+                        "polycompose-1.21.11-fabric-3.0.2.jar",
+                        "polycompose-1.21.11-fabric-3.0.6.jar"
                     ]
                 }
             ],
@@ -2017,9 +2020,9 @@
                     ]
                 },
                 {
-                    "name": "optimizedcushions-fabric-mc26.3-1.3.0.jar",
-                    "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/h1dpjOeO/optimizedcushions-fabric-mc26.3-1.3.0.jar",
-                    "sha1": "94e11032ea39d2bb5ec846b8b84553b6419bda27",
+                    "name": "optimizedcushions-fabric-mc26.3-1.3.1.jar",
+                    "url": "https://cdn.modrinth.com/data/PD2xMNLQ/versions/yeQpfYSE/optimizedcushions-fabric-mc26.3-1.3.1.jar",
+                    "sha1": "2702532abc96f7f3adfdf9ea423b8dbbe1381a07",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "Optimized Cushions",
@@ -2029,7 +2032,8 @@
                     "replaces": [
                         "optimizedcushions-fabric-mc26.3-1.0.0.jar",
                         "optimizedcushions-fabric-mc26.3-1.1.0.jar",
-                        "optimizedcushions-fabric-mc26.3-1.2.0.jar"
+                        "optimizedcushions-fabric-mc26.3-1.2.0.jar",
+                        "optimizedcushions-fabric-mc26.3-1.3.0.jar"
                     ]
                 },
                 {
@@ -2797,17 +2801,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "havingablast-0.2.9-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9578/522/havingablast-0.2.9-26.3-fabric.jar",
-                    "sha1": "fb0f4fbf2fcc3a7391f887b24449984e9fb189b4",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "tidypockets-1.2.9-26.3-fabric.jar",
                     "url": "https://edge.forgecdn.net/files/9628/731/tidypockets-1.2.9-26.3-fabric.jar",
                     "sha1": "5f581b471ad0fb9eff9bba570d41263d9c32e155",
@@ -2830,10 +2823,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "gameboy-addon-1.0.0.jar",
-                    "display_name": "gameboy-addon-1.0.0.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/gameboy-addon-1.0.0.jar",
-                    "sha1": "f0c149dcd59d99fac7afb281e3b516f25f3aa7ae",
+                    "name": "gameboy-addon-1.0.5.jar",
+                    "display_name": "gameboy-addon-1.0.5.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/gameboy-addon-1.0.5.jar",
+                    "sha1": "b5763cb399c50cc9ed617f41f80c70716e21cc4e",
                     "file_type": "mod"
                 }
             ],
@@ -2914,9 +2907,9 @@
             "req_user_type": null,
             "dependencies": [
                 {
-                    "name": "architectury-fabric-22.0.6.jar",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Njpa4lhR/architectury-fabric-22.0.6.jar",
-                    "sha1": "045bb291a25967e82770308d77fd9dbbdefd54d6",
+                    "name": "architectury-fabric-22.1.7.jar",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/BqvOgTp1/architectury-fabric-22.1.7.jar",
+                    "sha1": "7dbb13532bb41ec0d8ed3ff541a440260f1bbd1a",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -2928,7 +2921,8 @@
                     "incompatible_with": null,
                     "replaces": [
                         "architectury-fabric-22.0.4.jar",
-                        "architectury-fabric-22.0.5.jar"
+                        "architectury-fabric-22.0.5.jar",
+                        "architectury-fabric-22.0.6.jar"
                     ]
                 },
                 {
@@ -3167,9 +3161,9 @@
                     "replaces": null
                 },
                 {
-                    "name": "architectury-fabric-22.0.6.jar",
-                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Njpa4lhR/architectury-fabric-22.0.6.jar",
-                    "sha1": "045bb291a25967e82770308d77fd9dbbdefd54d6",
+                    "name": "architectury-fabric-22.1.7.jar",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/BqvOgTp1/architectury-fabric-22.1.7.jar",
+                    "sha1": "7dbb13532bb41ec0d8ed3ff541a440260f1bbd1a",
                     "file_type": "mod",
                     "install_path": null,
                     "target_profiles": null,
@@ -3181,7 +3175,8 @@
                     "incompatible_with": null,
                     "replaces": [
                         "architectury-fabric-22.0.4.jar",
-                        "architectury-fabric-22.0.5.jar"
+                        "architectury-fabric-22.0.5.jar",
+                        "architectury-fabric-22.0.6.jar"
                     ]
                 }
             ],
@@ -4119,9 +4114,9 @@
             "allowed_users": null
         },
         {
-            "name": "ViaFabricPlus-5.1.3.jar",
-            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/DACOoCin/ViaFabricPlus-5.1.3.jar",
-            "sha1": "75a2411f9ffd21cbcc06652b3b8b899a685e02fe",
+            "name": "ViaFabricPlus-5.1.4.jar",
+            "url": "https://cdn.modrinth.com/data/rIC2XJV4/versions/SEqOLZ4C/ViaFabricPlus-5.1.4.jar",
+            "sha1": "d96d7fec6b549d7cf9d5a56755ab9d0f512cae5c",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4133,7 +4128,8 @@
             "allowed_users": null,
             "replaces": [
                 "ViaFabricPlus-5.1.1.jar",
-                "ViaFabricPlus-5.1.2.jar"
+                "ViaFabricPlus-5.1.2.jar",
+                "ViaFabricPlus-5.1.3.jar"
             ]
         },
         {
@@ -5454,6 +5450,20 @@
             "incompatible_with": [
                 "BEDB628F9102357A55E0B0B0393B50A4BB714F3E"
             ]
+        },
+        {
+            "name": "havingablast-0.2.9-26.3-fabric.jar",
+            "url": "https://edge.forgecdn.net/files/9578/522/havingablast-0.2.9-26.3-fabric.jar",
+            "sha1": "fb0f4fbf2fcc3a7391f887b24449984e9fb189b4",
+            "file_type": "mod",
+            "install_path": null,
+            "target_profiles": [
+                "srvsurv"
+            ],
+            "display_name": null,
+            "req_user_type": null,
+            "dependencies": null,
+            "allowed_users": null
         },
         {
             "name": "bedrock-hotbar-1.11.3-fabric+26.3.jar",
