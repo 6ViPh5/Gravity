@@ -2775,17 +2775,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-7.3+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.3+26.3.jar",
-                    "sha1": "72b9951940060314dc26728d337433b574c2130a",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "viph-ideas-7.3+26.3.jar",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "snoblex-minigames-1_13_0-26_3-patched.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/snoblex-minigames-1_13_0-26_3-patched.jar",
                     "sha1": "bee798ce10d8c7ce97ed6df57761ade2eb69ea1a",
@@ -2844,12 +2833,29 @@
                     "name": "armor-hider-fabric-0.15.0+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/Wff9W9J7/armor-hider-fabric-0.15.0%2B26.3.jar",
                     "sha1": "580390ff8bdf0b6fd1f67cd327b96da7698c62db",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "eunomia-fabric-0.3.15+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/BvzQw4wL/versions/zgXKNLMx/eunomia-fabric-0.3.15%2B26.3.jar",
                     "sha1": "a33fb9ba2002ce028b4b8d55a7b41241601486bd",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "viph-ideas-7.8+26.3.jar",
+                    "display_name": "viph-ideas-7.8+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.8+26.3.jar",
+                    "sha1": "11be3300ced1ca8a7cb32ec7dfa7a78521166baa",
                     "file_type": "mod"
                 }
             ],
@@ -3119,9 +3125,9 @@
             ]
         },
         {
-            "name": "clientcommands-2.16.4.jar",
-            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/PciJjRRE/clientcommands-2.16.4.jar",
-            "sha1": "3d3f9899e12c7a7f7860c87945c06d1827402056",
+            "name": "clientcommands-2.16.5.jar",
+            "url": "https://cdn.modrinth.com/data/7Coz83fv/versions/wtn9V7sf/clientcommands-2.16.5.jar",
+            "sha1": "aac0121eef209168b3f84edfb5c6d0210304cc16",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -3134,7 +3140,8 @@
             "allowed_users": null,
             "replaces": [
                 "clientcommands-2.16.2.jar",
-                "clientcommands-2.16.3.jar"
+                "clientcommands-2.16.3.jar",
+                "clientcommands-2.16.4.jar"
             ]
         },
         {
