@@ -462,15 +462,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "libjf-26.3.1.jar",
-                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/S0d8Wc3k/libjf-26.3.1.jar",
-                    "sha1": "8da055eec23359d5654445d81fec3189888d9d90",
+                    "name": "libjf-26.3.2.jar",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/vUThiK23/libjf-26.3.2.jar",
+                    "sha1": "095f5941fd526530f5ad27293198c09f3b17e9ed",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "libjf-26.3.1.jar"
+                    ]
                 },
                 {
                     "name": "matlib-1.0.1+26.3-fabric.jar",
@@ -2069,15 +2072,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "libjf-26.3.1.jar",
-                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/S0d8Wc3k/libjf-26.3.1.jar",
-                    "sha1": "8da055eec23359d5654445d81fec3189888d9d90",
+                    "name": "libjf-26.3.2.jar",
+                    "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/vUThiK23/libjf-26.3.2.jar",
+                    "sha1": "095f5941fd526530f5ad27293198c09f3b17e9ed",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "libjf-26.3.1.jar"
+                    ]
                 },
                 {
                     "name": "matlib-1.0.1+26.3-fabric.jar",
@@ -2797,15 +2803,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "tidypockets-1.2.9-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9628/731/tidypockets-1.2.9-26.3-fabric.jar",
-                    "sha1": "5f581b471ad0fb9eff9bba570d41263d9c32e155",
+                    "name": "tidypockets-1.2.25-26.3-fabric.jar",
+                    "url": "https://edge.forgecdn.net/files/9826/784/tidypockets-1.2.25-26.3-fabric.jar",
+                    "sha1": "01eef980a01e7eee5631be82de9f5ecb4c5d803c",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "tidypockets-1.2.9-26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "far_out_zoom-0.2.10-26.3-fabric.jar",
@@ -2852,10 +2861,10 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "viph-ideas-7.8+26.3.jar",
-                    "display_name": "viph-ideas-7.8+26.3.jar",
-                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.8+26.3.jar",
-                    "sha1": "11be3300ced1ca8a7cb32ec7dfa7a78521166baa",
+                    "name": "viph-ideas-7.9+26.3.jar",
+                    "display_name": "viph-ideas-7.9+26.3.jar",
+                    "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.9+26.3.jar",
+                    "sha1": "4714060f43db15ab0057b3bc51359021f9594bd1",
                     "file_type": "mod"
                 }
             ],
@@ -5780,9 +5789,9 @@
             ]
         },
         {
-            "name": "snappy_blocks-0.0.31-26.3-fabric.jar",
-            "url": "https://edge.forgecdn.net/files/9779/452/snappy_blocks-0.0.31-26.3-fabric.jar",
-            "sha1": "e101205b8cb707dbcd99aed541ea031dd02c1d7d",
+            "name": "snappy_blocks-0.0.53-26.3-fabric.jar",
+            "url": "https://edge.forgecdn.net/files/9826/759/snappy_blocks-0.0.53-26.3-fabric.jar",
+            "sha1": "95cdb9157fb9a91529bb40fad5ae01dc9e5fa24f",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5793,7 +5802,8 @@
             "dependencies": null,
             "allowed_users": null,
             "replaces": [
-                "snappy_blocks-0.0.30-26.3-fabric.jar"
+                "snappy_blocks-0.0.30-26.3-fabric.jar",
+                "snappy_blocks-0.0.31-26.3-fabric.jar"
             ]
         },
         {
