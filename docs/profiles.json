@@ -2900,15 +2900,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "armorstands-fabric-3.0.4+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/FlC9CXUY/versions/hEN85qop/armorstands-fabric-3.0.4%2B26.3.jar",
-                    "sha1": "70d4636b707174a22dd7ad8529f2f1b1f3a65bbc",
-                    "file_type": "mod"
-                },
-                {
-                    "name": "terracart-3.0.jar",
-                    "url": "https://cdn.modrinth.com/data/iLI71l5L/versions/geJNhdvr/terracart-3.0.jar",
-                    "sha1": "81e077e0892dc3ea6a867c6e4833488a565fac71",
+                    "name": "joyride-vehicles-fabric-0.2.0.jar",
+                    "url": "https://edge.forgecdn.net/files/9781/754/joyride-vehicles-fabric-0.2.0.jar",
+                    "sha1": "43cda8ba6d4c79d8d962dbcde4032257c9f8aa47",
                     "file_type": "mod"
                 }
             ],
@@ -2922,7 +2916,8 @@
                 "AdriFlow",
                 "joaco_mh_eli",
                 "MisticoGalactico"
-            ]
+            ],
+            "is_upcoming": null
         }
     ],
     "optional_mods": [
