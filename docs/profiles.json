@@ -2903,13 +2903,23 @@
                     "name": "cosmeticarmornext-fabric-26.3-v7.jar",
                     "url": "https://edge.forgecdn.net/files/9796/44/cosmeticarmornext-fabric-26.3-v7.jar",
                     "sha1": "2f2ef9d8c46ca8340532469691ca38e323ad90b3",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 },
                 {
                     "name": "fabric-api-0.166.2-26.3.jar",
                     "url": "https://edge.forgecdn.net/files/9557/683/fabric-api-0.166.2-26.3.jar",
                     "sha1": "65636253571429971f25f5619692e6c1a6362028",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2921,9 +2931,9 @@
                 "_Ivana0711L",
                 "AdriFlow",
                 "joaco_mh_eli",
-                "MisticoGalactico"
-            ],
-            "is_upcoming": null
+                "MisticoGalactico",
+                "PabloR__"
+            ]
         }
     ],
     "optional_mods": [
