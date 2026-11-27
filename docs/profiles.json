@@ -2842,17 +2842,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "armor-hider-fabric-0.15.0+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/GgG2my3y/versions/Wff9W9J7/armor-hider-fabric-0.15.0%2B26.3.jar",
-                    "sha1": "580390ff8bdf0b6fd1f67cd327b96da7698c62db",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": null,
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "eunomia-fabric-0.3.16+26.3.jar",
                     "url": "https://cdn.modrinth.com/data/BvzQw4wL/versions/7FEZGqZs/eunomia-fabric-0.3.16%2B26.3.jar",
                     "sha1": "a26993d26abceb5afb0a19b1df6e67a26be0a159",
@@ -2909,6 +2898,18 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "cosmeticarmornext-fabric-26.3-v7.jar",
+                    "url": "https://edge.forgecdn.net/files/9796/44/cosmeticarmornext-fabric-26.3-v7.jar",
+                    "sha1": "2f2ef9d8c46ca8340532469691ca38e323ad90b3",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "fabric-api-0.166.2-26.3.jar",
+                    "url": "https://edge.forgecdn.net/files/9557/683/fabric-api-0.166.2-26.3.jar",
+                    "sha1": "65636253571429971f25f5619692e6c1a6362028",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
