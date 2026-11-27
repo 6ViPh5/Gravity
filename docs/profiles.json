@@ -2900,6 +2900,17 @@
                     "allowed_users": null
                 },
                 {
+                    "name": "bettersmoke-0.1.2+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/Effrh3ze/versions/DSzD6WsI/bettersmoke-0.1.2%2B26.3.jar",
+                    "sha1": "e63765d142db2779ea55a1cdd28c1d6e92fe9d87",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "Better Smoke",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
                     "name": "joyride-vehicles-fabric-0.2.0.jar",
                     "url": "https://edge.forgecdn.net/files/9781/754/joyride-vehicles-fabric-0.2.0.jar",
                     "sha1": "43cda8ba6d4c79d8d962dbcde4032257c9f8aa47",
@@ -5719,20 +5730,6 @@
                 "fwa+26.3-1.3.8.jar",
                 "fwa+26.3-1.3.10.jar"
             ]
-        },
-        {
-            "name": "bettersmoke-0.1.2+26.3.jar",
-            "url": "https://cdn.modrinth.com/data/Effrh3ze/versions/DSzD6WsI/bettersmoke-0.1.2%2B26.3.jar",
-            "sha1": "e63765d142db2779ea55a1cdd28c1d6e92fe9d87",
-            "file_type": "mod",
-            "install_path": null,
-            "target_profiles": [
-                "srvsurv"
-            ],
-            "display_name": "Better Smoke",
-            "req_user_type": null,
-            "dependencies": null,
-            "allowed_users": null
         },
         {
             "name": "eg_particle_interactions-0.10.5+26.3-fabric.jar",
