@@ -2150,17 +2150,6 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "catfighting-fabric-26.3-1.2.2.jar",
-                    "url": "https://cdn.modrinth.com/data/7cRQ1FCd/versions/AnmlQE62/catfighting-fabric-26.3-1.2.2.jar",
-                    "sha1": "ff3e12add3e1766971aad927d2e609d731269366",
-                    "file_type": "mod",
-                    "install_path": null,
-                    "display_name": "Cat Fighting",
-                    "req_user_type": null,
-                    "dependencies": null,
-                    "allowed_users": null
-                },
-                {
                     "name": "chococraft-26.3-fabric-0.18.1.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/chococraft-26.3-fabric-0.18.1.jar",
                     "sha1": "aec504b213ee274046e4f88c5029982e60b03a41",
@@ -2914,7 +2903,12 @@
                     "name": "joyride-vehicles-fabric-0.2.0.jar",
                     "url": "https://edge.forgecdn.net/files/9781/754/joyride-vehicles-fabric-0.2.0.jar",
                     "sha1": "43cda8ba6d4c79d8d962dbcde4032257c9f8aa47",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": null,
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
