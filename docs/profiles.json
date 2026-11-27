@@ -118,15 +118,18 @@
                     ]
                 },
                 {
-                    "name": "BadOptimizations-2.4.1-26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar",
-                    "sha1": "4cc25ce6217326ff14169f5358921773297e9475",
+                    "name": "BadOptimizations-3.0.0-26.1-3.jar",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/zdHCx8em/BadOptimizations-3.0.0-26.1-3.jar",
+                    "sha1": "7246658439db2c69b137894ea23c58aa395d4ead",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "BadOptimizations",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "BadOptimizations-2.4.1-26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "cloth-config-fabric-26.3.161.jar",
@@ -370,15 +373,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
-                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/g4eqNSKd/ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
-                    "sha1": "d51dcbe901452a1cb378139ca351009254e7ab0d",
+                    "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.7-all.jar",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Rk0njkTn/ScalableLux-fabric-mc26.3-0.3.0-alpha.0.7-all.jar",
+                    "sha1": "b8e4e39123d40cb68cf1184aa14c0661da7c98a5",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "ScalableLux",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar"
+                    ]
                 },
                 {
                     "name": "Searchables-fabric-26.3-1.0.3.jar",
@@ -1631,7 +1637,7 @@
             "loader": "fabric",
             "loader_version": "0.20.1",
             "visuals": {
-                "background": "https://livewallpapers4free.com/wp-content/uploads/2026/01/minecraft-night-at-the-village-HD-live_thumb1.jpg"
+                "background": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.planetminecraft.com%2Fproject%2Fmagic-christmas-town%2F&ved=0CBcQjRxqFwoTCLi07NCiqJgDFQAAAAAdAAAAABBd&opi=89978449"
             },
             "mods": [
                 {
@@ -1728,15 +1734,18 @@
                     ]
                 },
                 {
-                    "name": "BadOptimizations-2.4.1-26.3-fabric.jar",
-                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar",
-                    "sha1": "4cc25ce6217326ff14169f5358921773297e9475",
+                    "name": "BadOptimizations-3.0.0-26.1-3.jar",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/zdHCx8em/BadOptimizations-3.0.0-26.1-3.jar",
+                    "sha1": "7246658439db2c69b137894ea23c58aa395d4ead",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "BadOptimizations",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "BadOptimizations-2.4.1-26.3-fabric.jar"
+                    ]
                 },
                 {
                     "name": "cloth-config-fabric-26.3.161.jar",
@@ -1980,15 +1989,18 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
-                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/g4eqNSKd/ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar",
-                    "sha1": "d51dcbe901452a1cb378139ca351009254e7ab0d",
+                    "name": "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.7-all.jar",
+                    "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Rk0njkTn/ScalableLux-fabric-mc26.3-0.3.0-alpha.0.7-all.jar",
+                    "sha1": "b8e4e39123d40cb68cf1184aa14c0661da7c98a5",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": "ScalableLux",
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar"
+                    ]
                 },
                 {
                     "name": "Searchables-fabric-26.3-1.0.3.jar",
@@ -2753,9 +2765,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "vanilla_timber-2.2.10-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9787/371/vanilla_timber-2.2.10-26.3-fabric.jar",
-                    "sha1": "84d2a043b6054c1f71e6c8d2323d9bd15c249664",
+                    "name": "vanilla_timber-2.3.1-26.3-fabric.jar",
+                    "url": "https://edge.forgecdn.net/files/9845/544/vanilla_timber-2.3.1-26.3-fabric.jar",
+                    "sha1": "bc509bfdbd2a8adf73cdf56fe3dec2dda842a813",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2766,7 +2778,8 @@
                         "Timber-1.3.5-fabric.jar",
                         "vanilla_timber-2.1.5-26.3-fabric.jar",
                         "vanilla_timber-2.2.0-26.3-fabric.jar",
-                        "vanilla_timber-2.2.8-26.3-fabric.jar"
+                        "vanilla_timber-2.2.8-26.3-fabric.jar",
+                        "vanilla_timber-2.2.10-26.3-fabric.jar"
                     ]
                 },
                 {
@@ -2803,9 +2816,9 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "tidypockets-1.2.25-26.3-fabric.jar",
-                    "url": "https://edge.forgecdn.net/files/9826/784/tidypockets-1.2.25-26.3-fabric.jar",
-                    "sha1": "01eef980a01e7eee5631be82de9f5ecb4c5d803c",
+                    "name": "tidypockets-1.2.28-26.3-fabric.jar",
+                    "url": "https://edge.forgecdn.net/files/9846/657/tidypockets-1.2.28-26.3-fabric.jar",
+                    "sha1": "55faabc889753cf12d0759f63c183557b78509f4",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
@@ -2813,7 +2826,8 @@
                     "dependencies": null,
                     "allowed_users": null,
                     "replaces": [
-                        "tidypockets-1.2.9-26.3-fabric.jar"
+                        "tidypockets-1.2.9-26.3-fabric.jar",
+                        "tidypockets-1.2.25-26.3-fabric.jar"
                     ]
                 },
                 {
@@ -2850,22 +2864,40 @@
                     "allowed_users": null
                 },
                 {
-                    "name": "eunomia-fabric-0.3.15+26.3.jar",
-                    "url": "https://cdn.modrinth.com/data/BvzQw4wL/versions/zgXKNLMx/eunomia-fabric-0.3.15%2B26.3.jar",
-                    "sha1": "a33fb9ba2002ce028b4b8d55a7b41241601486bd",
+                    "name": "eunomia-fabric-0.3.16+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/BvzQw4wL/versions/7FEZGqZs/eunomia-fabric-0.3.16%2B26.3.jar",
+                    "sha1": "a26993d26abceb5afb0a19b1df6e67a26be0a159",
                     "file_type": "mod",
                     "install_path": null,
                     "display_name": null,
                     "req_user_type": null,
                     "dependencies": null,
-                    "allowed_users": null
+                    "allowed_users": null,
+                    "replaces": [
+                        "eunomia-fabric-0.3.15+26.3.jar"
+                    ]
                 },
                 {
                     "name": "viph-ideas-7.9+26.3.jar",
-                    "display_name": "viph-ideas-7.9+26.3.jar",
                     "url": "https://github.com/6ViPh5/Gravity/raw/refs/heads/main/docs/mods/Server/viph-ideas-7.9+26.3.jar",
                     "sha1": "4714060f43db15ab0057b3bc51359021f9594bd1",
-                    "file_type": "mod"
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "viph-ideas-7.9+26.3.jar",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
+                },
+                {
+                    "name": "decorationx_christmas-1.2.0-fabric-26.3.jar",
+                    "url": "https://edge.forgecdn.net/files/9846/847/decorationx_christmas-1.2.0-fabric-26.3.jar",
+                    "sha1": "65353f3a46de1e1f43fde63d973b1f9540f98ab2",
+                    "file_type": "mod",
+                    "install_path": null,
+                    "display_name": "DecorationX: Christmas",
+                    "req_user_type": null,
+                    "dependencies": null,
+                    "allowed_users": null
                 }
             ],
             "req_user_type": "exclusive",
@@ -2878,8 +2910,7 @@
                 "AdriFlow",
                 "joaco_mh_eli",
                 "MisticoGalactico"
-            ],
-            "is_upcoming": null
+            ]
         }
     ],
     "optional_mods": [
@@ -3960,9 +3991,9 @@
             "recommended": true
         },
         {
-            "name": "zoomify-2.17.0+mc26.3-universal.jar",
-            "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/RUBpNu00/zoomify-2.17.0%2Bmc26.3-universal.jar",
-            "sha1": "7f18090fea4a2ddae01e032d09629d14fa381d3f",
+            "name": "zoomify-2.17.1+mc26.3-universal.jar",
+            "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/x1VV74PR/zoomify-2.17.1%2Bmc26.3-universal.jar",
+            "sha1": "d8ec7d073d20ad570590bc5190eff1afb66d01de",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -4004,7 +4035,10 @@
                     "replaces": null
                 }
             ],
-            "allowed_users": null
+            "allowed_users": null,
+            "replaces": [
+                "zoomify-2.17.0+mc26.3-universal.jar"
+            ]
         },
         {
             "name": "shulkerboxtooltip-fabric-5.4.3+26.3.jar",
@@ -5658,9 +5692,9 @@
             "allowed_users": null
         },
         {
-            "name": "fwa+26.3-1.3.10.jar",
-            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/sJ14HmVy/fwa%2B26.3-1.3.10.jar",
-            "sha1": "4f7bb767bfbaa34c41bc7d8b233961102bf1e5c4",
+            "name": "fwa+26.3-1.3.12.jar",
+            "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/pix9gypk/fwa%2B26.3-1.3.12.jar",
+            "sha1": "7509101d010c9780fdae2ac239574983bdba5b9d",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5675,7 +5709,8 @@
                 "fwa+26.3-1.3.4.jar",
                 "fwa+26.3-1.3.6.jar",
                 "fwa+26.3-1.3.7.jar",
-                "fwa+26.3-1.3.8.jar"
+                "fwa+26.3-1.3.8.jar",
+                "fwa+26.3-1.3.10.jar"
             ]
         },
         {
@@ -5789,9 +5824,9 @@
             ]
         },
         {
-            "name": "snappy_blocks-0.0.53-26.3-fabric.jar",
-            "url": "https://edge.forgecdn.net/files/9826/759/snappy_blocks-0.0.53-26.3-fabric.jar",
-            "sha1": "95cdb9157fb9a91529bb40fad5ae01dc9e5fa24f",
+            "name": "snappy_blocks-0.0.61-26.3-fabric.jar",
+            "url": "https://edge.forgecdn.net/files/9844/416/snappy_blocks-0.0.61-26.3-fabric.jar",
+            "sha1": "c3c8d6eb28d3eaa03409c6559a01a1ddfbb8f294",
             "file_type": "mod",
             "install_path": null,
             "target_profiles": [
@@ -5803,7 +5838,8 @@
             "allowed_users": null,
             "replaces": [
                 "snappy_blocks-0.0.30-26.3-fabric.jar",
-                "snappy_blocks-0.0.31-26.3-fabric.jar"
+                "snappy_blocks-0.0.31-26.3-fabric.jar",
+                "snappy_blocks-0.0.53-26.3-fabric.jar"
             ]
         },
         {
