@@ -1637,7 +1637,7 @@
             "loader": "fabric",
             "loader_version": "0.20.1",
             "visuals": {
-                "background": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.planetminecraft.com%2Fproject%2Fmagic-christmas-town%2F&ved=0CBcQjRxqFwoTCLi07NCiqJgDFQAAAAAdAAAAABBd&opi=89978449"
+                "background": "https://i.redd.it/2mmlliv8hp261.png"
             },
             "mods": [
                 {
@@ -2898,6 +2898,18 @@
                     "req_user_type": null,
                     "dependencies": null,
                     "allowed_users": null
+                },
+                {
+                    "name": "armorstands-fabric-3.0.4+26.3.jar",
+                    "url": "https://cdn.modrinth.com/data/FlC9CXUY/versions/hEN85qop/armorstands-fabric-3.0.4%2B26.3.jar",
+                    "sha1": "70d4636b707174a22dd7ad8529f2f1b1f3a65bbc",
+                    "file_type": "mod"
+                },
+                {
+                    "name": "terracart-3.0.jar",
+                    "url": "https://cdn.modrinth.com/data/iLI71l5L/versions/geJNhdvr/terracart-3.0.jar",
+                    "sha1": "81e077e0892dc3ea6a867c6e4833488a565fac71",
+                    "file_type": "mod"
                 }
             ],
             "req_user_type": "exclusive",
